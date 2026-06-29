@@ -1,0 +1,13 @@
+<svg viewBox="0 0 280 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bamboo Airways">
+  <!-- Blue hull: light-blue outer sweep + dark-navy inner body -->
+  <path d="M44 148 C120 122 200 120 258 132 C198 150 112 162 44 148 Z" fill="#4ba4dd"/>
+  <path d="M60 150 C112 138 176 138 212 145 C170 159 108 162 78 158 C70 156 63 154 60 150 Z" fill="#16386b"/>
+  <!-- Green feather blades -->
+  <g fill="#5cb838">
+    <path d="M96 150 C90 126 90 104 95 84 C100 104 102 128 104 150 Z"/>
+    <path d="M112 150 C108 118 110 92 119 62 C127 92 123 122 122 150 Z"/>
+    <path d="M128 150 C128 110 134 80 149 48 C156 84 146 120 144 150 Z"/>
+    <path d="M146 149 C150 104 162 74 185 46 C190 82 168 116 162 149 Z"/>
+    <path d="M166 148 C178 100 198 66 232 50 C210 86 190 116 184 148 Z"/>
+  </g>
+</svg>

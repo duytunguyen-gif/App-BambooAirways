@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #0b0b0c;
+  color: #f3f4f6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  /* Avoid pull-to-refresh / rubber-banding fighting the fixed tab bar */
+  overscroll-behavior-y: none;
+}
+
+/* Bamboo Airways branded background image, fixed behind the whole app. */
+.app-bg::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("/app-background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Dark scrim over the background so inputs and text stay readable. */
+.app-bg::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(8, 8, 9, 0.5);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Remove number spinners (we use inputMode=decimal text inputs) */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Tabular figures keep data columns from shifting width */
+.tabnums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
