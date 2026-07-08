@@ -3,42 +3,528 @@
   "ataTitle": "Auto Flight",
   "items": [
     {
-      "id": "auto-flt-rudder-trim-1-2-fault",
+      "id": "offside-range-mode-on-nav-display",
       "aircraftType": "A320 Family",
       "ataChapter": "22",
       "ataTitle": "Auto Flight",
-      "faultTitle": "AUTO FLT - RUDDER TRIM 1(2) FAULT",
-      "system": "Rudder Trim / FAC",
+      "faultTitle": "OFFSIDE RANGE MODE ON NAV DISPLAY",
       "aircraftConfigurationPriorToReset": [
-        "Both engines stopped and hydraulics off."
+        "Turn off both flight directors. Both engines off."
       ],
-      "circuitBreakersToReset": [
-        { "label": "FAC 1", "panel": "49VU", "number": "B3, B4" },
-        { "label": "FAC 2", "panel": "122VU", "number": "M18, M19" },
-        { "label": "RUD TRIM IND.", "panel": "121VU", "number": "M20" }
-      ],
+      "circuitBreakersToReset": [],
       "stepsToClearWarning": [
-        "First, reset associated FAC pushbutton. If no help, open associated FAC breakers for 10 seconds, then close."
+        "Open associated breaker for 10 seconds, then reset. Do not reset again for at least two minutes."
       ],
-      "resetDuration": "90 seconds.",
       "results": {
-        "pass": "Fault messages disappear.",
-        "fail": "Message remains."
+        "pass": "Message disappears.",
+        "fail": "Message remains, perform CFDS AFS test."
       },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22offsiderangemode.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/offsiderangemode.gif",
+      "resetDuration": "120 seconds.",
       "notes": [
-        "After reset, energize hydraulics, verify no Yaw damper message display."
+        "(Please Wait), will be displayed on MCDU, do not touch MCDU for 120 seconds."
       ],
       "signOffRefs": [
         "AMM22-91-00-710-001. (AFS Ground Scan)",
         "AMM22-96-00-710-001-A. (AFS Test)"
       ],
       "applicableDeferrals": [
-        "MEL27-22-01 = Rudder Trim Systems."
+        "MEL22-83-01=FMGC."
+      ]
+    },
+    {
+      "id": "mcdu-1-2-screen-blank",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "MCDU 1 (2) SCREEN BLANK",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
       ],
-      "sourceRef": "Sample from user-provided screenshot — NOT yet verified against approved AMM.",
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 30 seconds, then reset."
+      ],
+      "results": {
+        "pass": "The page is displayed.",
+        "fail": "Screen remains blank."
+      },
       "verifiedStatus": "pending",
-      "tags": ["AUTO FLT", "RUDDER TRIM", "FAC", "A320"],
-      "updatedAt": "2026-07-08"
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22mcdublank.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/mcdublank.gif",
+      "resetDuration": "45 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM22-70-00-710-001"
+      ],
+      "applicableDeferrals": [
+        "MEL22-82-01=MCDU"
+      ]
+    },
+    {
+      "id": "auto-flt-rudder-trim-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-RUDDER TRIM 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Both engines stopped and hydraulics off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset associated FAC pushbutton. If no help, open associated FAC breakers for 10 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault messages disappear.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22ruddertrim.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/ruddertrim.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "After reset, energize hydraulics, varify no Yaw damper message display."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL27-22-01=Rudder Trim Systems."
+      ]
+    },
+    {
+      "id": "auto-flt-rudder-trim-system-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-RUDDER TRIM SYSTEM FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Both engines stopped and hydraulics off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset associated FAC pushbutton. If no help, open associated FAC breakers for 10 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault messages disappear.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22ruddertrimsys.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/ruddertrim.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "After reset, energize hydraulics, varify no Yaw damper message display."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL27-22-01=Rudder Trim Systems."
+      ]
+    },
+    {
+      "id": "auto-flt-rudder-travel-limit-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-RUDDER TRAVEL LIMIT 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Both engines stopped and hydraulics off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset associated FAC pushbutton. If no help, open associated FAC breakers for 10 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault messages disappear.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22ruddertravellimit.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/ruddertravellimit.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "After reset, energize hydraulics, varify no Yaw damper message display."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL27-23-01=Rudder Travel Limiter System."
+      ]
+    },
+    {
+      "id": "auto-flt-rudder-travel-limit-system-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-RUDDER TRAVEL LIMIT SYSTEM FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Both engines stopped and hydraulics off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset associated FAC pushbutton. If no help, open associated FAC breakers for 10 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault messages disappear.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22ruddertravellimitsys.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/ruddertravellimit.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "After reset, energize hydraulics, varify no Yaw damper message display."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL27-23-01=Rudder Travel Limiter System."
+      ]
+    },
+    {
+      "id": "auto-flt-yaw-damper-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-YAW DAMPER 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Both engines stopped and hydraulics off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset associated FAC pushbutton. If no help, open associated FAC breakers for 10 seconds, then close. If yaw damper is a class 2, then cycle FAC’s with hydraulics on."
+      ],
+      "results": {
+        "pass": "Fault messages disappear.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22yawdamper.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/ruddertravellimit.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "After reset, energize hydraulics, varify no Yaw damper message display."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL22-63-01=Yaw Dampers."
+      ]
+    },
+    {
+      "id": "auto-flt-a-p-off-displayed-on-ground",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-A/P OFF DISPLAYED ON GROUND",
+      "aircraftConfigurationPriorToReset": [
+        "ECAM warning displayed and will not clear. Engines shut down."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Select AP1 pushbutton on FCU, the pushbutton will, illuminate. Push the red autopilot disconnect button on one of the sidesticks."
+      ],
+      "results": {
+        "pass": "Message will clear and not recall.",
+        "fail": "Red AP OFF message will display."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22autofltapoff.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "A/P pushbuttons must not be selected before starting engines. If selected, and engines are started, the message is latched and will not clear. If this occurs after engine start, shut engines down then complete steps above."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL22-10-01=Autopilot Systems."
+      ]
+    },
+    {
+      "id": "auto-flt-a-p-1-2-displayed-in-inop-status",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-A/P 1(2) DISPLAYED IN INOP STATUS",
+      "aircraftConfigurationPriorToReset": [
+        "Turn off both flight directors. Both engines off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 10 seconds, then reset. Do not reset again for at least two minutes. If reset fails, power down aircraft."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains, perform CFDS AFS test."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22autofltapinop.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/offsiderangemode.gif",
+      "resetDuration": "120 seconds, triple click.",
+      "notes": [
+        "(Please Wait), will be displayed on MCDU, do not touch MCDU for 120 seconds."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL22-83-01=FMGC.",
+        "MEL22-10-01=Autopilot."
+      ]
+    },
+    {
+      "id": "auto-flt-a-thr-off-displayed-on-ground",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-A/THR OFF DISPLAYED ON GROUND",
+      "aircraftConfigurationPriorToReset": [
+        "ECAM warning displayed and will not clear. Engines shut down."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Select A/THR pushbutton on FCU, the pushbutton will illuminate, then push the red instinctive disconnect button on one of the thrust levers. If message is still displayed, cycle the FADEC switches on the 50VU, if no help reset FCU’s then FMGC’s then try realigning ADIRU’s."
+      ],
+      "results": {
+        "pass": "Message will clear and not recall.",
+        "fail": "A/THR OFF message will display."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22autofltathroff.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "A/THR pushbutton must not be selected before starting engines. The message is latched and will not clear using the CLR key on the ECAM control panel. If this occurs after engines start,the message will be reset(cleared) upon takeoff power selection. (Thanks Chute for the update)"
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL22-30-01=Autothrust Function."
+      ]
+    },
+    {
+      "id": "opposite-fm-in-process-displayed-on-mcdu",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "OPPOSITE FM IN PROCESS DISPLAYED ON MCDU",
+      "aircraftConfigurationPriorToReset": [
+        "Turn off both flight directors. Both engines off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 10 seconds, then reset. Do not reset again for at least two minutes."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22oppsitefminprocess.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/offsiderangemode.gif",
+      "resetDuration": "120 seconds.",
+      "notes": [
+        "(Please Wait), will be displayed on MCDU, do not touch MCDU for 120 seconds."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL22-83-01=FMGC."
+      ]
+    },
+    {
+      "id": "auto-flt-fcu-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT-FCU 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "None specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 7 minutes, then reset."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22autofltfcu.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/fcu.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "(Please Wait), will be displayed on MCDU, do not touch MCDU for 120 seconds."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL22-81-01=FCU"
+      ]
+    },
+    {
+      "id": "windshear-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "WINDSHEAR FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft stopped, flaps up."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Select FAC #1 pushbutton off, pull FAC #1 breaker for 30 seconds, then reset breaker and FAC #1 pushbutton."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22windshear.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/windshear.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM22-60-00-710-004 (CFDS/AFS/WindShear)",
+        "AMM34-41-00-740-002 (Bite Test Weather Radar)"
+      ],
+      "applicableDeferrals": [
+        "MEL22-66-03-Windshear Detection."
+      ]
+    },
+    {
+      "id": "baro-ref-fault-displayed",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "BARO REF FAULT DISPLAYED",
+      "aircraftConfigurationPriorToReset": [
+        "Both flight directors off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open FAC #1 breaker for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22baroref.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/baro.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL22-81-01=FCU."
+      ]
+    },
+    {
+      "id": "rudder-artificial-feel-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "RUDDER ARTIFICIAL FEEL INOP",
+      "aircraftConfigurationPriorToReset": [
+        "None specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open rudder artificial feel breaker for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22rudderartificialfeel.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/artificialfeel.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM22-61-00-710-001"
+      ],
+      "applicableDeferrals": [
+        "MEL27-23-01=Rudder Travel Limit"
+      ]
+    },
+    {
+      "id": "side-stick-lock",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "SIDE STICK LOCK",
+      "aircraftConfigurationPriorToReset": [
+        "None specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open side stick lock breaker for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/22/22sidesticklock.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/22/sidestick.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM27-96-00-710-003 (Priority Test)."
+      ],
+      "applicableDeferrals": [
+        "MEL=None."
+      ]
     }
   ]
 }

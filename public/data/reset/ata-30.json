@@ -1,0 +1,262 @@
+{
+  "ataNumber": "30",
+  "ataTitle": "Ice & Rain",
+  "items": [
+    {
+      "id": "anti-ice-left-or-right-window",
+      "aircraftType": "A320 Family",
+      "ataChapter": "30",
+      "ataTitle": "Ice & Rain",
+      "faultTitle": "ANTI ICE - LEFT OR RIGHT WINDOW",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "If the warning occurs on the ground with OAT greater then 40°C and AC packs off, turn both packs on cool or place damp towel on inner pane over sensors for 5 minutes. Open circuit breakers for 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/30/30window.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/30/window.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "If possible, cover sensors from the exterior of the aircraft."
+      ],
+      "signOffRefs": [
+        "AMM30-42-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL30-42-02=Fixed Lateral & Sliding Window Heat."
+      ]
+    },
+    {
+      "id": "anti-ice-left-or-right-windshield",
+      "aircraftType": "A320 Family",
+      "ataChapter": "30",
+      "ataTitle": "Ice & Rain",
+      "faultTitle": "ANTI ICE - LEFT OR RIGHT WINDSHIELD",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "If the warning occurs on the ground with OAT greater then 40°C and AC packs off, turn both packs on cool or place damp towel on inner pane over sensors for 5 minutes. Open circuit breakers for 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/30/30windshield.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/30/window.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "If possible, cover sensors from the exterior of the aircraft."
+      ],
+      "signOffRefs": [
+        "AMM30-42-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL30-42-03=Windshield Heating System."
+      ]
+    },
+    {
+      "id": "drain-mast-heater-fault-fwd-aft",
+      "aircraftType": "A320 Family",
+      "ataChapter": "30",
+      "ataTitle": "Ice & Rain",
+      "faultTitle": "DRAIN MAST HEATER FAULT (FWD/AFT)",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open circuit breakers for 5 second, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains, CIDS caution light on FAP."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/30/30drainmast.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/30/drainmast.gif",
+      "resetDuration": "18 seconds.",
+      "notes": [
+        "If time, perform a bite on associated controller in cargo pit."
+      ],
+      "signOffRefs": [
+        "AMM30-71-00-710-001"
+      ],
+      "applicableDeferrals": [
+        "MEL30-71-01=Waste Water Drain Mast Heating."
+      ]
+    },
+    {
+      "id": "anti-ice-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "30",
+      "ataTitle": "Ice & Rain",
+      "faultTitle": "ANTI ICE MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, probe heat not selected \"ON\"."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated circuit breakers for 1 second, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/30/30antiice.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/30/probes.gif",
+      "resetDuration": "3 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM30-31-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL30-31-01=Probe Heat Computers."
+      ]
+    },
+    {
+      "id": "anti-ice-probe-message-system-1",
+      "aircraftType": "A320 Family",
+      "ataChapter": "30",
+      "ataTitle": "Ice & Rain",
+      "faultTitle": "ANTI ICE - PROBE MESSAGE SYSTEM #1",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, probe heat not selected \"ON\"."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated probe breaker for 1 second, then reset. If no help, open PHC #1 (49VU-D3) for 1 second, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/30/30probe1.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/30/probes1.gif",
+      "resetDuration": "3 seconds.",
+      "notes": [
+        "If probe reset did not clear, reset ADIRU C/B’s. #1=F6,C2 #2=N6,N4 #3=N5,N3"
+      ],
+      "signOffRefs": [
+        "AMM30-31-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL30-31-01/02/03/04/05=Probe Heat."
+      ]
+    },
+    {
+      "id": "anti-ice-probe-message-system-2",
+      "aircraftType": "A320 Family",
+      "ataChapter": "30",
+      "ataTitle": "Ice & Rain",
+      "faultTitle": "ANTI ICE - PROBE MESSAGE SYSTEM #2",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, probe heat not selected \"ON\"."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated probe breaker for 1 second, then reset. If no help, open PHC #2 (122VU-Y12) for 1 second, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/30/30probe2.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/30/probes2.gif",
+      "resetDuration": "3 seconds.",
+      "notes": [
+        "If probe reset did not clear, reset ADIRU C/B’s. #1=F6,C2 #2=N6,N4 #3=N5,N3"
+      ],
+      "signOffRefs": [
+        "AMM30-31-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL30-31-01/02/03/04/05=Probe Heat."
+      ]
+    },
+    {
+      "id": "anti-ice-probe-message-system-3",
+      "aircraftType": "A320 Family",
+      "ataChapter": "30",
+      "ataTitle": "Ice & Rain",
+      "faultTitle": "ANTI ICE - PROBE MESSAGE SYSTEM #3",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, probe heat not selected \"ON\"."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated probe breaker for 1 second, then reset. If no help, open PHC #3 (122VU-Y16) for 1 second, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/30/30probe3.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/30/probes3.gif",
+      "resetDuration": "3 seconds.",
+      "notes": [
+        "If probe reset did not clear, reset ADIRU C/B’s. #1=F6,C2 #2=N6,N4 #3=N5,N3"
+      ],
+      "signOffRefs": [
+        "AMM30-31-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL30-31-01/02/03/04/05=Probe Heat."
+      ]
+    },
+    {
+      "id": "engine-anti-ice-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "30",
+      "ataTitle": "Ice & Rain",
+      "faultTitle": "ENGINE ANTI ICE FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open circuit breakers for 1 second, then close. If no help work valve several times, make sure valve is closed."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/30/30engineantiice.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/30/engine.gif",
+      "resetDuration": "3 seconds.",
+      "notes": [
+        "Engine anti-ice valve should be spring loaded closed on the ground with engines off."
+      ],
+      "signOffRefs": [
+        "AMM30-21-00-710-002 (test with engines running)."
+      ],
+      "applicableDeferrals": [
+        "MEL30-21-01/02=Engine Anti Ice."
+      ]
+    }
+  ]
+}

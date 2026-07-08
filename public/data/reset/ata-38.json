@@ -1,0 +1,69 @@
+{
+  "ataNumber": "38",
+  "ataTitle": "Water & Waste",
+  "items": [
+    {
+      "id": "toilet-s-won-t-flush",
+      "aircraftType": "A320 Family",
+      "ataChapter": "38",
+      "ataTitle": "Water & Waste",
+      "faultTitle": "TOILET’S WON’T FLUSH",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, lav service panel door is closed and the waste tank is not full, depressurization valve light off-(if installed)."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open breaker for 1 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Lav’s flush normally",
+        "fail": "Lav’s won’t flush."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/38/38toilets.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/38/lav.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "CIDS fault light also displayed, troubleshoot thru CIDS. There is also a Toilets page in the CFDS(page #2) via the MCDU. If Vacuum Generator is inop, toilets will still flush in flight above FL180."
+      ],
+      "signOffRefs": [
+        "AMM38-31-00-710-002."
+      ],
+      "applicableDeferrals": [
+        "MEL38-30-01=Lavatory Waste Systems."
+      ]
+    },
+    {
+      "id": "no-water-pressure",
+      "aircraftType": "A320 Family",
+      "ataChapter": "38",
+      "ataTitle": "Water & Waste",
+      "faultTitle": "NO WATER PRESSURE",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground. water service panel door closed, apu bleed on."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Check fwd flight attendant panel. Verify WTR SYSTEM DEPRESS pushbutton is not illuminated."
+      ],
+      "results": {
+        "pass": "Water pressure is normal.",
+        "fail": "No water pressure."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/38/38waterpressure.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "30 seconds.",
+      "notes": [
+        "Verify the water servicing access door is closed and servicing valve is also closed. Not all aircraft have the “WTR SYST DEPRES” button installed on FWD FAP."
+      ],
+      "signOffRefs": [
+        "TSM38-41-00-810-801."
+      ],
+      "applicableDeferrals": [
+        "MEL38-10-01=Potable Water Systems."
+      ]
+    }
+  ]
+}

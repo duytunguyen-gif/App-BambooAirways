@@ -1,0 +1,167 @@
+{
+  "ataNumber": "28",
+  "ataTitle": "Fuel",
+  "items": [
+    {
+      "id": "fuel-fqi-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "28",
+      "ataTitle": "Fuel",
+      "faultTitle": "FUEL-FQI 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 3 seconds, then close. During reset the intercell transfer valves cycle."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/28/28fqis.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/28/FQIS.gif",
+      "resetDuration": "80 seconds.",
+      "notes": [
+        "Each reset causes fuel to move form the outer cells to the inner cells. Too many resets can cause fuel configuration problems."
+      ],
+      "signOffRefs": [
+        "AMM28-42-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL28-40-02=Fuel Quantity Indicating Computer."
+      ]
+    },
+    {
+      "id": "fuel-autofeed-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "28",
+      "ataTitle": "Fuel",
+      "faultTitle": "FUEL-AUTOFEED FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Center tank greater then 550lbs with wing tanks below 11,000."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "The fault is indicated if either wing tank quantity becomes less than 11,023lbs when center tank is above 550lbs. When fuel is reconfigured, fault will clear."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/28/28autofeed.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "Fuel burn sequence:",
+        "1st) Center tanks (greater pump output pressure).",
+        "2nd) Inner wing tanks",
+        "3rd) At approx 1700lbs in either inner tank, all 4 transfer valves open and outer wing tank fuel flows to the inner tanks for consumption."
+      ],
+      "signOffRefs": [
+        "AMM28-42-00-710-001"
+      ],
+      "applicableDeferrals": [
+        "MEL28-20-01=Automatic Fuel Feed System."
+      ]
+    },
+    {
+      "id": "center-tank-low-pressure-warning",
+      "aircraftType": "A320 Family",
+      "ataChapter": "28",
+      "ataTitle": "Fuel",
+      "faultTitle": "CENTER TANK LOW PRESSURE WARNING",
+      "aircraftConfigurationPriorToReset": [
+        "Less than 400 pounds of fuel in the center tank."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "With less then 400lbs in center tank, select the mode switch to Auto. The center pumps should not run with low center tank fuel."
+      ],
+      "results": {
+        "pass": "Center tank pumps shows “cross line green”",
+        "fail": "Pumps run in AUTO and no fuel in center tank."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/28/28centertank.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "This could be a spurious fault with less than 400LBS in center tank, check previous PFR for history."
+      ],
+      "signOffRefs": [
+        "AMM28-21-00-720-001"
+      ],
+      "applicableDeferrals": [
+        "MEL28-21-02=Center Tank System."
+      ]
+    },
+    {
+      "id": "intercell-transfer-valves-open",
+      "aircraftType": "A320 Family",
+      "ataChapter": "28",
+      "ataTitle": "Fuel",
+      "faultTitle": "INTERCELL TRANSFER VALVES OPEN",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, refueling, with inner tanks greater than 1700lbs."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "The Intercell transfer valves normally close when the refuel door opens. If valves fail to close properly, cycle associated circuit breakers."
+      ],
+      "results": {
+        "pass": "Valves close properly when refuel door opens.",
+        "fail": "Valves remain open."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/28/28intercelltransfer.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/28/transfervalves.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "Nuisance, caused by fuel movement in tanks due to aircraft attitude changes."
+      ],
+      "signOffRefs": [
+        "AMM28-46-00-740-001."
+      ],
+      "applicableDeferrals": [
+        "MEL28-15-01=Intercell Transfer Valves."
+      ]
+    },
+    {
+      "id": "apu-fuel-lp-valve-fault-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "28",
+      "ataTitle": "Fuel",
+      "faultTitle": "APU FUEL LP VALVE FAULT MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "Fuel APU LP valve fault message triggered when the APU master switch is selected off durning autoshut down."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, cycle the APU master switch \"ON\" then \"OFF\". If no help cycle the associated circuit breakers."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/28/28apufuel.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/28/apufuel.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM28-29-00-710-001"
+      ],
+      "applicableDeferrals": [
+        "MEL49-70-01=APU INOP."
+      ]
+    }
+  ]
+}

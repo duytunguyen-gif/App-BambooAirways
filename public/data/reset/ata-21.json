@@ -1,0 +1,393 @@
+{
+  "ataNumber": "21",
+  "ataTitle": "Air Conditioning & Pressurization",
+  "items": [
+    {
+      "id": "cab-press-sys-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "CAB PRESS SYS 1(2)FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 2 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21cabpress.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/cabpress.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM21-31-00-710-002."
+      ],
+      "applicableDeferrals": [
+        "MEL21-31-01=Auto System.",
+        "MEL21-31-02=Manual System."
+      ]
+    },
+    {
+      "id": "air-pack-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "AIR-PACK 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Associated fault light illuminated on overhead pushbutton. Valve is amber on bleed page."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Select associated PACK “OFF”, then“ON” using overhead pushbuttons."
+      ],
+      "results": {
+        "pass": "Valve will show in-line green on bleed page.",
+        "fail": "Valve indication will be crossline amber."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21airpackfault.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "To easily determine if the valve is faulty, disconnect the flow control valve cannon plug with bleed air present. Valve should open as per design."
+      ],
+      "signOffRefs": [
+        "AMM21-61-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL21-51-01=Flow Control Valve.",
+        "MEL21-52-01=Packs."
+      ]
+    },
+    {
+      "id": "vent-avncs-blower-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "VENT-AVNCS BLOWER FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Blower/Exract fans in \"AUTO\", Ditching pushbutton \"OFF\"."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open Y17 C/B for 2 seconds, then close. If no help, open all three breakers for 2 seconds, then close."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains. Perform CFDS AVEC test."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21ventavncsblower.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/ventblower.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "There is a thermal reset button on the fan motor."
+      ],
+      "signOffRefs": [
+        "AMM21-26-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL21-26-01=Blower Fan."
+      ]
+    },
+    {
+      "id": "vent-avncs-extract-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "VENT-AVNCS EXTRACT FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Blower/Exract fans in AUTO, Ditching pushbutton OFF."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open Y17 C/B for 2 seconds, then close. If no help, open all three breakers for 2 seconds, then close."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains. Perform CFDS AVEC test."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21ventavncsextract.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/extractfan.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "There is a thermal reset button on the fan motor."
+      ],
+      "signOffRefs": [
+        "AMM21-26-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL21-26-02=Extract Fan"
+      ]
+    },
+    {
+      "id": "vent-avncs-skin-valve-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "VENT-AVNCS SKIN VALVE FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Blower/Exract fans in AUTO, Ditching pushbutton OFF."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open Y17 C/B for 2 seconds, then close. If no help, open all three breakers for 2 seconds, then close."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains. Perform CFDS AVEC test."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21ventavncsskinvalve.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/skinvalve.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "Make sure the deactivation switch on skin air valve is in the \"ON\" position."
+      ],
+      "signOffRefs": [
+        "AMM21-26-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL21-26-03=Skin Air Inlet Bypass Valve.",
+        "MEL21-26-04=Skin Air Outlet Valve.",
+        "MEL21-26-05=Skin Air Inlet Valve."
+      ]
+    },
+    {
+      "id": "vent-avncs-sys-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "VENT-AVNCS SYS FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Blower/Exract fans in AUTO, Ditching pushbutton OFF."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First perform a AVEC test through CFDS. If no help, open Y17 C/B for 2 seconds, then close. If still no help, open all three breakers for 2 seconds, then close."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21ventavncssys.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/avncssys.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM21-26-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL21-26-10=Avionics Equipment Vent Computer."
+      ]
+    },
+    {
+      "id": "cond-zone-regul-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "COND-ZONE REGUL FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Select affacted Pack OFF, comfirm on bleed page the flow control valve is closed. The Pack controllers are powered and are operational"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 2 seconds. If no help perform a CAB TEMP CTL test (300sec) through CFDS."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21condzoneregul.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/zonereg.gif",
+      "resetDuration": "36 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM21-63-00-710-004."
+      ],
+      "applicableDeferrals": [
+        "MEL21-63-01=Zone Controller System."
+      ]
+    },
+    {
+      "id": "cond-trim-air-sys-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "COND-TRIM AIR SYS FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Select affacted Pack OFF, comfirm on bleed page the flow control valve is closed. The Pack controllers are powered and are operational"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 2 seconds. If no help perform a CAB TEMP CTL test (300sec) through CFDS."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21condtrimair.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/trimair.gif",
+      "resetDuration": "36 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM21-63-00-710-004."
+      ],
+      "applicableDeferrals": [
+        "MEL21-63-02=Cockpit/Cabin Trim Air Valves."
+      ]
+    },
+    {
+      "id": "cond-aft-cargo-heat-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "COND-AFT CARGO HEAT FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "No specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 2 seconds then close. If no help perform a ground report in CFDS."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21condaftcargoheat.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/aftcargoheat.gif",
+      "resetDuration": "28 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM21-28-00-710-006."
+      ],
+      "applicableDeferrals": [
+        "MEL21-43-02=Aft Cargo Heating System."
+      ]
+    },
+    {
+      "id": "air-pack-1-2-regul-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "AIR-PACK 1(2) REGUL FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Select affected pack OFF, confirm on the bleed page the flow control valves are closed."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open all four associated breakers for affected pack, wait 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21airpackregul.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/airpackregul.gif",
+      "resetDuration": "30 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM21-61-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL21-61-01=Pack Temp Control Primary Channels."
+      ]
+    },
+    {
+      "id": "cond-recirc-fan-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "COND-RECIRC FAN FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "No specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 2 seconds then close."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21condrecircfan.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/recircfan.gif",
+      "resetDuration": "28 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM21-21-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL21-21-01=Cabin Fans."
+      ]
+    },
+    {
+      "id": "lav-galley-extract-fan-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "21",
+      "ataTitle": "Air Conditioning & Pressurization",
+      "faultTitle": "LAV/GALLEY EXTRACT FAN FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "No specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 2 seconds then close."
+      ],
+      "results": {
+        "pass": "Ecam fault disappears.",
+        "fail": "Ecam fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/21/21lavgalleyextractfan.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/21/lavgalleyextractfan.gif",
+      "resetDuration": "28 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM21-61-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL21-23-01=Lavatory And Galley Extract Fans."
+      ]
+    }
+  ]
+}

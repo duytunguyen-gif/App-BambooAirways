@@ -1,0 +1,70 @@
+{
+  "ataNumber": "25",
+  "ataTitle": "Equipment & Furnishings",
+  "items": [
+    {
+      "id": "crew-seat-problems",
+      "aircraftType": "A320 Family",
+      "ataChapter": "25",
+      "ataTitle": "Equipment & Furnishings",
+      "faultTitle": "CREW SEAT PROBLEMS",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated circuit breakers for 1 second, then close."
+      ],
+      "results": {
+        "pass": "Seat operates correctly.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/25/25crewseat.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/25/crew%20seats.gif",
+      "resetDuration": "1 second.",
+      "notes": [
+        "Additional circuit breaker is located under each seat on the control box."
+      ],
+      "signOffRefs": [
+        "AMM25-11-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL25-11-01=Pilot Seat Adjustment."
+      ]
+    },
+    {
+      "id": "oven-or-timer",
+      "aircraftType": "A320 Family",
+      "ataChapter": "25",
+      "ataTitle": "Equipment & Furnishings",
+      "faultTitle": "OVEN OR TIMER",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated circuit breakers for 1 second, then close."
+      ],
+      "results": {
+        "pass": "Oven operates correctly.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/25/25oven.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/25/oven.gif",
+      "resetDuration": "1 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM25-35-00-710-015."
+      ],
+      "applicableDeferrals": [
+        "NEF."
+      ]
+    }
+  ]
+}

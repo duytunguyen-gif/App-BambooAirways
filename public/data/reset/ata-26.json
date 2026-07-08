@@ -1,0 +1,163 @@
+{
+  "ataNumber": "26",
+  "ataTitle": "Fire Protection",
+  "items": [
+    {
+      "id": "smoke-lavatory-det-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "26",
+      "ataTitle": "Fire Protection",
+      "faultTitle": "SMOKE - LAVATORY DET FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open both circuit breakers for 60 second, then close both at same time."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/26/26lavdet.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/26/lavsmoke.gif",
+      "resetDuration": "80 seconds.",
+      "notes": [
+        "Wait two minutes after reset before testing system."
+      ],
+      "signOffRefs": [
+        "AMM26-17-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL26-17-01=Lavatory Smoke Detection System."
+      ]
+    },
+    {
+      "id": "smoke-fwd-aft-cargo-smoke-det",
+      "aircraftType": "A320 Family",
+      "ataChapter": "26",
+      "ataTitle": "Fire Protection",
+      "faultTitle": "SMOKE - FWD/AFT CARGO SMOKE DET",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open both circuit breakers for 60 second, then close both at same time."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/26/26cargosmoke.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/26/lavsmoke.gif",
+      "resetDuration": "80 seconds.",
+      "notes": [
+        "Wait two minutes after reset before testing system."
+      ],
+      "signOffRefs": [
+        "AMM26-16-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL26-16-03=FWD Cargo Smoke Det.",
+        "MEL26-16-04=AFT/Bulk Cargo Smoke Det."
+      ]
+    },
+    {
+      "id": "sdcu-trouble-shoot-data-tsd-info",
+      "aircraftType": "A320 Family",
+      "ataChapter": "26",
+      "ataTitle": "Fire Protection",
+      "faultTitle": "SDCU TROUBLE SHOOT DATA (TSD) INFO",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Do a read-out of the TROUBLE SHOOTING DATA from the CFDS.",
+        "The TSD shows the total number of smoke detectors installed on the smoke detection loop, e.g. xxxx xxxx xxxx xxxx aa/bb (aa=bb shows all installed smoke detectors). The cabin layout specifies the number of smoke detectors.",
+        "If the TSD gives the complementary information xxxx xxxx xxxx xxxx A/b",
+        "(b"
+      ],
+      "results": {},
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/26/26sdcuts.html",
+      "updatedAt": "2026-07-08",
+      "notes": [
+        "If system will not test, than you can not apply MEL."
+      ],
+      "applicableDeferrals": [
+        "MEL26-17-02=Smoke Detection Control Unit (SDCU)."
+      ]
+    },
+    {
+      "id": "smoke-sdcu-maint-message-class-2",
+      "aircraftType": "A320 Family",
+      "ataChapter": "26",
+      "ataTitle": "Fire Protection",
+      "faultTitle": "SMOKE - SDCU MAINT. MESSAGE (CLASS 2)",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open both circuit breakers for 60 second, then close both at same time."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/26/26sdcu.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/26/lavsmoke.gif",
+      "resetDuration": "80 seconds.",
+      "notes": [
+        "Wait two minutes after reset before testing system."
+      ],
+      "signOffRefs": [
+        "AMM26-16-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL26-17-02=Smoke Detection Control Unit (SDCU)."
+      ]
+    },
+    {
+      "id": "cond-air-aft-cargo-heat-vent-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "26",
+      "ataTitle": "Fire Protection",
+      "faultTitle": "COND/AIR-AFT CARGO HEAT/VENT FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open both circuit breakers for 1 second, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/26/26aftcargoheat.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/26/cargoheat.gif",
+      "resetDuration": "28 seconds.",
+      "notes": [
+        "During reset, cargo heat trim air valves cycles."
+      ],
+      "signOffRefs": [
+        "AMM21-28-00-710-006."
+      ],
+      "applicableDeferrals": [
+        "MEL21-28-04=AFT Cargo Extraction Fan.",
+        "MEL21-28-05=AFT Cargo Isolation Valves."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "ataNumber": "29",
+  "ataTitle": "Hydraulics",
+  "items": [
+    {
+      "id": "hyd-reservoir-low-air-pressure-msg",
+      "aircraftType": "A320 Family",
+      "ataChapter": "29",
+      "ataTitle": "Hydraulics",
+      "faultTitle": "HYD RESERVOIR LOW AIR PRESSURE MSG",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "To clear, run engines or pressurize hydraulics reservoirs with APU air. If no help, check the reservoir gauge. If still low, service it manually with N2 to 45 PSI. If no help, cycle circuit breakers."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/29/29lowairpressure.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/29/lowairpress.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "This fault normally occurs after working on hydraulic system.All 3 systems pressure switches are set at 40psi. The blue system has an additional press switch set at 45PSI displayed on ground only. Remember some A/C have a APU boost setting."
+      ],
+      "signOffRefs": [
+        "AMM29-14-00-720-001."
+      ],
+      "applicableDeferrals": [
+        "MEL29-30-04A RSVR LO AIR PRESSURE."
+      ]
+    },
+    {
+      "id": "ptu-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "29",
+      "ataTitle": "Hydraulics",
+      "faultTitle": "PTU FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "On ground with engines running."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/29/29ptu.html",
+      "updatedAt": "2026-07-08",
+      "notes": [
+        "PTU fault can be caused by cargo door operation 30 seconds after 2nd engine start."
+      ],
+      "signOffRefs": [
+        "TSM29-23-00-810-801"
+      ],
+      "applicableDeferrals": [
+        "MEL29-23-01=Power Transfer Unit."
+      ]
+    },
+    {
+      "id": "hydraulic-system-schematic",
+      "aircraftType": "A320 Family",
+      "ataChapter": "29",
+      "ataTitle": "Hydraulics",
+      "faultTitle": "HYDRAULIC SYSTEM SCHEMATIC",
+      "aircraftConfigurationPriorToReset": [],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [],
+      "results": {},
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/29/29schematic.html",
+      "updatedAt": "2026-07-08"
+    }
+  ]
+}

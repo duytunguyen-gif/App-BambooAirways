@@ -1,0 +1,276 @@
+{
+  "ataNumber": "73",
+  "ataTitle": "Engine",
+  "items": [
+    {
+      "id": "engine-1-2-overspeed",
+      "aircraftType": "A320 Family",
+      "ataChapter": "73",
+      "ataTitle": "Engine",
+      "faultTitle": "ENGINE 1(2) OVERSPEED",
+      "aircraftConfigurationPriorToReset": [
+        "No specific"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Read the specific data report from the MCDU=(CFDS/INST/EIS1/XLOAD(optional)/ENGINE)."
+      ],
+      "results": {
+        "pass": "N/A.",
+        "fail": "N/A."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/73/73overspeed.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "If the valve of one of these parameters is higher than the max limit, the report also shows how long (in seconds) the associated parameter was at that limit. If no overlimit condition occured, there is no time indication.",
+        "CFM=N1 speed >104 and N2 speed >105 will require inspections. T/S per TSM",
+        "V2500=N1/N2=100% 5465RPM/14,915RPM will require inspections.",
+        "You can reset these values if necessary. Push the line key adjacent to the “RESET MAX VALUES” then “CONFIRM RESET” indications."
+      ],
+      "signOffRefs": [
+        "CFM=TSM73-00-00-810-850.",
+        "V2500=AMM71-00-00-860-010."
+      ],
+      "applicableDeferrals": [
+        "No MEL."
+      ]
+    },
+    {
+      "id": "engine-1-2-overspeed-protection-fault-v2500",
+      "aircraftType": "A320 Family",
+      "ataChapter": "73",
+      "ataTitle": "Engine",
+      "faultTitle": "ENGINE 1(2) OVERSPEED PROTECTION FAULT V2500",
+      "aircraftConfigurationPriorToReset": [
+        "Overspeed Protection Fault identified by FMU/HC/EEC1/2 on PFR with fault code \"OSFFMU\"."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Read the FADEC fault codes shown in the FLIGHT DATA and GROUND DATA sections. If you have fault code \"OSFFMU\" attempt to clear the overspeed protection fault as follow's. All other fault codes trouble shoot iaw TSM."
+      ],
+      "results": {
+        "pass": "Return to service.",
+        "fail": "Repeat above steps until cleared."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/73/73overspeedprotectionfault.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "There is no limit to the number of times you may perform this procedure, and can be performed by the crew after pushback without delaying the flight as long as the ecam message clears."
+      ],
+      "signOffRefs": [
+        "Supplement to TSM73-22-00-810-851."
+      ],
+      "applicableDeferrals": [
+        "No MEL."
+      ]
+    },
+    {
+      "id": "engine-1-2-egt-overlimit",
+      "aircraftType": "A320 Family",
+      "ataChapter": "73",
+      "ataTitle": "Engine",
+      "faultTitle": "ENGINE 1(2) EGT OVERLIMIT",
+      "aircraftConfigurationPriorToReset": [
+        "No specific"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Read the specific data report from the MCDU=(CFDS/INST/EIS1/XLOAD(optional)/ENGINE)."
+      ],
+      "results": {
+        "pass": "N/A.",
+        "fail": "N/A."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/73/73EGT.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "If the valve of one of these parameters is higher than the max limit, the report also shows how long (in seconds) the associated parameter was at that limit. If no overlimit condition occured, there is no time indication.",
+        "Check history, if more than 5 hits within the first 25 cycles of the first hit, the exceedance condition must be idenified.",
+        "You can reset these values if necessary. Push the line key adjacent to the “RESET MAX VALUES” then “CONFIRM RESET” indications."
+      ],
+      "signOffRefs": [
+        "CFM=TSM73-00-00-810-849, AMM72-00-00-200-008."
+      ],
+      "applicableDeferrals": [
+        "No MEL."
+      ]
+    },
+    {
+      "id": "engine-1-2-fadec-a-b-channel-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "73",
+      "ataTitle": "Engine",
+      "faultTitle": "ENGINE 1(2) FADEC A(B) CHANNEL FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "If this alert triggers at engine start, apply the following procedures:",
+        "1. Aircraft on ground.",
+        "2. Set ENG MASTER SW (affected) to off.",
+        "3. Confirm ENG (FADEC) GND PWR (affected) pb-sw to OFF. Wait appprox 1 minute in order to have N2 below 5%.",
+        "4. Cycle/Reset above affected C/B's.",
+        "5. After ECU power-up sequence, consider a engine dry crank (if applicable).",
+        "6. Restart the engine."
+      ],
+      "results": {
+        "pass": "Fault Clears",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/73/73fadecchannel.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/73/fadec.gif",
+      "resetDuration": "2 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM73-22-00-710-040."
+      ],
+      "applicableDeferrals": [
+        "No MEL."
+      ]
+    },
+    {
+      "id": "engine-1-2-eiu-maintenance-status",
+      "aircraftType": "A320 Family",
+      "ataChapter": "73",
+      "ataTitle": "Engine",
+      "faultTitle": "ENGINE 1(2) EIU MAINTENANCE STATUS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 1 second, then reset.If no help, perform FADEC (A/B) bite test."
+      ],
+      "results": {
+        "pass": "Fault Clears",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/73/73EIUmaintenance.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/73/fadec.gif",
+      "resetDuration": "2 seconds.",
+      "notes": [
+        "If associated with fault message check 17(16)HB circuitry or EIU 1(2), can be caused by failed flow control valve or relay 16HB(17HB), pack closure relay."
+      ],
+      "signOffRefs": [
+        "AMM73-22-00-710-040."
+      ],
+      "applicableDeferrals": [
+        "MEL71-00=Class 2 Message."
+      ]
+    },
+    {
+      "id": "engine-1-2-eiu-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "73",
+      "ataTitle": "Engine",
+      "faultTitle": "ENGINE 1(2) EIU FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 1 second, then reset. If you have dual EIU faults, perform a FADEC (A/B) bite, then select start cycle rotary switch from norm to crank, wait 14 seconds and return to norm, wait 5 min, then pull ENG 1/2 oil pressure CB, reset after 5 seconds"
+      ],
+      "results": {
+        "pass": "Fault Clears",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/73/73EIU.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/73/fadec.gif",
+      "resetDuration": "2 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM73-22-00-710-040."
+      ],
+      "applicableDeferrals": [
+        "No MEL."
+      ]
+    },
+    {
+      "id": "engine-1-2-fadec-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "73",
+      "ataTitle": "Engine",
+      "faultTitle": "ENGINE 1(2) FADEC FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped, ECU’s powered."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "If this alert triggers at engine start, apply the following procedures:",
+        "1. Aircraft on ground.",
+        "2. Set ENG MASTER SW (affected) to off.",
+        "3. Confirm ENG (FADEC) GND PWR (affected) pb-sw to OFF. Wait appprox 1 minute in order to have N2 below 5%.",
+        "4. Cycle/Reset above affected C/B's.",
+        "5. After ECU power-up sequence, consider a engine dry crank (if applicable).",
+        "6. Restart the engine."
+      ],
+      "results": {
+        "pass": "Fault Clears",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/73/73fadecfault.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/73/fadec.gif",
+      "resetDuration": "2 seconds.",
+      "notes": [
+        "HPTCC VLV(POS), HMU or TCC faults not confirmed on FADEC test are spurious."
+      ],
+      "signOffRefs": [
+        "AMM73-22-00-710-040."
+      ],
+      "applicableDeferrals": [
+        "NO MEL."
+      ]
+    },
+    {
+      "id": "engine-1-2-epr-mode-fault-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "73",
+      "ataTitle": "Engine",
+      "faultTitle": "ENGINE 1(2) EPR MODE FAULT MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "No specific"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Recovery of EPR on both engines may be attemped by switching off each engine’s N1 mode switch."
+      ],
+      "results": {
+        "pass": "N/A.",
+        "fail": "N/A."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/73/73eprmode.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "If EPR was fluctuating, check PFR for associated failures.P2/T2 or P5 failures = check associated lines for leaks."
+      ],
+      "signOffRefs": [
+        "AMM73-22-00-710-040."
+      ],
+      "applicableDeferrals": [
+        "No MEL."
+      ]
+    }
+  ]
+}

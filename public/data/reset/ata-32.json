@@ -1,0 +1,252 @@
+{
+  "ataNumber": "32",
+  "ataTitle": "Landing Gear",
+  "items": [
+    {
+      "id": "lgciu-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "32",
+      "ataTitle": "Landing Gear",
+      "faultTitle": "LGCIU 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 1 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/32/32LGCIU.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/32/LGCIU.gif",
+      "resetDuration": "2 seconds.",
+      "notes": [
+        "LGCIU #1 drives landing gear panel lights. also remember probes and window heat is driven to full hot when LGCIU breakers are open."
+      ],
+      "signOffRefs": [
+        "AMM32-69-00-740-001"
+      ],
+      "applicableDeferrals": [
+        "MEL32-31-01=LGCIU"
+      ]
+    },
+    {
+      "id": "l-g-landing-gear-system-disagree",
+      "aircraftType": "A320 Family",
+      "ataChapter": "32",
+      "ataTitle": "Landing Gear",
+      "faultTitle": "L/G (LANDING GEAR) SYSTEM DISAGREE",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Check post flight report for faulted gear or door sensor. Or perform a CFDS / LG / LGCIU bite check for current faults. Check rig and/or replace faulty sensor or target. If main gear uplock disagree is shown on ground, make sure the main gear uplocks (Hooks) have not been physically tripped."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/32/32LGdisagree.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "AMM32-69-00-740-001"
+      ],
+      "applicableDeferrals": [
+        "No MEL"
+      ]
+    },
+    {
+      "id": "brakes-grabbing-durning-taxi",
+      "aircraftType": "A320 Family",
+      "ataChapter": "32",
+      "ataTitle": "Landing Gear",
+      "faultTitle": "BRAKES GRABBING DURNING TAXI",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, “NOT MOVING”."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Reset A/SKID-NWS switch on landing gear control panel. No help, bleed associated brakes."
+      ],
+      "results": {
+        "pass": "Control of brakes switch to other BSCU channel.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/32/32brakesgrab.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "Flight crews can perform this with engines running. Just make sure the aircraft is stopped."
+      ],
+      "signOffRefs": [
+        "AMM32-46-00-740-001"
+      ],
+      "applicableDeferrals": [
+        "MEL32-42-03=BSCU."
+      ]
+    },
+    {
+      "id": "bscu-channel-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "32",
+      "ataTitle": "Landing Gear",
+      "faultTitle": "BSCU CHANNEL 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, not moving."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, select the anti-skid/NWS off, then on. Second open associated circuit breaker for 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/32/32BSCU.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/32/BSCU.gif",
+      "resetDuration": "3 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM32-46-00-740-001."
+      ],
+      "applicableDeferrals": [
+        "MEL32-42-03=BSCU."
+      ]
+    },
+    {
+      "id": "brake-system-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "32",
+      "ataTitle": "Landing Gear",
+      "faultTitle": "BRAKE SYSTEM 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, not moving."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, select the anti-skid/NWS off, then on. Second open associated circuit breaker for 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/32/32brakesystem.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/32/BSCU.gif",
+      "resetDuration": "3 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM32-46-00-740-001."
+      ],
+      "applicableDeferrals": [
+        "MEL32-42-03=BSCU."
+      ]
+    },
+    {
+      "id": "no-brake-temps-displayed-on-ecam",
+      "aircraftType": "A320 Family",
+      "ataChapter": "32",
+      "ataTitle": "Landing Gear",
+      "faultTitle": "NO BRAKE TEMPS DISPLAYED ON ECAM",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Cycle the A/SKID&N/W Steering switch, if no help Open associated breaker for 5 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Brake temps show on ECAM.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/32/32braketemps.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/32/braketemps.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "Take off warning configuration horn might sound when BTMU is on MEL. T/O not allowed with hot brakes. MEL requires removing cannon plug for affected wheel BTMU for Erroneos indications, extreme HI temps or amber XX."
+      ],
+      "signOffRefs": [
+        "AMM32-47-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL32-47-01=Brake Temperature Monitoring Unit."
+      ]
+    },
+    {
+      "id": "nose-wheel-steering-faulty",
+      "aircraftType": "A320 Family",
+      "ataChapter": "32",
+      "ataTitle": "Landing Gear",
+      "faultTitle": "NOSE WHEEL STEERING FAULTY",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, “NOT MOVING”."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Reset A/SKID-NWS switch on landing gear control panel. No help, bleed associated brakes."
+      ],
+      "results": {
+        "pass": "Control of steering switch to other BSCU CH.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/32/32NWSfault.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "Flight crews can perform this with engines running. Just make sure the aircraft is stopped."
+      ],
+      "signOffRefs": [
+        "AMM32-51-00-720-003."
+      ],
+      "applicableDeferrals": [
+        "MEL32-60-04=N/WS Minor Fault Caution on ECAM."
+      ]
+    },
+    {
+      "id": "nws-fault-durning-flight-control-ck",
+      "aircraftType": "A320 Family",
+      "ataChapter": "32",
+      "ataTitle": "Landing Gear",
+      "faultTitle": "NWS FAULT DURNING FLIGHT CONTROL CK.",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Determine which NWS disconnect button was pushed durning rudder check. Replace that steering tiller."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/32/32flightcontrolstearing.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "AMM32-51-00-720-007."
+      ],
+      "applicableDeferrals": [
+        "MEL32-51.02=Pedal DISC."
+      ]
+    }
+  ]
+}

@@ -1,162 +1,235 @@
 /**
- * ECAM Reset+ — reference crawler (PREVIEW ONLY).
+ * ECAM Reset+ — reference crawler (writes app data, all records "pending").
  *
- * Opens the reference site, walks same-host links, extracts each page's text,
- * and parses it with reset_parse_lib.mjs into preview records. It writes three
- * files under scripts/crawl-output/ (gitignored) for a human to review:
- *   - crawled-sitemap.json         all discovered URLs
- *   - crawled-reset-preview.json   parsed records (every one verifiedStatus:"pending")
- *   - crawled-reset-preview.md     human-readable preview
+ * The reference site is static HTML over HTTP, so this uses plain fetch (no
+ * Playwright). It walks the ATA list → each chapter → each fault page, parses
+ * the TEXT fields, and downloads the circuit-breaker CHART IMAGES locally
+ * (the source shows CBs as pictures, not text — so we display the original
+ * verbatim instead of transcribing/guessing).
  *
- * It DOES NOT touch public/data/reset/ and never imports into the app. Records
- * are UNVERIFIED — fields that cannot be parsed are left null/[].
+ * Output (written directly so the app is populated for review):
+ *   public/data/reset/index.json
+ *   public/data/reset/ata-XX.json
+ *   public/data/reset/images/XX/*.gif
  *
- * ⚠️ Copyright / ToS: the reference site's content belongs to a third party.
- * Use this only to help locate & structure data; verify every record against
- * the approved AMM/MEL/TSM before marking it "verified". Respect the site's
- * terms and robots. Prefer re-entering data from your own approved documents.
+ * ⚠️ SAFETY / COPYRIGHT: every record is verifiedStatus:"pending" and carries
+ * its sourceRef. Content belongs to airlinetechs (Tobin Miklas), marked
+ * "Training Only". This is for internal training/reference; verify against the
+ * approved AMM/MEL/TSM before operational use. Be polite (throttled).
  *
- * Usage:
- *   npm i -D playwright && npx playwright install chromium   # one-time
- *   node scripts/crawl_reset.mjs [startUrl] [--max=40]
+ * Usage:  node scripts/crawl_reset.mjs [--max=1000] [--delay=150]
  */
 import { mkdir, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import { parsePage } from "./reset_parse_lib.mjs";
+import { parseFaultHtml, parseChapterLinks } from "./reset_html_parse.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const OUT_DIR = resolve(__dirname, "crawl-output");
+const DATA_DIR = resolve(__dirname, "..", "public", "data", "reset");
+const IMG_DIR = resolve(DATA_DIR, "images");
 
-const DEFAULT_START = "http://mobile.airlinetechs.com/airbus/airbusATA.html";
+const BASE = "http://mobile.airlinetechs.com/airbus/";
+const INDEX_URL = BASE + "airbusATA.html";
+const UA = "Mozilla/5.0 (Android) BambooResetTool/1.0 (internal training)";
 
-function arg(name, fallback) {
-  const hit = process.argv.find((a) => a.startsWith(`--${name}=`));
-  return hit ? hit.split("=")[1] : fallback;
+const arg = (n, d) => {
+  const hit = process.argv.find((a) => a.startsWith(`--${n}=`));
+  return hit ? hit.split("=")[1] : d;
+};
+const MAX = Number(arg("max", "1000"));
+const DELAY = Number(arg("delay", "150"));
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+function slugify(s) {
+  return s
+    .normalize("NFKD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+function uniqueSlug(base, used) {
+  let slug = slugify(base) || "item";
+  if (!used.has(slug)) return used.add(slug), slug;
+  let n = 2;
+  while (used.has(`${slug}-${n}`)) n++;
+  used.add(`${slug}-${n}`);
+  return `${slug}-${n}`;
 }
 
-const startUrl = process.argv[2]?.startsWith("http") ? process.argv[2] : DEFAULT_START;
-const MAX_PAGES = Number(arg("max", "40"));
-const DELAY_MS = Number(arg("delay", "800")); // be polite
+async function fetchText(url, tries = 2) {
+  for (let i = 0; i < tries; i++) {
+    try {
+      const ctrl = new AbortController();
+      const t = setTimeout(() => ctrl.abort(), 20000);
+      const res = await fetch(url, { headers: { "User-Agent": UA }, signal: ctrl.signal });
+      clearTimeout(t);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.text();
+    } catch (e) {
+      if (i === tries - 1) throw e;
+      await sleep(500);
+    }
+  }
+}
 
-/** Guess an ATA chapter number from a URL or page text (e.g. ".../ata22...", "ATA 22"). */
-function guessAta(url, text) {
-  const fromUrl = /ata[-_]?(\d{2})/i.exec(url)?.[1];
-  if (fromUrl) return fromUrl;
-  const fromText = /\bATA\s*(\d{2})\b/i.exec(text || "")?.[1];
-  return fromText ?? null;
+async function downloadImage(url, destPath, referer) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), 20000);
+  // Referer is REQUIRED: the site serves an anti-hotlink placeholder image to
+  // requests without the page referer.
+  const headers = { "User-Agent": UA };
+  if (referer) headers.Referer = referer;
+  const res = await fetch(url, { headers, redirect: "follow", signal: ctrl.signal });
+  clearTimeout(t);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const ct = res.headers.get("content-type") || "";
+  if (!/image\//i.test(ct)) throw new Error(`không phải ảnh (content-type=${ct})`);
+  const buf = Buffer.from(await res.arrayBuffer());
+  await mkdir(dirname(destPath), { recursive: true });
+  await writeFile(destPath, buf);
+}
+
+function cleanItem(rec, { id, ataTitle }) {
+  const out = {
+    id,
+    aircraftType: "A320 Family",
+    ataChapter: rec.ataChapter,
+    ataTitle,
+    faultTitle: rec.faultTitle,
+    aircraftConfigurationPriorToReset: rec.aircraftConfigurationPriorToReset,
+    circuitBreakersToReset: [],
+    stepsToClearWarning: rec.stepsToClearWarning,
+    results: {
+      ...(rec.results.pass ? { pass: rec.results.pass } : {}),
+      ...(rec.results.fail ? { fail: rec.results.fail } : {}),
+    },
+    verifiedStatus: "pending",
+    sourceRef: rec.sourceRef,
+    updatedAt: new Date().toISOString().slice(0, 10),
+  };
+  if (rec.cbImage) out.cbImage = rec.cbImage;
+  if (rec.resetDuration) out.resetDuration = rec.resetDuration;
+  if (rec.notes.length) out.notes = rec.notes;
+  if (rec.signOffRefs.length) out.signOffRefs = rec.signOffRefs;
+  if (rec.applicableDeferrals.length) out.applicableDeferrals = rec.applicableDeferrals;
+  if (rec.warnings.length) out.warnings = rec.warnings;
+  return out;
 }
 
 async function main() {
-  let chromium;
-  try {
-    ({ chromium } = await import("playwright"));
-  } catch {
-    console.error(
-      "\n[crawl_reset] Playwright chưa được cài. Chạy:\n" +
-        "  npm i -D playwright && npx playwright install chromium\n"
-    );
-    process.exit(1);
+  await mkdir(DATA_DIR, { recursive: true });
+  console.log(`Tải danh mục ATA: ${INDEX_URL}`);
+  const indexHtml = await fetchText(INDEX_URL);
+
+  const chapters = [];
+  const chRe = /<a href="(\d+)\/Achapter\d+\.html"[^>]*>\s*<span class="name">([\s\S]*?)<\/span>/gi;
+  for (const m of indexHtml.matchAll(chRe)) {
+    const ata = m[1];
+    const title = m[2]
+      .replace(/<[^>]+>/g, "")
+      .replace(/&amp;/g, "&")
+      .replace(/^chapter\s*\d+\s*[-–]\s*/i, "")
+      .trim();
+    if (!chapters.some((c) => c.ata === ata)) chapters.push({ ata, title });
   }
+  console.log(`Tìm thấy ${chapters.length} chương.`);
 
-  await mkdir(OUT_DIR, { recursive: true });
-  const startHost = new URL(startUrl).host;
+  const usedIds = new Set();
+  const indexChapters = [];
+  let totalItems = 0;
+  let pageCount = 0;
 
-  const browser = await chromium.launch();
-  const page = await browser.newPage({ viewport: { width: 390, height: 844 } }); // mobile
-
-  const visited = new Set();
-  const queue = [startUrl];
-  const sitemap = [];
-  const records = [];
-
-  while (queue.length && visited.size < MAX_PAGES) {
-    const url = queue.shift();
-    if (visited.has(url)) continue;
-    visited.add(url);
-
+  for (const { ata, title } of chapters) {
+    if (pageCount >= MAX) break;
+    const chapterUrl = `${BASE}${ata}/Achapter${ata}.html`;
+    let links = [];
     try {
-      await page.goto(url, { waitUntil: "domcontentloaded", timeout: 20000 });
-      const title = await page.title();
-      const text = await page.evaluate(() => document.body?.innerText ?? "");
-      const links = await page.evaluate(() =>
-        Array.from(document.querySelectorAll("a[href]")).map((a) => a.href)
-      );
-
-      sitemap.push({ url, title, links: links.length });
-
-      // Enqueue same-host, not-yet-seen links.
-      for (const href of links) {
-        try {
-          const u = new URL(href);
-          if (u.host === startHost && !visited.has(u.href) && !queue.includes(u.href)) {
-            queue.push(u.href);
-          }
-        } catch {
-          /* ignore malformed href */
-        }
-      }
-
-      // Parse pages that look like fault/reset detail pages (contain the CB label).
-      const looksLikeDetail = /circuit breaker|reset duration|steps to clear/i.test(text);
-      if (looksLikeDetail) {
-        const rec = parsePage(text, { sourceUrl: url, ataChapter: guessAta(url, text) });
-        if (rec.faultTitle) records.push(rec);
-      }
-
-      console.log(`[${visited.size}/${MAX_PAGES}] ${looksLikeDetail ? "★" : " "} ${url}`);
+      const chHtml = await fetchText(chapterUrl);
+      links = parseChapterLinks(chHtml);
     } catch (e) {
-      console.warn(`  ! Bỏ qua ${url}: ${e.message}`);
-      sitemap.push({ url, error: e.message });
+      console.warn(`  ! Chương ${ata} lỗi: ${e.message}`);
+      continue;
     }
-    await new Promise((r) => setTimeout(r, DELAY_MS));
+    await sleep(DELAY);
+
+    const items = [];
+    for (const link of links) {
+      if (pageCount >= MAX) break;
+      const faultUrl = `${BASE}${ata}/${link.href}`;
+      pageCount++;
+      try {
+        const html = await fetchText(faultUrl);
+        const rec = parseFaultHtml(html, { sourceUrl: faultUrl, ataChapter: ata, ataTitle: title });
+        if (!rec.faultTitle) {
+          console.warn(`    ~ Bỏ (không title): ${faultUrl}`);
+          continue;
+        }
+        const id = uniqueSlug(rec.faultTitle, usedIds);
+
+        // Download the CB chart image locally, if any.
+        if (rec.cbImageUrl) {
+          const base = rec.cbImageUrl.split("/").pop().split("?")[0];
+          const relPath = `data/reset/images/${ata}/${base}`;
+          try {
+            await downloadImage(rec.cbImageUrl, resolve(DATA_DIR, "images", ata, base), faultUrl);
+            rec.cbImage = relPath;
+            await sleep(DELAY);
+          } catch (e) {
+            console.warn(`    ~ Ảnh CB lỗi (${base}): ${e.message}`);
+          }
+        }
+
+        items.push(cleanItem(rec, { id, ataTitle: title }));
+        console.log(`  [${pageCount}] ATA ${ata} ✓ ${rec.faultTitle}`);
+      } catch (e) {
+        console.warn(`    ! ${faultUrl}: ${e.message}`);
+      }
+      await sleep(DELAY);
+    }
+
+    const verified = 0; // all pending
+    indexChapters.push({
+      ataNumber: ata,
+      ataTitle: title,
+      sortOrder: Number(ata),
+      count: items.length,
+      verifiedCount: verified,
+      pendingCount: items.length,
+    });
+    totalItems += items.length;
+
+    if (items.length) {
+      await writeFile(
+        resolve(DATA_DIR, `ata-${ata}.json`),
+        JSON.stringify({ ataNumber: ata, ataTitle: title, items }, null, 2)
+      );
+    }
+    console.log(`--- ATA ${ata} (${title}): ${items.length} mục ---`);
   }
 
-  await browser.close();
-
+  indexChapters.sort((a, b) => a.sortOrder - b.sortOrder);
   await writeFile(
-    resolve(OUT_DIR, "crawled-sitemap.json"),
-    JSON.stringify({ startUrl, crawledAt: new Date().toISOString(), pages: sitemap }, null, 2)
+    resolve(DATA_DIR, "index.json"),
+    JSON.stringify(
+      {
+        aircraftType: "A320 Family",
+        generatedAt: new Date().toISOString().slice(0, 10),
+        source: "http://mobile.airlinetechs.com/airbus/ (Training Only — Tobin Miklas)",
+        totalItems,
+        chapters: indexChapters,
+      },
+      null,
+      2
+    )
   );
-  await writeFile(
-    resolve(OUT_DIR, "crawled-reset-preview.json"),
-    JSON.stringify(records, null, 2)
-  );
-  await writeFile(resolve(OUT_DIR, "crawled-reset-preview.md"), toMarkdown(records, startUrl));
 
   console.log(
-    `\n✓ Xong. ${sitemap.length} trang, ${records.length} record preview.\n` +
-      `  → scripts/crawl-output/crawled-sitemap.json\n` +
-      `  → scripts/crawl-output/crawled-reset-preview.json\n` +
-      `  → scripts/crawl-output/crawled-reset-preview.md\n` +
-      `  Tất cả record = "pending". Hãy DUYỆT trước khi import.`
+    `\n✓ Xong. ${indexChapters.length} chương, ${totalItems} mục (tất cả PENDING).\n` +
+      `  Ghi vào public/data/reset/. Ảnh CB trong public/data/reset/images/.\n` +
+      `  Hãy đối chiếu AMM trước khi đổi sang "verified".`
   );
-}
-
-function toMarkdown(records, startUrl) {
-  const L = [
-    `# Reset crawl preview`,
-    ``,
-    `> Source: ${startUrl}`,
-    `> Crawled: ${new Date().toISOString()}`,
-    `> ⚠️ UNVERIFIED preview — review against approved AMM/MEL before any use.`,
-    ``,
-    `Total records: ${records.length}`,
-    ``,
-  ];
-  for (const r of records) {
-    L.push(`## ${r.faultTitle ?? "(no title)"}`);
-    L.push(`- ATA: ${r.ataChapter ?? "?"} · source: ${r.sourceUrl}`);
-    if (r.circuitBreakersToReset.length) {
-      L.push(`- CB:`);
-      for (const c of r.circuitBreakersToReset) L.push(`  - ${c.label} | ${c.panel} | ${c.number}`);
-    }
-    if (r.resetDuration) L.push(`- Duration: ${r.resetDuration}`);
-    if (r.results.pass) L.push(`- Pass: ${r.results.pass}`);
-    if (r.results.fail) L.push(`- Fail: ${r.results.fail}`);
-    L.push(``);
-  }
-  return L.join("\n");
 }
 
 main().catch((e) => {

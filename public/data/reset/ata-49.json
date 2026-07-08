@@ -1,0 +1,148 @@
+{
+  "ataNumber": "49",
+  "ataTitle": "APU",
+  "items": [
+    {
+      "id": "honeywell-131-9-a-apu-t-s-data",
+      "aircraftType": "A320 Family",
+      "ataChapter": "49",
+      "ataTitle": "APU",
+      "faultTitle": "Honeywell 131-9(A) APU T/S DATA",
+      "aircraftConfigurationPriorToReset": [],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [],
+      "results": {},
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/49/49honeywell.html",
+      "updatedAt": "2026-07-08"
+    },
+    {
+      "id": "apu-will-not-start",
+      "aircraftType": "A320 Family",
+      "ataChapter": "49",
+      "ataTitle": "APU",
+      "faultTitle": "APU WILL NOT START",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Verifey both batteries are on, “FLAP OPEN” is displayed on APU page after APU master switch is selected."
+      ],
+      "results": {
+        "pass": "APU Starts.",
+        "fail": "APU will not start."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/49/49apu.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "If APU still wont start, check CFDS/APU/T-S DATA."
+      ],
+      "signOffRefs": [
+        "AMM49-00-00-710-008."
+      ],
+      "applicableDeferrals": [
+        "MEL49-10-01=APU System."
+      ]
+    },
+    {
+      "id": "apu-wont-shut-down",
+      "aircraftType": "A320 Family",
+      "ataChapter": "49",
+      "ataTitle": "APU",
+      "faultTitle": "APU WONT SHUT DOWN",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open identified circuit breakers, APU will shut down."
+      ],
+      "results": {
+        "pass": "N/A.",
+        "fail": "N/A."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/49/49apushutdown.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/49/apushut.gif",
+      "resetDuration": "N/A",
+      "notes": [
+        "Troubleshoot fault per TSM."
+      ],
+      "signOffRefs": [
+        "AMM49-00-00-710-008."
+      ],
+      "applicableDeferrals": [
+        "MEL49-10-01=APU System."
+      ]
+    },
+    {
+      "id": "apu-bleed-faults",
+      "aircraftType": "A320 Family",
+      "ataChapter": "49",
+      "ataTitle": "APU",
+      "faultTitle": "APU BLEED FAULTS",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Shut down APU. Open above circuit breakers for 3 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/49/49apubleed.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/49/apubleed.gif",
+      "resetDuration": "30 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "TSM36-12-00-810-801.",
+        "AMM49-00-00-710-001 (ECB self test)."
+      ],
+      "applicableDeferrals": [
+        "MEL36-12-01=APU Bleed Air System."
+      ]
+    },
+    {
+      "id": "apu-electrics-no-volts-or-freqs",
+      "aircraftType": "A320 Family",
+      "ataChapter": "49",
+      "ataTitle": "APU",
+      "faultTitle": "APU ELECTRICS, NO VOLTS OR FREQS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Select APU ELEC OFF and reset back to ON. If no help, reset above circuit breaker."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/49/49apugen.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/49/apugen.gif",
+      "resetDuration": "30 mirco-seconds",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM24-41-00-740-002 (GPCU test)."
+      ],
+      "applicableDeferrals": [
+        "MEL24-20-02=APU Generator Channel."
+      ]
+    }
+  ]
+}

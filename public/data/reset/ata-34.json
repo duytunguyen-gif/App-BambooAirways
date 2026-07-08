@@ -1,0 +1,371 @@
+{
+  "ataNumber": "34",
+  "ataTitle": "Navigation",
+  "items": [
+    {
+      "id": "nav-gps-1-2-fault-only",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "NAV - GPS 1(2) FAULT ONLY",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 5 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34gps.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/mmr.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "Check troubleshoot data for “A7” fault code. GPS antenna normally at fault in this situation."
+      ],
+      "signOffRefs": [
+        "AMM34-36-00-740-003."
+      ],
+      "applicableDeferrals": [
+        "MEL34-58-01=Gobal Positioning System."
+      ]
+    },
+    {
+      "id": "nav-ils-mmr-1-2",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "NAV ILS/MMR 1(2)",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 5 seconds, then reset. If no help, check MMR in fwd E&E for fault light."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34ILS.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/mmr.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "MMR is normally the cause of this fault."
+      ],
+      "signOffRefs": [
+        "AMM34-36-00-740-003."
+      ],
+      "applicableDeferrals": [
+        "MEL34-58-01=Gobal Positioning System.",
+        "MEL34-36-01=ILS #2 System"
+      ]
+    },
+    {
+      "id": "adiru-flashing-align-light-at-alignment",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "ADIRU-FLASHING ALIGN LIGHT AT ALIGNMENT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, not moving, (PPOS)-present position entered thru MCDU INIT page."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Affected ADIRU, turn the rotary knob on ADIRS control panel to ATT for 5 seconds, then to OFF for 20 seconds, then to NAV. If no help, affected ADIRU needs to cool down. If cool, replace ADIRU."
+      ],
+      "results": {
+        "pass": "Normal alignment.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34adiruflashingalignment.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "600 seconds.",
+      "signOffRefs": [
+        "AMM34-13-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL34-10-01=ADIRS."
+      ]
+    },
+    {
+      "id": "adr-or-ir-1-2-3-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "ADR OR IR 1(2)(3) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Above breakers are main/backup power for ADIRU's. Try reseting and realinging ADIRU. No help check check CFDS for faults. To T/S, check the CFDS/NAV/ADR or IR/ T/S DATA. The first 4 digits in the upper left corner is the fault analysis number. The two middle digits in the fault analysis number is the failure code."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34adiruflashingtakeoff.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/ADIRS.gif",
+      "resetDuration": "600 seconds.",
+      "notes": [
+        "A known problem of the ADIRU shelf vibrating and hitting the top of the ADIRU will cause this fault."
+      ],
+      "signOffRefs": [
+        "AMM34-13-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL34-10-01=ADIRS."
+      ]
+    },
+    {
+      "id": "gpws-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "GPWS FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 1 seconds, then reset. No help, move aircraft approx 4 feet."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34GPWS.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/GPWS.gif",
+      "resetDuration": "25 seconds.",
+      "notes": [
+        "This problem may be by ILS freq’s that are close and interfering with the GPWS system. Move A/C. This fault may appear and disappear during taxi for this reason."
+      ],
+      "signOffRefs": [
+        "AMM34-48-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL34-48-01=GPWS/EGPWS."
+      ]
+    },
+    {
+      "id": "windshear-det-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "WINDSHEAR DET FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines can be running, flaps up."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First reset FAC’S from overhead pushbuttons. Then open associated breaker for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34windshear.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/windshear.gif",
+      "resetDuration": "90 seconds.",
+      "notes": [
+        "If hydraulics are powered, reset duration is less than 10 seconds, 90 seconds otherwise. Also message may occur spuriously on ground."
+      ],
+      "signOffRefs": [
+        "AMM22-60-00-710-004 (FAC ops test).",
+        "AMM34-41-00-740-002 (Weather radar test)."
+      ],
+      "applicableDeferrals": [
+        "MEL22-66-03-Windshear Detection."
+      ]
+    },
+    {
+      "id": "nav-pred-windshear-det-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "NAV - PRED WINDSHEAR DET FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Switch radar off, then on from the control panel, if no help open associated breaker for 5 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34PREDwindshear.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/windshear2.gif",
+      "resetDuration": "30 seconds.",
+      "signOffRefs": [
+        "AMM34-41-00-740-002 (Weather radar test)."
+      ],
+      "applicableDeferrals": [
+        "MEL22-66-03-Windshear Detection."
+      ]
+    },
+    {
+      "id": "nav-tcas-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "NAV - TCAS FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open breaker for 5 seconds, then reset. No help, bite test TCAS computer located on the 82VU rack."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34TCAS.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/TCAS.gif",
+      "resetDuration": "10 seconds.",
+      "signOffRefs": [
+        "AMM34-43-00-740-001."
+      ],
+      "applicableDeferrals": [
+        "MEL34-43-01=TCAS System."
+      ]
+    },
+    {
+      "id": "flight-recorder-problem",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "FLIGHT RECORDER PROBLEM",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open breaker for 1 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34flightrecorder.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/flightrecord.gif",
+      "resetDuration": "25 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM31-33-00-710-006"
+      ],
+      "applicableDeferrals": [
+        "MEL31-30-02=Flight Data Recorder (FDR)."
+      ]
+    },
+    {
+      "id": "auto-tune-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "AUTO-TUNE INOP",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Try a different station position in the MCDU “INIT” page. The nav data could be at fault. Also verify both RMP’s that the “NAV ON” switch is off-(Plastic Guarded Switch)."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34autotune.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "AMM."
+      ],
+      "applicableDeferrals": [
+        "MEL34-00-01=Autotune System."
+      ]
+    },
+    {
+      "id": "white-gps-primary-message-shown",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "WHITE “GPS PRIMARY” MESSAGE SHOWN",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "“GPS PRIMARY” message is normal operartion. This is stating the the GPS is the primary mode of operation. The clear button on the MCDU will erase this message."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34gpsprimary.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "AMM34-36-00-740-003."
+      ],
+      "applicableDeferrals": [
+        "MEL34-58-01=Gobal Positioning System."
+      ]
+    },
+    {
+      "id": "nav-ra-1-2-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "34",
+      "ataTitle": "Navigation",
+      "faultTitle": "NAV-RA 1(2) INOP",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 20 seconds, then reset. If no help, perform a CFDS/NAV/RA/ARINC test."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/34/34RA.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/34/RA.gif",
+      "resetDuration": "30 seconds.",
+      "signOffRefs": [
+        "AMM34-42-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL34-42-01=Radio Altimeter System."
+      ]
+    }
+  ]
+}

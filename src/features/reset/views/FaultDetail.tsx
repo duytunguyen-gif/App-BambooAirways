@@ -82,7 +82,7 @@ export default function FaultDetail({
 
       {/* C. Circuit breakers to reset */}
       <SectionCard title="Circuit breakers to reset">
-        <CircuitBreakerTable cbs={item.circuitBreakersToReset} />
+        <CircuitBreakerTable cbs={item.circuitBreakersToReset} cbImage={item.cbImage} />
       </SectionCard>
 
       {/* D. Steps to clear warning */}

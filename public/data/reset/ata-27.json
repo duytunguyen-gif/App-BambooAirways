@@ -1,0 +1,359 @@
+{
+  "ataNumber": "27",
+  "ataTitle": "Flight Controls",
+  "items": [
+    {
+      "id": "f-ctl-fcdc-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-FCDC 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, hydraulics depressurized."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open circuit breakers for 5 second, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27fcdc.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/27/fcdc.gif",
+      "resetDuration": "20 seconds.",
+      "notes": [
+        "FCDC=Flght Control Data Concentrators."
+      ],
+      "signOffRefs": [
+        "AMM27-96-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL27-95-01=FCDC."
+      ]
+    },
+    {
+      "id": "f-ctl-mainenance-status-class-2",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-MAINENANCE STATUS (CLASS 2)",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, hydraulics depressurized, engines stopped, ADIRU’s aligned."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open circuit breakers for 5 second, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27class2.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/27/fcdc.gif",
+      "resetDuration": "20 seconds.",
+      "notes": [
+        "If time, run a ground scan in CFDS/FCTL/EFCS #1 to identify cause of message."
+      ],
+      "signOffRefs": [
+        "AMM27-96-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL27-00=Class 2 Maintenance Message."
+      ]
+    },
+    {
+      "id": "ths-didn-t-return-to-zero-after-landing",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "THS DIDN’T RETURN TO ZERO AFTER LANDING",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Reset ELAC’s using overhead pushbutton switches. Select both ELAC switches off, then on. THS will return to zero."
+      ],
+      "results": {
+        "pass": "THS zeros.",
+        "fail": "THS stays."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27thszero.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "8 seconds.",
+      "notes": [
+        "THS=Trimmable Horizontal Stabilizer."
+      ],
+      "signOffRefs": [
+        "AMM27-93-00-810-945."
+      ],
+      "applicableDeferrals": [
+        "MEL27-44-01=Stabilizer Actuator Electric Motors."
+      ]
+    },
+    {
+      "id": "f-ctl-sec-1-2-3-fault-or-splr-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-SEC 1(2)(3)FAULT OR SPLR FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground. Hydraulics depressurized."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset applicable SEC pushbutton. If no help, open associated breaker for 5 seconds, then reset. The pushbutton to remain in \"ON\" postion during breaker reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27sec.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/27/sec.gif",
+      "resetDuration": "20 seconds.",
+      "notes": [
+        "If Hydraulics are pressurized, pushbutton reset will not be successful. SEC #1 controls spoilers 3 & 4. SEC #2 controls spoilers 5. SEC #3 controls spoilers 1 & 2."
+      ],
+      "signOffRefs": [
+        "AMM27-94-00-710-001 (SEC #3).",
+        "AMM27-94-00-710-002 (SEC #1).",
+        "AMM27-94-00-710-003 (SEC #2)."
+      ],
+      "applicableDeferrals": [
+        "MEL27-92-01=SEC’s.",
+        "MEL27-92-02=GND Spoilers."
+      ]
+    },
+    {
+      "id": "f-ctl-elac-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-ELAC 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset applicable ELAC pushbutton. If no help, open associated breaker for 5 seconds. Pushbutton to remain in “ON” position during breaker reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27elac.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/27/elac.gif",
+      "resetDuration": "20 seconds.",
+      "notes": [
+        "ELAC #1 controls left outboard (Blue) and right inboard (Green) aileron servos. ELAC #2 controls Left inboard (Green) and right outboard (Blue) ailerons servos. ELAC #1 is primary in roll, ELAC #2 is primary in pitch. ELAC #1 controls outboard (Blue) elevator servos. ELAC #2 controls inboard left (Green) & inboard right (Yellow) elevator servos."
+      ],
+      "signOffRefs": [
+        "AMM27-93-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL27-93-01=ELEC."
+      ]
+    },
+    {
+      "id": "f-ctl-aileron-servo-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-AILERON SERVO FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset applicable ELAC pushbutton. If no help, open associated breaker for 5 seconds. Pushbutton to remain in “ON” position during breaker reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27aileronservo.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/27/elac.gif",
+      "resetDuration": "20 seconds.",
+      "notes": [
+        "If fault is isolated to a servo, change the servo valve first prior to changing the complete servo control."
+      ],
+      "signOffRefs": [
+        "AMM27-93-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL27-14-01=Aileron Servo Controls.",
+        "MEL27-14-02=Aileron indications on ECAM inop."
+      ]
+    },
+    {
+      "id": "f-ctl-altn-law-display-at-engine-start",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-ALTN LAW DISPLAY AT ENGINE START",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, with engines running, wheels chocked."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "With engines running, set parking brake, use overhead pushbuttons to switch “OFF” engine hydraulics, when hydraulics are depressurized, select “OFF” ELAC #1 and #2 using overhead swich. After 3 seconds, switch ELAC #1 and ELAC #2 “ON”. After approx 15 seconds, select hydraulics back “ON”."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27altnlaw.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "30 seconds.",
+      "notes": [
+        "Follow reset steps closely."
+      ],
+      "signOffRefs": [
+        "AMM27-93-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "No MEL."
+      ]
+    },
+    {
+      "id": "f-ctl-flap-slat-1-2-faults-or-slow-operation",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-FLAP/SLAT 1 (2) FAULTS OR SLOW OPERATION",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, hydraulics depressurized, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 5 seconds, then close.Only reset one breaker at time, reseting both system breakers could lock out WTB."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27flapsslow.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/27/flaps.gif",
+      "resetDuration": "60 seconds.",
+      "notes": [
+        "Slats slow or flaps slow message will display only durning operation. Remember running slats/flaps without all hydraulics on can cause these faults to display. Slats use Blue & Green hydraulics. Flaps use Yellow & Green hydraulics."
+      ],
+      "signOffRefs": [
+        "AMM27-51-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL27-51-01=Slat/Flap Control System (SFCS)."
+      ]
+    },
+    {
+      "id": "f-ctl-flaps-slats-locked",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-FLAPS(SLATS) LOCKED",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, hydraulics depressurized."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Reset wing tip brakes though MCDU/CFDS/SFCC/TEST/RESET."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27flapslocked.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "30 seconds.",
+      "notes": [
+        "After reset of wing tip brakes, fault message clears."
+      ],
+      "signOffRefs": [
+        "AMM27-51-00-710-002."
+      ],
+      "applicableDeferrals": [
+        "MEL27-51-02=Flap Wing Tip Brake Solenoids."
+      ]
+    },
+    {
+      "id": "f-ctl-flap-slat-indication-amber",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "F/CTL-FLAP/SLAT INDICATION AMBER",
+      "aircraftConfigurationPriorToReset": [
+        "On ground, hydraulics depressurized."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open circuit breakers for 5 second, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27flapindication.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/27/flapindication.gif",
+      "resetDuration": "20 seconds.",
+      "notes": [
+        "If ECAM upper flap/slat indications are amber, reset system #1. If not reset system #2."
+      ],
+      "signOffRefs": [
+        "AMM27-51-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL27-51-01=SFCS."
+      ]
+    },
+    {
+      "id": "side-stick-priorty-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "27",
+      "ataTitle": "Flight Controls",
+      "faultTitle": "SIDE STICK PRIORTY MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset all FAC/SEC/ELAC overhead pushbuttons. If no help, reset ELAC circuit breakers followed by performing a side stick priorty test."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/27/27sidestick.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/27/elac.gif",
+      "resetDuration": "20 seconds.",
+      "notes": [
+        "Check PFR for associated messages. If you have any associated faults T/S IAW TSM."
+      ],
+      "signOffRefs": [
+        "AMM27-96-00-710-003 (Priority Test)."
+      ],
+      "applicableDeferrals": [
+        "MEL27-92-06=Side Stick Dual Input Warning System."
+      ]
+    }
+  ]
+}

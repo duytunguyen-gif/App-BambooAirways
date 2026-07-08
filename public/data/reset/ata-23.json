@@ -1,0 +1,456 @@
+{
+  "ataNumber": "23",
+  "ataTitle": "Communications",
+  "items": [
+    {
+      "id": "com-vhf-1-2-3-emitting",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "COM-VHF 1(2)(3) EMITTING",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, check the transmission key on audio panel, then the side stick radio select button, and then the hand held mic for a stuck button. If no help, open associated breaker for 2 seconds, then close."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23emiting.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/emitting.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM23-12-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL23-12-01=VHF Communications Systems."
+      ]
+    },
+    {
+      "id": "com-vhf-transmission-problems",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "COM-VHF TRANSMISSION PROBLEMS",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated circuit breaker for 2 seconds, then close."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23vhftransmission.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/emitting.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM23-12-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL23-12-01=VHF Communications Systems."
+      ]
+    },
+    {
+      "id": "rmp-locked-up-or-window-blank",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "RMP LOCKED UP OR WINDOW BLANK",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Turn off all RMP’s then on to reset. If no help, open all above circuit breakers for 2 seconds, then close."
+      ],
+      "results": {
+        "pass": "RMP functions normally.",
+        "fail": "Still locked up."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23rmplock.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/rmp.gif",
+      "resetDuration": "2 seconds.",
+      "notes": [
+        "RMP lock up could be caused by another RMP that otherwise functions normally. Thats why all three must be reset."
+      ],
+      "signOffRefs": [
+        "AMM23-13-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL23-13-01=Radio Management Panel (RMP)."
+      ]
+    },
+    {
+      "id": "acp-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "ACP INOP",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Turn “OFF” all RMP’s then turn “ON” to reset. If no help, reset associated ACP breakers."
+      ],
+      "results": {
+        "pass": "ACP functions normally.",
+        "fail": "Still will not change."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23acplock.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/acp.gif",
+      "resetDuration": "120 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM23-51-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL23-51-02=Audio Control Panel Systems (ACP)."
+      ]
+    },
+    {
+      "id": "amu-audio-management-unit-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "AMU (AUDIO MANAGEMENT UNIT) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 2 seconds, then close. If no help reset C/B's M-02, M-03, M-04."
+      ],
+      "results": {
+        "pass": "AMU functions normally.",
+        "fail": "Still inop."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23amu.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/amu.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM23-51-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL23-51-01=Audio Management Unit (AMU)."
+      ]
+    },
+    {
+      "id": "acars-transmission-problems",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "ACARS TRANSMISSION PROBLEMS",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "ACARS standby memo disappears and weather uplink is succesful.",
+        "fail": "Still inop."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23acars.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/acars.gif",
+      "resetDuration": "180 seconds.",
+      "notes": [
+        "If NO COMM is reported durning flight, yet ACARS operates ok on ground, suspect failure of VHF3 transmissions on some frequencies."
+      ],
+      "signOffRefs": [
+        "AMM23-24-00-710-001.",
+        "AMM46-24-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL23-24-01=ACARS."
+      ]
+    },
+    {
+      "id": "com-hf-1-2-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "COM-HF 1 (2) INOP",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23hf.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/hf.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM23-11-00-740-001."
+      ],
+      "applicableDeferrals": [
+        "MEL23-11-01=HF Communication System."
+      ]
+    },
+    {
+      "id": "cids-system-faults",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "CIDS SYSTEM FAULTS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, both engines stopped, all cabin doors closed."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, try reset at PTP. If no help open all breakers for 10 seconds, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23cids.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/cids.gif",
+      "resetDuration": "120 seconds.",
+      "notes": [
+        "Cabin lights will flash durning test. Test pass will be displayed on the PTP upon successful power up."
+      ],
+      "signOffRefs": [
+        "AMM23-73-00-740-005."
+      ],
+      "applicableDeferrals": [
+        "MEL23-73-01=CIDS Director."
+      ]
+    },
+    {
+      "id": "forward-attendant-panel-fap-locked-up",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "FORWARD ATTENDANT PANEL (FAP) LOCKED UP",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open circuit breaker for 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "Panel not lock up.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23fap.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/fap.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "Cabin lights will flash durning test. Test pass will be displayed on the PTP upon successful power up."
+      ],
+      "signOffRefs": [
+        "AMM23-73-00-740-005."
+      ],
+      "applicableDeferrals": [
+        "MEL23-73-04=FAP(OLD).",
+        "MEL23-73-08=FAP(NEW)."
+      ]
+    },
+    {
+      "id": "fwd-flight-attendant-ptp-panel-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "FWD FLIGHT ATTENDANT PTP PANEL INOP",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open circuit breaker for 5 seconds, then close."
+      ],
+      "results": {
+        "pass": "Panel powers up.",
+        "fail": "Panel inop."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23ptp.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/ptp.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "PTP = Programmed and Test Panel."
+      ],
+      "signOffRefs": [
+        "AMM23-73-00-740-005."
+      ],
+      "applicableDeferrals": [
+        "MEL23-73-07=FTP."
+      ]
+    },
+    {
+      "id": "flight-interphone-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "FLIGHT INTERPHONE INOP",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open circuit breaker for 2 seconds, then close. If no help reset breaker for DEU”B”-M7."
+      ],
+      "results": {
+        "pass": "Flight interphone works.",
+        "fail": "Still inop."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23flightinterphone.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/flightinterphone.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "DEU-A controls lights, call signs and speakers. DEU-B controls interphone, P/A, call, and EVAC."
+      ],
+      "signOffRefs": [
+        "AMM23-73-00-740-005."
+      ],
+      "applicableDeferrals": [
+        "MEL23-43-02=Crewmember Interphone System."
+      ]
+    },
+    {
+      "id": "passenger-address-system-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "PASSENGER ADDRESS SYSTEM INOP",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First try reseting CIDS director at PTP. If no help, open circuit breakers for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Passenger address system works.",
+        "fail": "Passenger address system still inop."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23pa.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/pa.gif",
+      "resetDuration": "180 seconds.",
+      "notes": [
+        "DEU-A controls lights, call signs and speakers. DEU-B controls interphone, P/A, call, and EVAC."
+      ],
+      "signOffRefs": [
+        "AMM23-73-00-740-005."
+      ],
+      "applicableDeferrals": [
+        "MEL23-31-01=Passenger Adress Systems Inop."
+      ]
+    },
+    {
+      "id": "deu-a-fault-on-cids",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "DEU-A FAULT ON CIDS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First try reseting CIDS director at PTP. If no help, open circuit breakers for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears from cids",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23deua.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/deua.gif",
+      "resetDuration": "180 seconds.",
+      "notes": [
+        "DEU-A controls lights, call signs and speakers. DEU-B controls interphone, P/A, call, and EVAC."
+      ],
+      "signOffRefs": [
+        "AMM23-73-00-740-005."
+      ],
+      "applicableDeferrals": [
+        "MEL23-73-02=CIDS (Decoder Encoder Unit) DEU-A."
+      ]
+    },
+    {
+      "id": "deu-b-fault-on-cids",
+      "aircraftType": "A320 Family",
+      "ataChapter": "23",
+      "ataTitle": "Communications",
+      "faultTitle": "DEU-B FAULT ON CIDS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First try reseting CIDS director at PTP. If no help, open circuit breakers for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears from cids",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/23/23deub.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/23/deub.gif",
+      "resetDuration": "180 seconds.",
+      "notes": [
+        "DEU-A controls lights, call signs and speakers. DEU-B controls interphone, P/A, call, and EVAC."
+      ],
+      "signOffRefs": [
+        "AMM23-73-00-740-005."
+      ],
+      "applicableDeferrals": [
+        "MEL23-73-03A=CIDS (Decoder Encoder Unit) DEU-B."
+      ]
+    }
+  ]
+}

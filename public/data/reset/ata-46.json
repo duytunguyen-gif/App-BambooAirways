@@ -1,0 +1,71 @@
+{
+  "ataNumber": "46",
+  "ataTitle": "Information System (ATSU)",
+  "items": [
+    {
+      "id": "trouble-loading-atsu-software",
+      "aircraftType": "A320 Family",
+      "ataChapter": "46",
+      "ataTitle": "Information System (ATSU)",
+      "faultTitle": "TROUBLE LOADING ATSU SOFTWARE",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "After loading 20TX, must disconnect loader for 3 minutes prior to loading 22TX, and again prior to loading 24TX."
+      ],
+      "results": {
+        "pass": "Software loads.",
+        "fail": "Software will not load."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/46/46atsu.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "Must load ATSU in order, 20TX, 22TX, 24TX. Adhere to manual loading procedure."
+      ],
+      "signOffRefs": [
+        "AMM46-21-00-740-001."
+      ],
+      "applicableDeferrals": [
+        "MEL23-24-01=ACARS.",
+        "MEL46-21-01=ATSU."
+      ]
+    },
+    {
+      "id": "atsu-is-locked-up-on-the-mcdu",
+      "aircraftType": "A320 Family",
+      "ataChapter": "46",
+      "ataTitle": "Information System (ATSU)",
+      "faultTitle": "ATSU IS LOCKED UP ON THE MCDU",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 3 seconds, then close. If this does not work pull and reset these circuit breakers (49VU-MCDU#1/B01)+(49VU SDAC#1/F04)+(49VU FWC#1/F01)+(121VU CFDIU/J18) (121VU VHF#3/L05)+(121VU MCDU#2/N20)+(121VU FWC#2/Q07)"
+      ],
+      "results": {
+        "pass": "ATSU selectable.",
+        "fail": "ATSU not selectable."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/46/46atsulocked.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/46/atsuCB.gif",
+      "resetDuration": "Approx. 2 minutes.",
+      "notes": [
+        "Here you go Lukas!."
+      ],
+      "signOffRefs": [
+        "AMM46-21-00-740-001."
+      ],
+      "applicableDeferrals": [
+        "MEL23-24-01=ACARS.",
+        "MEL46-21-01=ATSU."
+      ]
+    }
+  ]
+}

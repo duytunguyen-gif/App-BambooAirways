@@ -1,0 +1,168 @@
+{
+  "ataNumber": "24",
+  "ataTitle": "Electrical Power",
+  "items": [
+    {
+      "id": "engine-generators-parameters-not-shown",
+      "aircraftType": "A320 Family",
+      "ataChapter": "24",
+      "ataTitle": "Electrical Power",
+      "faultTitle": "ENGINE GENERATORS PARAMETERS NOT SHOWN",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, Engines shut down."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated circuit breakers for 1 second, then close."
+      ],
+      "results": {
+        "pass": "Engine parameters return to nomral.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/24/24engineparameters.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "1 seconds.",
+      "notes": [
+        "Associated GCU or EGIU is at fault, There is a reset button on each GCU (Nose E&E)."
+      ],
+      "signOffRefs": [
+        "TSM24-22-00-810-805 (#1 engine parameter check).",
+        "TSM24-22-00-810-807 (#2 engine parameter check)."
+      ],
+      "applicableDeferrals": [
+        "MEL24-20-01=Engine Driven Generator."
+      ]
+    },
+    {
+      "id": "elec-circuit-breaker-tripped",
+      "aircraftType": "A320 Family",
+      "ataChapter": "24",
+      "ataTitle": "Electrical Power",
+      "faultTitle": "ELEC-CIRCUIT BREAKER TRIPPED",
+      "aircraftConfigurationPriorToReset": [
+        "No specific."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Reset tripped circuit breaker only once, If unsuccessful, do not make second attempt, troubleshoot and fix problem."
+      ],
+      "results": {
+        "pass": "Message clears, associated system operates.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/24/24circuitbreaker.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "If no tripped breakers can be located, a green circuit breaker in the identified panel has failed. Remember, green breakers do exist in relay panels 105VU and 106VU located in the E&E bay."
+      ],
+      "signOffRefs": [
+        "US AMM CHAPTER20-24-20."
+      ],
+      "applicableDeferrals": [
+        "MEL ?"
+      ]
+    },
+    {
+      "id": "transformer-rectifier-problems",
+      "aircraftType": "A320 Family",
+      "ataChapter": "24",
+      "ataTitle": "Electrical Power",
+      "faultTitle": "TRANSFORMER RECTIFIER PROBLEMS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, reset T/R’s through MCDU or all three using guarded button on 103VU panel in E&E bay. If unsuccessful, reset associated breaker."
+      ],
+      "results": {
+        "pass": "T/R operated correctly.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/24/24tr.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/24/tr.gif",
+      "resetDuration": "1 seconds.",
+      "notes": [
+        "If ESS TR3 is in operation with TR1 & TR2 sericable, release the AC ESS FEED pushbutton on the 35VU, than push the AC ESS FEED pushbutton. ESS TR3 will return to standby."
+      ],
+      "signOffRefs": [
+        "TSM24-30-00-810-801 (#1 TR test).",
+        "TSM24-30-00-810-802 (#2 TR test)."
+      ],
+      "applicableDeferrals": [
+        "MEL24-30-01=Transformer/Rectifier Units (TR)."
+      ]
+    },
+    {
+      "id": "elec-bcl-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "24",
+      "ataTitle": "Electrical Power",
+      "faultTitle": "ELEC-BCL 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Reset using associated battery pushbutton in overhead. If no help, open associated breakers for 1 second, then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/24/24bcl.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/24/bcl.gif",
+      "resetDuration": "10 seconds.",
+      "notes": [
+        "All curcuit breakers are located on the 105VU in the E&E panel."
+      ],
+      "signOffRefs": [
+        "AMM24-38-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "No MEL"
+      ]
+    },
+    {
+      "id": "ground-power-won-t-connect-no-avail-light-in-pushbutton",
+      "aircraftType": "A320 Family",
+      "ataChapter": "24",
+      "ataTitle": "Electrical Power",
+      "faultTitle": "GROUND POWER WON’T CONNECT, NO AVAIL LIGHT IN PUSHBUTTON",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped, APU stopped, ground power connected."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open breaker , then close."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/24/24groundpower.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/24/groundpower.gif",
+      "resetDuration": "1 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM24-41-00-740-002."
+      ],
+      "applicableDeferrals": [
+        "MEL24-41-01=External Power Control",
+        "MEL24-41-02=”Not in use” or “AVIL” light inop",
+        "MEL24-41-03=EXT PWR PB Switch"
+      ]
+    }
+  ]
+}

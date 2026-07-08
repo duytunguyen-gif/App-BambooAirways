@@ -1,0 +1,383 @@
+{
+  "ataNumber": "31",
+  "ataTitle": "Indications",
+  "items": [
+    {
+      "id": "class-2-acms-message-displayed",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "Class 2 ACMS message displayed",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "ACMS message clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31acms.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/dmu.gif",
+      "resetDuration": "40 seconds.",
+      "notes": [
+        "ACMS = Aircraft Condition Monitor Systems."
+      ],
+      "signOffRefs": [
+        "AMM31-36-00-710-001"
+      ],
+      "applicableDeferrals": [
+        "MEL31-00 Class 2 Maintenance Message"
+      ]
+    },
+    {
+      "id": "display-units-shows-teleloading",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "DISPLAY UNITS SHOWS TELELOADING",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First, attempt to switch affected display unit to DMC #3 using switching panel. Next, open associated display unit circuit breaker for 10 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Display unit image is recovered.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31teleloading.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/teleloading.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "Also try reset of associated DMC. (DMC #1 = E11) (DMC #2 = Q8) (DMC #3 = Q9). All DMC’s must be the same manufacturer part number."
+      ],
+      "signOffRefs": [
+        "AMM31-60-00-710-001. (EIS start)"
+      ],
+      "applicableDeferrals": [
+        "MEL31-63-01=Display Units."
+      ]
+    },
+    {
+      "id": "display-unit-is-blank-or-has-diagonal-line",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "DISPLAY UNIT IS BLANK OR HAS DIAGONAL LINE",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First select DMC #3 to isolate fault to DU or DMC. If DMC is at fault reset above associated circuit breaker for 5 seconds. If fault is with DU reset these (CAPT PFD/ND = G3/E1) (FO's PFD/ND = R3/R4) (Upper ECAM = E5) (Lower ECAM = R11)."
+      ],
+      "results": {
+        "pass": "Display operates normally.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31blankscreens.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/dmc.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM31-60-00-710-001. (EIS start)"
+      ],
+      "applicableDeferrals": [
+        "MEL31-63-01=Display Units.",
+        "MEL31-63-02=Display Management Computers."
+      ]
+    },
+    {
+      "id": "dmc-1-2-3-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "DMC 1(2)(3) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 5 seconds, then reset."
+      ],
+      "results": {
+        "pass": "ECAM warning clears, display unit works.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31DMC.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/dmcfull.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "Use switching panel 8VU to display DMC #3 images."
+      ],
+      "signOffRefs": [
+        "AMM31-60-00-710-001. (EIS start)"
+      ],
+      "applicableDeferrals": [
+        "MEL31-63-02=Display Management Computers."
+      ]
+    },
+    {
+      "id": "unable-to-switch-display-unit-du",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "UNABLE TO SWITCH DISPLAY UNIT (DU)",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 5 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Display unit image switches normally.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31switching.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/switching.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM31-60-00-710-001. (EIS start)"
+      ],
+      "applicableDeferrals": [
+        "MEL31-61-01=EIS Switching Systems."
+      ]
+    },
+    {
+      "id": "no-aids-prompt-on-mcdu",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "NO AIDS PROMPT ON MCDU",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers for 1 seconds, then reset."
+      ],
+      "results": {
+        "pass": "AIDS appears on MCDU menu page.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31aids.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/dmu.gif",
+      "resetDuration": "40 seconds.",
+      "notes": [
+        "There is a CFDS power up test bite. “CFDS-INSTRUMENT-DMU”."
+      ],
+      "signOffRefs": [
+        "AMM31-36-00-710-001"
+      ],
+      "applicableDeferrals": [
+        "MEL31-30-07 Data Management Unit (DMU)"
+      ]
+    },
+    {
+      "id": "pfr-prints-automatic-after-landing",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "PFR PRINTS AUTOMATIC AFTER LANDING",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Go to MCDU-CFDS, the next page. Select ACARS PRINT/PROGRAM. Then select post flight report PRINT to NO. Return to CFDS."
+      ],
+      "results": {
+        "pass": "PFR wont auto print.",
+        "fail": "PFR still auto prints."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31pfrprints.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "N/A"
+      ],
+      "applicableDeferrals": [
+        "N/A"
+      ]
+    },
+    {
+      "id": "flight-control-page-won-t-auto-display",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "FLIGHT CONTROL PAGE WON’T AUTO-DISPLAY",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, doors shut, one engine started."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Make sure “ALL” pushbutton light on ECAM control panel is extinguished. Move sidestick, If flight control page doesn’t auto display, open FWC #1 breaker and try again. If successful, FWC is culprit."
+      ],
+      "results": {
+        "pass": "Fault message is no longer displayed, flight control page auto popup functions normally.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31autodisplay.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/auto.gif",
+      "resetDuration": "50 seconds.",
+      "notes": [
+        "If any page on the ECAM control panel is manually selected, the auto-function is not operative."
+      ],
+      "signOffRefs": [
+        "AMM31-50-00-710-002."
+      ],
+      "applicableDeferrals": [
+        "MEL31-63-03=ECAM Memo Display."
+      ]
+    },
+    {
+      "id": "clock-doesn-t-agree-with-lower-ecam",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "CLOCK DOESN’T AGREE WITH LOWER ECAM",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 5 seconds, then reset."
+      ],
+      "results": {
+        "pass": "A/C clock and lower ECAM clock will agree.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31clock.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/clock.gif",
+      "resetDuration": "60 seconds.",
+      "notes": [
+        "Verify clock is correctly set prior to reset of CFDIU. Clock C/B’s are F11/N02/N03."
+      ],
+      "signOffRefs": [
+        "AMM31-21-00-710-002."
+      ],
+      "applicableDeferrals": [
+        "MEL31-21-01=Clock System."
+      ]
+    },
+    {
+      "id": "cfds-fault-message-prints-in-flight",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "CFDS FAULT MESSAGE PRINTS IN FLIGHT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Go to MCDU-CFDS, the next page. Select ACARS PRINT/PROGRAM. Then select REAL TIME FAIL and WARN print to OFF. Return to CFDS."
+      ],
+      "results": {
+        "pass": "fault message wont auto print.",
+        "fail": "fault message still auto prints."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31faultmessage.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "N/A"
+      ],
+      "applicableDeferrals": [
+        "N/A"
+      ]
+    },
+    {
+      "id": "sdac-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "SDAC 1(2) FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "On ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breakers together for 3 seconds, then reset."
+      ],
+      "results": {
+        "pass": "SDAC ECAM message clears",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31SDAC.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/sdac.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM31-50-00-710-003"
+      ],
+      "applicableDeferrals": [
+        "MEL31-55-01=System Data Concentrator Units."
+      ]
+    },
+    {
+      "id": "ecam-page-locked",
+      "aircraftType": "A320 Family",
+      "ataChapter": "31",
+      "ataTitle": "Indications",
+      "faultTitle": "ECAM PAGE LOCKED",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines stopped."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 5 seconds, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/31/31ecamlocked.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/31/ECAMLOCKED.gif",
+      "resetDuration": "60 seconds.",
+      "notes": [
+        "If both FWC’s are reset together, all warnings , will be inoperative durning the reset."
+      ],
+      "signOffRefs": [
+        "AMM31-50-00-710-004"
+      ],
+      "applicableDeferrals": [
+        "MEL31-56-01=ECAM Control Panel."
+      ]
+    }
+  ]
+}

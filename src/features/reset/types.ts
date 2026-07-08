@@ -41,6 +41,10 @@ export interface ResetFaultItem {
   system?: string; // e.g. "Rudder Trim / FAC"
   aircraftConfigurationPriorToReset: string[];
   circuitBreakersToReset: CircuitBreaker[];
+  /** Path (under public/) to the original CB chart image when the source lists
+   *  circuit breakers as a picture rather than text. Rendered as-is so nothing
+   *  is transcribed/guessed. e.g. "data/reset/images/22/ruddertrim.gif". */
+  cbImage?: string;
   stepsToClearWarning: string[];
   resetDuration?: string; // e.g. "90 seconds."
   results: ResetResults;

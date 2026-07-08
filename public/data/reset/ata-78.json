@@ -1,0 +1,101 @@
+{
+  "ataNumber": "78",
+  "ataTitle": "Exhaust (Reversers)",
+  "items": [
+    {
+      "id": "thrust-rev-fault-at-engine-shutdown",
+      "aircraftType": "A320 Family",
+      "ataChapter": "78",
+      "ataTitle": "Exhaust (Reversers)",
+      "faultTitle": "THRUST REV FAULT AT ENGINE SHUTDOWN",
+      "aircraftConfigurationPriorToReset": [
+        "No specific"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Warning will clear on its own within 5 minutes."
+      ],
+      "results": {
+        "pass": "N/A.",
+        "fail": "N/A."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/78/78engineshutdown.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "No troubleshooting required if warning is generated at engine shutdown."
+      ],
+      "signOffRefs": [
+        "CFM=AMM78-31-00-710-042.",
+        "V2500=AMM78-31-00-710-042."
+      ],
+      "applicableDeferrals": [
+        "MEL78-30-01=Thrust Reverser Systems."
+      ]
+    },
+    {
+      "id": "thrust-rev-test-thru-mcdu-won-t-pass",
+      "aircraftType": "A320 Family",
+      "ataChapter": "78",
+      "ataTitle": "Exhaust (Reversers)",
+      "faultTitle": "THRUST REV TEST THRU MCDU WON’T PASS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Test thrust reversers with engines running."
+      ],
+      "results": {
+        "pass": "N/A.",
+        "fail": "N/A."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/78/78withengines.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "See TSM 78-00-00-810-802, Thurst reverser test without CFDS, Engines running."
+      ],
+      "signOffRefs": [
+        "AMM78-31-00-710-04301. (Test with engines running)"
+      ],
+      "applicableDeferrals": [
+        "MEL78-30-01=Thrust Reverser Systems."
+      ]
+    },
+    {
+      "id": "thrust-rev-fault-at-engine-start",
+      "aircraftType": "A320 Family",
+      "ataChapter": "78",
+      "ataTitle": "Exhaust (Reversers)",
+      "faultTitle": "THRUST REV FAULT AT ENGINE START",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Shut down engine. Put engine mode select switch to IGN, wait 15 seconds, then back to norm. If no faults, start engines."
+      ],
+      "results": {
+        "pass": "N/A.",
+        "fail": "N/A."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/78/78enginestart.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "To prevent fault, select FADEC’s on from the 50VU maintenance panel prior to mode select switch to IGN."
+      ],
+      "signOffRefs": [
+        "CFM=AMM78-31-00-710-042.",
+        "V2500=AMM78-31-00-710-042."
+      ],
+      "applicableDeferrals": [
+        "MEL78-30-01=Thrust Reverser Systems."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "ataNumber": "36",
+  "ataTitle": "Pneumatic Systems",
+  "items": [
+    {
+      "id": "class-2-air-bleed-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "36",
+      "ataTitle": "Pneumatic Systems",
+      "faultTitle": "CLASS 2 AIR BLEED MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, emergency electrical generator test recently performed."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open both FWC breaker for 5 seconds, then reset. If no help reset both BMC’s (D11,D12,Z22,Z23) and FWC breakers again. If no help check BMC for faults."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains. Check BMC for faults."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/36/36class2airbleed.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "90 seconds, triple click.",
+      "notes": [
+        "This fault is latched after Emergency Generator test."
+      ],
+      "signOffRefs": [
+        "AMM36-11-00-740-001 (BMC TEST)."
+      ],
+      "applicableDeferrals": [
+        "MEL36-00=Class 2 Maintenance MSG on ECAM."
+      ],
+      "warnings": [
+        "Ảnh bảng CB không có ở tài liệu nguồn — cần nhập tay & đối chiếu AMM."
+      ]
+    },
+    {
+      "id": "air-bleed-left-wing-leak-loop-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "36",
+      "ataTitle": "Pneumatic Systems",
+      "faultTitle": "AIR BLEED - LEFT WING LEAK/LOOP MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, packs running, engines off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Reset affected bleed pushbutton first, no help open associated breakers for 1 second, then reset."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains. Check BMC for faults."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/36/36leftwingleak.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/36/BMC.gif",
+      "resetDuration": "25 seconds.",
+      "notes": [
+        "Fault means high temp(or bleed leak) sensed by one of two loops. Can be generated in hot station, then clear in cool station due to poor loop installation,(factory problem)."
+      ],
+      "signOffRefs": [
+        "AMM36-11-00-740-001 (BMC TEST)."
+      ],
+      "applicableDeferrals": [
+        "MEL36-00=Class 2 Maintenance Messages only"
+      ]
+    },
+    {
+      "id": "air-bleed-right-wing-leak-loop-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "36",
+      "ataTitle": "Pneumatic Systems",
+      "faultTitle": "AIR BLEED - RIGHT WING LEAK/LOOP MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, packs running, engines off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Reset affected bleed pushbutton first, no help open associated breakers for 1 second, then reset."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains. Check BMC for faults."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/36/36rightwingleak.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/36/BMC.gif",
+      "resetDuration": "25 seconds.",
+      "notes": [
+        "Fault means high temp(or bleed leak) sensed by one of two loops. Can be generated in hot station, then clear in cool station due to poor loop installation,(factory problem)."
+      ],
+      "signOffRefs": [
+        "AMM36-11-00-740-001 (BMC TEST)."
+      ],
+      "applicableDeferrals": [
+        "MEL36-00=Class 2 Maintenance Messages only"
+      ]
+    },
+    {
+      "id": "bmc-problems",
+      "aircraftType": "A320 Family",
+      "ataChapter": "36",
+      "ataTitle": "Pneumatic Systems",
+      "faultTitle": "BMC PROBLEMS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 1 second, then reset."
+      ],
+      "results": {
+        "pass": "Message disappears.",
+        "fail": "Message remains. Check BMC for faults."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/36/36bmcproblem.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/36/BMC.gif",
+      "resetDuration": "25 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM36-11-00-740-001 (BMC TEST)."
+      ],
+      "applicableDeferrals": [
+        "MEL36-11-01=Bleed Air Systems."
+      ]
+    },
+    {
+      "id": "cross-bleed-valve-faults",
+      "aircraftType": "A320 Family",
+      "ataChapter": "36",
+      "ataTitle": "Pneumatic Systems",
+      "faultTitle": "CROSS BLEED VALVE FAULTS",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground. Packs off."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated circuit breaker for 1 second, then reset."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/36/36crossbleedvalve.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/36/crossbleed.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "No notes at this time."
+      ],
+      "signOffRefs": [
+        "AMM36-12-00-710-001 (Crossbleed Valve Ops Test)."
+      ],
+      "applicableDeferrals": [
+        "MEL36-12-04=Cross Bleed Valve"
+      ]
+    }
+  ]
+}

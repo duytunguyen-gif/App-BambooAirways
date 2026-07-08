@@ -1,0 +1,38 @@
+{
+  "ataNumber": "79",
+  "ataTitle": "Engine Oil",
+  "items": [
+    {
+      "id": "engine-1-2-oil-filter-clog-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "79",
+      "ataTitle": "Engine Oil",
+      "faultTitle": "ENGINE 1(2) OIL FILTER CLOG MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "No specific"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "First select FADEC’s on then off to reset memory. Check the master chip detector and scavage filters for contamination. Then run engine at idle making sure the oil firlter clog message doesn’t appear. Recheck chip detector and filter again."
+      ],
+      "results": {
+        "pass": "N/A.",
+        "fail": "N/A."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/79/79clogged.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "notes": [
+        "This message could appear momentarily if OAT is below freezing."
+      ],
+      "signOffRefs": [
+        "CFM=TSM79-00-00-810-820.",
+        "V2500=TSM79-30-00-810-803."
+      ],
+      "applicableDeferrals": [
+        "MEL79-35-01=Engine Oli Filter Clog Message."
+      ]
+    }
+  ]
+}

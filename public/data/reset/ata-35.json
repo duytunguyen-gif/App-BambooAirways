@@ -1,0 +1,34 @@
+{
+  "ataNumber": "35",
+  "ataTitle": "Oxygen",
+  "items": [
+    {
+      "id": "crew-oxygen-low-pressure-message",
+      "aircraftType": "A320 Family",
+      "ataChapter": "35",
+      "ataTitle": "Oxygen",
+      "faultTitle": "CREW OXYGEN LOW PRESSURE MESSAGE",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Verify crew oxygen pushbutton swich is selected “ON”. If no help, make sure the crew oxygen bottle valve is turned on. The bottle is in the FWD left equipment bay."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/35/35lowpress.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "TSM35-10-00-810-820."
+      ],
+      "applicableDeferrals": [
+        "MEL35-13-01=ECAM Page Indications."
+      ]
+    }
+  ]
+}

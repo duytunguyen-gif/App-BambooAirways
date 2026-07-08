@@ -7,9 +7,30 @@ import { CopyButton } from "./ui";
 
 export default function CircuitBreakerTable({
   cbs,
+  cbImage,
 }: {
   cbs: CircuitBreaker[];
+  cbImage?: string;
 }) {
+  // When the source lists CBs as an image (not text), show the original chart
+  // verbatim — nothing is transcribed or guessed.
+  if (cbs.length === 0 && cbImage) {
+    const src = `${import.meta.env.BASE_URL}${cbImage.replace(/^\//, "")}`;
+    return (
+      <div>
+        <img
+          src={src}
+          alt="Circuit breakers chart (from source)"
+          loading="lazy"
+          className="w-full max-w-sm rounded-lg border border-line-soft bg-white p-1"
+        />
+        <p className="mt-2 text-[11px] italic text-amber-200/80">
+          Bảng CB là ảnh từ tài liệu tham khảo — chưa kiểm chứng. Đối chiếu AMM
+          trước khi dùng.
+        </p>
+      </div>
+    );
+  }
   if (cbs.length === 0) {
     return (
       <p className="text-sm text-gray-500">Không có dữ liệu circuit breaker.</p>

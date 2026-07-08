@@ -1,0 +1,257 @@
+{
+  "ataNumber": "33",
+  "ataTitle": "Lights",
+  "items": [
+    {
+      "id": "integral-panel-lighting-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "33",
+      "ataTitle": "Lights",
+      "faultTitle": "INTEGRAL PANEL LIGHTING INOP",
+      "aircraftConfigurationPriorToReset": [
+        "No specific"
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "If multiple panel lights are inop, a fuse is blown in the associated light controller. Replace associated fuse, or controller."
+      ],
+      "results": {
+        "pass": "Panel lights work normally.",
+        "fail": "Panel lights remain inop."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/33/33integralpanel.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "AMM33-13-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL33-10-01=Instrument Panel Lighting System."
+      ]
+    },
+    {
+      "id": "cabin-lights-stuck-in-bright",
+      "aircraftType": "A320 Family",
+      "ataChapter": "33",
+      "ataTitle": "Lights",
+      "faultTitle": "CABIN LIGHTS STUCK IN BRIGHT",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 3 seconds, then reset. If no help, reset CIDS or associated DEU thru PTP."
+      ],
+      "results": {
+        "pass": "Light dims.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/33/33cabinbrite.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/33/DEUA.gif",
+      "resetDuration": "2 seconds.",
+      "notes": [
+        "If a couple successive rows of cabin lights won’t dim, associated DEU is failed."
+      ],
+      "signOffRefs": [
+        "AMM33-21-00-710-001 (lights test).",
+        "AMM23-73-00-740-005 (CIDS bite)."
+      ],
+      "applicableDeferrals": [
+        "MEL23-73-02=DEU#A.",
+        "MEL33-21-01=Cabin Light System."
+      ]
+    },
+    {
+      "id": "strobe-light-won-t-shut-off",
+      "aircraftType": "A320 Family",
+      "ataChapter": "33",
+      "ataTitle": "Lights",
+      "faultTitle": "STROBE LIGHT WON’T SHUT OFF",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open breaker to stop strobe lights flashing,replace 12LV relay to fix problem."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/33/33strobelight.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/33/strobelight.gif",
+      "resetDuration": "N/A",
+      "notes": [
+        "The relay FIN number is 12LV P/N E0246-115B0 M&E-26-2400-3-0159."
+      ],
+      "signOffRefs": [
+        "AMM33-48-00-710-002."
+      ],
+      "applicableDeferrals": [
+        "MEL33-40-08=Strobe Lights."
+      ]
+    },
+    {
+      "id": "cockpit-floor-console-briefcase-lights-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "33",
+      "ataTitle": "Lights",
+      "faultTitle": "COCKPIT FLOOR/CONSOLE/BRIEFCASE LIGHTS INOP",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Check the condition of underseat lights for damage sockets."
+      ],
+      "results": {
+        "pass": "Panel lights work normally.",
+        "fail": "Panel lights remain inop."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/33/33briefcaselights.html",
+      "updatedAt": "2026-07-08",
+      "resetDuration": "N/A.",
+      "signOffRefs": [
+        "AMM33-12-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL33-10-01=Cockpit Lighting System."
+      ]
+    },
+    {
+      "id": "cabin-lights-won-t-turn-on",
+      "aircraftType": "A320 Family",
+      "ataChapter": "33",
+      "ataTitle": "Lights",
+      "faultTitle": "CABIN LIGHTS WON’T TURN ON",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 3 seconds, then reset. If no help, reset CIDS thru PTP or MCDU."
+      ],
+      "results": {
+        "pass": "Lights turn on.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/33/33cabinlightsoff.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/33/FAP.gif",
+      "resetDuration": "2 seconds.",
+      "notes": [
+        "If a couple successive rows of cabin lights won’t turn on, associated DEU is failed."
+      ],
+      "signOffRefs": [
+        "AMM33-21-00-710-001 (lights test).",
+        "AMM23-73-00-740-005 (CIDS bite)."
+      ],
+      "applicableDeferrals": [
+        "MEL23-73-02=DEU#A.",
+        "MEL33-21-01=Cabin Light System."
+      ]
+    },
+    {
+      "id": "reading-lights-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "33",
+      "ataTitle": "Lights",
+      "faultTitle": "READING LIGHTS INOP",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, reading lights switch on FAP selected “ON”."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 1 seconds, then reset. If no help, reset CIDS thru PTP or MCDU."
+      ],
+      "results": {
+        "pass": "Reading lights operate.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/33/33readinglight.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/33/readinglights.gif",
+      "resetDuration": "1 seconds.",
+      "notes": [
+        "If no help, relamp inop reading light. In no help, replaced PCB fuse, If no help replaced the PCB."
+      ],
+      "signOffRefs": [
+        "AMM33-25-00-710-001 (lights test).",
+        "AMM23-73-00-740-005 (CIDS bite)."
+      ],
+      "applicableDeferrals": [
+        "MEL33-20-01=Cabin Lighting System."
+      ]
+    },
+    {
+      "id": "no-lights-in-mlg-wheel-well-areas",
+      "aircraftType": "A320 Family",
+      "ataChapter": "33",
+      "ataTitle": "Lights",
+      "faultTitle": "NO LIGHTS IN MLG WHEEL WELL AREAS",
+      "aircraftConfigurationPriorToReset": [
+        "None specfic."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 1 seconds, then reset. No help, relamp or tap lens."
+      ],
+      "results": {
+        "pass": "Lights operates.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/33/33wheelwell.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/33/wheelwell.gif",
+      "resetDuration": "1 seconds.",
+      "notes": [
+        "MLG wheel well light bulb P/N#311."
+      ],
+      "signOffRefs": [
+        "AMM33-37-00-710-001"
+      ],
+      "applicableDeferrals": [
+        "MEL33-30-01=Cargo Service Lighting System."
+      ]
+    },
+    {
+      "id": "emergency-lights-inop",
+      "aircraftType": "A320 Family",
+      "ataChapter": "33",
+      "ataTitle": "Lights",
+      "faultTitle": "EMERGENCY LIGHTS INOP",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated breaker for 1 seconds, then reset. If multiple lights are inop, perform EPSU test from PTP or individual EPSU."
+      ],
+      "results": {
+        "pass": "Lights operates.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/33/33EPSU.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/33/emergency.gif",
+      "resetDuration": "1 seconds.",
+      "signOffRefs": [
+        "AMM33-51-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL33-50-02=Overhead Emergency Lights.",
+        "MEL33-50-03=Floor Path Emergency Lights."
+      ]
+    }
+  ]
+}

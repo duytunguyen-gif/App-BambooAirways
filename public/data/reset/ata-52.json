@@ -1,0 +1,71 @@
+{
+  "ataNumber": "52",
+  "ataTitle": "Doors",
+  "items": [
+    {
+      "id": "cockpit-door-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "52",
+      "ataTitle": "Doors",
+      "faultTitle": "COCKPIT DOOR FAULT",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Open associated circuit breakers for 5 seconds, then reset. If no help, check for faults on the overhead door controller."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/52/52cockpit.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/52/cockpit.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "Overhead door controller."
+      ],
+      "signOffRefs": [
+        "AMM52-51-00-710-001."
+      ],
+      "applicableDeferrals": [
+        "MEL52-50-01=Door Lock Solenoid.",
+        "MEL52-50-02=Door Locking System."
+      ]
+    },
+    {
+      "id": "cabin-door-pressure-light-flashing",
+      "aircraftType": "A320 Family",
+      "ataChapter": "52",
+      "ataTitle": "Doors",
+      "faultTitle": "CABIN DOOR PRESSURE LIGHT FLASHING",
+      "aircraftConfigurationPriorToReset": [
+        "Aircraft on ground, engines shut down, door disarmed, no risidual cabin pressure on board."
+      ],
+      "circuitBreakersToReset": [],
+      "stepsToClearWarning": [
+        "Try reseting above circuit breaker, if no help T/S by removing the connector from the 14WN pressure switch in FWD E&E. If light extingishes change switch."
+      ],
+      "results": {
+        "pass": "Fault clears.",
+        "fail": "Fault remains."
+      },
+      "verifiedStatus": "pending",
+      "sourceRef": "http://mobile.airlinetechs.com/airbus/52/52flashing.html",
+      "updatedAt": "2026-07-08",
+      "cbImage": "data/reset/images/52/flashing.gif",
+      "resetDuration": "5 seconds.",
+      "notes": [
+        "Light normally flashes when both engines are shut down, the associated slide is disarmed and cabin pressure is greater then .036 PSI."
+      ],
+      "signOffRefs": [
+        "TSM52-73-00-810-801."
+      ],
+      "applicableDeferrals": [
+        "MEL52-70-02=Cabin Pressure Light On Door."
+      ]
+    }
+  ]
+}
