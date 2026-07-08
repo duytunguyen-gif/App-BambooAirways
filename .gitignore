@@ -29,6 +29,10 @@ dist-ssr
 # PWA generated dev files
 dev-dist
 
+# ECAM Reset+ crawl preview output (third-party reference data — review only,
+# never committed or shipped). See scripts/crawl_reset.mjs.
+/scripts/crawl-output/
+
 # Editor / OS
 .vscode/*
 !.vscode/extensions.json

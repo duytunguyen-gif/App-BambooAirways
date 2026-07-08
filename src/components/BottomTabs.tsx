@@ -1,10 +1,11 @@
-export type TabKey = "fuelCalc" | "fuelEst" | "mel" | "caav";
+export type TabKey = "fuelCalc" | "fuelEst" | "mel" | "caav" | "reset";
 
 const TABS: { key: TabKey; label: string }[] = [
   { key: "fuelCalc", label: "Fuel Calc" },
   { key: "fuelEst", label: "Fuel Est" },
   { key: "mel", label: "MEL" },
   { key: "caav", label: "CAAV" },
+  { key: "reset", label: "ECAM+" },
 ];
 
 interface BottomTabsProps {
@@ -29,7 +30,7 @@ export default function BottomTabs({ active, onChange }: BottomTabsProps) {
               type="button"
               aria-current={isActive ? "page" : undefined}
               onClick={() => onChange(tab.key)}
-              className={`flex min-h-[56px] flex-1 items-center justify-center px-2 text-base font-semibold transition-colors ${
+              className={`flex min-h-[56px] flex-1 items-center justify-center px-1 text-center text-sm font-semibold leading-tight transition-colors ${
                 isActive
                   ? "bg-bamboo-greenDark/60 text-white"
                   : "text-gray-500 hover:text-gray-300"

@@ -7,6 +7,8 @@ import FuelEst from "./tabs/FuelEst";
 import Mel from "./tabs/Mel";
 import CaavTab from "./features/caav/CaavTab";
 import { CAAV_STORAGE_KEYS } from "./features/caav/storage";
+import ResetTab from "./features/reset/ResetTab";
+import { RESET_STORAGE_KEYS } from "./features/reset/storage";
 import { useKeyboardInsets } from "./lib/useKeyboardInsets";
 import { load, remove, save } from "./lib/storage";
 
@@ -31,9 +33,14 @@ export default function App() {
   }, [settings]);
 
   const resetAll = () => {
-    ["fuelcalc", "fuelest", "mel", "settings", ...CAAV_STORAGE_KEYS].forEach(
-      remove
-    );
+    [
+      "fuelcalc",
+      "fuelest",
+      "mel",
+      "settings",
+      ...CAAV_STORAGE_KEYS,
+      ...RESET_STORAGE_KEYS,
+    ].forEach(remove);
     setSettings(DEFAULT_SETTINGS);
     setNonce((n) => n + 1);
   };
@@ -76,6 +83,7 @@ export default function App() {
             <Mel excludeDayOfDiscovery={settings.excludeDayOfDiscovery} />
           )}
           {tab === "caav" && <CaavTab />}
+          {tab === "reset" && <ResetTab />}
         </div>
 
         <footer className="mt-8 border-t border-line-soft pt-4 text-center text-[11px] leading-relaxed text-gray-500">

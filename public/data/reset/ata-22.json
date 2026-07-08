@@ -1,0 +1,44 @@
+{
+  "ataNumber": "22",
+  "ataTitle": "Auto Flight",
+  "items": [
+    {
+      "id": "auto-flt-rudder-trim-1-2-fault",
+      "aircraftType": "A320 Family",
+      "ataChapter": "22",
+      "ataTitle": "Auto Flight",
+      "faultTitle": "AUTO FLT - RUDDER TRIM 1(2) FAULT",
+      "system": "Rudder Trim / FAC",
+      "aircraftConfigurationPriorToReset": [
+        "Both engines stopped and hydraulics off."
+      ],
+      "circuitBreakersToReset": [
+        { "label": "FAC 1", "panel": "49VU", "number": "B3, B4" },
+        { "label": "FAC 2", "panel": "122VU", "number": "M18, M19" },
+        { "label": "RUD TRIM IND.", "panel": "121VU", "number": "M20" }
+      ],
+      "stepsToClearWarning": [
+        "First, reset associated FAC pushbutton. If no help, open associated FAC breakers for 10 seconds, then close."
+      ],
+      "resetDuration": "90 seconds.",
+      "results": {
+        "pass": "Fault messages disappear.",
+        "fail": "Message remains."
+      },
+      "notes": [
+        "After reset, energize hydraulics, verify no Yaw damper message display."
+      ],
+      "signOffRefs": [
+        "AMM22-91-00-710-001. (AFS Ground Scan)",
+        "AMM22-96-00-710-001-A. (AFS Test)"
+      ],
+      "applicableDeferrals": [
+        "MEL27-22-01 = Rudder Trim Systems."
+      ],
+      "sourceRef": "Sample from user-provided screenshot — NOT yet verified against approved AMM.",
+      "verifiedStatus": "pending",
+      "tags": ["AUTO FLT", "RUDDER TRIM", "FAC", "A320"],
+      "updatedAt": "2026-07-08"
+    }
+  ]
+}
