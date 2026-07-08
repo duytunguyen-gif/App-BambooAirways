@@ -63,6 +63,9 @@
       ],
       "applicableDeferrals": [
         "MEL38-10-01=Potable Water Systems."
+      ],
+      "cbImages": [
+        "data/reset/images/38/FAP.gif"
       ]
     }
   ]

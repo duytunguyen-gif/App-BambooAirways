@@ -28,6 +28,11 @@
       ],
       "applicableDeferrals": [
         "MEL33-10-01=Instrument Panel Lighting System."
+      ],
+      "cbImages": [
+        "data/reset/images/33/control1.gif",
+        "data/reset/images/33/control2.gif",
+        "data/reset/images/33/control3.gif"
       ]
     },
     {
@@ -122,6 +127,9 @@
       ],
       "applicableDeferrals": [
         "MEL33-10-01=Cockpit Lighting System."
+      ],
+      "cbImages": [
+        "data/reset/images/33/cockpit.gif"
       ]
     },
     {

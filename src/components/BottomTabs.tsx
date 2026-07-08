@@ -1,8 +1,7 @@
-export type TabKey = "fuelCalc" | "fuelEst" | "mel" | "caav" | "reset";
+export type TabKey = "fuelCalc" | "mel" | "caav" | "reset";
 
 const TABS: { key: TabKey; label: string }[] = [
   { key: "fuelCalc", label: "Fuel Calc" },
-  { key: "fuelEst", label: "Fuel Est" },
   { key: "mel", label: "MEL" },
   { key: "caav", label: "CAAV" },
   { key: "reset", label: "ECAM+" },
@@ -13,7 +12,7 @@ interface BottomTabsProps {
   onChange: (key: TabKey) => void;
 }
 
-/** Fixed bottom navigation (3 top-level tabs), safe-area aware. */
+/** Fixed bottom navigation (top-level tabs), safe-area aware. */
 export default function BottomTabs({ active, onChange }: BottomTabsProps) {
   return (
     <nav

@@ -32,7 +32,8 @@
       ],
       "applicableDeferrals": [
         "MEL78-30-01=Thrust Reverser Systems."
-      ]
+      ],
+      "cbText": "None."
     },
     {
       "id": "thrust-rev-test-thru-mcdu-won-t-pass",
@@ -63,7 +64,8 @@
       ],
       "applicableDeferrals": [
         "MEL78-30-01=Thrust Reverser Systems."
-      ]
+      ],
+      "cbText": "None."
     },
     {
       "id": "thrust-rev-fault-at-engine-start",
@@ -95,6 +97,9 @@
       ],
       "applicableDeferrals": [
         "MEL78-30-01=Thrust Reverser Systems."
+      ],
+      "cbImages": [
+        "data/reset/images/78/masterswitch.gif"
       ]
     }
   ]

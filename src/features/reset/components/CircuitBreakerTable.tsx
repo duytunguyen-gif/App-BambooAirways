@@ -1,34 +1,57 @@
-/** Responsive circuit-breaker table with a per-table copy button. On narrow
- *  phones the table scrolls horizontally inside its own container so the page
- *  body never breaks layout. */
+/** Responsive circuit-breaker view. When the source lists CBs as one or more
+ *  images (panels / MCDU / schematic) we show the originals verbatim, framed
+ *  with a rounded green border to match the source chart. Text CB rows fall
+ *  back to a scrollable table. */
 import type { CircuitBreaker } from "../types";
 import { formatCircuitBreakers } from "../format";
 import { CopyButton } from "./ui";
 
+function CbImage({ src }: { src: string }) {
+  const url = `${import.meta.env.BASE_URL}${src.replace(/^\//, "")}`;
+  return (
+    <img
+      src={url}
+      alt="Circuit breakers (from source chart)"
+      className="w-full max-w-sm rounded-xl border-2 border-bamboo-green/70 bg-white"
+    />
+  );
+}
+
 export default function CircuitBreakerTable({
   cbs,
   cbImage,
+  cbImages,
+  cbText,
 }: {
   cbs: CircuitBreaker[];
   cbImage?: string;
+  cbImages?: string[];
+  cbText?: string;
 }) {
-  // When the source lists CBs as an image (not text), show the original chart
-  // verbatim — nothing is transcribed or guessed.
-  if (cbs.length === 0 && cbImage) {
-    const src = `${import.meta.env.BASE_URL}${cbImage.replace(/^\//, "")}`;
+  // Collect every source image (single legacy field + newer array), de-duped.
+  const images = [...(cbImages ?? []), ...(cbImage ? [cbImage] : [])].filter(
+    (v, i, a) => a.indexOf(v) === i
+  );
+
+  if (cbs.length === 0 && images.length > 0) {
     return (
-      <div>
-        <img
-          src={src}
-          alt="Circuit breakers chart (from source)"
-          loading="lazy"
-          className="w-full max-w-sm rounded-lg border border-line-soft bg-white p-1"
-        />
-        <p className="mt-2 text-[11px] italic text-amber-200/80">
-          Bảng CB là ảnh từ tài liệu tham khảo — chưa kiểm chứng. Đối chiếu AMM
-          trước khi dùng.
-        </p>
+      <div className="space-y-3">
+        {images.map((src) => (
+          <CbImage key={src} src={src} />
+        ))}
       </div>
+    );
+  }
+  // Source stated the breakers as words (e.g. "None.", "N34"), not a chart.
+  if (cbs.length === 0 && cbText) {
+    const isNone = /^none\.?$/i.test(cbText.trim());
+    return isNone ? (
+      <p className="text-sm text-gray-400">
+        Không có circuit breaker cần reset.{" "}
+        <span className="text-gray-500">(nguồn ghi: “None”)</span>
+      </p>
+    ) : (
+      <p className="text-sm font-semibold text-white">{cbText}</p>
     );
   }
   if (cbs.length === 0) {

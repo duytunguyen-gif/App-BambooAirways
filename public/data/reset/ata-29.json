@@ -60,7 +60,8 @@
       ],
       "applicableDeferrals": [
         "MEL29-23-01=Power Transfer Unit."
-      ]
+      ],
+      "cbText": "N34"
     },
     {
       "id": "hydraulic-system-schematic",
@@ -74,7 +75,10 @@
       "results": {},
       "verifiedStatus": "pending",
       "sourceRef": "http://mobile.airlinetechs.com/airbus/29/29schematic.html",
-      "updatedAt": "2026-07-08"
+      "updatedAt": "2026-07-08",
+      "cbImages": [
+        "data/reset/images/29/schematic.gif"
+      ]
     }
   ]
 }

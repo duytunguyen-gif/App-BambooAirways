@@ -22,7 +22,7 @@
       "verifiedStatus": "pending",
       "sourceRef": "http://mobile.airlinetechs.com/airbus/25/25crewseat.html",
       "updatedAt": "2026-07-08",
-      "cbImage": "data/reset/images/25/crew%20seats.gif",
+      "cbImage": "data/reset/images/25/crewseats.gif",
       "resetDuration": "1 second.",
       "notes": [
         "Additional circuit breaker is located under each seat on the control box."

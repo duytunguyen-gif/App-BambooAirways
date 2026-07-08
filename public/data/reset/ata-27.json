@@ -95,7 +95,8 @@
       ],
       "applicableDeferrals": [
         "MEL27-44-01=Stabilizer Actuator Electric Motors."
-      ]
+      ],
+      "cbText": "None"
     },
     {
       "id": "f-ctl-sec-1-2-3-fault-or-splr-fault",
@@ -226,7 +227,8 @@
       ],
       "applicableDeferrals": [
         "No MEL."
-      ]
+      ],
+      "cbText": "None"
     },
     {
       "id": "f-ctl-flap-slat-1-2-faults-or-slow-operation",
@@ -289,6 +291,9 @@
       ],
       "applicableDeferrals": [
         "MEL27-51-02=Flap Wing Tip Brake Solenoids."
+      ],
+      "cbImages": [
+        "data/reset/images/27/mcdu.gif"
       ]
     },
     {

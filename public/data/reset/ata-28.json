@@ -66,7 +66,8 @@
       ],
       "applicableDeferrals": [
         "MEL28-20-01=Automatic Fuel Feed System."
-      ]
+      ],
+      "cbText": "None"
     },
     {
       "id": "center-tank-low-pressure-warning",
@@ -97,6 +98,9 @@
       ],
       "applicableDeferrals": [
         "MEL28-21-02=Center Tank System."
+      ],
+      "cbImages": [
+        "data/reset/images/28/lowpress.gif"
       ]
     },
     {

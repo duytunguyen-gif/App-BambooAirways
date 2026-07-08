@@ -60,6 +60,9 @@
       ],
       "applicableDeferrals": [
         "No MEL"
+      ],
+      "cbImages": [
+        "data/reset/images/31/mcdu.gif"
       ]
     },
     {
@@ -91,6 +94,9 @@
       ],
       "applicableDeferrals": [
         "MEL32-42-03=BSCU."
+      ],
+      "cbImages": [
+        "data/reset/images/32/panel.gif"
       ]
     },
     {
@@ -218,6 +224,9 @@
       ],
       "applicableDeferrals": [
         "MEL32-60-04=N/WS Minor Fault Caution on ECAM."
+      ],
+      "cbImages": [
+        "data/reset/images/32/panel.gif"
       ]
     },
     {
@@ -246,6 +255,9 @@
       ],
       "applicableDeferrals": [
         "MEL32-51.02=Pedal DISC."
+      ],
+      "cbImages": [
+        "data/reset/images/32/stear.gif"
       ]
     }
   ]

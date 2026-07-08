@@ -32,6 +32,9 @@
       ],
       "applicableDeferrals": [
         "MEL24-20-01=Engine Driven Generator."
+      ],
+      "cbImages": [
+        "data/reset/images/24/engineparameters.jpg"
       ]
     },
     {
@@ -63,7 +66,8 @@
       ],
       "applicableDeferrals": [
         "MEL ?"
-      ]
+      ],
+      "cbText": "Tripped breaker."
     },
     {
       "id": "transformer-rectifier-problems",

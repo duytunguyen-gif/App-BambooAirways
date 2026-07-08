@@ -262,7 +262,8 @@
       ],
       "applicableDeferrals": [
         "MEL22-10-01=Autopilot Systems."
-      ]
+      ],
+      "cbText": "None"
     },
     {
       "id": "auto-flt-a-p-1-2-displayed-in-inop-status",
@@ -328,7 +329,8 @@
       ],
       "applicableDeferrals": [
         "MEL22-30-01=Autothrust Function."
-      ]
+      ],
+      "cbText": "None"
     },
     {
       "id": "opposite-fm-in-process-displayed-on-mcdu",

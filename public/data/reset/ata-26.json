@@ -92,6 +92,10 @@
       ],
       "applicableDeferrals": [
         "MEL26-17-02=Smoke Detection Control Unit (SDCU)."
+      ],
+      "cbImages": [
+        "data/reset/images/26/320.gif",
+        "data/reset/images/26/321.gif"
       ]
     },
     {

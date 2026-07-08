@@ -45,6 +45,13 @@ export interface ResetFaultItem {
    *  circuit breakers as a picture rather than text. Rendered as-is so nothing
    *  is transcribed/guessed. e.g. "data/reset/images/22/ruddertrim.gif". */
   cbImage?: string;
+  /** Multiple source illustrations (panels / MCDU / schematic) for this fault,
+   *  when the page carries more than one. Rendered verbatim alongside cbImage. */
+  cbImages?: string[];
+  /** Source's Circuit-breakers section text when it is written as words rather
+   *  than a chart image (e.g. "None.", "N34", "Tripped breaker."). Shown as-is
+   *  so the section reflects the source instead of looking like missing data. */
+  cbText?: string;
   stepsToClearWarning: string[];
   resetDuration?: string; // e.g. "90 seconds."
   results: ResetResults;

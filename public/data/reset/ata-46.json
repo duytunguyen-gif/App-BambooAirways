@@ -32,6 +32,9 @@
       "applicableDeferrals": [
         "MEL23-24-01=ACARS.",
         "MEL46-21-01=ATSU."
+      ],
+      "cbImages": [
+        "data/reset/images/46/atsu.gif"
       ]
     },
     {

@@ -9,8 +9,6 @@ import { SearchBar } from "../components/SearchControls";
 
 const SORTS: { key: SortKey; label: string }[] = [
   { key: "az", label: "A–Z" },
-  { key: "verifiedFirst", label: "Verified trước" },
-  { key: "recent", label: "Gần đây" },
   { key: "mostCb", label: "Nhiều CB" },
 ];
 
@@ -18,7 +16,6 @@ export default function ChapterDetail({
   ata,
   title,
   items,
-  recentOrder,
   onBack,
   onOpenItem,
   onOpenBreakers,
@@ -26,7 +23,6 @@ export default function ChapterDetail({
   ata: string;
   title: string;
   items: ResetFaultItem[];
-  recentOrder: Map<string, number>;
   onBack: () => void;
   onOpenItem: (id: string) => void;
   onOpenBreakers: () => void;
@@ -34,29 +30,19 @@ export default function ChapterDetail({
   const [query, setQuery] = useState("");
   const [sort, setSort] = useState<SortKey>("az");
 
-  const verified = items.filter((i) => i.verifiedStatus === "verified").length;
-  const pending = items.length - verified;
-
   const shown = useMemo(
-    () => sortItems(searchItems(items, query), sort, recentOrder),
-    [items, query, sort, recentOrder]
+    () => sortItems(searchItems(items, query), sort),
+    [items, query, sort]
   );
+
+  // The aggregate CB table only has content when items carry text CB rows.
+  const hasTextCb = items.some((i) => i.circuitBreakersToReset.length > 0);
 
   return (
     <div>
       <ScreenHeader title={`ATA ${ata} — ${title}`} subtitle={`${items.length} mục`} onBack={onBack} />
 
-      <div className="mb-3 flex flex-wrap gap-1.5 text-[11px]">
-        <span className="rounded-full bg-ink-700 px-2 py-0.5 font-semibold text-gray-300">{items.length} mục</span>
-        {verified > 0 && (
-          <span className="rounded-full bg-bamboo-green/15 px-2 py-0.5 font-semibold text-bamboo-green">{verified} verified</span>
-        )}
-        {pending > 0 && (
-          <span className="rounded-full bg-warn-orange/15 px-2 py-0.5 font-semibold text-amber-300">{pending} pending</span>
-        )}
-      </div>
-
-      {items.length > 0 && (
+      {hasTextCb && (
         <button
           type="button"
           onClick={onOpenBreakers}
@@ -91,7 +77,7 @@ export default function ChapterDetail({
         <EmptyBox
           message={
             items.length === 0
-              ? "Chưa có dữ liệu cho chương ATA này. Thêm ở màn Admin hoặc import JSON."
+              ? "Chưa có dữ liệu cho chương ATA này."
               : "Không tìm thấy mục phù hợp."
           }
         />

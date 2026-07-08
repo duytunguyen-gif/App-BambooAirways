@@ -37,6 +37,8 @@ export const resetFaultItemSchema = z.object({
   aircraftConfigurationPriorToReset: z.array(z.string()).default([]),
   circuitBreakersToReset: z.array(circuitBreakerSchema).default([]),
   cbImage: z.string().optional(),
+  cbImages: z.array(z.string()).optional(),
+  cbText: z.string().optional(),
   stepsToClearWarning: z.array(z.string()).default([]),
   resetDuration: z.string().optional(),
   results: resetResultsSchema.default({}),

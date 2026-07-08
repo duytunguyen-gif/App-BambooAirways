@@ -34,6 +34,9 @@
       ],
       "warnings": [
         "Ảnh bảng CB không có ở tài liệu nguồn — cần nhập tay & đối chiếu AMM."
+      ],
+      "cbImages": [
+        "data/reset/images/31/FWC.gif"
       ]
     },
     {

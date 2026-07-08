@@ -93,6 +93,9 @@
       ],
       "applicableDeferrals": [
         "MEL34-10-01=ADIRS."
+      ],
+      "cbImages": [
+        "data/reset/images/34/MCDU.gif"
       ]
     },
     {
@@ -308,6 +311,9 @@
       ],
       "applicableDeferrals": [
         "MEL34-00-01=Autotune System."
+      ],
+      "cbImages": [
+        "data/reset/images/34/radio.gif"
       ]
     },
     {
@@ -336,6 +342,9 @@
       ],
       "applicableDeferrals": [
         "MEL34-58-01=Gobal Positioning System."
+      ],
+      "cbImages": [
+        "data/reset/images/34/MCDUC.gif"
       ]
     },
     {

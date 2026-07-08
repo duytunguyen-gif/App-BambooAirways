@@ -1,6 +1,4 @@
-/** Search input + quick-filter chips used on Home and the chapter/CB screens. */
-import type { VerifiedStatus } from "../types";
-
+/** Search input used on Home and the chapter/CB screens. */
 export function SearchBar({
   value,
   onChange,
@@ -40,64 +38,6 @@ export function SearchBar({
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
         </button>
       )}
-    </div>
-  );
-}
-
-export interface QuickFilterState {
-  verifiedStatus?: VerifiedStatus;
-  hasCb?: boolean;
-  favorite?: boolean;
-}
-
-function Chip({
-  active,
-  onClick,
-  children,
-}: {
-  active: boolean;
-  onClick: () => void;
-  children: React.ReactNode;
-}) {
-  return (
-    <button
-      type="button"
-      onClick={onClick}
-      aria-pressed={active}
-      className={`shrink-0 rounded-full border px-3 py-1.5 text-xs font-semibold transition-colors ${
-        active
-          ? "border-bamboo-green bg-bamboo-green/15 text-bamboo-green"
-          : "border-line-soft bg-ink-800 text-gray-400 hover:text-white"
-      }`}
-    >
-      {children}
-    </button>
-  );
-}
-
-export function QuickFilters({
-  state,
-  onChange,
-}: {
-  state: QuickFilterState;
-  onChange: (s: QuickFilterState) => void;
-}) {
-  const toggleStatus = (s: VerifiedStatus) =>
-    onChange({ ...state, verifiedStatus: state.verifiedStatus === s ? undefined : s });
-  return (
-    <div className="-mx-1 flex gap-2 overflow-x-auto px-1 pb-1">
-      <Chip active={state.verifiedStatus === "verified"} onClick={() => toggleStatus("verified")}>
-        Verified
-      </Chip>
-      <Chip active={state.verifiedStatus === "pending"} onClick={() => toggleStatus("pending")}>
-        Pending
-      </Chip>
-      <Chip active={!!state.hasCb} onClick={() => onChange({ ...state, hasCb: !state.hasCb })}>
-        Có CB
-      </Chip>
-      <Chip active={!!state.favorite} onClick={() => onChange({ ...state, favorite: !state.favorite })}>
-        ★ Favorite
-      </Chip>
     </div>
   );
 }

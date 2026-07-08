@@ -14,7 +14,10 @@
       "results": {},
       "verifiedStatus": "pending",
       "sourceRef": "http://mobile.airlinetechs.com/airbus/49/49honeywell.html",
-      "updatedAt": "2026-07-08"
+      "updatedAt": "2026-07-08",
+      "cbImages": [
+        "data/reset/images/49/apu131.JPG"
+      ]
     },
     {
       "id": "apu-will-not-start",
@@ -45,6 +48,9 @@
       ],
       "applicableDeferrals": [
         "MEL49-10-01=APU System."
+      ],
+      "cbImages": [
+        "data/reset/images/49/APU.gif"
       ]
     },
     {

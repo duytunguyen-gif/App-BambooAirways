@@ -15,10 +15,10 @@ export default defineConfig({
         "app-background.jpg",
       ],
       manifest: {
-        name: "Bamboo Fuel & MEL Tool",
-        short_name: "Fuel & MEL",
+        name: "BAV AMT Toolkit",
+        short_name: "BAV AMT Toolkit",
         description:
-          "Internal calculation aid for fuel uplift and MEL/defect interval dates.",
+          "Bộ công cụ cho thợ máy tàu bay: Fuel, MEL, ôn thi CAAV và tra cứu reset ECAM A320.",
         theme_color: "#0b0b0c",
         background_color: "#0b0b0c",
         display: "standalone",

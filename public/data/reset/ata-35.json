@@ -28,6 +28,9 @@
       ],
       "applicableDeferrals": [
         "MEL35-13-01=ECAM Page Indications."
+      ],
+      "cbImages": [
+        "data/reset/images/35/panel.gif"
       ]
     }
   ]

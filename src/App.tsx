@@ -3,7 +3,6 @@ import BottomTabs, { type TabKey } from "./components/BottomTabs";
 import SettingsSheet from "./components/SettingsSheet";
 import CafeModal from "./components/CafeModal";
 import FuelCalc from "./tabs/FuelCalc";
-import FuelEst from "./tabs/FuelEst";
 import Mel from "./tabs/Mel";
 import CaavTab from "./features/caav/CaavTab";
 import { CAAV_STORAGE_KEYS } from "./features/caav/storage";
@@ -60,7 +59,7 @@ export default function App() {
               className="h-8 w-10 object-contain"
             />
             <h1 className="text-base font-bold text-white">
-              Bamboo Fuel &amp; MEL Tool
+              BAV AMT Toolkit
             </h1>
           </div>
           <button
@@ -78,7 +77,6 @@ export default function App() {
       <main className="relative z-10 mx-auto w-full max-w-md flex-1 px-4 pb-28 pt-4">
         <div key={nonce}>
           {tab === "fuelCalc" && <FuelCalc />}
-          {tab === "fuelEst" && <FuelEst />}
           {tab === "mel" && (
             <Mel excludeDayOfDiscovery={settings.excludeDayOfDiscovery} />
           )}
@@ -87,7 +85,8 @@ export default function App() {
         </div>
 
         <footer className="mt-8 border-t border-line-soft pt-4 text-center text-[11px] leading-relaxed text-gray-500">
-          Nếu bạn thấy ứng dụng này hữu ích, bạn có thể mời tôi một cốc cà phê{" "}
+          Nếu công cụ này giúp ích cho anh em trong công việc, anh em có thể mời
+          mình một ly cà phê{" "}
           <button
             type="button"
             onClick={() => setCafeOpen(true)}
@@ -95,9 +94,10 @@ export default function App() {
           >
             ở đây
           </button>
-          . Sự ủng hộ của anh em sẽ giúp tôi có thêm động lực duy trì, cải thiện
-          và build thêm nhiều công cụ thiết thực hơn cho việc làm việc, học tập
-          của đội thợ máy chúng ta.
+          . Mỗi sự ủng hộ của anh em — dù nhỏ — đều là nguồn động lực để mình tiếp
+          tục duy trì, hoàn thiện và phát triển thêm nhiều công cụ thiết thực hơn
+          cho công việc và học tập của anh em thợ máy chúng ta. Chân thành cảm ơn
+          anh em! ☕
           <span className="mt-2 block text-gray-600">Designed by Duy Tú</span>
         </footer>
       </main>

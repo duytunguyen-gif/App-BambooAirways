@@ -65,7 +65,8 @@
       "applicableDeferrals": [
         "MEL21-51-01=Flow Control Valve.",
         "MEL21-52-01=Packs."
-      ]
+      ],
+      "cbText": "None"
     },
     {
       "id": "vent-avncs-blower-fault",

@@ -5,5 +5,4 @@ export type Nav =
   | { view: "home" }
   | { view: "chapter"; ata: string }
   | { view: "breakers"; ata: string }
-  | { view: "item"; id: string }
-  | { view: "admin" };
+  | { view: "item"; id: string };
