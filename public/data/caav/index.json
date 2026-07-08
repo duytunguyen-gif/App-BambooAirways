@@ -1,0 +1,889 @@
+{
+ "generatedFrom": "caav/*.pdf",
+ "totalQuestions": 3509,
+ "examConfig": {
+  "A": {
+   "lawQuestions": 15,
+   "typeEngineQuestions": 55,
+   "totalQuestions": 70,
+   "passPercent": 75
+  },
+  "B1": {
+   "lawQuestions": 20,
+   "typeEngineQuestions": 80,
+   "totalQuestions": 100,
+   "passPercent": 75
+  },
+  "B2": {
+   "lawQuestions": 20,
+   "typeEngineQuestions": 80,
+   "totalQuestions": 100,
+   "passPercent": 75
+  }
+ },
+ "crsGroups": {
+  "A": {
+   "label": "CRS A",
+   "banks": [
+    "a320-a",
+    "cfm56-a",
+    "leap-a",
+    "v2500-a",
+    "law",
+    "english"
+   ]
+  },
+  "B1": {
+   "label": "CRS B1",
+   "banks": [
+    "a320-b1",
+    "cfm56-b1",
+    "leap-b1",
+    "v2500-b1",
+    "law",
+    "english"
+   ]
+  },
+  "B2": {
+   "label": "CRS B2",
+   "banks": [
+    "a320-b2",
+    "cfm56-b2",
+    "leap-b2",
+    "v2500-b2",
+    "law",
+    "english"
+   ]
+  }
+ },
+ "banks": [
+  {
+   "slug": "a320-a",
+   "sourceFile": "1. A320 Airfame CAT A (420 Questions) R01.pdf",
+   "crs": "A",
+   "cat": "CAT A",
+   "aircraftType": "A320",
+   "engineType": null,
+   "sectionType": "TypeEngine",
+   "stated": 420,
+   "total": 419,
+   "okCount": 419,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": "ATA 00",
+     "title": "MODULE 1 - - 20",
+     "count": 18
+    },
+    {
+     "code": "ATA 09",
+     "title": "TOWING & TAXIING",
+     "count": 10
+    },
+    {
+     "code": "ATA 12",
+     "title": "SERVICING",
+     "count": 25
+    },
+    {
+     "code": "ATA 21",
+     "title": "AIRCONDITIONING",
+     "count": 20
+    },
+    {
+     "code": "ATA 22",
+     "title": "AUTO FLIGHT",
+     "count": 8
+    },
+    {
+     "code": "ATA 23",
+     "title": "COMMUNICATIONS",
+     "count": 12
+    },
+    {
+     "code": "ATA 24",
+     "title": "ELECTRICAL SYSTEMS",
+     "count": 20
+    },
+    {
+     "code": "ATA 25",
+     "title": "EQUIPMENT & FURNISHINGS",
+     "count": 28
+    },
+    {
+     "code": "ATA 26",
+     "title": "FIRE PROTECTION",
+     "count": 19
+    },
+    {
+     "code": "ATA 27",
+     "title": "FLIGHT CONTROLS",
+     "count": 25
+    },
+    {
+     "code": "ATA 28",
+     "title": "FUEL",
+     "count": 24
+    },
+    {
+     "code": "ATA 29",
+     "title": "HYDRAULIC",
+     "count": 24
+    },
+    {
+     "code": "ATA 30",
+     "title": "ICE & RAIN PROTECTION",
+     "count": 14
+    },
+    {
+     "code": "ATA 31",
+     "title": "INDICATING / RECORDING SYSTEM",
+     "count": 20
+    },
+    {
+     "code": "ATA 32",
+     "title": "LANDING GEAR",
+     "count": 20
+    },
+    {
+     "code": "ATA 33",
+     "title": "LIGHTS",
+     "count": 11
+    },
+    {
+     "code": "ATA 34",
+     "title": "NAVIGATION SYSTEM",
+     "count": 9
+    },
+    {
+     "code": "ATA 35",
+     "title": "OXYGEN SYSTEM",
+     "count": 20
+    },
+    {
+     "code": "ATA 36",
+     "title": "PNEUMATIC",
+     "count": 17
+    },
+    {
+     "code": "ATA 38",
+     "title": "WATER & WASTE",
+     "count": 17
+    },
+    {
+     "code": "ATA 46",
+     "title": "INFORMATION SYSTEMS",
+     "count": 5
+    },
+    {
+     "code": "ATA 47",
+     "title": "FUEL TANK INERTING SYSTEM (FTIS)",
+     "count": 14
+    },
+    {
+     "code": "ATA 49",
+     "title": "AUXILLARY POWER UNIT",
+     "count": 23
+    },
+    {
+     "code": "ATA 52",
+     "title": "DOORS",
+     "count": 12
+    },
+    {
+     "code": "ATA 51",
+     "title": "57 STRUCTURE",
+     "count": 4
+    }
+   ]
+  },
+  {
+   "slug": "a320-b1",
+   "sourceFile": "2. A320 Airfame CAT B1 (620Questions) R01.pdf",
+   "crs": "B1",
+   "cat": "CAT B1",
+   "aircraftType": "A320",
+   "engineType": null,
+   "sectionType": "TypeEngine",
+   "stated": 620,
+   "total": 620,
+   "okCount": 620,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": "ATA 00",
+     "title": "20",
+     "count": 6
+    },
+    {
+     "code": "ATA 51",
+     "title": "TRANING MANUAL -00 STRUCTURE DIFFERENCES A318",
+     "count": 30
+    },
+    {
+     "code": "ATA 01",
+     "title": "TRANING MANUAL -00 AIRCRAFT GENERAL",
+     "count": 1
+    },
+    {
+     "code": "ATA 21",
+     "title": "AIRCONDITIONING",
+     "count": 43
+    },
+    {
+     "code": "ATA 22",
+     "title": "AUTO FLIGHT",
+     "count": 11
+    },
+    {
+     "code": "ATA 23",
+     "title": "COMMUNICATIONS",
+     "count": 11
+    },
+    {
+     "code": "ATA 24",
+     "title": "ELECTRICAL SYSTEMS",
+     "count": 37
+    },
+    {
+     "code": "ATA 25",
+     "title": "EQUIPMENT & FURNISHINGS",
+     "count": 13
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -21 EMERGENCY EXIT DOOR- OFFWING ESCAPE SLIDES",
+     "count": 52
+    },
+    {
+     "code": "ATA 26",
+     "title": "FIRE PROTECTION",
+     "count": 19
+    },
+    {
+     "code": "ATA 27",
+     "title": "FLIGHT CONTROLS",
+     "count": 36
+    },
+    {
+     "code": "ATA 28",
+     "title": "FUEL",
+     "count": 45
+    },
+    {
+     "code": "ATA 29",
+     "title": "HYDRAULIC",
+     "count": 30
+    },
+    {
+     "code": "ATA 30",
+     "title": "ICE & RAIN PROTECTION",
+     "count": 34
+    },
+    {
+     "code": "ATA 31",
+     "title": "AVIONICS INDICATING / RECORDING SYSTEMS",
+     "count": 20
+    },
+    {
+     "code": "ATA 32",
+     "title": "LANDING GEAR",
+     "count": 35
+    },
+    {
+     "code": "ATA 33",
+     "title": "LIGHTS",
+     "count": 15
+    },
+    {
+     "code": "ATA 34",
+     "title": "NAVIGATION ADIRS &STANDBY INSTRUMENTS",
+     "count": 8
+    },
+    {
+     "code": "ATA 35",
+     "title": "OXYGEN SYSTEM",
+     "count": 39
+    },
+    {
+     "code": "ATA 36",
+     "title": "PNEUMATIC",
+     "count": 23
+    },
+    {
+     "code": "ATA 38",
+     "title": "WATER & WASTE",
+     "count": 25
+    },
+    {
+     "code": "ATA 46",
+     "title": "INFORMATION SYSTEMS",
+     "count": 5
+    },
+    {
+     "code": "ATA 47",
+     "title": "FUEL TANK INERTING SYSTEM (FTIS)",
+     "count": 27
+    },
+    {
+     "code": "ATA 49",
+     "title": "AUXILLARY POWER UNIT",
+     "count": 28
+    },
+    {
+     "code": "ATA 57",
+     "title": "TRANING MANUAL -10 CENTER WING BOX",
+     "count": 10
+    },
+    {
+     "code": "ATA 06",
+     "title": "TRANING MANUAL -20 STRUCTURAL BREAKDOWN AND ZONING",
+     "count": 3
+    },
+    {
+     "code": "ATA 53",
+     "title": "TRANING MANUAL -10 NOSE FUSELAGE SECTION 11/12",
+     "count": 4
+    },
+    {
+     "code": "ATA 54",
+     "title": "TRANING MANUAL -00 NACELLES/PYLON",
+     "count": 3
+    },
+    {
+     "code": "ATA 55",
+     "title": "TRANING MANUAL -10 STABILIZER GENERAL",
+     "count": 5
+    },
+    {
+     "code": "ATA 56",
+     "title": "TRANING MANUAL -10 SLIDING WINDOW STRUCTURE",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "slug": "a320-b2",
+   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
+   "crs": "B2",
+   "cat": "CAT B2",
+   "aircraftType": "A320",
+   "engineType": null,
+   "sectionType": "TypeEngine",
+   "stated": 620,
+   "total": 618,
+   "okCount": 573,
+   "missingAnswerCount": 5,
+   "multiAnswerCount": 40,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": "ATA 00",
+     "title": "20",
+     "count": 7
+    },
+    {
+     "code": "ATA 12",
+     "title": "Ground Handling",
+     "count": 17
+    },
+    {
+     "code": "ATA 31",
+     "title": "Indicating / Recording Systems",
+     "count": 38
+    },
+    {
+     "code": "ATA 24",
+     "title": "Electrical Systems",
+     "count": 34
+    },
+    {
+     "code": "ATA 34",
+     "title": "Navigation ADIRS &Standby Instruments",
+     "count": 38
+    },
+    {
+     "code": "ATA 22",
+     "title": "AUTO FLIGHT",
+     "count": 33
+    },
+    {
+     "code": "ATA 23",
+     "title": "COMMUNICATIONS",
+     "count": 24
+    },
+    {
+     "code": "ATA 46",
+     "title": "Information Systems",
+     "count": 15
+    },
+    {
+     "code": "ATA 33",
+     "title": "LIGHTS",
+     "count": 35
+    },
+    {
+     "code": "ATA 29",
+     "title": "HYDRAULICS",
+     "count": 29
+    },
+    {
+     "code": "ATA 32",
+     "title": "LANDING GEAR",
+     "count": 49
+    },
+    {
+     "code": "ATA 27",
+     "title": "FLIGHT CONTROLS",
+     "count": 53
+    },
+    {
+     "code": "ATA 52",
+     "title": "DOORS ONLY SAFETY RELATED QUESTIONS",
+     "count": 13
+    },
+    {
+     "code": "ATA 25",
+     "title": "Equipment & Furnishings",
+     "count": 15
+    },
+    {
+     "code": "ATA 35",
+     "title": "OXYGEN SYSTEM",
+     "count": 15
+    },
+    {
+     "code": "ATA 38",
+     "title": "WATER & WASTE",
+     "count": 15
+    },
+    {
+     "code": "ATA 28",
+     "title": "FUEL",
+     "count": 24
+    },
+    {
+     "code": "ATA 26",
+     "title": "FIRE PROTECTION",
+     "count": 29
+    },
+    {
+     "code": "ATA 49",
+     "title": "AUXILLARY POWER UNIT",
+     "count": 19
+    },
+    {
+     "code": "ATA 70",
+     "title": "ENGINE CFM 56",
+     "count": 25
+    },
+    {
+     "code": "ATA 36",
+     "title": "PNEUMATIC",
+     "count": 13
+    },
+    {
+     "code": "ATA 21",
+     "title": "AIRCONDITIONING",
+     "count": 25
+    },
+    {
+     "code": "ATA 47",
+     "title": "FUEL TANK INERTING SYSTEM (FTIS)",
+     "count": 17
+    },
+    {
+     "code": "ATA 30",
+     "title": "ICE & RAIN PROTECTION",
+     "count": 36
+    }
+   ]
+  },
+  {
+   "slug": "cfm56-a",
+   "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+   "crs": "A",
+   "cat": "CAT A",
+   "aircraftType": "A320",
+   "engineType": "CFM56",
+   "sectionType": "TypeEngine",
+   "stated": 66,
+   "total": 66,
+   "okCount": 66,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": null,
+     "title": null,
+     "count": 66
+    }
+   ]
+  },
+  {
+   "slug": "cfm56-b1",
+   "sourceFile": "5. CFM56 Engine CAT B1 (135 Questions) R01.pdf",
+   "crs": "B1",
+   "cat": "CAT B1",
+   "aircraftType": "A320",
+   "engineType": "CFM56",
+   "sectionType": "TypeEngine",
+   "stated": 135,
+   "total": 135,
+   "okCount": 135,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": null,
+     "title": null,
+     "count": 135
+    }
+   ]
+  },
+  {
+   "slug": "cfm56-b2",
+   "sourceFile": "6. CFM56 Engine CAT B2 (105 Questions) R01.pdf",
+   "crs": "B2",
+   "cat": "CAT B2",
+   "aircraftType": "A320",
+   "engineType": "CFM56",
+   "sectionType": "TypeEngine",
+   "stated": 105,
+   "total": 105,
+   "okCount": 105,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": null,
+     "title": null,
+     "count": 105
+    }
+   ]
+  },
+  {
+   "slug": "leap-a",
+   "sourceFile": "7. LEAP-1A Engine  CAT A (50 Questions) R01.pdf",
+   "crs": "A",
+   "cat": "CAT A",
+   "aircraftType": "A320",
+   "engineType": "LEAP-1A",
+   "sectionType": "TypeEngine",
+   "stated": 50,
+   "total": 51,
+   "okCount": 49,
+   "missingAnswerCount": 1,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 1,
+   "ataGroups": [
+    {
+     "code": "ATA 71",
+     "title": "POWER PLANT",
+     "count": 10
+    },
+    {
+     "code": "ATA 72",
+     "title": "ENGINE",
+     "count": 6
+    },
+    {
+     "code": "ATA 73",
+     "title": "ENGINE FUEL AND CONTROL",
+     "count": 8
+    },
+    {
+     "code": "ATA 74",
+     "title": "IGNITION",
+     "count": 4
+    },
+    {
+     "code": "ATA 75",
+     "title": "AIR",
+     "count": 3
+    },
+    {
+     "code": "ATA 76",
+     "title": "ENGINE CONTROLS",
+     "count": 3
+    },
+    {
+     "code": "ATA 77",
+     "title": "ENGINE INDICATING",
+     "count": 6
+    },
+    {
+     "code": "ATA 78",
+     "title": "EXHAUST",
+     "count": 4
+    },
+    {
+     "code": "ATA 79",
+     "title": "ENGINE OIL",
+     "count": 3
+    },
+    {
+     "code": "ATA 80",
+     "title": "STARTING",
+     "count": 4
+    }
+   ]
+  },
+  {
+   "slug": "leap-b1",
+   "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+   "crs": "B1",
+   "cat": "CAT B1",
+   "aircraftType": "A320",
+   "engineType": "LEAP-1A",
+   "sectionType": "TypeEngine",
+   "stated": 100,
+   "total": 100,
+   "okCount": 100,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": "ATA 71",
+     "title": "POWER PLANT",
+     "count": 14
+    },
+    {
+     "code": "ATA 72",
+     "title": "ENGINE",
+     "count": 10
+    },
+    {
+     "code": "ATA 73",
+     "title": "ENGINE FUEL AND CONTROL",
+     "count": 19
+    },
+    {
+     "code": "ATA 74",
+     "title": "IGNITION",
+     "count": 8
+    },
+    {
+     "code": "ATA 75",
+     "title": "AIR",
+     "count": 8
+    },
+    {
+     "code": "ATA 76",
+     "title": "ENGINE CONTROLS",
+     "count": 8
+    },
+    {
+     "code": "ATA 77",
+     "title": "ENGINE INDICATING",
+     "count": 10
+    },
+    {
+     "code": "ATA 78",
+     "title": "EXHAUST",
+     "count": 8
+    },
+    {
+     "code": "ATA 79",
+     "title": "ENGINE OIL",
+     "count": 9
+    },
+    {
+     "code": "ATA 80",
+     "title": "STARTING",
+     "count": 6
+    }
+   ]
+  },
+  {
+   "slug": "leap-b2",
+   "sourceFile": "9. LEAP-1A Engine  CAT B2 (50 Questions) R01.pdf",
+   "crs": "B2",
+   "cat": "CAT B2",
+   "aircraftType": "A320",
+   "engineType": "LEAP-1A",
+   "sectionType": "TypeEngine",
+   "stated": 50,
+   "total": 50,
+   "okCount": 50,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": "ATA 71",
+     "title": "POWER PLANT",
+     "count": 10
+    },
+    {
+     "code": "ATA 72",
+     "title": "ENGINE",
+     "count": 6
+    },
+    {
+     "code": "ATA 73",
+     "title": "ENGINE FUEL AND CONTROL",
+     "count": 8
+    },
+    {
+     "code": "ATA 74",
+     "title": "IGNITION",
+     "count": 5
+    },
+    {
+     "code": "ATA 75",
+     "title": "AIR",
+     "count": 3
+    },
+    {
+     "code": "ATA 76",
+     "title": "ENGINE CONTROLS",
+     "count": 3
+    },
+    {
+     "code": "ATA 77",
+     "title": "ENGINE INDICATING",
+     "count": 5
+    },
+    {
+     "code": "ATA 78",
+     "title": "EXHAUST",
+     "count": 3
+    },
+    {
+     "code": "ATA 79",
+     "title": "ENGINE OIL",
+     "count": 4
+    },
+    {
+     "code": "ATA 80",
+     "title": "STARTING",
+     "count": 3
+    }
+   ]
+  },
+  {
+   "slug": "v2500-a",
+   "sourceFile": "10. V2500 Engine CAT A (50 Questions) R01.pdf",
+   "crs": "A",
+   "cat": "CAT A",
+   "aircraftType": "A320",
+   "engineType": "V2500",
+   "sectionType": "TypeEngine",
+   "stated": 50,
+   "total": 50,
+   "okCount": 50,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": null,
+     "title": null,
+     "count": 50
+    }
+   ]
+  },
+  {
+   "slug": "v2500-b1",
+   "sourceFile": "11. V2500 Engine CAT B1 (100 Questions) R01.pdf",
+   "crs": "B1",
+   "cat": "CAT B1",
+   "aircraftType": "A320",
+   "engineType": "V2500",
+   "sectionType": "TypeEngine",
+   "stated": 100,
+   "total": 100,
+   "okCount": 100,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": null,
+     "title": null,
+     "count": 100
+    }
+   ]
+  },
+  {
+   "slug": "v2500-b2",
+   "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+   "crs": "B2",
+   "cat": "CAT B2",
+   "aircraftType": "A320",
+   "engineType": "V2500",
+   "sectionType": "TypeEngine",
+   "stated": 100,
+   "total": 100,
+   "okCount": 99,
+   "missingAnswerCount": 1,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
+   "ataGroups": [
+    {
+     "code": null,
+     "title": null,
+     "count": 100
+    }
+   ]
+  },
+  {
+   "slug": "law",
+   "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
+   "crs": "ALL",
+   "cat": null,
+   "aircraftType": null,
+   "engineType": null,
+   "sectionType": "LAW",
+   "stated": null,
+   "total": 600,
+   "okCount": 588,
+   "missingAnswerCount": 4,
+   "multiAnswerCount": 7,
+   "otherIssueCount": 1,
+   "ataGroups": [
+    {
+     "code": null,
+     "title": null,
+     "count": 43
+    },
+    {
+     "code": "ATA 100",
+     "title": "Correct Answer is. the Maintenance Manual. Explanation. Chapter 11",
+     "count": 557
+    }
+   ]
+  },
+  {
+   "slug": "english",
+   "sourceFile": "Aviation Technical English Bank rev1.pdf",
+   "crs": "ALL",
+   "cat": null,
+   "aircraftType": null,
+   "engineType": null,
+   "sectionType": "English",
+   "stated": null,
+   "total": 495,
+   "okCount": 425,
+   "missingAnswerCount": 1,
+   "multiAnswerCount": 47,
+   "otherIssueCount": 22,
+   "ataGroups": [
+    {
+     "code": null,
+     "title": null,
+     "count": 495
+    }
+   ]
+  }
+ ]
+}

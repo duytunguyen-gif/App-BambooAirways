@@ -1,0 +1,2044 @@
+[
+ {
+  "id": "cfm56-a-gen-q001-0001",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 1,
+  "question": "Electronic Centralized Aircraft Monitoring (ECAM) gives the information to flight crew are:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Navigation Parameters."
+   },
+   {
+    "key": "B",
+    "text": "Aircraft System Displays, Faults, Checklists and the current operational status of the aircraft."
+   },
+   {
+    "key": "C",
+    "text": "Flight path information"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 31-00-00-00 CONF 00",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q002-0002",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 2,
+  "question": "Engine Warning Display (EWD) is divided into how many main areas:",
+  "options": [
+   {
+    "key": "A",
+    "text": "The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part not used."
+   },
+   {
+    "key": "B",
+    "text": "The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part is used for warning, caution and memo messages."
+   },
+   {
+    "key": "C",
+    "text": "Upper and lower part used only for Engine parameters."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 31-66-00-00 CONF 00",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q003-0003",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 3,
+  "question": "The engine forward mount is carrying the:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Anti-torque mount"
+   },
+   {
+    "key": "B",
+    "text": "Thrust, Vertical and side loads."
+   },
+   {
+    "key": "C",
+    "text": "Thermal expansion loads."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 71-21-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q004-0004",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 4,
+  "question": "The engine drain mast is used to collect the:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Unburnt fuels"
+   },
+   {
+    "key": "B",
+    "text": "Unused engine oil"
+   },
+   {
+    "key": "C",
+    "text": "Waste fluids and vaporise from engine systems and accessories."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 71-70-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q005-0005",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 5,
+  "question": "The Drains are provided at the pylon rear part is to:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Remove any residual fluid like water, hydraulic, fuel."
+   },
+   {
+    "key": "B",
+    "text": "Remove air."
+   },
+   {
+    "key": "C",
+    "text": "Evacuate and vent overboard air and any residual fluids."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 71-70-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q006-0006",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 6,
+  "question": "Fluids drained from the power plant are:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fuel, oil or hydraulic"
+   },
+   {
+    "key": "B",
+    "text": "Fuel, oil or water"
+   },
+   {
+    "key": "C",
+    "text": "Fuel, oil, hydraulic or water"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 71-70-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q007-0007",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 7,
+  "question": "The FADEC system consists of :",
+  "options": [
+   {
+    "key": "A",
+    "text": "A single Channel ECU with its peripherals for both engines"
+   },
+   {
+    "key": "B",
+    "text": "Dual channel ECU with its peripherals per engine."
+   },
+   {
+    "key": "C",
+    "text": "Two computer for each engines"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 73-20-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q008-0008",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 8,
+  "question": "The function of the deactivation lever located on the HCU is to:",
+  "options": [
+   {
+    "key": "A",
+    "text": "De-energize the isolation valve solenoid."
+   },
+   {
+    "key": "B",
+    "text": "Isolate hydraulic supply."
+   },
+   {
+    "key": "C",
+    "text": "Energized the isolation valve solenoid."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 78-30-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q009-0009",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 9,
+  "question": "The System that controls the Engines at all operating conditions is:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Full Authority Digital Engine control (FADEC)."
+   },
+   {
+    "key": "B",
+    "text": "Engine Vibration Monitoring Unit (EVMU)."
+   },
+   {
+    "key": "C",
+    "text": "Engine Interface Unit (EIU)."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 73-20-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q010-0010",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 10,
+  "question": "The Engine Starter oil level checked by:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Multipurpose Control& Display unit (MCDU)."
+   },
+   {
+    "key": "B",
+    "text": "System Display Engine (SD-ENG) page."
+   },
+   {
+    "key": "C",
+    "text": "Detailed Visual Inspection (DVI)."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 80-11-00-00 CONF 06.",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q011-0011",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 11,
+  "question": "The CFM56-5B/P LP rotor (N1) is made of:",
+  "options": [
+   {
+    "key": "A",
+    "text": "The fan and the booster compressor are driven by the five stage LP turbine."
+   },
+   {
+    "key": "B",
+    "text": "Four stage compressor driven by a two-stage turbine."
+   },
+   {
+    "key": "C",
+    "text": "Fan and a four-stage compressor driven by a four-stage turbine."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 72-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q012-0012",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 12,
+  "question": "The CFM56-5B/P HP (N2) rotor is made of",
+  "options": [
+   {
+    "key": "A",
+    "text": "9-stage compressor driven by a single stage turbine."
+   },
+   {
+    "key": "B",
+    "text": "10-stage HP compressor driven by a 2-stage HP turbine."
+   },
+   {
+    "key": "C",
+    "text": "12-stage compressor driven by a single stage turbine."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 72-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q013-0013",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 13,
+  "question": "The CFM56-5B/P, the LP rotor assembly supported by:",
+  "options": [
+   {
+    "key": "A",
+    "text": "N01, N02 and N03 (dual bearing)."
+   },
+   {
+    "key": "B",
+    "text": "N03 (dual bearing) and N04."
+   },
+   {
+    "key": "C",
+    "text": "N01, N02 and N05."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 72-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q014-0014",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 14,
+  "question": "The FADEC automatically selects a continuous relight:",
+  "options": [
+   {
+    "key": "A",
+    "text": "In case of Engine Interface Unit (EIU) failure only."
+   },
+   {
+    "key": "B",
+    "text": "If engine anti-icing is detected ON or EIU failure or engine flame-out."
+   },
+   {
+    "key": "C",
+    "text": "In case of Electronic Control Unit (ECU) failure."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 80-10-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q015-0015",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 15,
+  "question": "The purpose of the ENGINE MASTER SWITCH is:",
+  "options": [
+   {
+    "key": "A",
+    "text": "To open or close the HP fuel Shut-Off Valve."
+   },
+   {
+    "key": "B",
+    "text": "To command and reset the FADEC functions."
+   },
+   {
+    "key": "C",
+    "text": "To open or close the HP fuel Shut-Off Valve and to command and reset the FADEC functions."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 76-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q016-0016",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 16,
+  "question": "The ENGine MANual START push buttons to operate the corresponding start valves in:",
+  "options": [
+   {
+    "key": "A",
+    "text": "The manual start mode or during an engine cranking."
+   },
+   {
+    "key": "B",
+    "text": "The manual start mode."
+   },
+   {
+    "key": "C",
+    "text": "During an engine cranking."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 71-00-00-710 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q017-0017",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 17,
+  "question": "The compressor airflow control of the CMF56-5B/P includes:",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Variable Bleed Valve (VBV) system and the Variable Stator Vane (VSV) system."
+   },
+   {
+    "key": "B",
+    "text": "The BSBV system, a VSV system and bleed valves at the 7th and 10th stages of the HPC."
+   },
+   {
+    "key": "C",
+    "text": "The booster stage bleed valve system and a Variable Stator Vane (VSV) system."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 75-30-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q018-0018",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 18,
+  "question": "Prior to performing maintenance on the thrust reverser:",
+  "options": [
+   {
+    "key": "A",
+    "text": "The yellow hydraulic system must be depressurized."
+   },
+   {
+    "key": "B",
+    "text": "Deactivate the thrust reverser by placing the lever in the inhibition position on the Hydraulic Control Unit (HCU)."
+   },
+   {
+    "key": "C",
+    "text": "Deactivate the thrust reverser by disconnecting the hydraulic supply lines."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 78-30-00-02 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q019-0019",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 19,
+  "question": "The eng FADEC GND PWR is used to:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Enable the pilots to start the engines automatically."
+   },
+   {
+    "key": "B",
+    "text": "Supply the computers dedicated to the engines when the engines are not running."
+   },
+   {
+    "key": "C",
+    "text": "Enable the pilots to start the engines manually."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 73-29-00-710-040-B02",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q020-0020",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 20,
+  "question": "The purpose of the Fuel Return Valve (FRV) in the re-circulation system is:",
+  "options": [
+   {
+    "key": "A",
+    "text": "To maintain engine oil, IDG oil and fuel temperature within limits."
+   },
+   {
+    "key": "B",
+    "text": "To provide better fuel filtering."
+   },
+   {
+    "key": "C",
+    "text": "To depressurize the fuel system at engine shutdown."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 73-10-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q021-0021",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 21,
+  "question": "In maintenance, if the Inboard cowl opened for engine removal/Installation, the safety precaution to be followed is:",
+  "options": [
+   {
+    "key": "A",
+    "text": "The slats must be retracted, and slat operation must be inhibited."
+   },
+   {
+    "key": "B",
+    "text": "The slats may be extended."
+   },
+   {
+    "key": "C",
+    "text": "Aircraft Electrical power must be removed."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 71-13-00-010-040B",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q022-0022",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 22,
+  "question": "The master chip detector used for ground inspection which is of an.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Electrical type and also has a visual pop-out indicator."
+   },
+   {
+    "key": "B",
+    "text": "Operates only in differential pressure type. Indicator with Red or Green flag."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 79-00-00-281-002A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q023-0023",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 23,
+  "question": "The A320/321 engines throttle control levers:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Only be moved manually."
+   },
+   {
+    "key": "B",
+    "text": "Automatically in auto-thrust mode"
+   },
+   {
+    "key": "C",
+    "text": "Can be moved manually or automatically."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 76-11-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q024-0024",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 24,
+  "question": "The Reverse Thrust is available only on the:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Flight"
+   },
+   {
+    "key": "B",
+    "text": "Ground after landing."
+   },
+   {
+    "key": "C",
+    "text": "Flight or Ground"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 78-30-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q025-0025",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 25,
+  "question": "The Engine Vibration Monitoring Unit function (EVMU) are:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Collects Vibration data from both engines and displayed on the ECAM."
+   },
+   {
+    "key": "B",
+    "text": "Collects Vibration data from both engines and displayed on the MCDU."
+   },
+   {
+    "key": "C",
+    "text": "Collects Vibration data from both engines, and displays it on the PFD."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 77-30-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q026-0026",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 26,
+  "question": "The annular combustion chamber has:",
+  "options": [
+   {
+    "key": "A",
+    "text": "1- igniter plug"
+   },
+   {
+    "key": "B",
+    "text": "4-igniter plugs known as A1, A2 and B1, B2"
+   },
+   {
+    "key": "C",
+    "text": "2-ignitor plugs known as A & B."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 72-42-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q027-0027",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 27,
+  "question": "The annular combustion chamber has:",
+  "options": [
+   {
+    "key": "A",
+    "text": "20 fuel nozzles"
+   },
+   {
+    "key": "B",
+    "text": "18 fuel nozzles"
+   },
+   {
+    "key": "C",
+    "text": "12 fuel nozzles"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 72-42-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q028-0028",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 28,
+  "question": "The main source of aircraft bleed comes from:",
+  "options": [
+   {
+    "key": "A",
+    "text": "LP compressor."
+   },
+   {
+    "key": "B",
+    "text": "HP compressor."
+   },
+   {
+    "key": "C",
+    "text": "LP or HP as per customer demand"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 72-30-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q029-0029",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 29,
+  "question": "CFM 56-5B designed using modular concept, advantage of this concept is:",
+  "options": [
+   {
+    "key": "A",
+    "text": "This engine is made of 4 primary modules."
+   },
+   {
+    "key": "B",
+    "text": "Easy maintenance"
+   },
+   {
+    "key": "C",
+    "text": "As in A &B and Quicker return-to service"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 71-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q030-0030",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 30,
+  "question": "The ONLY engine powers complete SA Family(A318/319/320/321) is:",
+  "options": [
+   {
+    "key": "A",
+    "text": "V2500"
+   },
+   {
+    "key": "B",
+    "text": "CFM56-5B"
+   },
+   {
+    "key": "C",
+    "text": "PW1100G"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 73-21-90-860-001A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q031-0031",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 31,
+  "question": "What is the one of the safety precautions observed during Engine Ground Run:",
+  "options": [
+   {
+    "key": "A",
+    "text": "The entry corridor will be open when engine power is above the minimum."
+   },
+   {
+    "key": "B",
+    "text": "The entry corridor will be open/closed when engine power is above the minimum."
+   },
+   {
+    "key": "C",
+    "text": "The entry corridor will be closed when engine power is above the minimum."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 71-00-00-710-003B",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q032-0032",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 32,
+  "question": "What is the one of the safety precautions observed on Engine ignition system:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Do not do maintenance on the ignition system while the engines operate."
+   },
+   {
+    "key": "B",
+    "text": "You can do maintenance on the ignition system while the engines operate."
+   },
+   {
+    "key": "C",
+    "text": "Do not do maintenance on the ignition system while the engines operate, wait more than >5 minutes after shutdown."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 71-00-00-710-003B",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q033-0033",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 33,
+  "question": "What is the safety precautions observed during opening the engine cowls:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Always secure cowls with the hold-open rads and follow AMM wind limitations."
+   },
+   {
+    "key": "B",
+    "text": "Make sure that the slats are retracted and install Warning notices in cockpit."
+   },
+   {
+    "key": "C",
+    "text": "As in A & B follow AMM for additional information."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 71-13-00-02 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q034-0034",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 34,
+  "question": "The Engine Fuel system is designed to supply Fuel Flow into the:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Combustion chamber, servo fuel for airflow control, engine clearance control and IDG cooling."
+   },
+   {
+    "key": "B",
+    "text": "Directly to Engines only."
+   },
+   {
+    "key": "C",
+    "text": "APU & Engines."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 73-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q035-0035",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 35,
+  "question": "When Engine Master S/W is set to off:",
+  "options": [
+   {
+    "key": "A",
+    "text": "HP and LP fuel shut off valves are closed."
+   },
+   {
+    "key": "B",
+    "text": "HP, LP and Fuel Return Valve (FRV) closed."
+   },
+   {
+    "key": "C",
+    "text": "HP/LP/closed and FRV closed by ECU."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 76-12-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q036-0036",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 36,
+  "question": "If the engine is running Above 15% (>15%) then the FADEC powered by:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Aircraft Power supply."
+   },
+   {
+    "key": "B",
+    "text": "The PMA (Permanent Magnet Alternator) supplies only channel A of ECU."
+   },
+   {
+    "key": "C",
+    "text": "The PMA also called Control Alternator supplies ECU channels A & B"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 73-25-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q037-0037",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 37,
+  "question": "For Maintenance FADEC Gnd Power P/B on in the Maintenance panel will supply the power for:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Five minutes."
+   },
+   {
+    "key": "B",
+    "text": "20 Minutes."
+   },
+   {
+    "key": "C",
+    "text": "As long as the GND PWR P/B is in the ON position."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 73-25-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q038-0038",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 38,
+  "question": "During Engine Dry cranking or wet cranking sequences:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Ignition Inhibited."
+   },
+   {
+    "key": "B",
+    "text": "Ignition Available."
+   },
+   {
+    "key": "C",
+    "text": "Only Ignitor A is available."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 80-10-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q039-0039",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 39,
+  "question": "The Variable Stator Vane (VSV) is located at:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Rear of HP compressor."
+   },
+   {
+    "key": "B",
+    "text": "Front of the HP compressor."
+   },
+   {
+    "key": "C",
+    "text": "Middle of the HP compressor."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 75-32-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q040-0040",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 40,
+  "question": "The Electronic Control Unit (ECU) is cooled by:",
+  "options": [
+   {
+    "key": "A",
+    "text": "By a cooling fan built in."
+   },
+   {
+    "key": "B",
+    "text": "By Ram Air cooling."
+   },
+   {
+    "key": "C",
+    "text": "By Fan air cooling."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 75-24-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q041-0041",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 41,
+  "question": "The N1 rotational Speed indication is shown in the ECAM-EWD by a:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Needle"
+   },
+   {
+    "key": "B",
+    "text": "Digital Indication."
+   },
+   {
+    "key": "C",
+    "text": "Needle and an N1 digital display."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 77-10-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q042-0042",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 42,
+  "question": "The EGT is sensed and averaged by:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Four thermocouple probes."
+   },
+   {
+    "key": "B",
+    "text": "Six Thermocouple probes"
+   },
+   {
+    "key": "C",
+    "text": "Nine Thermocouple probes."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 77-20-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q043-0043",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 43,
+  "question": "The oil quantity XMTR is located in the:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Oil Tank."
+   },
+   {
+    "key": "B",
+    "text": "Oil line."
+   },
+   {
+    "key": "C",
+    "text": "Oil filter assembly."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 79-31-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q044-0044",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 44,
+  "question": "The PS 12 sensor measures the:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Dynamic pressure"
+   },
+   {
+    "key": "B",
+    "text": "Static pressure from the fan inlet."
+   },
+   {
+    "key": "C",
+    "text": "Compressor pressure."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 75-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q045-0045",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 45,
+  "question": "The Thrust reverser system is of the:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Static blockage type."
+   },
+   {
+    "key": "B",
+    "text": "Aerodynamic blockage type."
+   },
+   {
+    "key": "C",
+    "text": "Electrical blockage type."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 78-33-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q046-0046",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 46,
+  "question": "The directional valve in T/R system is operated to:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Deploy only."
+   },
+   {
+    "key": "B",
+    "text": "Stow only."
+   },
+   {
+    "key": "C",
+    "text": "Deploy& Stow operation."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 78-30-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q047-0047",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 47,
+  "question": "To command the thrust reverser, the ECU needs an A/C on ground signal supplied by:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Main Landing Gears."
+   },
+   {
+    "key": "B",
+    "text": "LGCIUs"
+   },
+   {
+    "key": "C",
+    "text": "FMGC."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 78-30-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q048-0048",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 48,
+  "question": "The Engine oil system includes:",
+  "options": [
+   {
+    "key": "A",
+    "text": "A supply circuit."
+   },
+   {
+    "key": "B",
+    "text": "A vent circuit."
+   },
+   {
+    "key": "C",
+    "text": "A supply/Scavenge and Vent circuits."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 79-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q049-0049",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 49,
+  "question": "If Fluid leaks are found during transit operations:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Clean it."
+   },
+   {
+    "key": "B",
+    "text": "Refer AMM ATA 70-00 & ATA 29-00 for allowable limits."
+   },
+   {
+    "key": "C",
+    "text": "Refer MEL."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM: 72-00-00-790-002B & 29-00-00-790-001A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q050-0050",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 50,
+  "question": "The good practice in maintenance for Fan cowl doors:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Must remain either fully opened or fully closed and latched."
+   },
+   {
+    "key": "B",
+    "text": "Never open the cowls in transit."
+   },
+   {
+    "key": "C",
+    "text": "Never open the latches in transit."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM: 71-13-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q051-0051",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 51,
+  "question": "If an Engine was ferried or subjected to an In-Flight Shutdown (IFSD) then:",
+  "options": [
+   {
+    "key": "A",
+    "text": "That engine must be dried out."
+   },
+   {
+    "key": "B",
+    "text": "Re-lubricated within 7 days."
+   },
+   {
+    "key": "C",
+    "text": "The engine must be dried out and re-lubricated within 24 hours as per engine dry out procedure"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM: 72-00-00-100-007A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q052-0052",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 52,
+  "question": "The engine anti-ice air overboard discharge grill is located?",
+  "options": [
+   {
+    "key": "A",
+    "text": "On the right-side fan cowl door."
+   },
+   {
+    "key": "B",
+    "text": "On the lower right side of the inlet cowl."
+   },
+   {
+    "key": "C",
+    "text": "At the bottom (5 o’clock position) of fan cowling"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF: Page 16/17 - Technical training manual – MECHANICS/ ELECTRICS &",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q053-0053",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 53,
+  "question": "The engine oil servicing panel is located?",
+  "options": [
+   {
+    "key": "A",
+    "text": "On the outboard side of the inlet cowl."
+   },
+   {
+    "key": "B",
+    "text": "On the left side fan cowl door."
+   },
+   {
+    "key": "C",
+    "text": "On the left side of the inlet cowl."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF: Page 16/17 - Technical training manual – MECHANICS/ ELECTRICS &",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q054-0054",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 54,
+  "question": "When the engine is running:",
+  "options": [
+   {
+    "key": "A",
+    "text": "No person is allowed to get access to the engine."
+   },
+   {
+    "key": "B",
+    "text": "Access to the engine is permitted within the Entry/ Exit corridor if power do not exceed min idle."
+   },
+   {
+    "key": "C",
+    "text": "Access to the engine is permitted within the Entry/Exit corridor at all power rating."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF: AMM 71-00-00-710-003",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q055-0055",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 55,
+  "question": "The engine run up at Min idle can be carried out with:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fan cowls opened and secured."
+   },
+   {
+    "key": "B",
+    "text": "Both Reverser and Fan cowls opened and secured."
+   },
+   {
+    "key": "C",
+    "text": "Non engine cowl opened."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 71-00-00-710-003",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q056-0056",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 56,
+  "question": "Features of CFM-56-5B4 engine are:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Two spools, radial flow, high fan bypass ratio and mixed exhaust."
+   },
+   {
+    "key": "B",
+    "text": "Two spools, axial flow, high fan bypass ratio and separated exhaust."
+   },
+   {
+    "key": "C",
+    "text": "Two spools, axial flow, high fan bypass ratio and mixed exhaust."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF: AMM 72-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q057-0057",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 57,
+  "question": "Select the correct type of combustion chamber for CFM-56-5B4 engine?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Annular combustor."
+   },
+   {
+    "key": "B",
+    "text": "Tubular combustor."
+   },
+   {
+    "key": "C",
+    "text": "Reverse flow combustor."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 72-42-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q058-0058",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 58,
+  "question": "The number of fan blades in one engine fan set?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Thirty-six (36)"
+   },
+   {
+    "key": "B",
+    "text": "Twenty-two (22)"
+   },
+   {
+    "key": "C",
+    "text": "Thirty-two (32)"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 72-21-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q059-0059",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 59,
+  "question": "The engine gear boxes are driven by which shaft?",
+  "options": [
+   {
+    "key": "A",
+    "text": "N1 rotor."
+   },
+   {
+    "key": "B",
+    "text": "N2 rotor via the transfer gear box."
+   },
+   {
+    "key": "C",
+    "text": "N2 rotor."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM 72-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q060-0060",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 60,
+  "question": "CFM-56-5B4 engine comprise of:",
+  "options": [
+   {
+    "key": "A",
+    "text": "9 HPC stages and 1 HPT stage"
+   },
+   {
+    "key": "B",
+    "text": "9 HPC stages and 2 HPT stage"
+   },
+   {
+    "key": "C",
+    "text": "10 HPC stages and 2 HPT stage"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM 72-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q061-0061",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 61,
+  "question": "The hand cranking drive connects to? (A)",
+  "options": [
+   {
+    "key": "A",
+    "text": "LP rotor."
+   },
+   {
+    "key": "B",
+    "text": "HP rotor."
+   },
+   {
+    "key": "C",
+    "text": "Both LP and HP rotors."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM 72-52-00-290-001-B",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q062-0062",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 62,
+  "question": "How does the starter operate?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Electrically"
+   },
+   {
+    "key": "B",
+    "text": "Hydraulically"
+   },
+   {
+    "key": "C",
+    "text": "Pneumatically Page 97 - Technical training manual – MECHANICS/ ELECTRICS & AVIONICS COURSE"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q063-0063",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 63,
+  "question": "The type is Engine ignition system?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Low voltage, high energy."
+   },
+   {
+    "key": "B",
+    "text": "High voltage, low energy."
+   },
+   {
+    "key": "C",
+    "text": "High voltage, high energy."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM 74-00-00-00 CONF 06 and Page 99 - Technical training manual –",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q064-0064",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 64,
+  "question": "Which component provides the selection of ignition channel A/B?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The ECU."
+   },
+   {
+    "key": "B",
+    "text": "The engine control panel."
+   },
+   {
+    "key": "C",
+    "text": "The ECAM control panel."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 74-10-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q065-0065",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 65,
+  "question": "Each engine equipped with?",
+  "options": [
+   {
+    "key": "A",
+    "text": "One ignition system with two igniters."
+   },
+   {
+    "key": "B",
+    "text": "Two ignition systems, each has two igniters."
+   },
+   {
+    "key": "C",
+    "text": "Two ignition systems with two igniters."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF AMM 74-00-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "cfm56-a-gen-q066-0066",
+  "crs": "A",
+  "cat": "CAT A",
+  "aircraftType": "A320",
+  "engineType": "CFM56",
+  "sourceFile": "4. CFM56 Engine CAT A (66 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 66,
+  "question": "Ignition system power supply is?",
+  "options": [
+   {
+    "key": "A",
+    "text": "115 V from the aircraft."
+   },
+   {
+    "key": "B",
+    "text": "115 V from engine generator."
+   },
+   {
+    "key": "C",
+    "text": "28 V from the FADEC PMA."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF AMM 74-10-00-00 CONF 06",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ }
+]

@@ -1,0 +1,3102 @@
+[
+ {
+  "id": "v2500-b2-gen-q001-0001",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 1,
+  "question": "“V2530-A5” means:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Engine is rated at max thrust of 25300 lbs to install in the Airbus A/C."
+   },
+   {
+    "key": "B",
+    "text": "Engine is rated at max thrust of 30000 lbs to install in the Airbus A/C."
+   },
+   {
+    "key": "C",
+    "text": "Engine is rated at max thrust of 25000 lbs to install in the Airbus A/C."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q002-0002",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 2,
+  "question": "Reverser cowling:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Is attached to the engine core by 6 hinges each half."
+   },
+   {
+    "key": "B",
+    "text": "Is hold closed by 5 single latches."
+   },
+   {
+    "key": "C",
+    "text": "Should be opened/closed using the Auxiliary latch assembly."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q003-0003",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 3,
+  "question": "Fan cowls:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Must be held open by both struts each when the wind is more than 26 knots (30 mph)."
+   },
+   {
+    "key": "B",
+    "text": "Should be opened by releasing 6 latches in sequence from the front to the rear."
+   },
+   {
+    "key": "C",
+    "text": "Must always be held open by both struts each."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q004-0004",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 4,
+  "question": "What statement is NOT correct?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fan stage has 22 fan blades."
+   },
+   {
+    "key": "B",
+    "text": "Fan stage has 24 fan blades."
+   },
+   {
+    "key": "C",
+    "text": "Engine is constructed by 05 modules."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q005-0005",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 5,
+  "question": "Aerodynamic station 2.5 means:",
+  "options": [
+   {
+    "key": "A",
+    "text": "LPC Outlet guide vanes exit."
+   },
+   {
+    "key": "B",
+    "text": "Fan Outlet guide vanes exit."
+   },
+   {
+    "key": "C",
+    "text": "LPC inlet."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q006-0006",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 6,
+  "question": "EGT thermal couples are at?",
+  "options": [
+   {
+    "key": "A",
+    "text": "HPT area."
+   },
+   {
+    "key": "B",
+    "text": "First stage of LPT."
+   },
+   {
+    "key": "C",
+    "text": "Exhaust area."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q007-0007",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 7,
+  "question": "What is the engine pressure ratio (EPR)?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The ratio of P3 – P2."
+   },
+   {
+    "key": "B",
+    "text": "The ratio of P4.9 – P2."
+   },
+   {
+    "key": "C",
+    "text": "The ratio of P4.9 – P3."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q008-0008",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 8,
+  "question": "When open, where does the bleed valve direct airflow?",
+  "options": [
+   {
+    "key": "A",
+    "text": "BSBV to bypass flow; stages 7 & 10 valves into the A/C bleed system."
+   },
+   {
+    "key": "B",
+    "text": "To Bypass flow all."
+   },
+   {
+    "key": "C",
+    "text": "BSBV to bypass flow; stages 7 & 10 valves discharge overboard directly."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q009-0009",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 9,
+  "question": "Servo pressure to operate HPC stage 7 & 10 bleed valves is from?",
+  "options": [
+   {
+    "key": "A",
+    "text": "P 2.5 bleed pressure."
+   },
+   {
+    "key": "B",
+    "text": "Servo fuel pressure from FMU."
+   },
+   {
+    "key": "C",
+    "text": "P3 air pressure."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q010-0010",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 10,
+  "question": "What is (are) the indications in case of metallic parts in the common scavenge oil pipe?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Only a popped clogging indication on the electrical chip detector indicator."
+   },
+   {
+    "key": "B",
+    "text": "An ECAM warning and a popped clogging indication on the electrical chip detector indicator."
+   },
+   {
+    "key": "C",
+    "text": "There is no indication."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q011-0011",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 11,
+  "question": "Which filters in the oil system have associated “filter clog” messages on the ECAM?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Pressure Scavenge and Scavenge strainers."
+   },
+   {
+    "key": "B",
+    "text": "Pressure only."
+   },
+   {
+    "key": "C",
+    "text": "Scavenge only."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q012-0012",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 12,
+  "question": "What does the HMS heat and cool?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fuel, engine oil and IDG oil."
+   },
+   {
+    "key": "B",
+    "text": "Engine oil and IDG oil."
+   },
+   {
+    "key": "C",
+    "text": "Fuel only."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q013-0013",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 13,
+  "question": "How the Nose Cone (Spinner) is anti-iced?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Electrically."
+   },
+   {
+    "key": "B",
+    "text": "Pneumatically."
+   },
+   {
+    "key": "C",
+    "text": "Neither electrically nor pneumatically."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q014-0014",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 14,
+  "question": "What senses movement of the T/R translating sleeve?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The LVDT’s on the upper actuators."
+   },
+   {
+    "key": "B",
+    "text": "The proximity switches on the locking actuators."
+   },
+   {
+    "key": "C",
+    "text": "The LVDT’s on the lower actuators."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q015-0015",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 15,
+  "question": "The lower actuators can be unlocked:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Manually only."
+   },
+   {
+    "key": "B",
+    "text": "Hydraulically only."
+   },
+   {
+    "key": "C",
+    "text": "Manually or hydraulically."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q016-0016",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 16,
+  "question": "Fuel samples can be taken from?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The LP fuel filter cover."
+   },
+   {
+    "key": "B",
+    "text": "The LP fuel pump case."
+   },
+   {
+    "key": "C",
+    "text": "The HP fuel pump outlet."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q017-0017",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 17,
+  "question": "How many probes interact with the phonic wheel?",
+  "options": [
+   {
+    "key": "A",
+    "text": "4 - 3 Speed probes and a once per revolution probe."
+   },
+   {
+    "key": "B",
+    "text": "3 - 2 Speed probes and 1 spare probe."
+   },
+   {
+    "key": "C",
+    "text": "2 - 1 for Channel A and 1 for Channel B."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q018-0018",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 18,
+  "question": "Which engine parameters are displayed on the ECAM upper display?",
+  "options": [
+   {
+    "key": "A",
+    "text": "EPR, N1 & N2."
+   },
+   {
+    "key": "B",
+    "text": "N1, N2, EPR, oil pressure, oil temperature."
+   },
+   {
+    "key": "C",
+    "text": "N1, N2, EPR & EGT."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q019-0019",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 19,
+  "question": "The engine igniters are on?",
+  "options": [
+   {
+    "key": "A",
+    "text": "RH of the engine."
+   },
+   {
+    "key": "B",
+    "text": "LH of the engine."
+   },
+   {
+    "key": "C",
+    "text": "One is on the RH, one is on the LH of the engine."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q020-0020",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 20,
+  "question": "Engine nacelle temperature sensor is?",
+  "options": [
+   {
+    "key": "A",
+    "text": "In the pylon area."
+   },
+   {
+    "key": "B",
+    "text": "In the fan area."
+   },
+   {
+    "key": "C",
+    "text": "In the core area."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q021-0021",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 21,
+  "question": "What is the purpose of the dedicated alternator or permanent magnet alternator (PMA)?",
+  "options": [
+   {
+    "key": "A",
+    "text": "To supply electrical power for whole aircraft operation."
+   },
+   {
+    "key": "B",
+    "text": "To supply electrical power for the EEC."
+   },
+   {
+    "key": "C",
+    "text": "To supply electrical power for the thrust lever resolver signals."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q022-0022",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 22,
+  "question": "Identify the thrust/location bearing for the LP and HP rotors?",
+  "options": [
+   {
+    "key": "A",
+    "text": "2 and 5."
+   },
+   {
+    "key": "B",
+    "text": "3 and 5."
+   },
+   {
+    "key": "C",
+    "text": "1 and 3."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q023-0023",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 23,
+  "question": "What location is engine station 12.5?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fan bypass air."
+   },
+   {
+    "key": "B",
+    "text": "HP Compressor delivery air."
+   },
+   {
+    "key": "C",
+    "text": "Fan inlet"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q024-0024",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 24,
+  "question": "How many of the turbine stages have internal air cooling?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Two (2) HP only."
+   },
+   {
+    "key": "B",
+    "text": "Two (2) HP and three (3) lP."
+   },
+   {
+    "key": "C",
+    "text": "All stages."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q025-0025",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 25,
+  "question": "At what speed will the dedicated alternator power the EEC?",
+  "options": [
+   {
+    "key": "A",
+    "text": "At approximately 10% N2."
+   },
+   {
+    "key": "B",
+    "text": "At stabilised idle speed."
+   },
+   {
+    "key": "C",
+    "text": "At 43% N2 with starter control valve closed."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q026-0026",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 26,
+  "question": "The actual fuel flow signal to the EEC control circuits originates from?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Dual position resolver driven by the fuel metering valve."
+   },
+   {
+    "key": "B",
+    "text": "The mass fuel flow meter."
+   },
+   {
+    "key": "C",
+    "text": "Computed from the thrust lever resolver angle (TRA)."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q027-0027",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 27,
+  "question": "What type of pump is the LP fuel pump?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Sliding vane positive displacement."
+   },
+   {
+    "key": "B",
+    "text": "Spur gear."
+   },
+   {
+    "key": "C",
+    "text": "Centrifugal impeller."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q028-0028",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 28,
+  "question": "Where is the fuel temperature measured on the engine?",
+  "options": [
+   {
+    "key": "A",
+    "text": "At the inlet to the fuel oil heat exchanger."
+   },
+   {
+    "key": "B",
+    "text": "At the outlet from the LP filter."
+   },
+   {
+    "key": "C",
+    "text": "At the outlet from the HP fuel pump."
+   }
+  ],
+  "correctAnswer": null,
+  "ref": null,
+  "answerSource": "unknown",
+  "parseStatus": "missing_answer"
+ },
+ {
+  "id": "v2500-b2-gen-q029-0029",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 29,
+  "question": "How many torquemotors are used in the FMU?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Three."
+   },
+   {
+    "key": "B",
+    "text": "Two plus one solenoid."
+   },
+   {
+    "key": "C",
+    "text": "Four."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q030-0030",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 30,
+  "question": "Servo fuel for the fuel operated actuators is supplied from?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The HP pump inlet."
+   },
+   {
+    "key": "B",
+    "text": "The delivery tube between the HP pump and the FMU."
+   },
+   {
+    "key": "C",
+    "text": "Directly from the Fuel Metering Unit."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q031-0031",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 31,
+  "question": "What type of fuel nozzles are used?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Duplex."
+   },
+   {
+    "key": "B",
+    "text": "Simplex."
+   },
+   {
+    "key": "C",
+    "text": "Airspray."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q032-0032",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 32,
+  "question": "The combined fuel diverter and return to tank valve (FDRV) is located on?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The HP fuel pump case."
+   },
+   {
+    "key": "B",
+    "text": "Bolted to the rear of the fuel/oil heat exchanger."
+   },
+   {
+    "key": "C",
+    "text": "Bolted to the main gearbox."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q033-0033",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 33,
+  "question": "When is the auxiliary latch assembly (take up device) to be used?",
+  "options": [
+   {
+    "key": "A",
+    "text": "For the opening of the thrust reverser “C” ducts."
+   },
+   {
+    "key": "B",
+    "text": "For the closing of the thrust reverser “C” ducts."
+   },
+   {
+    "key": "C",
+    "text": "For opening and closing of the thrust reverser “C” ducts."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q034-0034",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 34,
+  "question": "What is the hydraulic fluid used in the hand pump that opens and closes the “C” ducts?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Engine oil."
+   },
+   {
+    "key": "B",
+    "text": "Hydraulic oil."
+   },
+   {
+    "key": "C",
+    "text": "Fuel."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q035-0035",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 35,
+  "question": "Where is the zone 2 located?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Engine fan case (intermediate case)."
+   },
+   {
+    "key": "B",
+    "text": "Core engine."
+   },
+   {
+    "key": "C",
+    "text": "Upper pylon."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q036-0036",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 36,
+  "question": "What alert level and message is generated to the ECAM CRT when the fire detection system has operated?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Alert class 1 level 3 and engine fire."
+   },
+   {
+    "key": "B",
+    "text": "Alert class 1 level 3 and engine overheat."
+   },
+   {
+    "key": "C",
+    "text": "Alert class 1 level 2 and engine overheat."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q037-0037",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 37,
+  "question": "How many stages has the Low Pressure Compressor?",
+  "options": [
+   {
+    "key": "A",
+    "text": "One fan stage."
+   },
+   {
+    "key": "B",
+    "text": "One fan stage and one stage LPC."
+   },
+   {
+    "key": "C",
+    "text": "One fan stage and three (A1) or four (A5) LPC stages."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q038-0038",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 38,
+  "question": "The HP compressor has how many stage?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Twelve."
+   },
+   {
+    "key": "B",
+    "text": "Fourteen."
+   },
+   {
+    "key": "C",
+    "text": "Ten."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q039-0039",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 39,
+  "question": "What is the purpose of the LP stubshaft?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Provide the drive to the angle gearbox."
+   },
+   {
+    "key": "B",
+    "text": "Transmits the drive from the LPT shaft to the fan disk."
+   },
+   {
+    "key": "C",
+    "text": "Transmits the drive from the angle gearbox to the main gearbox."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q040-0040",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 40,
+  "question": "How many Scavenge pumps are in the oil system?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Five."
+   },
+   {
+    "key": "B",
+    "text": "Seven."
+   },
+   {
+    "key": "C",
+    "text": "Six."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q041-0041",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 41,
+  "question": "Which location should be checked to confirm debris found on the magnetic chip detectors (MCD’s)?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The scavenge strainers."
+   },
+   {
+    "key": "B",
+    "text": "The scavenge filter."
+   },
+   {
+    "key": "C",
+    "text": "The pressure filter."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q042-0042",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 42,
+  "question": "The oil quantity can be checked by?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Opening a dedicated servicing access panel in the LH fan cowl."
+   },
+   {
+    "key": "B",
+    "text": "Opening an access panel on the LH “C” duct."
+   },
+   {
+    "key": "C",
+    "text": "Opening the RH fan cowl."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q043-0043",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 43,
+  "question": "The compressor airflow system is controlled by?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Bleed Monitoring Computer (BMC)."
+   },
+   {
+    "key": "B",
+    "text": "The Electronic Engine Control (EEC)."
+   },
+   {
+    "key": "C",
+    "text": "The Compass system."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q044-0044",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 44,
+  "question": "The actuators for the LP compressor (2.5) bleed valve are located?",
+  "options": [
+   {
+    "key": "A",
+    "text": "On the fancase."
+   },
+   {
+    "key": "B",
+    "text": "On the HP compressor case."
+   },
+   {
+    "key": "C",
+    "text": "On the rear of the intermediate case."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q045-0045",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 45,
+  "question": "The operating servo pressure in the VSV system actuator is?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Stage 10 air pressure."
+   },
+   {
+    "key": "B",
+    "text": "HP fuel pump delivery pressure (via FMU)."
+   },
+   {
+    "key": "C",
+    "text": "Aircraft hydraulic system pressure."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q046-0046",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 46,
+  "question": "How many stage 7 & 10 bleed valves are on the engine?",
+  "options": [
+   {
+    "key": "A",
+    "text": "3 stage 7, 1 stage 10."
+   },
+   {
+    "key": "B",
+    "text": "2 stage 7, 2 stage 10."
+   },
+   {
+    "key": "C",
+    "text": "1 stage 7, 3 stage 10."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q047-0047",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 47,
+  "question": "The anti - ice air overboard discharge grille is located?",
+  "options": [
+   {
+    "key": "A",
+    "text": "On the outboard side of the inlet cowl."
+   },
+   {
+    "key": "B",
+    "text": "On the right side fan cowl door."
+   },
+   {
+    "key": "C",
+    "text": "On lower right side of the inlet cowl."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q048-0048",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 48,
+  "question": "When will the engine secondary parameters be displayed on the lower ECAM?",
+  "options": [
+   {
+    "key": "A",
+    "text": "When selected and during certain engine conditions."
+   },
+   {
+    "key": "B",
+    "text": "Only if a fault occurs."
+   },
+   {
+    "key": "C",
+    "text": "Continuously during engine operation."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q049-0049",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 49,
+  "question": "What is the minimum duct pressure required before initiating a start cycle?",
+  "options": [
+   {
+    "key": "A",
+    "text": "30 - 40 psi."
+   },
+   {
+    "key": "B",
+    "text": "50 - 60 psi."
+   },
+   {
+    "key": "C",
+    "text": "20 - 30 psi."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q050-0050",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 50,
+  "question": "THE HIGH PRESSURE COMPRESSOR AIRFLOW IS CONTROLLED BY THE VARIABLE STATOR VANES (VSVs) AND:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Three bleed valves."
+   },
+   {
+    "key": "B",
+    "text": "No bleed valves."
+   },
+   {
+    "key": "C",
+    "text": "Four bleed valves."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q051-0051",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 51,
+  "question": "THE ENGINE OIL SUPPLY SYSTEM INCLUDES:",
+  "options": [
+   {
+    "key": "A",
+    "text": "A low pressure switch, an oil pressure transmitter and an oil quantity transmitter."
+   },
+   {
+    "key": "B",
+    "text": "Two low pressure switches and two oil pressure transmitters."
+   },
+   {
+    "key": "C",
+    "text": "A high pressure switch and a pressure transmitter."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q052-0052",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 52,
+  "question": "THE NUMBER 4 BEARING SCAVENGE VALVE IS:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Controlled by HPC 10th stage pressure and monitored by the Engine Interface Unit (EIU)."
+   },
+   {
+    "key": "B",
+    "text": "Controlled and monitored by the EEC."
+   },
+   {
+    "key": "C",
+    "text": "A pneumatically operated two-position valve monitored by the EIU."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q053-0053",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 53,
+  "question": "HOW MANY MODULES DOES THE V2500 CONSIST OF?",
+  "options": [
+   {
+    "key": "A",
+    "text": "3: Fan, Compressor and Turbine"
+   },
+   {
+    "key": "B",
+    "text": "4: Fan, High Pressure Compressor, Diffuser/Combustor and Turbine"
+   },
+   {
+    "key": "C",
+    "text": "7: Fan, Intercase, High Pressure Compressor, Diffuser/Combustor, High Pressure Turbine, Low Pressure Turbine and Accessory Drive Gearbox."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q054-0054",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 54,
+  "question": "HOW MANY IGNITION EXCITERS ARE INSTALLED AND WHAT IS THEIR INPUT POWER",
+  "options": [
+   {
+    "key": "A",
+    "text": "2, input 115VAC"
+   },
+   {
+    "key": "B",
+    "text": "2, input 28VDC"
+   },
+   {
+    "key": "C",
+    "text": "1, Normal input of 115VAC and 28VDC backup"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q055-0055",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 55,
+  "question": "WHERE/WHEN IS THE NACELLE TEMPERATURE INDICATION DISPLAYED",
+  "options": [
+   {
+    "key": "A",
+    "text": "Permanently on the ENGINE page"
+   },
+   {
+    "key": "B",
+    "text": "Permanently on the CRUISE page"
+   },
+   {
+    "key": "C",
+    "text": "Displayed on the ENGINE page only when above 320 deg.C"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q056-0056",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 56,
+  "question": "HOW IS THE N1 ROTATIONAL SPEED SENSOR REPLACED?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Access via the fan case"
+   },
+   {
+    "key": "B",
+    "text": "Can only be replaced in the engine shop"
+   },
+   {
+    "key": "C",
+    "text": "Access via the accessory drive gearbox"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q057-0057",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 57,
+  "question": "WHAT IS THE LOCATION OF THE ENGINE MASTER CHIP DETECTOR?",
+  "options": [
+   {
+    "key": "A",
+    "text": "On the oil tank"
+   },
+   {
+    "key": "B",
+    "text": "On the gearbox"
+   },
+   {
+    "key": "C",
+    "text": "On the scavenge oil filter assembly"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q058-0058",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 58,
+  "question": "THE V2500 EEC IS NORMALLY POWERED…",
+  "options": [
+   {
+    "key": "A",
+    "text": "By its dedicated alternator"
+   },
+   {
+    "key": "B",
+    "text": "By normal aircraft electrical systems"
+   },
+   {
+    "key": "C",
+    "text": "Directly from its own IDG"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q059-0059",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 59,
+  "question": "V2500 ENGINE, THE EGT MAXIMUM LIMIT WHEN ENGINE STARTING IS:",
+  "options": [
+   {
+    "key": "A",
+    "text": "610 deg. C"
+   },
+   {
+    "key": "B",
+    "text": "635 deg. C"
+   },
+   {
+    "key": "C",
+    "text": "650 deg. C"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q060-0060",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 60,
+  "question": "AERODYNAMIC STATION 4.5, STATION LOCATION:",
+  "options": [
+   {
+    "key": "A",
+    "text": "H.P Turbine Exit"
+   },
+   {
+    "key": "B",
+    "text": "L.P Turbine Exit"
+   },
+   {
+    "key": "C",
+    "text": "Fan Exit"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q061-0061",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 61,
+  "question": "WHICH DRAIN HOLE IS PROVIDED TO INDICATE A POSSIBLE LEAKAGE AT THE No.4 BEARINGCOMPARTMENT?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The drain hole is on engine drains mast"
+   },
+   {
+    "key": "B",
+    "text": "Located in the exhaust at 5 o’clock (Aft looking forward)"
+   },
+   {
+    "key": "C",
+    "text": "Pylon drain system"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q062-0062",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 62,
+  "question": "ENGINE OIL SYSTEM, NUMBER 4 BEARING SCAVENGE VALVE OPERATES BY",
+  "options": [
+   {
+    "key": "A",
+    "text": "Compressor 10th stage pressure"
+   },
+   {
+    "key": "B",
+    "text": "Muscle fuel pressure"
+   },
+   {
+    "key": "C",
+    "text": "Oil pressure"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q063-0063",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 63,
+  "question": "CLOSURE OF THE HP FUEL PRSOV IS CONTROLLED DIRECTLY FROM (B, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Engine MASTER control switch in OFF position"
+   },
+   {
+    "key": "B",
+    "text": "The engine FIRE PUSH switch released out"
+   },
+   {
+    "key": "C",
+    "text": "Both (A) and (B)"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q064-0064",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 64,
+  "question": "WHICH ENGINE MOUNTIS DESIGNATED TO TRANSMIT THE TORSIONAL LOAD",
+  "options": [
+   {
+    "key": "A",
+    "text": "Forward engine mount"
+   },
+   {
+    "key": "B",
+    "text": "Rear engine mount"
+   },
+   {
+    "key": "C",
+    "text": "Forward engine mount and Rear engine mount"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q065-0065",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 65,
+  "question": "STARTING ENGINE, WHEN IS THE FUEL AND IGNITION ARE SELECTED ON",
+  "options": [
+   {
+    "key": "A",
+    "text": "At 43% N2"
+   },
+   {
+    "key": "B",
+    "text": "At 23% N2"
+   },
+   {
+    "key": "C",
+    "text": "N2 is rotated for 30 seconds"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q066-0066",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 66,
+  "question": "HOW MANY BOLTS CONNECT FWD ENGINE MOUNT TO THE PYLON",
+  "options": [
+   {
+    "key": "A",
+    "text": "4"
+   },
+   {
+    "key": "B",
+    "text": "5"
+   },
+   {
+    "key": "C",
+    "text": "6"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q067-0067",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 67,
+  "question": "WHAT TYPE OF LUBRICATION IS USED ON THE FAN BLADE",
+  "options": [
+   {
+    "key": "A",
+    "text": "Dry lubrication"
+   },
+   {
+    "key": "B",
+    "text": "Wet lubrication"
+   },
+   {
+    "key": "C",
+    "text": "Both Dry and Wet lubrication"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q068-0068",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 68,
+  "question": "WHICH PARAMETER OF ENGINE USE IN THE PRIMARY MODE",
+  "options": [
+   {
+    "key": "A",
+    "text": "N1"
+   },
+   {
+    "key": "B",
+    "text": "N2"
+   },
+   {
+    "key": "C",
+    "text": "EPR"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q069-0069",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 69,
+  "question": "THE ENGINE FORWARD MOUNT IS THE:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Anti-torque mount"
+   },
+   {
+    "key": "B",
+    "text": "Thrust mount"
+   },
+   {
+    "key": "C",
+    "text": "Thermal expansion mount"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q070-0070",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 70,
+  "question": "V2500 ENGINE’S DRAIN SYSTEM IS LOCATED:",
+  "options": [
+   {
+    "key": "A",
+    "text": "At the bottom of engine"
+   },
+   {
+    "key": "B",
+    "text": "At the rear part of pylon"
+   },
+   {
+    "key": "C",
+    "text": "Both A and B"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q071-0071",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 71,
+  "question": "THE AERODYNAMIC STATION # 3 IS LOCATED AT THE:",
+  "options": [
+   {
+    "key": "A",
+    "text": "LP compressor exit"
+   },
+   {
+    "key": "B",
+    "text": "HP compressor exit"
+   },
+   {
+    "key": "C",
+    "text": "HP turbine inlet"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q072-0072",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 72,
+  "question": "WHEN THE THROTTLE LEVER IS BETWEEN TWO DETENTS, THE THRUST RATING LIMIT CORRESPONDS TO:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Upper detent position"
+   },
+   {
+    "key": "B",
+    "text": "Lower detent position"
+   },
+   {
+    "key": "C",
+    "text": "Actual throttle lever position"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q073-0073",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 73,
+  "question": "THE MAIN GEARBOX IS DRIVEN BY:",
+  "options": [
+   {
+    "key": "A",
+    "text": "N1 rotor"
+   },
+   {
+    "key": "B",
+    "text": "N2 rotor"
+   },
+   {
+    "key": "C",
+    "text": "N2 rotor via the angle gearbox"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q074-0074",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 74,
+  "question": "WHAT IS THE MEANING WHEN “REV” CHANGES FROM AMBER TO GREEN AFTER SELECTING REVERSER",
+  "options": [
+   {
+    "key": "A",
+    "text": "Reverse system receiving signal and starting the sequence"
+   },
+   {
+    "key": "B",
+    "text": "Reverse sequence completed and reversers stow completely"
+   },
+   {
+    "key": "C",
+    "text": "The translating sleeves are fully deployed"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q075-0075",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 75,
+  "question": "WHICH STATEMENT IS CORRECT?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The starter accelerates N1 spool through the gearbox"
+   },
+   {
+    "key": "B",
+    "text": "The starter accelerates N2 spool through the gearbox"
+   },
+   {
+    "key": "C",
+    "text": "The starter accelerates N1 and N2 spool through the gearbox"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q076-0076",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 76,
+  "question": "EGT INDICATED IN UPPER ECAM IS ACHIEVED FROM",
+  "options": [
+   {
+    "key": "A",
+    "text": "Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to ECAM via junction box"
+   },
+   {
+    "key": "B",
+    "text": "Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to EEC via junction box"
+   },
+   {
+    "key": "C",
+    "text": "Four thermocouple probe assemblies located at station 4.95 LP turbine and sent to EIU via junction box"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q077-0077",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 77,
+  "question": "V2500-A5 ENGINE HP ROTOR IS SUPPORTED BY",
+  "options": [
+   {
+    "key": "A",
+    "text": "02 thrust ball bearing No.3, No.4"
+   },
+   {
+    "key": "B",
+    "text": "02 roller bearing No.3, No.4"
+   },
+   {
+    "key": "C",
+    "text": "No.3 thrust ball bearing and No.4 roller bearing"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q078-0078",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 78,
+  "question": "EXTERNAL SERVO ACTUATORS (VSBV, ACOC,…) RECEIVE FUEL HYDRAULIC PRESSURE FROM",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fuel Metering Unit"
+   },
+   {
+    "key": "B",
+    "text": "The High Pressure pump outlet"
+   },
+   {
+    "key": "C",
+    "text": "The Low Pressure pump outlet"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q079-0079",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 79,
+  "question": "For calculating vibrations, the EVMU receives signals from: (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The 2 engine accelerometers (1 per engine) and the N1 and N2 of each engine"
+   },
+   {
+    "key": "B",
+    "text": "the 2 engine accelerometers (1 per engine) and the N1 of each engine"
+   },
+   {
+    "key": "C",
+    "text": "the 2 engine accelerometers (1 per engine) and the N2 of each engine"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q080-0080",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 80,
+  "question": "How does the engine starter operate:(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "electrically"
+   },
+   {
+    "key": "B",
+    "text": "pneumatically"
+   },
+   {
+    "key": "C",
+    "text": "hydraulically"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q081-0081",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 81,
+  "question": "The FADEC system consists of: (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "A single EEC with its peripherals for both engines"
+   },
+   {
+    "key": "B",
+    "text": "A single EEC with its peripherals per engine"
+   },
+   {
+    "key": "C",
+    "text": "One main frame computer for all engines"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q082-0082",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 82,
+  "question": "Where does the TH/R hydraulic SOV locate? (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "At downstream of HCU"
+   },
+   {
+    "key": "B",
+    "text": "In the HCU"
+   },
+   {
+    "key": "C",
+    "text": "At upstream of HCU"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q083-0083",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 83,
+  "question": "Where is electrical power for P2/T2 probe heating comes from?(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "From EEC."
+   },
+   {
+    "key": "B",
+    "text": "From EIU."
+   },
+   {
+    "key": "C",
+    "text": "From A/C."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q084-0084",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 84,
+  "question": "The ignition system uses: (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "28 VDC from aircraft"
+   },
+   {
+    "key": "B",
+    "text": "115 VAC from aircraft"
+   },
+   {
+    "key": "C",
+    "text": "115 VAC from dedicated alternator"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q085-0085",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 85,
+  "question": "What is the engine pressure ratio (EPR):(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "p4/p2"
+   },
+   {
+    "key": "B",
+    "text": "p4.5/p2"
+   },
+   {
+    "key": "C",
+    "text": "p4.9/p2"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q086-0086",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 86,
+  "question": "The active clearance control (ACC) system ensures:(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Better turbines efficiency"
+   },
+   {
+    "key": "B",
+    "text": "Better turbine`s blades cooling"
+   },
+   {
+    "key": "C",
+    "text": "Better turbine`s vanes cooling"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q087-0087",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 87,
+  "question": "What happens in case of failure of the EIU:(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "the engine shuts down"
+   },
+   {
+    "key": "B",
+    "text": "the engine goes to flight idle mode"
+   },
+   {
+    "key": "C",
+    "text": "the engine cannot be restarted"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q088-0088",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 88,
+  "question": "Where is the air taken from to cool #4 bearing compartment: (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "the 7th stage of HPC"
+   },
+   {
+    "key": "B",
+    "text": "the 10th stage of HPC"
+   },
+   {
+    "key": "C",
+    "text": "the 12th stage of HPC"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q089-0089",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 89,
+  "question": "Where are the engine secondary parameters displayed: (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "on the ECAM upper display"
+   },
+   {
+    "key": "B",
+    "text": "on the ECAM lower display"
+   },
+   {
+    "key": "C",
+    "text": "on both ECAM displays"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q090-0090",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 90,
+  "question": "Which engine parameters are displayed on the upper ECAM?(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "EPR, N1, N2"
+   },
+   {
+    "key": "B",
+    "text": "EPR, N1, N2, oil pressure, oil temperature"
+   },
+   {
+    "key": "C",
+    "text": "EPR, N1, N2, EGT"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q091-0091",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 91,
+  "question": "What senses movement of T/R translating sleeves: (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "the proximity switches on the locking actuators"
+   },
+   {
+    "key": "B",
+    "text": "the LVDT’s(Linear Variable Differential Transducers) on upper actuators."
+   },
+   {
+    "key": "C",
+    "text": "the LVDT’s on lower actuators."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q092-0092",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 92,
+  "question": "Where is the servo fuel for the fuel operated actuators supplied from?(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "HMU"
+   },
+   {
+    "key": "B",
+    "text": "FMU"
+   },
+   {
+    "key": "C",
+    "text": "HP pump"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q093-0093",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 93,
+  "question": "Where is the master chip detector located:(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "In the No. 4 bearing compartment scavange line"
+   },
+   {
+    "key": "B",
+    "text": "In the combined oil scavange return line"
+   },
+   {
+    "key": "C",
+    "text": "In the forward bearing compartment scavange line"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q094-0094",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 94,
+  "question": "An oil tank access door is provided for servicing:",
+  "options": [
+   {
+    "key": "A",
+    "text": "On the right side fan cowl door."
+   },
+   {
+    "key": "B",
+    "text": "On the left side fan cowl door."
+   },
+   {
+    "key": "C",
+    "text": "On the left side thrust reverser \"C\" duct door."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q095-0095",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 95,
+  "question": "How to open the fan cowl doors(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "by manual using manpower."
+   },
+   {
+    "key": "B",
+    "text": "by an hydraulic actuator using a manual hand pump."
+   },
+   {
+    "key": "C",
+    "text": "by an hydraulic actuator using a engine hydraulic pump."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q096-0096",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 96,
+  "question": "For V2500, which fluids can be discharged through the drain? (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Water, oil, hydraulic and fuel."
+   },
+   {
+    "key": "B",
+    "text": "Water, hydraulic and fuel."
+   },
+   {
+    "key": "C",
+    "text": "Hydraulic and fuel."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q097-0097",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 97,
+  "question": "The FADEC system includes the: (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Engine Electronic Controller (EEC) and the Engine Interface Unit (EIU)."
+   },
+   {
+    "key": "B",
+    "text": "EIU and the engine controls."
+   },
+   {
+    "key": "C",
+    "text": "EEC and the peripheral sensors and components on the engine."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q098-0098",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 98,
+  "question": "Engine oil parameters are monitored in the(V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Supply circuit"
+   },
+   {
+    "key": "B",
+    "text": "Scavenge circuit"
+   },
+   {
+    "key": "C",
+    "text": "Vent circuit"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q099-0099",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 99,
+  "question": "The engine thrust indicated on ECAM via EPR. What is the engine pressure ratio (EPR)? (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The ratio of P2 – P3."
+   },
+   {
+    "key": "B",
+    "text": "The ratio of P4.9 – P2."
+   },
+   {
+    "key": "C",
+    "text": "The ratio of P4.9 – P3."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "v2500-b2-gen-q100-0100",
+  "crs": "B2",
+  "cat": "CAT B2",
+  "aircraftType": "A320",
+  "engineType": "V2500",
+  "sourceFile": "12. V2500 Engine CAT B2 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": null,
+  "ataTitle": null,
+  "questionNumberOriginal": 100,
+  "question": "What is (are) the indications in case of metallic parts in the common scavenge oil pipe? (V2500)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Only a popped clogging indication on the electrical chip detector indicator."
+   },
+   {
+    "key": "B",
+    "text": "An ECAM warning and a popped clogging indication on the electrical chip detector indicator."
+   },
+   {
+    "key": "C",
+    "text": "There is no indication."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ }
+]

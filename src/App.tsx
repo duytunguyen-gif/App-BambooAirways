@@ -1,9 +1,13 @@
 import { useEffect, useState } from "react";
 import BottomTabs, { type TabKey } from "./components/BottomTabs";
 import SettingsSheet from "./components/SettingsSheet";
+import CafeModal from "./components/CafeModal";
 import FuelCalc from "./tabs/FuelCalc";
 import FuelEst from "./tabs/FuelEst";
 import Mel from "./tabs/Mel";
+import CaavTab from "./features/caav/CaavTab";
+import { CAAV_STORAGE_KEYS } from "./features/caav/storage";
+import { useKeyboardInsets } from "./lib/useKeyboardInsets";
 import { load, remove, save } from "./lib/storage";
 
 interface Settings {
@@ -14,6 +18,8 @@ const DEFAULT_SETTINGS: Settings = { excludeDayOfDiscovery: true };
 export default function App() {
   const [tab, setTab] = useState<TabKey>("fuelCalc");
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [cafeOpen, setCafeOpen] = useState(false);
+  useKeyboardInsets();
   const [settings, setSettings] = useState<Settings>(() =>
     load("settings", DEFAULT_SETTINGS)
   );
@@ -25,7 +31,9 @@ export default function App() {
   }, [settings]);
 
   const resetAll = () => {
-    ["fuelcalc", "fuelest", "mel", "settings"].forEach(remove);
+    ["fuelcalc", "fuelest", "mel", "settings", ...CAAV_STORAGE_KEYS].forEach(
+      remove
+    );
     setSettings(DEFAULT_SETTINGS);
     setNonce((n) => n + 1);
   };
@@ -67,14 +75,22 @@ export default function App() {
           {tab === "mel" && (
             <Mel excludeDayOfDiscovery={settings.excludeDayOfDiscovery} />
           )}
+          {tab === "caav" && <CaavTab />}
         </div>
 
         <footer className="mt-8 border-t border-line-soft pt-4 text-center text-[11px] leading-relaxed text-gray-500">
-          Internal calculation aid only. Always verify with approved company
-          documents and procedures.
-          <span className="mt-2 block text-gray-600">
-            Designed by Duy Tú
-          </span>
+          Nếu bạn thấy ứng dụng này hữu ích, bạn có thể mời tôi một cốc cà phê{" "}
+          <button
+            type="button"
+            onClick={() => setCafeOpen(true)}
+            className="font-bold text-bamboo-green underline decoration-dotted underline-offset-2 hover:text-bamboo-green/80"
+          >
+            ở đây
+          </button>
+          . Sự ủng hộ của anh em sẽ giúp tôi có thêm động lực duy trì, cải thiện
+          và build thêm nhiều công cụ thiết thực hơn cho việc làm việc, học tập
+          của đội thợ máy chúng ta.
+          <span className="mt-2 block text-gray-600">Designed by Duy Tú</span>
         </footer>
       </main>
 
@@ -89,6 +105,8 @@ export default function App() {
         }
         onResetAll={resetAll}
       />
+
+      <CafeModal open={cafeOpen} onClose={() => setCafeOpen(false)} />
     </div>
   );
 }

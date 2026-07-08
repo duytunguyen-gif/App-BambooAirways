@@ -1,9 +1,10 @@
-export type TabKey = "fuelCalc" | "fuelEst" | "mel";
+export type TabKey = "fuelCalc" | "fuelEst" | "mel" | "caav";
 
 const TABS: { key: TabKey; label: string }[] = [
   { key: "fuelCalc", label: "Fuel Calc" },
   { key: "fuelEst", label: "Fuel Est" },
   { key: "mel", label: "MEL" },
+  { key: "caav", label: "CAAV" },
 ];
 
 interface BottomTabsProps {

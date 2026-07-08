@@ -1,3 +1,15 @@
+# CAAV source PDFs (internal Bamboo SharePoint documents — kept local only,
+# not published. The parsed question data in public/data/caav/ is what ships.)
+# Leading slash anchors to repo root so src/features/caav & public/data/caav
+# (which MUST ship) are not caught.
+/caav/
+
+# Python bytecode cache
+__pycache__/
+
+# Local editor/tooling config
+.claude/
+
 # Logs
 logs
 *.log

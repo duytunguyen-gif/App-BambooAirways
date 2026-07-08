@@ -1,0 +1,3102 @@
+[
+ {
+  "id": "leap-b1-ata71-q001-0001",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 1,
+  "question": "What can you do when operate Engine Leap 1-A at idle power: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Open fan cowl door"
+   },
+   {
+    "key": "B",
+    "text": "Open thrust reverser cowl"
+   },
+   {
+    "key": "C",
+    "text": "Supply hydraulic power through hydraulic ground power cart"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 71-00-00-860-827A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q002-0002",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 2,
+  "question": "When starting the Engine Leap 1-A (Normal Automatic Start), unsatisfactory start occurs: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "You must set Master switch to OFF, and restart"
+   },
+   {
+    "key": "B",
+    "text": "EEC will automatically start 1 more time before it will abort the start"
+   },
+   {
+    "key": "C",
+    "text": "EEC will automatically start 2 more times before it will abort the start"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF: AMM 71-00-00-869-704A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q003-0003",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 3,
+  "question": "How to make sure Engine Leap 1-A Fan cowl door fully locked: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Make sure 03 latch handles are fully locked and flush with the fan cowl surface and the flag on the LH Fan cowl door is fully retracted."
+   },
+   {
+    "key": "B",
+    "text": "Make sure that all the latch handles stay in the fan cowl slots and are aligned with the adjacent fan cowl surface. And the key removed after turnback to lock position."
+   },
+   {
+    "key": "C",
+    "text": "Use a SCREWDRIVER to push the pin towards the door locator then make sure that all the latches stay in the fan cowl slots and are aligned with the bottom of the adjacent cowl surface and the key removed."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 71-13-00-410-803A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q004-0004",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 4,
+  "question": "If you see the red flag shown on the Eng Leap 1-A LH Fan cowl door, what does it mean: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fan cowl latch keeper No.1 opened (AMM 71-13-00-00 CONF 03)"
+   },
+   {
+    "key": "B",
+    "text": "All Reverser latches opened."
+   },
+   {
+    "key": "C",
+    "text": "All Fan cowl and Reverser latches opened."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 71-13-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q005-0005",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 5,
+  "question": "The warning message “Eng 1(2) Fan Cowl Not CLSD” come into view when: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Engine Fan cowl door latch No.1 opened."
+   },
+   {
+    "key": "B",
+    "text": "At least 02 Fan cowl door latches opened."
+   },
+   {
+    "key": "C",
+    "text": "All Fan cowl door latches opened."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 71-13-13-720-803A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q006-0006",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 6,
+  "question": "How does Anti-icing system working on Eng Leap 1-A Air Intake : (CAT A, B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The hot air from the Engine is supplied to the nose lip assembly of Air intake"
+   },
+   {
+    "key": "B",
+    "text": "The hot air from the Engine is supplied to the inner barrel of Air intake"
+   },
+   {
+    "key": "C",
+    "text": "The hot air from the Engine is supplied to the outer barrel of Air intake"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF : AMM 71-60-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q007-0007",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 7,
+  "question": "How many zones are Drain system divided to: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "2 zones : Fan and core, Turbine"
+   },
+   {
+    "key": "B",
+    "text": "3 zones : Fan, Core, Turbine (AMM 71-00-00-00 CONF 03)"
+   },
+   {
+    "key": "C",
+    "text": "4 zones : Fan, Core, Turbine, Pylon"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF : AMM 71-00-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q008-0008",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 8,
+  "question": "What types of fluid you can find on fan zone drainmast: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Oil and fuel"
+   },
+   {
+    "key": "B",
+    "text": "Oil and hyraulic fluid and fuel (AMM 71-00-00-00 CONF 03)"
+   },
+   {
+    "key": "C",
+    "text": "Oil and hydraulic fluid"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF : AMM 71-00-00-00 CONF 03 (LEV B1)",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q009-0009",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 9,
+  "question": "For CFM – LEAP 1A Engine, the Engine fan cowl door latches opening sequence is: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "L1 - L2 - L3"
+   },
+   {
+    "key": "B",
+    "text": "L1 - L3 - L2"
+   },
+   {
+    "key": "C",
+    "text": "L2 - L1 - L3"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF AMM 71-13-00-010-803-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q010-0010",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 10,
+  "question": "How many holds open rod of Eng Leap 1-A nacelle: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "1 rod for Fan Cowl and 1 rod for Reverser"
+   },
+   {
+    "key": "B",
+    "text": "2 rod for Fan Cowl and 1 rod for Reverser"
+   },
+   {
+    "key": "C",
+    "text": "2 rod for Fan Cowl and 2 rod for Reverser"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 71-13-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q011-0011",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 11,
+  "question": "How many strake installed on Engine Leap 1-A Fan Cowl door: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "1 for each Engine, on the right Fan cowl door"
+   },
+   {
+    "key": "B",
+    "text": "1 for each Engine, on the left Fan cowl door"
+   },
+   {
+    "key": "C",
+    "text": "2 for each Engine, 1 on each Fan cowl door"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 71-13-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q012-0012",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 12,
+  "question": "What should you check before open the Engine Leap 1-A Fan cowl door: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Slat in fully retracted position (AMM 71-13-00-010-803)"
+   },
+   {
+    "key": "B",
+    "text": "Flap in fully retracted position"
+   },
+   {
+    "key": "C",
+    "text": "Parking brake applied"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 71-13-00-010-803",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q013-0013",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 13,
+  "question": "How many Fan Cowl Door latches are there on CFM-LEAP 1A? (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "2"
+   },
+   {
+    "key": "B",
+    "text": "3"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: D.O 71-13-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata71-q014-0014",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 71",
+  "ataTitle": "POWER PLANT",
+  "questionNumberOriginal": 14,
+  "question": "For CFM – LEAP 1A Engine, the Engine fan cowl door latches opening sequence is: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "L1 - L2 - L3"
+   },
+   {
+    "key": "B",
+    "text": "L1 - L3 - L2"
+   },
+   {
+    "key": "C",
+    "text": "L2 - L1 - L3"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 71-13-00-010-803-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q015-0015",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 15,
+  "question": "How to turn N2 rotor manually: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "With hand by turning Fan blades"
+   },
+   {
+    "key": "B",
+    "text": "with core engine rotation and adapter offset crankpad tools and electric turnover tool"
+   },
+   {
+    "key": "C",
+    "text": "Cannot turn N2 rotor manually"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref: AMM 72-00-00-820-803-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q016-0016",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 16,
+  "question": "When there is Evidence of the FOD or the bird debris has entered the booster inlet, Borescope inspection can be deferred within: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "10 FH or 25 FC"
+   },
+   {
+    "key": "B",
+    "text": "25 FH or 10 FC"
+   },
+   {
+    "key": "C",
+    "text": "20 FH or 15 FC"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref AMM 72-00-00-200-814-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q017-0017",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 17,
+  "question": "Special caution when washing engine: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Do not wash an engine unless the egt is below 150 deg.f (66 deg.c)."
+   },
+   {
+    "key": "B",
+    "text": "Do not wash an engine at temperature above 14 deg.f (-10 deg.c)."
+   },
+   {
+    "key": "C",
+    "text": "Engine can be washed anytime needed"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "Ref AMM 72-00-00-100-804-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q018-0018",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 18,
+  "question": "Maximum serviceable limit for OGV platform to be missing: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "No more than 3 platforms are affected"
+   },
+   {
+    "key": "B",
+    "text": "No more than 3 adjacent platforms are affected"
+   },
+   {
+    "key": "C",
+    "text": "Any amount can be missing"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "Ref AMM 72-24-11-210-801-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q019-0019",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 19,
+  "question": "Fan blade tip rub with frayed carbon fiber: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Must be replaced"
+   },
+   {
+    "key": "B",
+    "text": "Any amount is acceptable"
+   },
+   {
+    "key": "C",
+    "text": "Need Engine borescope inspection"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref AMM 72-21-20-210-802-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q020-0020",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 20,
+  "question": "How many Inector Nozzles are stage 1 High Pressure Turbine (HPT) Nozzle Assembly (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The stage 1 HPT nozzle assembly contains 18 two-nozzle segments for a total of 36 stator nozzle. Each stator nozzle has a thermal barrier coating and contains holes for cooling. The nozzle segment are supported at the inner band by the front inner HPT nozzle support."
+   },
+   {
+    "key": "B",
+    "text": "The stage 1 HPT nozzle assembly contains 36 two-nozzle segments for a total of 36 stator nozzle. Each stator nozzle has a thermal barrier coating and contains holes for cooling. The nozzle segment are supported at the inner band by the front inner HPT nozzle support."
+   },
+   {
+    "key": "C",
+    "text": "The stage 1 HPT nozzle assembly contains 24 two-nozzle segments for a total of 36 stator nozzle. Each stator nozzle has a thermal barrier coating and contains holes for cooling. The nozzle segment are supported at the inner band by the front inner HPT nozzle support."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "Ref : 72-51-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q021-0021",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 21,
+  "question": "Stage 2 HPT Nozzle Assembly operation? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The HPT stator case and stage 1 HPT stator nozzle comprise the stationary portion of the HPT consisting of the stage 1 and stage 2 HPT stator hangers, the stage 1 and stage 2 HPT stator shrouds and stage 2 HPT stator nozzles. The HPT stator case is used to contain high-pressure high-temperature air."
+   },
+   {
+    "key": "B",
+    "text": "The HPT stator case and stage 2 HPT stator nozzle comprise the stationary portion of the HPT consisting of the stage 1 and stage 2 HPT stator hangers, the stage 1 and stage 2 HPT stator shrouds and stage 2 HPT stator nozzles. The HPT stator case is used to contain high-pressure high-temperature air."
+   },
+   {
+    "key": "C",
+    "text": "The HPT stator case and stage 2 HPT stator nozzle comprise the stationary portion of the HPT consisting of the stage 1 and stage 2 HPT stator hangers, the stage 1 and stage 2 HPT stator shrouds and stage 2 HPT stator nozzles. The HPT stator case is used to contain low-pressure low- temperature air."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref : 72-53-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q022-0022",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 22,
+  "question": "How many nozzole airfoils in stage 1 HPT ? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "36"
+   },
+   {
+    "key": "B",
+    "text": "19"
+   },
+   {
+    "key": "C",
+    "text": "24"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "Ref : 72-40-00-290-801-A STEP 4.C.1",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q023-0023",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 23,
+  "question": "How many Outlet Guide Vanes (OGVs) on ENG ? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "42"
+   },
+   {
+    "key": "B",
+    "text": "41"
+   },
+   {
+    "key": "C",
+    "text": "40"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref : 72-24-20-210-801-A STEP 4.A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata72-q024-0024",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 72",
+  "ataTitle": "ENGINE",
+  "questionNumberOriginal": 24,
+  "question": "The Transfer Gear Box (TGB) Position on ENG ? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The TGB is located on the fan frame, at 8 o'clock position (ALF)."
+   },
+   {
+    "key": "B",
+    "text": "The TGB is located on the fan frame, at 9 o'clock position (ALF)."
+   },
+   {
+    "key": "C",
+    "text": "The TGB is located on the fan frame, at 12 o'clock position (ALF)."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "Ref :72-60-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q025-0025",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 25,
+  "question": "During installing the main fuel filter bowl to the housing, if there is a sudden decrease in torque: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Continue to tighten the fuel filter bowl by hand."
+   },
+   {
+    "key": "B",
+    "text": "Remove the fuel filter bowl and do an inspection of the o-ring and backup rings for damage."
+   },
+   {
+    "key": "C",
+    "text": "Use a torque wrench to perform the final seating of the fuel filter bowl (not to exceed 50 lbf.ft)"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 73-11-10-04 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q026-0026",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 26,
+  "question": "The fuel LPSOV is controlled to open/close by: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "An electric motor"
+   },
+   {
+    "key": "B",
+    "text": "A dual electric motor"
+   },
+   {
+    "key": "C",
+    "text": "A dual servo fuel motor"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q027-0027",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 27,
+  "question": "The fuel temp sensor of engine fuel system is: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Downstream of fuel flow meter"
+   },
+   {
+    "key": "B",
+    "text": "Upstream of the fuel flow meter"
+   },
+   {
+    "key": "C",
+    "text": "Downstream of FMV"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 73-21-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q028-0028",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 28,
+  "question": "The Fuel Return Valve (FRV) is controlled via: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Torque motor by the EEC depending on the fuel temperature."
+   },
+   {
+    "key": "B",
+    "text": "Torque motor by the EEC depending on the fuel flow."
+   },
+   {
+    "key": "C",
+    "text": "Torque motor by the EEC depending on the thrust lever angle (TLA)."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q029-0029",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 29,
+  "question": "The IDG fuel oil heat exchanger (FOHX) get cool fuel from: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The FMV bypass"
+   },
+   {
+    "key": "B",
+    "text": "Servo fuel return"
+   },
+   {
+    "key": "C",
+    "text": "Fuel boost pump"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q030-0030",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 30,
+  "question": "The fuel pressure sensor is located on: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Pilot Primary/Main enriched manifold (PPMe)"
+   },
+   {
+    "key": "B",
+    "text": "Pilot Primary/Main non-enriched manifold (PPMne)"
+   },
+   {
+    "key": "C",
+    "text": "Pilot Secondary manifold (Psec)"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 73-21-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q031-0031",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 31,
+  "question": "Sensor is installed in the flow path, on the air inlet duct: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "P2T2"
+   },
+   {
+    "key": "B",
+    "text": "T12"
+   },
+   {
+    "key": "C",
+    "text": "T3"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 73-21-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q032-0032",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 32,
+  "question": "When message “ENG 1(2) FUEL FILTER CLOG” trigger on ECAM: (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "A/C No Dispatch"
+   },
+   {
+    "key": "B",
+    "text": "A/C is Serviceable"
+   },
+   {
+    "key": "C",
+    "text": "Alert is confirmed to be false by Troubleshooting and associated Filter is replaced every day"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q033-0033",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 33,
+  "question": "Rating Plug is located on: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "PMA"
+   },
+   {
+    "key": "B",
+    "text": "EEC"
+   },
+   {
+    "key": "C",
+    "text": "PSS Box"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 73-21-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q034-0034",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 34,
+  "question": "Split Control Unit (SCU)/Servo Valve Assembly (SVA) convert the EEC signals to: (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Air Pressure"
+   },
+   {
+    "key": "B",
+    "text": "Fuel Temperature"
+   },
+   {
+    "key": "C",
+    "text": "Hydraulic Flows"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q035-0035",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 35,
+  "question": "PMA gives: (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "N2 Speed Signal to EEC"
+   },
+   {
+    "key": "B",
+    "text": "Electric Power to each EEC"
+   },
+   {
+    "key": "C",
+    "text": "N2 Speed Signal to EEC and Electric Power to each EEC"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 73-21-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q036-0036",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 36,
+  "question": "What is main function of main fuel pump? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "To give fuel pressure and flow."
+   },
+   {
+    "key": "B",
+    "text": "To protect the fuel system from over-pressuriztion with bypass valve"
+   },
+   {
+    "key": "C",
+    "text": "To give fuel pressure and flow and to protect the fuel system from over-pressuriztion with bypass valve."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q037-0037",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 37,
+  "question": "What is connected to the centrifugal boost stage in main fuel pump? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Inlet is connected to the aircraft fuel system, outlet is connected to main fuel filter"
+   },
+   {
+    "key": "B",
+    "text": "Inlet is connected to the aircraft fuel system, outlet is connected to the idg oil cooler"
+   },
+   {
+    "key": "C",
+    "text": "Inlet is connected to the main heat exchanger, outlet is connected to the main fuel filter"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q038-0038",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 38,
+  "question": "What is connected to the high stage boost stage in main fuel pump? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Inlet is connected to the aircraft fuel system, outlet is connected to main fuel filter"
+   },
+   {
+    "key": "B",
+    "text": "Inlet is connected to the aircraft fuel system, outlet is connected to the idg oil cooler"
+   },
+   {
+    "key": "C",
+    "text": "Inlet is connected to the main heat exchanger, outlet is connected to the main fuel filter"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q039-0039",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 39,
+  "question": "What is the main function of the servo fuel heater? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Uses cold fuel to cool the engine oil"
+   },
+   {
+    "key": "B",
+    "text": "Uses hot engine oil to heat the fuel."
+   },
+   {
+    "key": "C",
+    "text": "Uses cold fuel to cool the engine oil and uses hot engine oil to heat the fuel."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q040-0040",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 40,
+  "question": "What is the fuel outlet connection of servo fuel heater? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fuel metering unit and servo valve assembly"
+   },
+   {
+    "key": "B",
+    "text": "Split control unit and servo valve assembly"
+   },
+   {
+    "key": "C",
+    "text": "Fuel metering unit and split control unit/servo valve assembly."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q041-0041",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 41,
+  "question": "What are the functions of fuel return valve? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "To regulate the level of fuel flow being returned to the fuel tank and to allow more cold fuel to be deliveried to the idg oil cooler"
+   },
+   {
+    "key": "B",
+    "text": "To regulate the level of fuel flow being returned to the fuel tank and to allow more cold fuel to be deliveried to the fcoc."
+   },
+   {
+    "key": "C",
+    "text": "To regulate the level of fuel flow to the fuel nozzle and to allow more cold fuel to be deliveried to the idg oil cooler"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q042-0042",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 42,
+  "question": "What does the propulsion control system consist in? (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Eiu and eec"
+   },
+   {
+    "key": "B",
+    "text": "Eiu and fadec system"
+   },
+   {
+    "key": "C",
+    "text": "Fadec system"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata73-q043-0043",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 73",
+  "ataTitle": "ENGINE FUEL AND CONTROL",
+  "questionNumberOriginal": 43,
+  "question": "What are the directly inlets of fuel to the FMU? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The idg oil cooler, main fuel filter and servo fuel heater"
+   },
+   {
+    "key": "B",
+    "text": "Lp valve, main fuel filter and servo fuel heater"
+   },
+   {
+    "key": "C",
+    "text": "Main fuel pump, main fuel filter and idg oil cooler."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 73-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata74-q044-0044",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 74",
+  "ataTitle": "IGNITION",
+  "questionNumberOriginal": 44,
+  "question": "Which Ignition system is supplied by ESS BUS: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "System A"
+   },
+   {
+    "key": "B",
+    "text": "System B"
+   },
+   {
+    "key": "C",
+    "text": "System A for Eng 1 and System B for Eng 2"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM74-10-00-00 CONF 13",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata74-q045-0045",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 74",
+  "ataTitle": "IGNITION",
+  "questionNumberOriginal": 45,
+  "question": "During Ignition test, the EEC will abort the Ignition Test function when (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "N2 is less than 10 percent"
+   },
+   {
+    "key": "B",
+    "text": "TLA (Throttle Level Angle) at idle state."
+   },
+   {
+    "key": "C",
+    "text": "Engine not in default start state"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 74-00-00-710-803-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata74-q007-0046",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 74",
+  "ataTitle": "IGNITION",
+  "questionNumberOriginal": 7,
+  "question": "As required by procedure, circuit breaker of ENGINE/1 AND 2/IGN/SYS A need be PULLED OUT during: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "C/o Dry crank ENGINE"
+   },
+   {
+    "key": "B",
+    "text": "C/o automatic engine start with IGN A fault"
+   },
+   {
+    "key": "C",
+    "text": "C/o Ignition test (menu mode)."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: MEL PROC 74-31-01A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata74-q047-0047",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 74",
+  "ataTitle": "IGNITION",
+  "questionNumberOriginal": 47,
+  "question": "During automatic engine start, ECAM alert ENG X START FAULT-ENG X IGNITION FAULT appears if: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Immediately auto start attempt fails"
+   },
+   {
+    "key": "B",
+    "text": "The EEC accommodation for a ground auto start No Light Up condition and this auto-restart attempt fails."
+   },
+   {
+    "key": "C",
+    "text": "The EEC accommodation for a second ground auto start No Light Up condition and this auto- restart attempt fails."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: 74-31-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata74-q048-0048",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 74",
+  "ataTitle": "IGNITION",
+  "questionNumberOriginal": 48,
+  "question": "During the engine auto-start, the first and second automatic starting attempts performed by the EEC fail. Light-off typically achieved on the third automatic attempt. Choose correct action: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "If the fault did not occur again within the next three engine starts, then no maintenance action is needed"
+   },
+   {
+    "key": "B",
+    "text": "Immediately do the operational ignition test on channel A and B, with engine non-motoring"
+   },
+   {
+    "key": "C",
+    "text": "Replace PLUG-IGNITER"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: TFU 74.00.00.096",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata74-q049-0049",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 74",
+  "ataTitle": "IGNITION",
+  "questionNumberOriginal": 49,
+  "question": "During automatic engine start. Ignition is TURN OFF when (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "At 55 percent N2"
+   },
+   {
+    "key": "B",
+    "text": "At 55 percent N1"
+   },
+   {
+    "key": "C",
+    "text": "At 50 percent N1"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 71-00-00-860-827-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata74-q050-0050",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 74",
+  "ataTitle": "IGNITION",
+  "questionNumberOriginal": 50,
+  "question": "Which procedure below requires IGN Circuit Breakers to be pulled out during performance? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Manual start"
+   },
+   {
+    "key": "B",
+    "text": "Dry-motoring check"
+   },
+   {
+    "key": "C",
+    "text": "Wet-motoring check"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 71-00-00-700-804-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata74-q051-0051",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 74",
+  "ataTitle": "IGNITION",
+  "questionNumberOriginal": 51,
+  "question": "Which channel in control of the Electronic Engine Control (EEC) activates the ignition system? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "EEC channel A connects 115V AC to the ignition exciter 1 and EEC channel B connects 115V AC to the ignition exciter 2"
+   },
+   {
+    "key": "B",
+    "text": "EEC channel A and B connect 115V AC to the ignition exciter 1 and 2"
+   },
+   {
+    "key": "C",
+    "text": "EEC channel A connects 115V AC to the ignition exciter 2 and EEC channel B connects 115V AC to the ignition exciter 1"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 74-20-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata75-q052-0052",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 75",
+  "ataTitle": "AIR",
+  "questionNumberOriginal": 52,
+  "question": "The High Pressure Compressor (HPC) controls include (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Variable Bleed Valve (VBV) system."
+   },
+   {
+    "key": "B",
+    "text": "The Variable Stator Vane (VSV) system."
+   },
+   {
+    "key": "C",
+    "text": "The Variable Bleed Valve (VBV) system, The Variable Stator Vane (VSV) system, and The Transient Bleed Valve (TBV) system. Reference: AMM 75-30-00-00 CONF 03 – General"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata75-q053-0053",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 75",
+  "ataTitle": "AIR",
+  "questionNumberOriginal": 53,
+  "question": "The Engine Anti-Icing consist of: (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Start-Bleed/Booster Anti-Ice (BAI) valve and actuator."
+   },
+   {
+    "key": "B",
+    "text": "Start-Bleed/Booster Anti-Ice (BAI) valve and actuator, Anti-ice tube and manifolds, Flow splitter."
+   },
+   {
+    "key": "C",
+    "text": "Flow splitter. Reference: AMM 75-10-00-00 CONF 03 – General"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata75-q054-0054",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 75",
+  "ataTitle": "AIR",
+  "questionNumberOriginal": 54,
+  "question": "EEC ventilation system consists of the following: (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "An assembly of rigid and flexible pipes."
+   },
+   {
+    "key": "B",
+    "text": "An assembly of rigid and flexible pipes, Two blowers, and One bracket (covered in zonal)."
+   },
+   {
+    "key": "C",
+    "text": "One bracket (covered in zonal). Reference: AMM 75-24-00-00 CONF 03 – System Description"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata75-q055-0055",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 75",
+  "ataTitle": "AIR",
+  "questionNumberOriginal": 55,
+  "question": "HPTACC Valve position feedback to EEC by: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "A RVDT."
+   },
+   {
+    "key": "B",
+    "text": "A LVDT."
+   },
+   {
+    "key": "C",
+    "text": "Dual LVDTs. Reference: AMM 75-21-00-00 CONF 03 – System Description"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata75-q056-0056",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 75",
+  "ataTitle": "AIR",
+  "questionNumberOriginal": 56,
+  "question": "The HPTACC system located at: (CAT A, B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The left of the HPC case at the 9 o’clock position."
+   },
+   {
+    "key": "B",
+    "text": "The left of the HPC case at the 7 o’clock position."
+   },
+   {
+    "key": "C",
+    "text": "The left of the HPC case at the 11o’clock position. Reference: AMM 75-21-00-00 CONF 03 – System Description"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata75-q057-0057",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 75",
+  "ataTitle": "AIR",
+  "questionNumberOriginal": 57,
+  "question": "The TBV is installed on: (CAT A, B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The HPC case."
+   },
+   {
+    "key": "B",
+    "text": "The Combustor case."
+   },
+   {
+    "key": "C",
+    "text": "The LPT case. Reference: AMM 75-33-00-00 CONF 03 – System Description"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata75-q058-0058",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 75",
+  "ataTitle": "AIR",
+  "questionNumberOriginal": 58,
+  "question": "Transient Bleed Valve (TBV) System: (CAT A, B1).",
+  "options": [
+   {
+    "key": "A",
+    "text": "The TBV is normally closed and will open (10th stage HPC bleed) during engine decelerations as the HPC requires additional operability margin."
+   },
+   {
+    "key": "B",
+    "text": "TBV is normally open and will close (10th stage HPC bleed) during engine decelerations as the HPC requires additional operability margin."
+   },
+   {
+    "key": "C",
+    "text": "TBV is always open (10th stage HPC bleed) during engine operation. Reference: AMM 75-30-00-00 CONF 03– System Description"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata75-q059-0059",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 75",
+  "ataTitle": "AIR",
+  "questionNumberOriginal": 59,
+  "question": "EEC control Start-Bleed/Booster Anti-Ice (BAI) Valve by: (CAT B1).",
+  "options": [
+   {
+    "key": "A",
+    "text": "Uses torque motor to control the BAI exhaust port to direct HPC 7th stage air to the anti-ice tubes."
+   },
+   {
+    "key": "B",
+    "text": "Uses servo fuel to control the BAI exhaust port to direct HPC 7th stage air to the anti-ice tubes."
+   },
+   {
+    "key": "C",
+    "text": "Uses Electro-hydraulic servo valve to control the BAI exhaust port to direct HPC 7th stage air to the anti-ice tubes. Reference: AMM 75-10-00-00 CONF 03– System Description"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": null,
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata76-q060-0060",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 76",
+  "ataTitle": "ENGINE CONTROLS",
+  "questionNumberOriginal": 60,
+  "question": "The engine control system consists of ? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The throttle control lever,EEC,EIU"
+   },
+   {
+    "key": "B",
+    "text": "The throttle control lever, The HP fuel shut-off valve control, The LP fuel shut-off valve control"
+   },
+   {
+    "key": "C",
+    "text": "The throttle control lever,EEC.PSS"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM 76-00-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata76-q061-0061",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 76",
+  "ataTitle": "ENGINE CONTROLS",
+  "questionNumberOriginal": 61,
+  "question": "How many ways to engage A/THR function? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "2"
+   },
+   {
+    "key": "C",
+    "text": "3"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 22-31-00-00 CONF 00 and ATA 76 Training Manual",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata76-q062-0062",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 76",
+  "ataTitle": "ENGINE CONTROLS",
+  "questionNumberOriginal": 62,
+  "question": "What should you pay attention when adjust of the Artificial Feel Unit? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Measure this value in the Reveser Idle /Max Climb range when turn the nut to get load"
+   },
+   {
+    "key": "B",
+    "text": "Measure this value in the Idle Stop /Max Climb range when turn the nut to get load"
+   },
+   {
+    "key": "C",
+    "text": "Measure this value in the Max Climb /MCT range when turn the nut to get load"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM TASK 76-11-00-820-806-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata76-q063-0063",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 76",
+  "ataTitle": "ENGINE CONTROLS",
+  "questionNumberOriginal": 63,
+  "question": "How many rigging pins are used when replacing of the Throttle Control Artificial Feel Unit? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "2"
+   },
+   {
+    "key": "C",
+    "text": "4"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "AMM TASK 76-11-17-000-802-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata76-q064-0064",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 76",
+  "ataTitle": "ENGINE CONTROLS",
+  "questionNumberOriginal": 64,
+  "question": "What shoud you pay attention when removing of the Throttle Control Lever Assembly? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Throttle control levers are at -20 degree"
+   },
+   {
+    "key": "B",
+    "text": "Throttle control levers are at 0 degree"
+   },
+   {
+    "key": "C",
+    "text": "Throttle control levers are at 25 degree"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM TASK 76-11-41-000-803-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata76-q065-0065",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 76",
+  "ataTitle": "ENGINE CONTROLS",
+  "questionNumberOriginal": 65,
+  "question": "What statement is correct? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 0.5 degree TRA"
+   },
+   {
+    "key": "B",
+    "text": "The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 1.5 degree TRA"
+   },
+   {
+    "key": "C",
+    "text": "The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 1 degree TRA"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM 76-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata76-q066-0066",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 76",
+  "ataTitle": "ENGINE CONTROLS",
+  "questionNumberOriginal": 66,
+  "question": "The EEC shall enable the fuel cut back function when:? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fan speed greater than thrust control manfunction threshold, pressure altitude below 15000 ft and Mach number less than 0.4."
+   },
+   {
+    "key": "B",
+    "text": "Fan speed less than thrust control manfunction threshold, pressure altitude below 15000 ft and Mach number less than 0.4."
+   },
+   {
+    "key": "C",
+    "text": "Fan speed greater than thrust control manfunction threshold, pressure altitude above 15000 ft and Mach number less than 0.4."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: ATA 76 Training Manual",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata76-q067-0067",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 76",
+  "ataTitle": "ENGINE CONTROLS",
+  "questionNumberOriginal": 67,
+  "question": "Which statement is correct (Regarding to HP Fuel SOV)? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "If the selected master lever signal switches from ON to OFF when the engine is at idle and the aircraft is on the ground, two EEC channels energize the electro-hydraulic servo valve of the HP fuel SOV with EOS circuitry."
+   },
+   {
+    "key": "B",
+    "text": "If the selected master lever signal transitions from ON to OFF position while the engine is not at idle or the aircraft is in the air, one of two EEC channels energizes the electro-hydraulic servo valve of the HP fuel SOV with EOS circuitry."
+   },
+   {
+    "key": "C",
+    "text": "If the selected master lever signal transitions from ON to OFF position while the engine is not at idle or the aircraft is in the air, the two EEC channels energize their applicable EOS circuitry to ensure that fuel is promptly shut off."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 76-12-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q068-0068",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 68,
+  "question": "Which sensor used for EGT indication? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "T48"
+   },
+   {
+    "key": "B",
+    "text": "T49"
+   },
+   {
+    "key": "C",
+    "text": "T25"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 77-20-00-00 CONF 03 System description",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q069-0069",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 69,
+  "question": "How EEC computes the Exhaust Gas Temperature? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Take average value of two lowest and highest sensors."
+   },
+   {
+    "key": "B",
+    "text": "The measurements given by the EGT sensors are compared to each other and are averaged."
+   },
+   {
+    "key": "C",
+    "text": "The measurements given by 4 random EGT sensors are averaged."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF: AMM 77-21-00-00 CONF 03 System description",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q070-0070",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 70,
+  "question": "Where is N2 sensor located? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "fitted on the Transfer Gearbox (TGB) transfer tube, located on the accessory gearbox on the fan case."
+   },
+   {
+    "key": "B",
+    "text": "installed at 6:30 o'clock on the accessory gearbox (AGB) rear face."
+   },
+   {
+    "key": "C",
+    "text": "There is no N2 sensor for LEAP 1A Engine, N2 signals originate from the dedicated alternator."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 77-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q071-0071",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 71,
+  "question": "Where is N1 sensor located? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "fitted on the fan hub with two bolts located on the n4 strut."
+   },
+   {
+    "key": "B",
+    "text": "fitted on the fan hub with two bolts located on the n8 strut."
+   },
+   {
+    "key": "C",
+    "text": "installed in the fan frame strut No.6 at the 5:00 o'clock position."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 77-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q072-0072",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 72,
+  "question": "How are EGT sensors connected to EEC? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Via 2 Harnesses T48L and T48R routed and mounted on the core area engine external case."
+   },
+   {
+    "key": "B",
+    "text": "Three identical and interchangeable thermocouple lead assemblies with two probes."
+   },
+   {
+    "key": "C",
+    "text": "to the junction box by a flexible harness."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: 77-21-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q073-0073",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 73,
+  "question": "How are accelerometers for vibration sensing named? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "No. 1 bearing accelerometer and Turbine center frame accelerometer."
+   },
+   {
+    "key": "B",
+    "text": "Vibration transducer on each engine fan case."
+   },
+   {
+    "key": "C",
+    "text": "N1 Bearing accelerometer and N2 signal form dedicated alternator."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 77-31-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q074-0074",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 74,
+  "question": "What is(are) the N1 sensor used for: (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The speed signals are used for engine control (i.e. thrust setting) and vibration monitoring."
+   },
+   {
+    "key": "B",
+    "text": "The once-per-revolution signal is also used for the fan trim balance during maintenance"
+   },
+   {
+    "key": "C",
+    "text": "The speed signals are used for engine control (i.e. thrust setting) and vibration monitoring. The speed signals are used for engine control (i.e. thrust setting) and vibration monitoring."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF: AMM 77-11-00-00 CONF 03 - POWER INDICATING SYSTEM - DESCRIPTION AND",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q075-0075",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 75,
+  "question": "What are N1 sensors made of? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "It is a two-channel magnetic reluctance sensor."
+   },
+   {
+    "key": "B",
+    "text": "It is a single axis piezo-electric sensor."
+   },
+   {
+    "key": "C",
+    "text": "The N1 sensor includes a two-channel magnetic reluctance sensor and a single axis piezo-electric sensor."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 77-11-00-00 CONF 03 - POWER INDICATING SYSTEM - DESCRIPTION AND",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q076-0076",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 76,
+  "question": "How are the EGT sensors connected to EEC? (B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The EGT sensors 1, 8, 7 and 6 are connected to the EEC channel A. The EGT sensors 2, 3, 4 and 5 are connected to the EEC channel B."
+   },
+   {
+    "key": "B",
+    "text": "The EGT sensors 1, 3, 5 and 7 are connected to the EEC channel A. The EGT sensors 2, 4, 6 and 8 are connected to the EEC channel B."
+   },
+   {
+    "key": "C",
+    "text": "Each EGT sensor is connected to EEC A&B"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 77-20-00-00 CONF 03 - TEMPERATURE - DESCRIPTION AND OPERATION.",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata77-q077-0077",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 77",
+  "ataTitle": "ENGINE INDICATING",
+  "questionNumberOriginal": 77,
+  "question": "What happen if one EGT sensor has failed? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "In case of failure of one of the sensors, its weighting is set to zero and thus its measurement is not used in the calculation anymore."
+   },
+   {
+    "key": "B",
+    "text": "The calculation of the affected channel is INOP, the remaining channel takes place the calculation and indication of EGT."
+   },
+   {
+    "key": "C",
+    "text": "The integrated STBY probe inside the sensor itself will be active."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF: AMM 77-20-00-00 CONF 03 - TEMPERATURE - DESCRIPTION AND OPERATION",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata78-q078-0078",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 78",
+  "ataTitle": "EXHAUST",
+  "questionNumberOriginal": 78,
+  "question": "How many Synchronized locking feedback actuators of hydraulic Thrust Reverser Actuation System? (CAT B1).",
+  "options": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "2"
+   },
+   {
+    "key": "C",
+    "text": "3"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM :78-31-00-00 CONF03 Thrust reverser Description and operation",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata78-q079-0079",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 78",
+  "ataTitle": "EXHAUST",
+  "questionNumberOriginal": 79,
+  "question": "Can Translating Cowl manual deploy when Deactived of the Thrust Reverser System for Ground Maintenance (the manual locking actuator is locked)? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Yes."
+   },
+   {
+    "key": "B",
+    "text": "Yes but the taks Deactivate the electrical tertiary lock must carry out."
+   },
+   {
+    "key": "C",
+    "text": "No, Translating cowl can not deploy when Manual Locking actuator is locked."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 78-30-00-040-809-A Deactivation of the Thrust Reverser System for Ground",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata78-q080-0080",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 78",
+  "ataTitle": "EXHAUST",
+  "questionNumberOriginal": 80,
+  "question": "After Thrust Reverser Cycling the T/R deploy more than 40 second the T/R can be stow as follow: (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Do Thrust Reverser (T/R) Cycling Test again."
+   },
+   {
+    "key": "B",
+    "text": "Apply manual stow procedure."
+   },
+   {
+    "key": "C",
+    "text": "Thrust reveser automatic stow after 50 second."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM: 73-29-00-740-804-A: Thrust Reverser (T/R) Cycling test (menu mode)",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata78-q081-0081",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 78",
+  "ataTitle": "EXHAUST",
+  "questionNumberOriginal": 81,
+  "question": "How many type actuator of thrust reveser system? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "2"
+   },
+   {
+    "key": "C",
+    "text": "3"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM :78-31-00-00 CONF03 Thrust reverser Description and operation",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata78-q082-0082",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 78",
+  "ataTitle": "EXHAUST",
+  "questionNumberOriginal": 82,
+  "question": "How the left and right thrust reverser are synchronized? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "By Over the top flex shaft."
+   },
+   {
+    "key": "B",
+    "text": "By the left and the right sync shaft."
+   },
+   {
+    "key": "C",
+    "text": "The Two SFLA self adjusted."
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: AMM : 78-31-00-00 CONF03 Thrust reverser Description and operation",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata78-q083-0083",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 78",
+  "ataTitle": "EXHAUST",
+  "questionNumberOriginal": 83,
+  "question": "Can Thrust reverser system work if Thrust reverser system Tertiary Lock inoperative? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "No.The thrust reverser must consider inoperative ref MEL:78-30-04A"
+   },
+   {
+    "key": "B",
+    "text": "Yes.The associated thrust reverser door tertiary lock is secured in the open position and the ENG REV LOCK with affected thrust reverser is not display on EWD after deactivation."
+   },
+   {
+    "key": "C",
+    "text": "Yes. The associated thrust reverser door tertiary lock is secured in the close position and the ENG REV LOCK with affected thrust reverser is not display on EWD after deactivation."
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref MEL:78-30-04. Thrust Reverser Door Tertiary Lock",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata78-q084-0084",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 78",
+  "ataTitle": "EXHAUST",
+  "questionNumberOriginal": 84,
+  "question": "Do not OPEN the Thrust reverser doors if: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The wind speed is more than 40 Knots"
+   },
+   {
+    "key": "B",
+    "text": "The wind speed is more than 30 Knots"
+   },
+   {
+    "key": "C",
+    "text": "The wind speed is more than 50 Knots"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "REF.: TASK 78-36-00-010-806-A Opening of the Thrust Reverser Cowl Doors",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata78-q085-0085",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 78",
+  "ataTitle": "EXHAUST",
+  "questionNumberOriginal": 85,
+  "question": "Do not connect the hold open rod before the thrust reverser cowl is open to: (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "20 Degrees"
+   },
+   {
+    "key": "B",
+    "text": "40 Degrees"
+   },
+   {
+    "key": "C",
+    "text": "45 Degrees"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: TASK 78-36-00-010-806-A Opening of the Thrust Reverser Cowl Doors",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q086-0086",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 86,
+  "question": "Where location oil tank of engines Leap1a (CAT A, B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "On the left-hand side of the Fan Case at the 4 o'clock aft looking forward position."
+   },
+   {
+    "key": "B",
+    "text": "On the right-hand side of the Fan Case at the 4 o'clock aft looking forward position."
+   },
+   {
+    "key": "C",
+    "text": "On the right-hand side of the Fan Case"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref. AMM 79-11-00-00 conf 03. 1",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q087-0087",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 87,
+  "question": "After you do the instalation of the LEAP-1A Oil CAT senser, What do you need: (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "FADEC test (menu mode)"
+   },
+   {
+    "key": "B",
+    "text": "Harness test (menu mode)"
+   },
+   {
+    "key": "C",
+    "text": "Idle test (menu mode)"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "Ref. AMM 79-31-05-400-801A 5.A.1",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q088-0088",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 88,
+  "question": "How do you check for no fault of the Oil Debris Monitoring System of LEAP-1A : (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "FADEC test (menu mode)"
+   },
+   {
+    "key": "B",
+    "text": "Idle test (menu mode)"
+   },
+   {
+    "key": "C",
+    "text": "FADEC test (menu mode), verify that the message \"ENGXB ODMS SENSOR MONITOR\" is not displayed."
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "Ref. AMM 79-35-00-040-806A 4.A.1",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q089-0089",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 89,
+  "question": "Where is the OPTS of LEAP-1A transmits EGN oil temperature and pressure to : (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "ECU"
+   },
+   {
+    "key": "B",
+    "text": "DMC"
+   },
+   {
+    "key": "C",
+    "text": "EEC"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "Ref. AMM 79-32-00-00 conf.03 (fig. 79-32-00-20000-03A)",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q090-0090",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 90,
+  "question": "How to Oil Debris Reset and purpose chip count ? (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "On EEC channel A and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights"
+   },
+   {
+    "key": "B",
+    "text": "On EEC channel B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights"
+   },
+   {
+    "key": "C",
+    "text": "Both EEC channel A+B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref AMM : 79-36-00-740-801-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q091-0091",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 91,
+  "question": "With oil pressure lower than 17.4 psi (1.20 bar) to 29 psi (2.00 bar) depeding N2 speed above ilde (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Remove engine and return to shop if engines operative more 14s"
+   },
+   {
+    "key": "B",
+    "text": "Raised add interval 25 flight hours, 50 flight hours and 100 flight hours to check any presence of particles"
+   },
+   {
+    "key": "C",
+    "text": "With oil temperature more than 140 deg.C Remove engine and return to shop"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "Ref AMM: 72-00-00-200-818-A - Inspection/Check After the Engine has Exceeded the",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q092-0092",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 92,
+  "question": "The maximum serviceable oil consumption rate is limited with ENG LEAP 1-A (CAT B1, B2)",
+  "options": [
+   {
+    "key": "A",
+    "text": "0.45 qt/hr (0.42 l/hr )"
+   },
+   {
+    "key": "B",
+    "text": "0.35 qt/hr (0.33 l/hr)"
+   },
+   {
+    "key": "C",
+    "text": "0.20 qt/hr (0.19 l/hr)"
+   }
+  ],
+  "correctAnswer": "A",
+  "ref": "Ref AMM: 72-00-00-200-818-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q093-0093",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 93,
+  "question": "What device is used to stabilize engine oil temperature of LEAP-1A? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Non cooling device needed"
+   },
+   {
+    "key": "B",
+    "text": "the Engine Surface Air Cooling Oil Cooler (SACOC)"
+   },
+   {
+    "key": "C",
+    "text": "the Servo Fuel Heater (SFH) and the Engine Surface Air Cooling Oil Cooler (SACOC)"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "Ref. 70-21-00-00 conf.03 3.B.1",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata79-q094-0094",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 79",
+  "ataTitle": "ENGINE OIL",
+  "questionNumberOriginal": 94,
+  "question": "After replacing the Oil Debris Monitoring System (ODMS) Sensor of LEAP-1A, what do you need to do? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Idle Test (Menu Mode)"
+   },
+   {
+    "key": "B",
+    "text": "Oil debris reset (Menu Mode)"
+   },
+   {
+    "key": "C",
+    "text": "Harness Test (Menu Mode)"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "Ref. AMM 79-36-10-400-801A 5.A.1",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata80-q095-0095",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 80",
+  "ataTitle": "STARTING",
+  "questionNumberOriginal": 95,
+  "question": "Which failsafe position of Starter Air Valve in the event of loss of solenoid control or transducer feedback signal? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Open"
+   },
+   {
+    "key": "B",
+    "text": "Partially open"
+   },
+   {
+    "key": "C",
+    "text": "Close"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM 80-11-00-00 CONF 03",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata80-q096-0096",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 80",
+  "ataTitle": "STARTING",
+  "questionNumberOriginal": 96,
+  "question": "What shoud you pay attention when manually Operate the Starter Air Valve in case of APU inop? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Do not do a manual start override of the starter valve with the engine cross bleed or a ground start cart unless the engine is shut down for a minimum of 8 hours"
+   },
+   {
+    "key": "B",
+    "text": "Do not do a manual start override of the starter valve with the engine cross bleed or a ground start cart unless the engine is shut down for a minimum of 10 hours"
+   },
+   {
+    "key": "C",
+    "text": "Do not do a manual start override of the starter valve with the engine cross bleed or a ground start cart unless the engine is shut down for a minimum of 12 hours"
+   }
+  ],
+  "correctAnswer": "C",
+  "ref": "REF.: AMM TASK 80-11-00-040-804-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata80-q097-0097",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 80",
+  "ataTitle": "STARTING",
+  "questionNumberOriginal": 97,
+  "question": "When is the Starter valve commanded closed in automatic start mode? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "N2 reached 45%"
+   },
+   {
+    "key": "B",
+    "text": "N2 reached 60%"
+   },
+   {
+    "key": "C",
+    "text": "N1 reached 55%"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: ATA 80 Training Manual",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata80-q098-0098",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 80",
+  "ataTitle": "STARTING",
+  "questionNumberOriginal": 98,
+  "question": "How many methods you can use to fill the starter with oil? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "2"
+   },
+   {
+    "key": "C",
+    "text": "3"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM TASK 80-11-05-600-803-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata80-q099-0099",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 80",
+  "ataTitle": "STARTING",
+  "questionNumberOriginal": 99,
+  "question": "What shoud you do when you found of oil leak on the pneumatic air starter mount? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "Replace the pneumatic air starter?"
+   },
+   {
+    "key": "B",
+    "text": "Replace the preformed packing on the pneumatic air starter shaft, the flange groove and the lubrication nozzle"
+   },
+   {
+    "key": "C",
+    "text": "Re torque the Nuts"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: AMM TASK 80-11-05-210-803-A",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ },
+ {
+  "id": "leap-b1-ata80-q100-0100",
+  "crs": "B1",
+  "cat": "CAT B1",
+  "aircraftType": "A320",
+  "engineType": "LEAP-1A",
+  "sourceFile": "8. LEAP-1A Engine  CAT B1 (100 Questions) R01.pdf",
+  "sectionType": "TypeEngine",
+  "ataCode": "ATA 80",
+  "ataTitle": "STARTING",
+  "questionNumberOriginal": 100,
+  "question": "Which statement is correct? (CAT B1)",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Electronic Engine Controls (EECs) abort the automatic start, dry motor the engine and attempt an auto-restart for the following reasons: No light up (Exhaust Gas Temperature (EGT) low), Hung Start"
+   },
+   {
+    "key": "B",
+    "text": "The Electronic Engine Controls (EECs) abort the automatic start, dry motor the engine and attempt an auto-restart for the following reasons: No light up (Exhaust Gas Temperature (EGT) low), Hot start"
+   },
+   {
+    "key": "C",
+    "text": "The Electronic Engine Controls (EECs) abort the automatic start, dry motor the engine and attempt an auto-restart for the following reasons: No light up (Exhaust Gas Temperature (EGT) low), Stall"
+   }
+  ],
+  "correctAnswer": "B",
+  "ref": "REF.: ATA 80 Training Manual",
+  "answerSource": "yellow_highlight",
+  "parseStatus": "ok"
+ }
+]

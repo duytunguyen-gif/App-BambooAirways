@@ -1,3 +1,4 @@
+import { useRef } from "react";
 import { sanitizeNumeric } from "../lib/num";
 
 interface NumberInputProps {
@@ -48,6 +49,20 @@ export default function NumberInput({
 
   const text = alert ? "text-warn-red" : ok ? "text-bamboo-green" : "text-white";
 
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // On mobile the on-screen keyboard covers the lower half of the screen; when
+  // an editable cell gets focus, scroll it to the centre of the visible area so
+  // it is never hidden behind the keyboard. Delayed so it runs after the
+  // keyboard has finished animating in.
+  const handleFocus = () => {
+    onFocus?.();
+    if (readOnly) return;
+    setTimeout(() => {
+      inputRef.current?.scrollIntoView({ behavior: "smooth", block: "center" });
+    }, 250);
+  };
+
   return (
     <div className={`relative ${className}`}>
       <span
@@ -58,6 +73,7 @@ export default function NumberInput({
         {label}
       </span>
       <input
+        ref={inputRef}
         type="text"
         inputMode="decimal"
         enterKeyHint="done"
@@ -66,7 +82,7 @@ export default function NumberInput({
         readOnly={readOnly}
         placeholder={placeholder}
         value={value}
-        onFocus={onFocus}
+        onFocus={handleFocus}
         onBlur={onBlur}
         onChange={(e) =>
           onChange?.(sanitizeNumeric(e.target.value, allowNegative))

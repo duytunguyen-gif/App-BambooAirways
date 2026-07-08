@@ -57,6 +57,25 @@ input[type="number"]::-webkit-inner-spin-button {
   font-variant-numeric: tabular-nums;
 }
 
+/* Never let iOS Safari auto-zoom when focusing a field: any input rendered
+   below 16px is bumped to 16px on small screens. Inputs already ≥16px (the
+   fuel number pad at 18px) keep their design size. */
+@media (max-width: 640px) {
+  input.min16 {
+    font-size: 16px;
+  }
+}
+
+/* While the mobile keyboard is open (class set by useKeyboardInsets), give the
+   scrollable content extra room below so the focused input can sit above the
+   keyboard instead of behind it. Falls back to 280px if the offset is unknown. */
+.keyboard-open main {
+  padding-bottom: calc(
+    var(--keyboard-offset, 280px) + env(safe-area-inset-bottom) + 24px
+  );
+  scroll-padding-bottom: var(--keyboard-offset, 280px);
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

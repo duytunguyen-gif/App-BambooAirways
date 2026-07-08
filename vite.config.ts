@@ -47,7 +47,20 @@ export default defineConfig({
         ],
       },
       workbox: {
+        // Precache the app shell only. The CAAV question JSON (a few MB) is
+        // NOT precached — it is cached on demand via runtimeCaching below so
+        // the install stays small but banks work offline once opened.
         globPatterns: ["**/*.{js,css,html,svg,png,ico,woff2}"],
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.startsWith("/data/caav/"),
+            handler: "StaleWhileRevalidate",
+            options: {
+              cacheName: "caav-data",
+              expiration: { maxEntries: 20, maxAgeSeconds: 60 * 60 * 24 * 30 },
+            },
+          },
+        ],
       },
       devOptions: {
         enabled: true,
