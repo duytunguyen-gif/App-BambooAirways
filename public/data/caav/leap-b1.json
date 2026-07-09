@@ -28,6 +28,7 @@
   "correctAnswer": "A",
   "ref": "REF: AMM 71-00-00-860-827A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -59,6 +60,7 @@
   "correctAnswer": "C",
   "ref": "REF: AMM 71-00-00-869-704A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -90,6 +92,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 71-13-00-410-803A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -121,6 +124,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 71-13-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -152,6 +156,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 71-13-13-720-803A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -183,6 +188,7 @@
   "correctAnswer": "A",
   "ref": "REF : AMM 71-60-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -214,6 +220,7 @@
   "correctAnswer": "B",
   "ref": "REF : AMM 71-00-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -245,6 +252,7 @@
   "correctAnswer": "B",
   "ref": "REF : AMM 71-00-00-00 CONF 03 (LEV B1)",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -276,6 +284,7 @@
   "correctAnswer": "B",
   "ref": "REF AMM 71-13-00-010-803-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -307,6 +316,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 71-13-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -338,6 +348,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 71-13-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -369,6 +380,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 71-13-00-010-803",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -400,6 +412,7 @@
   "correctAnswer": "B",
   "ref": "REF.: D.O 71-13-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -431,6 +444,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 71-13-00-010-803-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -462,6 +476,7 @@
   "correctAnswer": "B",
   "ref": "Ref: AMM 72-00-00-820-803-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -493,6 +508,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 72-00-00-200-814-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -524,6 +540,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 72-00-00-100-804-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -555,6 +572,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 72-24-11-210-801-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -586,6 +604,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 72-21-20-210-802-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -617,6 +636,7 @@
   "correctAnswer": "A",
   "ref": "Ref : 72-51-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -648,6 +668,7 @@
   "correctAnswer": "B",
   "ref": "Ref : 72-53-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -679,6 +700,7 @@
   "correctAnswer": "A",
   "ref": "Ref : 72-40-00-290-801-A STEP 4.C.1",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -710,6 +732,7 @@
   "correctAnswer": "B",
   "ref": "Ref : 72-24-20-210-801-A STEP 4.A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -741,6 +764,7 @@
   "correctAnswer": "A",
   "ref": "Ref :72-60-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -772,6 +796,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 73-11-10-04 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -803,6 +828,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -834,6 +860,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 73-21-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -865,6 +892,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -896,6 +924,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -927,6 +956,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 73-21-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -958,6 +988,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 73-21-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -989,6 +1020,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1020,6 +1052,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 73-21-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1051,6 +1084,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1082,6 +1116,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 73-21-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1113,6 +1148,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1144,6 +1180,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1175,6 +1212,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1206,6 +1244,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1237,6 +1276,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1268,6 +1308,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1299,6 +1340,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1330,6 +1372,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 73-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1361,6 +1404,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM74-10-00-00 CONF 13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1392,6 +1436,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 74-00-00-710-803-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1423,6 +1468,7 @@
   "correctAnswer": "B",
   "ref": "REF.: MEL PROC 74-31-01A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1454,6 +1500,7 @@
   "correctAnswer": "C",
   "ref": "REF.: 74-31-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1485,6 +1532,7 @@
   "correctAnswer": "A",
   "ref": "REF.: TFU 74.00.00.096",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1516,6 +1564,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 71-00-00-860-827-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1547,6 +1596,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 71-00-00-700-804-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1578,6 +1628,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 74-20-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1609,6 +1660,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1640,6 +1692,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1671,6 +1724,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1702,6 +1756,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1733,6 +1788,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1764,6 +1820,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1795,6 +1852,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1826,6 +1884,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1857,6 +1916,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM 76-00-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1888,6 +1948,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 22-31-00-00 CONF 00 and ATA 76 Training Manual",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1919,6 +1980,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM TASK 76-11-00-820-806-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1950,6 +2012,7 @@
   "correctAnswer": "B",
   "ref": "AMM TASK 76-11-17-000-802-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1981,6 +2044,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM TASK 76-11-41-000-803-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2012,6 +2076,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM 76-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2043,6 +2108,7 @@
   "correctAnswer": "A",
   "ref": "REF.: ATA 76 Training Manual",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2074,6 +2140,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 76-12-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2105,6 +2172,7 @@
   "correctAnswer": "A",
   "ref": "REF: AMM 77-20-00-00 CONF 03 System description",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2136,6 +2204,7 @@
   "correctAnswer": "B",
   "ref": "REF: AMM 77-21-00-00 CONF 03 System description",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2167,6 +2236,7 @@
   "correctAnswer": "A",
   "ref": "REF: AMM 77-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2198,6 +2268,7 @@
   "correctAnswer": "A",
   "ref": "REF: AMM 77-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2229,6 +2300,7 @@
   "correctAnswer": "A",
   "ref": "REF: 77-21-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2260,6 +2332,7 @@
   "correctAnswer": "A",
   "ref": "REF: AMM 77-31-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2291,6 +2364,7 @@
   "correctAnswer": "C",
   "ref": "REF: AMM 77-11-00-00 CONF 03 - POWER INDICATING SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2322,6 +2396,7 @@
   "correctAnswer": "A",
   "ref": "REF: AMM 77-11-00-00 CONF 03 - POWER INDICATING SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2353,6 +2428,7 @@
   "correctAnswer": "A",
   "ref": "REF: AMM 77-20-00-00 CONF 03 - TEMPERATURE - DESCRIPTION AND OPERATION.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2384,6 +2460,7 @@
   "correctAnswer": "A",
   "ref": "REF: AMM 77-20-00-00 CONF 03 - TEMPERATURE - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2415,6 +2492,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM :78-31-00-00 CONF03 Thrust reverser Description and operation",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2446,6 +2524,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 78-30-00-040-809-A Deactivation of the Thrust Reverser System for Ground",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2477,6 +2556,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM: 73-29-00-740-804-A: Thrust Reverser (T/R) Cycling test (menu mode)",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2508,6 +2588,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM :78-31-00-00 CONF03 Thrust reverser Description and operation",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2539,6 +2620,7 @@
   "correctAnswer": "A",
   "ref": "REF.: AMM : 78-31-00-00 CONF03 Thrust reverser Description and operation",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2570,6 +2652,7 @@
   "correctAnswer": "B",
   "ref": "Ref MEL:78-30-04. Thrust Reverser Door Tertiary Lock",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2601,6 +2684,7 @@
   "correctAnswer": "A",
   "ref": "REF.: TASK 78-36-00-010-806-A Opening of the Thrust Reverser Cowl Doors",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2632,6 +2716,7 @@
   "correctAnswer": "C",
   "ref": "REF.: TASK 78-36-00-010-806-A Opening of the Thrust Reverser Cowl Doors",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2663,6 +2748,7 @@
   "correctAnswer": "B",
   "ref": "Ref. AMM 79-11-00-00 conf 03. 1",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2694,6 +2780,7 @@
   "correctAnswer": "C",
   "ref": "Ref. AMM 79-31-05-400-801A 5.A.1",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2725,6 +2812,7 @@
   "correctAnswer": "C",
   "ref": "Ref. AMM 79-35-00-040-806A 4.A.1",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2756,6 +2844,7 @@
   "correctAnswer": "C",
   "ref": "Ref. AMM 79-32-00-00 conf.03 (fig. 79-32-00-20000-03A)",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2787,6 +2876,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM : 79-36-00-740-801-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2818,6 +2908,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM: 72-00-00-200-818-A - Inspection/Check After the Engine has Exceeded the",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2849,6 +2940,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM: 72-00-00-200-818-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2880,6 +2972,7 @@
   "correctAnswer": "C",
   "ref": "Ref. 70-21-00-00 conf.03 3.B.1",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2911,6 +3004,7 @@
   "correctAnswer": "B",
   "ref": "Ref. AMM 79-36-10-400-801A 5.A.1",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2942,6 +3036,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM 80-11-00-00 CONF 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2973,6 +3068,7 @@
   "correctAnswer": "C",
   "ref": "REF.: AMM TASK 80-11-00-040-804-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3004,6 +3100,7 @@
   "correctAnswer": "B",
   "ref": "REF.: ATA 80 Training Manual",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3035,6 +3132,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM TASK 80-11-05-600-803-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3066,6 +3164,7 @@
   "correctAnswer": "B",
   "ref": "REF.: AMM TASK 80-11-05-210-803-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3097,6 +3196,7 @@
   "correctAnswer": "B",
   "ref": "REF.: ATA 80 Training Manual",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  }
 ]

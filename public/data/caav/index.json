@@ -376,9 +376,9 @@
    "sectionType": "TypeEngine",
    "stated": 620,
    "total": 618,
-   "okCount": 573,
-   "missingAnswerCount": 5,
-   "multiAnswerCount": 40,
+   "okCount": 617,
+   "missingAnswerCount": 1,
+   "multiAnswerCount": 0,
    "otherIssueCount": 0,
    "ataGroups": [
     {
@@ -846,10 +846,10 @@
    "sectionType": "LAW",
    "stated": null,
    "total": 600,
-   "okCount": 588,
-   "missingAnswerCount": 4,
-   "multiAnswerCount": 7,
-   "otherIssueCount": 1,
+   "okCount": 590,
+   "missingAnswerCount": 1,
+   "multiAnswerCount": 2,
+   "otherIssueCount": 7,
    "ataGroups": [
     {
      "code": null,
@@ -873,9 +873,9 @@
    "sectionType": "English",
    "stated": null,
    "total": 495,
-   "okCount": 425,
-   "missingAnswerCount": 1,
-   "multiAnswerCount": 47,
+   "okCount": 454,
+   "missingAnswerCount": 8,
+   "multiAnswerCount": 11,
    "otherIssueCount": 22,
    "ataGroups": [
     {

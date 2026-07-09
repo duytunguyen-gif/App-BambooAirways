@@ -2,10 +2,11 @@
  "totals": {
   "questions": 3509,
   "byStatus": {
-   "ok": 3379,
-   "multi_answer": 94,
-   "missing_answer": 12,
+   "ok": 3449,
+   "missing_answer": 17,
    "missing_question": 22,
+   "conflict": 6,
+   "multi_answer": 13,
    "missing_options": 2
   },
   "byCRS": {
@@ -24,8 +25,8 @@
    "LEAP-1A": 201,
    "V2500": 250
   },
-  "answersFromYellow": 3381,
-  "duplicateGroups": 26
+  "answersFromYellow": 3111,
+  "duplicateGroups": 27
  },
  "files": [
   {
@@ -47,18 +48,18 @@
    "missing_answer": 0,
    "multi_answer": 0,
    "missing_options": 0,
-   "no_ref": 360,
+   "no_ref": 131,
    "ata_heads": 30
   },
   {
    "file": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
    "stated": 620,
    "parsed": 618,
-   "ok": 573,
+   "ok": 613,
    "missing_answer": 5,
-   "multi_answer": 40,
+   "multi_answer": 0,
    "missing_options": 0,
-   "no_ref": 495,
+   "no_ref": 6,
    "ata_heads": 24
   },
   {
@@ -69,7 +70,7 @@
    "missing_answer": 0,
    "multi_answer": 0,
    "missing_options": 0,
-   "no_ref": 1,
+   "no_ref": 0,
    "ata_heads": 0
   },
   {
@@ -80,7 +81,7 @@
    "missing_answer": 0,
    "multi_answer": 0,
    "missing_options": 0,
-   "no_ref": 5,
+   "no_ref": 0,
    "ata_heads": 0
   },
   {
@@ -91,7 +92,7 @@
    "missing_answer": 0,
    "multi_answer": 0,
    "missing_options": 0,
-   "no_ref": 5,
+   "no_ref": 0,
    "ata_heads": 0
   },
   {
@@ -164,9 +165,9 @@
    "file": "Aviation Legislation - Question Bank R01.pdf",
    "stated": null,
    "parsed": 600,
-   "ok": 588,
-   "missing_answer": 4,
-   "multi_answer": 7,
+   "ok": 589,
+   "missing_answer": 2,
+   "multi_answer": 2,
    "missing_options": 0,
    "no_ref": 600,
    "ata_heads": 1
@@ -175,35 +176,15 @@
    "file": "Aviation Technical English Bank rev1.pdf",
    "stated": null,
    "parsed": 495,
-   "ok": 425,
-   "missing_answer": 1,
-   "multi_answer": 47,
+   "ok": 454,
+   "missing_answer": 8,
+   "multi_answer": 11,
    "missing_options": 2,
    "no_ref": 495,
    "ata_heads": 0
   }
  ],
  "issues": [
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata31-q047-0047",
-   "questionNumberOriginal": 47,
-   "ata": "ATA 31",
-   "question": "To load a new software in all the 3-DMCs the steps to be followed is:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata24-q084-0084",
-   "questionNumberOriginal": 84,
-   "ata": "ATA 24",
-   "question": "Ext, PWR is on, MAINT BUS SW selected, TR 2 Overheats >172℃,then:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
   {
    "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
    "id": "a320-b2-ata34-q106-0106",
@@ -213,26 +194,6 @@
    "problem": "missing_answer",
    "options": 3,
    "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata34-q126-0126",
-   "questionNumberOriginal": 126,
-   "ata": "ATA 34",
-   "question": "The Wind shear function is automatically activated if:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata22-q153-0153",
-   "questionNumberOriginal": 153,
-   "ata": "ATA 22",
-   "question": "In Normal mode of operation the FMs operates as:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
   },
   {
    "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
@@ -273,366 +234,6 @@
    "problem": "missing_answer",
    "options": 3,
    "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata23-q169-0169",
-   "questionNumberOriginal": 169,
-   "ata": "ATA 23",
-   "question": "If the Standby navigation mode is selected in RMPs:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata23-q170-0170",
-   "questionNumberOriginal": 170,
-   "ata": "ATA 23",
-   "question": "The RMPs receives a discrete signal given by Landing Gear Control and Interface Unit(LGCIU) as:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata23-q175-0175",
-   "questionNumberOriginal": 175,
-   "ata": "ATA 23",
-   "question": "The Normal power supply for CIDS DIRs on GND is:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata23-q176-0176",
-   "questionNumberOriginal": 176,
-   "ata": "ATA 23",
-   "question": "Each DEU- A can control How many Pax Interface and Supply Adapter(PISA):",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata46-q200-0200",
-   "questionNumberOriginal": 200,
-   "ata": "ATA 46",
-   "question": "The COMM STATUS pages are used to verify the:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata46-q201-0201",
-   "questionNumberOriginal": 201,
-   "ata": "ATA 46",
-   "question": "The Maintenance Menu is composed of :",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata46-q203-0203",
-   "questionNumberOriginal": 203,
-   "ata": "ATA 46",
-   "question": "The ATSU receives Landing Gear Control and Interface Unit (LGCIU) information for:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata46-q204-0204",
-   "questionNumberOriginal": 204,
-   "ata": "ATA 46",
-   "question": "The ATSU uses the 24 bit address ICAO code from:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata46-q206-0206",
-   "questionNumberOriginal": 206,
-   "ata": "ATA 46",
-   "question": "215.The purpose of HF Link test is:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata33-q211-0211",
-   "questionNumberOriginal": 211,
-   "ata": "ATA 33",
-   "question": "The 6.3 V (full wave rectified ) supply used in:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata33-q227-0227",
-   "questionNumberOriginal": 227,
-   "ata": "ATA 33",
-   "question": "The Near End Of Life (NEOL) in new LED light heads:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata33-q228-0228",
-   "questionNumberOriginal": 228,
-   "ata": "ATA 33",
-   "question": "The 115V AC from Normal Bus used by EPSU for:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata33-q236-0236",
-   "questionNumberOriginal": 236,
-   "ata": "ATA 33",
-   "question": "The Passenger reading lights can be tested from the:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata33-q237-0237",
-   "questionNumberOriginal": 237,
-   "ata": "ATA 33",
-   "question": "Before removing Strobe Light assembly the safety precaution to be followed is:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata33-q238-0238",
-   "questionNumberOriginal": 238,
-   "ata": "ATA 33",
-   "question": "In case of failure of FAP or CIDS,the Entrance lighting are:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata33-q240-0240",
-   "questionNumberOriginal": 240,
-   "ata": "ATA 33",
-   "question": "The STROBE lights in AUTO will come on automatically when:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata33-q241-0241",
-   "questionNumberOriginal": 241,
-   "ata": "ATA 33",
-   "question": "The FAP bottom slots used for:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata29-q257-0257",
-   "questionNumberOriginal": 257,
-   "ata": "ATA 29",
-   "question": "The purpose of priority valve is to:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata29-q270-0270",
-   "questionNumberOriginal": 270,
-   "ata": "ATA 29",
-   "question": "The RAT extension/Retraction (Stowing) is controlled by:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata32-q296-0296",
-   "questionNumberOriginal": 296,
-   "ata": "ATA 32",
-   "question": "The triple indicator the gives pressure indication are:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata32-q305-0305",
-   "questionNumberOriginal": 305,
-   "ata": "ATA 32",
-   "question": "The Linear Variable Differential Transducer (LVDT) sensor used in servo valve is to:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata32-q314-0314",
-   "questionNumberOriginal": 314,
-   "ata": "ATA 32",
-   "question": "The BSCU sends the wheel speed computation to the Pack Controllers for:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata27-q323-0323",
-   "questionNumberOriginal": 323,
-   "ata": "ATA 27",
-   "question": "The Speed brake function is used in flight to increase the aircraft drag; the spoilers used as speed brake are:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata27-q327-0327",
-   "questionNumberOriginal": 327,
-   "ata": "ATA 27",
-   "question": "The Slats and Flaps are used for achieve the:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata27-q344-0344",
-   "questionNumberOriginal": 344,
-   "ata": "ATA 27",
-   "question": "In case of total electrical power loss then roll control is",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata27-q360-0360",
-   "questionNumberOriginal": 360,
-   "ata": "ATA 27",
-   "question": "The Radio Altimeter (RA) transmit the radio altitude information to the ELACs for:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata52-q379-0379",
-   "questionNumberOriginal": 379,
-   "ata": "ATA 52",
-   "question": "Each Passenger door is monitored by proximity switches that are:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata52-q380-0380",
-   "questionNumberOriginal": 380,
-   "ata": "ATA 52",
-   "question": "The door indication on the ECAM DOOR page via SDAC provided by:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata52-q382-0382",
-   "questionNumberOriginal": 382,
-   "ata": "ATA 52",
-   "question": "The locking handle and the frame proximity S/W’s give the Door indication on the ECAM for Fwd., and AFT cargo doors via:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata25-q386-0386",
-   "questionNumberOriginal": 386,
-   "ata": "ATA 25",
-   "question": "The cove light panels between the upper side wall panels and the overhead stowage compartments are:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata28-q443-0438",
-   "questionNumberOriginal": 443,
-   "ata": "ATA 28",
-   "question": "The Fueling computers are:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata21-q561-0555",
-   "questionNumberOriginal": 561,
-   "ata": "ATA 21",
-   "question": "For maintenance the ACSCs are connected to CFDIU as:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata21-q565-0559",
-   "questionNumberOriginal": 565,
-   "ata": "ATA 21",
-   "question": "To close the pack ram Air Inlet flap, the pack controller needs information from:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata47-q580-0574",
-   "questionNumberOriginal": 580,
-   "ata": "ATA 47",
-   "question": "The purpose of Dual element temperature sensor (T) and a pressure sensor (P) on the CSAS output duct to:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata30-q602-0595",
-   "questionNumberOriginal": 602,
-   "ata": "ATA 30",
-   "question": "The probe Heat Computers (PHC) are connected as:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "3. A320 Airfame CAT B2 (620Questions) R01.pdf",
-   "id": "a320-b2-ata30-q610-0603",
-   "questionNumberOriginal": 610,
-   "ata": "ATA 30",
-   "question": "The two drain mast system status send to the:",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
   },
   {
    "sourceFile": "7. LEAP-1A Engine  CAT A (50 Questions) R01.pdf",
@@ -686,13 +287,33 @@
   },
   {
    "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
-   "id": "law-ata100-q384-0384",
-   "questionNumberOriginal": 384,
+   "id": "law-ata100-q118-0118",
+   "questionNumberOriginal": 118,
    "ata": "ATA 100",
-   "question": "Which following case is required a maintenance release?",
-   "problem": "multi_answer",
+   "question": "If an Airworthiness Directive has not been complied with within the flying hour limitations given on the directive, what",
+   "problem": "conflict",
    "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Ô vàng và dòng 'Correct Answer is' đá nhau — nguồn tự mâu thuẫn, cần soát tay."
+  },
+  {
+   "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
+   "id": "law-ata100-q347-0347",
+   "questionNumberOriginal": 347,
+   "ata": "ATA 100",
+   "question": "The privileges of VAR Part 7 licensed AMT category B2 is.",
+   "problem": "conflict",
+   "options": 4,
+   "hint": "Ô vàng và dòng 'Correct Answer is' đá nhau — nguồn tự mâu thuẫn, cần soát tay."
+  },
+  {
+   "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
+   "id": "law-ata100-q403-0403",
+   "questionNumberOriginal": 403,
+   "ata": "ATA 100",
+   "question": "Which following statement about a maintenance release is not correct?",
+   "problem": "conflict",
+   "options": 4,
+   "hint": "Ô vàng và dòng 'Correct Answer is' đá nhau — nguồn tự mâu thuẫn, cần soát tay."
   },
   {
    "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
@@ -706,13 +327,13 @@
   },
   {
    "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
-   "id": "law-ata100-q455-0456",
-   "questionNumberOriginal": 455,
+   "id": "law-ata100-q444-0445",
+   "questionNumberOriginal": 444,
    "ata": "ATA 100",
-   "question": "An engineer may issue a CRS if they.",
-   "problem": "missing_answer",
-   "options": 3,
-   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
+   "question": "VAR Part 7 licensed AMT category B2 can",
+   "problem": "conflict",
+   "options": 4,
+   "hint": "Ô vàng và dòng 'Correct Answer is' đá nhau — nguồn tự mâu thuẫn, cần soát tay."
   },
   {
    "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
@@ -736,53 +357,23 @@
   },
   {
    "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
-   "id": "law-ata100-q515-0514",
-   "questionNumberOriginal": 515,
+   "id": "law-ata100-q505-0504",
+   "questionNumberOriginal": 505,
    "ata": "ATA 100",
-   "question": "The information contained in the VAR Part 21 are",
-   "problem": "missing_answer",
+   "question": "A category B1 certifying staff is permitted to issue certificates of release to service for following",
+   "problem": "conflict",
    "options": 4,
-   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
+   "hint": "Ô vàng và dòng 'Correct Answer is' đá nhau — nguồn tự mâu thuẫn, cần soát tay."
   },
   {
    "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
-   "id": "law-ata100-q556-0555",
-   "questionNumberOriginal": 556,
+   "id": "law-ata100-q520-0519",
+   "questionNumberOriginal": 520,
    "ata": "ATA 100",
-   "question": "The Minimum Equipment List (MEL) must be specific to:",
-   "problem": "multi_answer",
+   "question": "An Airworthiness Directive contains.",
+   "problem": "conflict",
    "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
-   "id": "law-ata100-q557-0556",
-   "questionNumberOriginal": 557,
-   "ata": "ATA 100",
-   "question": "The ferry flight permit is issued to the aircraft for the following purpose:",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
-   "id": "law-ata100-q568-0567",
-   "questionNumberOriginal": 568,
-   "ata": "ATA 100",
-   "question": "An aircraft Noise Certificate must be renewed.",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Legislation - Question Bank R01.pdf",
-   "id": "law-ata100-q574-0573",
-   "questionNumberOriginal": 574,
-   "ata": "ATA 100",
-   "question": "When a major defect occurs during an aircraft's Certificate of Airworthiness period of validity.",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Ô vàng và dòng 'Correct Answer is' đá nhau — nguồn tự mâu thuẫn, cần soát tay."
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
@@ -906,16 +497,6 @@
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q743-0432",
-   "questionNumberOriginal": 743,
-   "ata": null,
-   "question": "A.“-“",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
    "id": "english-gen-q746-0433",
    "questionNumberOriginal": 746,
    "ata": null,
@@ -926,53 +507,13 @@
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q747-0434",
-   "questionNumberOriginal": 747,
-   "ata": null,
-   "question": "A. after",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q748-0435",
-   "questionNumberOriginal": 748,
-   "ata": null,
-   "question": "A. following",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q750-0436",
-   "questionNumberOriginal": 750,
-   "ata": null,
-   "question": "A. shutting off",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
    "id": "english-gen-q681-0437",
    "questionNumberOriginal": 681,
    "ata": null,
    "question": "A. Do not",
-   "problem": "multi_answer",
+   "problem": "missing_answer",
    "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q682-0438",
-   "questionNumberOriginal": 682,
-   "ata": null,
-   "question": "A.on",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
@@ -980,9 +521,9 @@
    "questionNumberOriginal": 683,
    "ata": null,
    "question": "A. Let",
-   "problem": "multi_answer",
+   "problem": "missing_answer",
    "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
@@ -990,19 +531,9 @@
    "questionNumberOriginal": 684,
    "ata": null,
    "question": "A.when",
-   "problem": "multi_answer",
+   "problem": "missing_answer",
    "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q685-0441",
-   "questionNumberOriginal": 685,
-   "ata": null,
-   "question": "A.decide",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
@@ -1010,29 +541,9 @@
    "questionNumberOriginal": 686,
    "ata": null,
    "question": "A.reason",
-   "problem": "multi_answer",
+   "problem": "missing_answer",
    "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q687-0443",
-   "questionNumberOriginal": 687,
-   "ata": null,
-   "question": "A.suggest",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q688-0444",
-   "questionNumberOriginal": 688,
-   "ata": null,
-   "question": "A.increases",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
@@ -1040,49 +551,9 @@
    "questionNumberOriginal": 689,
    "ata": null,
    "question": "A. Change",
-   "problem": "multi_answer",
+   "problem": "missing_answer",
    "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q690-0446",
-   "questionNumberOriginal": 690,
-   "ata": null,
-   "question": "A. to comply with",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q622-0447",
-   "questionNumberOriginal": 622,
-   "ata": null,
-   "question": "A. leading",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q624-0448",
-   "questionNumberOriginal": 624,
-   "ata": null,
-   "question": "A. has caused",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q626-0449",
-   "questionNumberOriginal": 626,
-   "ata": null,
-   "question": "A. of",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
@@ -1090,36 +561,6 @@
    "questionNumberOriginal": 628,
    "ata": null,
    "question": "A. while",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q630-0451",
-   "questionNumberOriginal": 630,
-   "ata": null,
-   "question": "A. lost of",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q562-0452",
-   "questionNumberOriginal": 562,
-   "ata": null,
-   "question": "A. of",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q564-0453",
-   "questionNumberOriginal": 564,
-   "ata": null,
-   "question": "A. requires",
    "problem": "multi_answer",
    "options": 4,
    "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
@@ -1146,33 +587,13 @@
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q570-0456",
-   "questionNumberOriginal": 570,
-   "ata": null,
-   "question": "A. required",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q501-0457",
-   "questionNumberOriginal": 501,
-   "ata": null,
-   "question": "A. are",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
    "id": "english-gen-q502-0458",
    "questionNumberOriginal": 502,
    "ata": null,
    "question": "A. A320",
-   "problem": "multi_answer",
+   "problem": "missing_answer",
    "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
@@ -1186,43 +607,13 @@
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q504-0460",
-   "questionNumberOriginal": 504,
-   "ata": null,
-   "question": "A. at",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q505-0461",
-   "questionNumberOriginal": 505,
-   "ata": null,
-   "question": "A. could be added",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
    "id": "english-gen-q506-0462",
    "questionNumberOriginal": 506,
    "ata": null,
    "question": "A. is only known",
-   "problem": "multi_answer",
+   "problem": "missing_answer",
    "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q508-0463",
-   "questionNumberOriginal": 508,
-   "ata": null,
-   "question": "A. monitored",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
+   "hint": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng."
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
@@ -1336,26 +727,6 @@
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q382-0475",
-   "questionNumberOriginal": 382,
-   "ata": null,
-   "question": "A. are designed",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q383-0476",
-   "questionNumberOriginal": 383,
-   "ata": null,
-   "question": "A. altitudinal",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
    "id": "english-gen-q385-0477",
    "questionNumberOriginal": 385,
    "ata": null,
@@ -1372,16 +743,6 @@
    "question": "A. so far",
    "problem": "multi_answer",
    "options": 10,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q202-0479",
-   "questionNumberOriginal": 202,
-   "ata": null,
-   "question": "A. is activated",
-   "problem": "multi_answer",
-   "options": 4,
    "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
   },
   {
@@ -1406,72 +767,12 @@
   },
   {
    "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q142-0482",
-   "questionNumberOriginal": 142,
-   "ata": null,
-   "question": "A. at",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q144-0483",
-   "questionNumberOriginal": 144,
-   "ata": null,
-   "question": "A. then",
-   "problem": "multi_answer",
-   "options": 4,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
    "id": "english-gen-q150-0484",
    "questionNumberOriginal": 150,
    "ata": null,
    "question": "A. and",
    "problem": "multi_answer",
    "options": 12,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q001-0485",
-   "questionNumberOriginal": 1,
-   "ata": null,
-   "question": "How many elevator servo controls are there?",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q002-0486",
-   "questionNumberOriginal": 2,
-   "ata": null,
-   "question": "What connects the two control columns?",
-   "problem": "multi_answer",
-   "options": 2,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q003-0487",
-   "questionNumberOriginal": 3,
-   "ata": null,
-   "question": "What lets the two channels be uncoupled?",
-   "problem": "multi_answer",
-   "options": 3,
-   "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
-  },
-  {
-   "sourceFile": "Aviation Technical English Bank rev1.pdf",
-   "id": "english-gen-q005-0489",
-   "questionNumberOriginal": 5,
-   "ata": null,
-   "question": "What actuates the servo control linkage?",
-   "problem": "multi_answer",
-   "options": 3,
    "hint": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công."
   },
   {

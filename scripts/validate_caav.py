@@ -68,6 +68,7 @@ def main():
                 "hint": {
                     "missing_answer": "Không thấy ô vàng — mở PDF, kiểm tra đáp án đúng.",
                     "multi_answer": "File gốc bôi vàng >1 đáp án — chọn đáp án đúng thủ công.",
+                    "conflict": "Ô vàng và dòng 'Correct Answer is' đá nhau — nguồn tự mâu thuẫn, cần soát tay.",
                     "missing_options": "Thiếu đáp án — kiểm tra layout câu này.",
                     "missing_question": "Thiếu nội dung câu hỏi.",
                 }.get(q["parseStatus"], "Kiểm tra thủ công."),

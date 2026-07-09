@@ -28,6 +28,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -59,6 +60,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -90,6 +92,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -121,6 +124,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -152,6 +156,7 @@
   "correctAnswer": "A",
   "ref": "06-31-53-00 CONF 00 - FUSELAGE - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -183,6 +188,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -214,6 +220,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -245,6 +252,7 @@
   "correctAnswer": "C",
   "ref": "34-22-00-00 CONF 01 - STANDBY DATA: INTEGRATED STANDBY INSTRUMENT",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -276,6 +284,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precaution TASK 07-11-00-581-001-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -307,6 +316,7 @@
   "correctAnswer": "C",
   "ref": "Safety Precaution TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -338,6 +348,7 @@
   "correctAnswer": "A",
   "ref": "11-00-00-00 CONF 00 - PLACARDS AND MARKINGS - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -369,6 +380,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precaution 11-00-00-00 CONF 00 - PLACARDS AND MARKINGS - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -400,6 +412,7 @@
   "correctAnswer": "A",
   "ref": "TASK 12-15-38-613-001-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -431,6 +444,7 @@
   "correctAnswer": "C",
   "ref": "TASK 12-16-38-613-001-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -462,6 +476,7 @@
   "correctAnswer": "A",
   "ref": "TASK 12-15-38-613-001-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -493,6 +508,7 @@
   "correctAnswer": "A",
   "ref": "TASK 12-11-28-650-006-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -524,6 +540,7 @@
   "correctAnswer": "B",
   "ref": "32-51-00-00 CONF 00 - STEERING - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -555,6 +572,7 @@
   "correctAnswer": "A",
   "ref": "10-00-00-00 CONF 00 - PARKING, MOORING, STORAGE & RETURN TO SERVICE -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -586,6 +604,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precaution TASK 10-10-00-550-801-A/TASK 10-20-00-556-001-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -617,6 +636,7 @@
   "correctAnswer": "A",
   "ref": "TASK 12-11-28-650-003-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -648,6 +668,7 @@
   "correctAnswer": "C",
   "ref": "TASK 10-12-00-553-802-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -679,6 +700,7 @@
   "correctAnswer": "B",
   "ref": "TASK 10-12-00-553-802-A Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -710,6 +732,7 @@
   "correctAnswer": "C",
   "ref": "TASK 10-20-00-556-001-A Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -741,6 +764,7 @@
   "correctAnswer": "A",
   "ref": "TASK 12-11-28-650-003-A Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -772,6 +796,7 @@
   "correctAnswer": "B",
   "ref": "TASK 12-11-28-650-003-A Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -803,6 +828,7 @@
   "correctAnswer": "A",
   "ref": "TASK AMM 12-34-24-869-002 Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -834,6 +860,7 @@
   "correctAnswer": "A",
   "ref": "TASK 12-34-24-869-002-A Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -865,6 +892,7 @@
   "correctAnswer": "A",
   "ref": "TASK 12-11-28-650-003-A Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -896,6 +924,7 @@
   "correctAnswer": "B",
   "ref": "AMM FRONT MATTER- INTRODUCTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -927,6 +956,7 @@
   "correctAnswer": "A",
   "ref": "AMM FRONT MATTER- INTRODUCTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -958,6 +988,7 @@
   "correctAnswer": "A",
   "ref": "AMM FRONT MATTER- INTRODUCTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -989,6 +1020,7 @@
   "correctAnswer": "B",
   "ref": "AMM FRONT MATTER- INTRODUCTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1020,6 +1052,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1051,6 +1084,7 @@
   "correctAnswer": "C",
   "ref": "TASK 12-11-28-650-001-A General Refuel/Defuel Safety Procedures Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1076,12 +1110,13 @@
    },
    {
     "key": "C",
-    "text": "Air conditioning, Ventilation and Pressurization of cabin T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 04"
+    "text": "Air conditioning, Ventilation and Pressurization of cabin"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1107,12 +1142,13 @@
    },
    {
     "key": "C",
-    "text": "Mass Flow demand and sets the flow control valve in the necessary reference position. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 30"
+    "text": "Mass Flow demand and sets the flow control valve in the necessary reference position."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 30",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1138,12 +1174,13 @@
    },
    {
     "key": "C",
-    "text": "The pack inlet temperature. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 52"
+    "text": "The pack inlet temperature."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 52",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1175,6 +1212,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1206,6 +1244,7 @@
   "correctAnswer": "C",
   "ref": "AMM 21-21-00-00 CONF 00 - AIR DISTRIBUTION AND RECIRCULATION -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1231,12 +1270,13 @@
    },
    {
     "key": "C",
-    "text": "The Cockpit, Cabin, Avionics Bay and Cargo compartments. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 03"
+    "text": "The Cockpit, Cabin, Avionics Bay and Cargo compartments."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1262,12 +1302,13 @@
    },
    {
     "key": "C",
-    "text": "The third motor for manual operation in case both automatic systems fail. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 06"
+    "text": "The third motor for manual operation in case both automatic systems fail."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 06",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1299,6 +1340,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1330,6 +1372,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1361,6 +1404,7 @@
   "correctAnswer": "B",
   "ref": "AMM 21-31-00-00 CONF 00 - PRESSURE CONTROL AND MONITORING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1392,6 +1436,7 @@
   "correctAnswer": "C",
   "ref": "AMM 21-55-00-00 CONF 00 - EMERGENCY RAM AIR INLET - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1423,6 +1468,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1454,6 +1500,7 @@
   "correctAnswer": "C",
   "ref": "AMM TASK 21-31-00-710-002-A Operational Test of the Pressure Control and Monitoring",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1485,6 +1532,7 @@
   "correctAnswer": "A",
   "ref": "AMM 21-58-00-00 CONF 00 - CONDITIONED SERVICE AIR SYSTEM (CSAS) -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1514,8 +1562,9 @@
    }
   ],
   "correctAnswer": "C",
-  "ref": "TASK 21-31-00-710-002-A",
+  "ref": "TASK 21-31-00-710-002-A T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 34",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1547,6 +1596,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1578,6 +1628,7 @@
   "correctAnswer": "A",
   "ref": "AMM 21-51-00-00 CONF 00 - FLOW CONTROL AND INDICATING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1603,12 +1654,13 @@
    },
    {
     "key": "C",
-    "text": "Fly at pressure altitude. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 34"
+    "text": "Fly at pressure altitude."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 34",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1640,6 +1692,7 @@
   "correctAnswer": "A",
   "ref": "AMM 21-52-00-00 CONF 00 - AIR COOLING SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1671,6 +1724,7 @@
   "correctAnswer": "A",
   "ref": "AMM 21-52-00-00 CONF 00 - AIR COOLING SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1696,12 +1750,13 @@
    },
    {
     "key": "C",
-    "text": "To heat the RAM air. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 48"
+    "text": "To heat the RAM air."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 48",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1727,12 +1782,13 @@
    },
    {
     "key": "C",
-    "text": "All BITE data from ACSC 1 will be transmitted to ACSC 2 and ACSC 2 only connected to CFDIU. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 58"
+    "text": "All BITE data from ACSC 1 will be transmitted to ACSC 2 and ACSC 2 only connected to CFDIU."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 58",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1764,6 +1820,7 @@
   "correctAnswer": "C",
   "ref": "AMM 21-23-00-00 CONF 00 - LAVATORY/GALLEY VENTILATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1795,6 +1852,7 @@
   "correctAnswer": "A",
   "ref": "AMM 21-28-00-00 CONF 00 - CARGO COMPARTMENT VENTILATION - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1820,12 +1878,13 @@
    },
    {
     "key": "C",
-    "text": "The BLOWER set to AUTO and EXTRACT PB/SW set to OVRD. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 92"
+    "text": "The BLOWER set to AUTO and EXTRACT PB/SW set to OVRD."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 92",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1851,12 +1910,13 @@
    },
    {
     "key": "C",
-    "text": "Pre-pressurization, pressurization, depressurization sequences. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 76"
+    "text": "Pre-pressurization, pressurization, depressurization sequences."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 76",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1888,6 +1948,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1913,12 +1974,13 @@
    },
    {
     "key": "C",
-    "text": "The landing elevation comes from the GPS. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 74"
+    "text": "The landing elevation comes from the GPS."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 74",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1950,6 +2012,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1981,6 +2044,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2006,12 +2070,13 @@
    },
    {
     "key": "C",
-    "text": "LGCIU 2, BSCU and EIUs. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 68"
+    "text": "LGCIU 2, BSCU and EIUs."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 68",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2037,12 +2102,13 @@
    },
    {
     "key": "C",
-    "text": "Zone temperature indication on ECAM display. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 66"
+    "text": "Zone temperature indication on ECAM display."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 66",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2074,6 +2140,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2099,12 +2166,13 @@
    },
    {
     "key": "C",
-    "text": "Hydraulically operated and electrically controlled by two solenoids. T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 64"
+    "text": "Hydraulically operated and electrically controlled by two solenoids."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 21 - AIR CONDITIONING PAGE 64",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2136,6 +2204,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2167,6 +2236,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2198,6 +2268,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2229,6 +2300,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 21-21-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2260,6 +2332,7 @@
   "correctAnswer": "B",
   "ref": "Ref: AMM 21-30-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2291,6 +2364,7 @@
   "correctAnswer": "A",
   "ref": "Ref: AMM 21-30-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2322,6 +2396,7 @@
   "correctAnswer": "A",
   "ref": "Ref: AMM 21-30-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2353,6 +2428,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 21-30-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2384,6 +2460,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 21-30-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2415,6 +2492,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2440,12 +2518,13 @@
    },
    {
     "key": "C",
-    "text": "2 FMGCs, 2 FACs, 2 MCDUs and 1 FCU. T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 02"
+    "text": "2 FMGCs, 2 FACs, 2 MCDUs and 1 FCU."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2471,12 +2550,13 @@
    },
    {
     "key": "C",
-    "text": "FM part used for Flight plan, revision and Monitoring; FG part used for Aircraft Control functions. T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 02"
+    "text": "FM part used for Flight plan, revision and Monitoring; FG part used for Aircraft Control functions."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2502,12 +2582,13 @@
    },
    {
     "key": "C",
-    "text": "Rudder control & Flight Envelope protection & runway overrun protection (ROPS) if installed. T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 02"
+    "text": "Rudder control & Flight Envelope protection & runway overrun protection (ROPS) if installed."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2533,12 +2614,13 @@
    },
    {
     "key": "C",
-    "text": "FCU T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 06"
+    "text": "FCU"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 06",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2564,12 +2646,13 @@
    },
    {
     "key": "C",
-    "text": "Both engines shut down and all Hydraulic power is required T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 16"
+    "text": "Both engines shut down and all Hydraulic power is required"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2595,12 +2678,13 @@
    },
    {
     "key": "C",
-    "text": "On the Overhead panel. T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 17"
+    "text": "On the Overhead panel."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 17",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2626,12 +2710,13 @@
    },
    {
     "key": "C",
-    "text": "No such test is required in the Autopilot System. T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 26"
+    "text": "No such test is required in the Autopilot System."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 22 - AUTO FLIGHT PAGE 26",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2663,6 +2748,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2694,6 +2780,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2725,6 +2812,7 @@
   "correctAnswer": "B",
   "ref": "22-82-00-00 CONF 00 - MULTIPURPOSE CONTROL AND DISPLAY UNIT (MCDU) -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2756,6 +2844,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2787,6 +2876,7 @@
   "correctAnswer": "C",
   "ref": "AMM 23-00-00-00 CONF 00 - COMMUNICATIONS - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2818,6 +2908,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2849,6 +2940,7 @@
   "correctAnswer": "B",
   "ref": "AMM 23-11-00-00 CONF 00 - HF SYSTEM - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2880,6 +2972,7 @@
   "correctAnswer": "B",
   "ref": "AMM ATA 23- DESCRIPTION AND OPERATION-COMPONENT LOCATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2911,6 +3004,7 @@
   "correctAnswer": "B",
   "ref": "31-39-00-00 CONF 00 - COMBINED VOICE AND DATA RECORDING / RECORDING",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2942,6 +3036,7 @@
   "correctAnswer": "C",
   "ref": "AMM 23-42-00-00 CONF 00 - COCKPIT TO GROUND CREW CALL SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2973,6 +3068,7 @@
   "correctAnswer": "C",
   "ref": "AMM 23-60-00-00 CONF 00 - STATIC DISCHARGERS - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2998,12 +3094,13 @@
    },
    {
     "key": "C",
-    "text": "Refer AMM. T1+T2 (CFM 56) (Lvl 2&3) 23 – COMMUNICATIONS PAGE 216"
+    "text": "Refer AMM."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 23 – COMMUNICATIONS PAGE 216",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3029,12 +3126,13 @@
    },
    {
     "key": "C",
-    "text": "Only Hand Signals possible. T1+T2 (CFM 56) (Lvl 2&3) 23 – COMMUNICATIONS PAGE 232"
+    "text": "Only Hand Signals possible."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 23 – COMMUNICATIONS PAGE 232",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3060,12 +3158,13 @@
    },
    {
     "key": "C",
-    "text": "By Starting APU T1+T2 (CFM 56) (Lvl 2&3) 23 – COMMUNICATIONS PAGE 48"
+    "text": "By Starting APU"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 23 – COMMUNICATIONS PAGE 48",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3091,12 +3190,13 @@
    },
    {
     "key": "C",
-    "text": "Two identical Static Inverters (STINV) T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 44"
+    "text": "Two identical Static Inverters (STINV)"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 44",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3128,6 +3228,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-20-00-00 CONF 00 - AC GENERATION - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3159,6 +3260,7 @@
   "correctAnswer": "C",
   "ref": "AMM 24-22-00-00 CONF 00 - AC MAIN GENERATION - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3190,6 +3292,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-24-00-00 CONF 00 - AC EMERGENCY GENERATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3221,6 +3324,7 @@
   "correctAnswer": "C",
   "ref": "AMM 24-38-00-00 CONF 00 - DC GENERATION - BATTERIES - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3252,6 +3356,7 @@
   "correctAnswer": "A",
   "ref": "TASK 24-24-00-710-001-A Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3283,6 +3388,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-52-00-00 CONF 00 - AC ESSENTIAL DISTRIBUTION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3314,6 +3420,7 @@
   "correctAnswer": "C",
   "ref": "AMM 24-00-00-00 CONF 00 - ELECTRICAL POWER - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3339,12 +3446,13 @@
    },
    {
     "key": "C",
-    "text": "7000 to 7999 T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 18"
+    "text": "7000 to 7999"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3376,6 +3484,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-21-00-00 CONF 00 - INTEGRATED DRIVE GENERATOR SYSTEM (IDG, GCU) -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3407,6 +3516,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3438,6 +3548,7 @@
   "correctAnswer": "C",
   "ref": "AMM 24-23-00-00 CONF 00 - AC AUXILIARY GENERATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3469,6 +3580,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-41-00-00 CONF 00 - AC EXTERNAL POWER CONTROL - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3500,6 +3612,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-21-00-00 CONF 00 - INTEGRATED DRIVE GENERATOR SYSTEM (IDG, GCU) -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3525,12 +3638,13 @@
    },
    {
     "key": "C",
-    "text": "Engine vibration. T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 122"
+    "text": "Engine vibration."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 122",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3562,6 +3676,7 @@
   "correctAnswer": "C",
   "ref": "AMM 24-23-00-00 CONF 00 - AC AUXILIARY GENERATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3593,6 +3708,7 @@
   "correctAnswer": "A",
   "ref": "AMM DESCRIPTION 24-00-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3618,12 +3734,13 @@
    },
    {
     "key": "C",
-    "text": "Green and Yellow. T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 18"
+    "text": "Green and Yellow."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3655,6 +3772,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-22-00-00 CONF 00 COMPONENT DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3680,12 +3798,13 @@
    },
    {
     "key": "C",
-    "text": "If the Delta pressure across the scavenge filter is 5 +/- 8 Psi. T1+T2 (CFM 56) (Lvl 2&3) 24 – ELECTRICAL"
+    "text": "If the Delta pressure across the scavenge filter is 5 +/- 8 Psi."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 – ELECTRICAL",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3711,12 +3830,13 @@
    },
    {
     "key": "C",
-    "text": "Trips only GCR T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 34"
+    "text": "Trips only GCR"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 34",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3742,12 +3862,13 @@
    },
    {
     "key": "C",
-    "text": "Opens both IMR & PRR relays. T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 74"
+    "text": "Opens both IMR & PRR relays."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 74",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3779,6 +3900,7 @@
   "correctAnswer": "B",
   "ref": "AMM 24-22-00-00 CONF 00 - AC MAIN GENERATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3804,12 +3926,13 @@
    },
    {
     "key": "C",
-    "text": "The MAINT BUS SW trips off, de-energize AC & DC GND/FLT buses. T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 88"
+    "text": "The MAINT BUS SW trips off, de-energize AC & DC GND/FLT buses."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 88",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3841,6 +3964,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-26-00-00 CONF 00 - GALLEY SUPPLY CONTROL - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3866,12 +3990,13 @@
    },
    {
     "key": "C",
-    "text": "Galleys are working normally. T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 104"
+    "text": "Galleys are working normally."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 104",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3903,6 +4028,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-24-00-00 CONF 00 - AC EMERGENCY GENERATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3934,6 +4060,7 @@
   "correctAnswer": "C",
   "ref": "AMM 24-24-00-00 CONF 00 - AC EMERGENCY GENERATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3965,6 +4092,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3990,12 +4118,13 @@
    },
    {
     "key": "C",
-    "text": "AC BUS 1 available T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 2"
+    "text": "AC BUS 1 available"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4021,12 +4150,13 @@
    },
    {
     "key": "C",
-    "text": "All the fuel pumps are switched off. T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 44"
+    "text": "All the fuel pumps are switched off."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 44",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4058,6 +4188,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4089,6 +4220,7 @@
   "correctAnswer": "A",
   "ref": "AMM 49-42-00-00 CONF 16 - STARTING - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4114,12 +4246,13 @@
    },
    {
     "key": "C",
-    "text": "Ground or in Flight. T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 246"
+    "text": "Ground or in Flight."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 246",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4145,12 +4278,13 @@
    },
    {
     "key": "C",
-    "text": "During discharge cycle T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 242"
+    "text": "During discharge cycle"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 242",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4182,6 +4316,7 @@
   "correctAnswer": "A",
   "ref": "AMM 24-30-00-00 CONF 00 - DC GENERATION - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4207,12 +4342,13 @@
    },
    {
     "key": "C",
-    "text": "DC bus 1. T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 142"
+    "text": "DC bus 1."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 24 - ELECTRICAL POWER PAGE 142",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4238,12 +4374,13 @@
    },
    {
     "key": "C",
-    "text": "PSUs and PIUs in relation to the A/Cs cabin configurations. T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 04"
+    "text": "PSUs and PIUs in relation to the A/Cs cabin configurations."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4275,6 +4412,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4306,6 +4444,7 @@
   "correctAnswer": "C",
   "ref": "AMM 25-31-00-00 CONF 00 - FORWARD GALLEY - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4337,6 +4476,7 @@
   "correctAnswer": "C",
   "ref": "AMM 25-41-00-00 CONF 00 - FORWARD LAVATORIES - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4362,12 +4502,13 @@
    },
    {
     "key": "C",
-    "text": "Exhaust air, water and waste, vacuum and electrical interfaces. T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 42"
+    "text": "Exhaust air, water and waste, vacuum and electrical interfaces."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 42",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4399,6 +4540,7 @@
   "correctAnswer": "C",
   "ref": "AMM TASK 25-21-41-000-001-A Removal of the Passenger Seats",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4430,6 +4572,7 @@
   "correctAnswer": "C",
   "ref": "AMM 25-22-00-00 CONF 00 - CABIN ATTENDANT SEATS (CAS) - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4461,6 +4604,7 @@
   "correctAnswer": "C",
   "ref": "AMM 25-22-00-00 CONF 00 - CABIN ATTENDANT SEATS (CAS) - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4492,6 +4636,7 @@
   "correctAnswer": "A",
   "ref": "AMM 25-22-00-00 CONF 00 - CABIN ATTENDANT SEATS (CAS) - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4517,12 +4662,13 @@
    },
    {
     "key": "C",
-    "text": "Cabin and Emergency exits doors areas 2 and 4. T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 66"
+    "text": "Cabin and Emergency exits doors areas 2 and 4."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 66",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4548,12 +4694,13 @@
    },
    {
     "key": "C",
-    "text": "Cabin and Emergency exits doors areas 2 ,3 and 4. T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 68"
+    "text": "Cabin and Emergency exits doors areas 2 ,3 and 4."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 68",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4585,6 +4732,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4610,12 +4758,13 @@
    },
    {
     "key": "C",
-    "text": "For Door area 3 is in Bulk cargo compartment. T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 75"
+    "text": "For Door area 3 is in Bulk cargo compartment."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 75",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4641,12 +4790,13 @@
    },
    {
     "key": "C",
-    "text": "28V AC directly. T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 72"
+    "text": "28V AC directly."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 25 - EQUIPMENT/FURNISHINGS PAGE 72",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4678,6 +4828,7 @@
   "correctAnswer": "A",
   "ref": "TASK 25-62-44-000-010-A-Removal of the Inflated Left Escape-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4709,6 +4860,7 @@
   "correctAnswer": "B",
   "ref": "TASK 25-62-44-000-010-A-Removal of the Inflated Left Escape-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4740,6 +4892,7 @@
   "correctAnswer": "A",
   "ref": "AMM TASK 25-62-44-000-012-A-Removal of the Left Escape-Slide-Raft Pack-Assembly",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4771,6 +4924,7 @@
   "correctAnswer": "A",
   "ref": "TASK 25-62-42-400-001-A Installation of the Off-wing Escape Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4802,6 +4956,7 @@
   "correctAnswer": "A",
   "ref": "AMM 25-62-00-00 CONF 00 - ESCAPE FACILITIES - CABIN - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4833,6 +4988,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4864,6 +5020,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4895,6 +5052,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4926,6 +5084,7 @@
   "correctAnswer": "C",
   "ref": "AMM 25-61-00-00 CONF 00 - ESCAPE FACILITIES - COCKPIT - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4951,12 +5110,13 @@
    },
    {
     "key": "C",
-    "text": "The Fire detection and the Fire eliminating system T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 02"
+    "text": "The Fire detection and the Fire eliminating system"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4982,12 +5142,13 @@
    },
    {
     "key": "C",
-    "text": "FDU 2 for Engine No1, Engine No 2 and APU. T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 02"
+    "text": "FDU 2 for Engine No1, Engine No 2 and APU."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5013,12 +5174,13 @@
    },
    {
     "key": "C",
-    "text": "Isolate the related system, shut down the related system and also arm the extinguishing system. T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 156"
+    "text": "Isolate the related system, shut down the related system and also arm the extinguishing system."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 156",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5044,12 +5206,13 @@
    },
    {
     "key": "C",
-    "text": "APU fire panel and external power control panel T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 60"
+    "text": "APU fire panel and external power control panel"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 60",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5075,12 +5238,13 @@
    },
    {
     "key": "C",
-    "text": "BLOWER FAULT and EXTRACT FAULT lights on. T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 108"
+    "text": "BLOWER FAULT and EXTRACT FAULT lights on."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 108",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5106,12 +5270,13 @@
    },
    {
     "key": "C",
-    "text": "Smoke Detection Function (SDF) in CIDS director CAN bus. T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 118"
+    "text": "Smoke Detection Function (SDF) in CIDS director CAN bus."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 118",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5143,6 +5308,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5168,12 +5334,13 @@
    },
    {
     "key": "C",
-    "text": "Fuel, air, electrical, hydraulic power, and Engine Interface Unit electrical power supply are disconnected. T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 70"
+    "text": "Fuel, air, electrical, hydraulic power, and Engine Interface Unit electrical power supply are disconnected."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 70",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5205,6 +5372,7 @@
   "correctAnswer": "C",
   "ref": "26-12-00-00 CONF 21 - ENGINE FIRE AND OVERHEAT DETECTION - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5236,6 +5404,7 @@
   "correctAnswer": "B",
   "ref": "26-21-00-00 CONF 00 - ENGINE FIRE EXTINGUISHING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5261,12 +5430,13 @@
    },
    {
     "key": "C",
-    "text": "ETOPS- 60/ 120/180 minutes. T1+T2 (CFM 56) (Lvl 2&3) 26 – FIRE PROTECTION PAGE 144"
+    "text": "ETOPS- 60/ 120/180 minutes."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 – FIRE PROTECTION PAGE 144",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5292,12 +5462,13 @@
    },
    {
     "key": "C",
-    "text": "All times before starting Engine or APU. T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 148"
+    "text": "All times before starting Engine or APU."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 148",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5323,12 +5494,13 @@
    },
    {
     "key": "C",
-    "text": "BTL 1 squib A and BTL 1 squib B in HOTBUS 2. T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 156"
+    "text": "BTL 1 squib A and BTL 1 squib B in HOTBUS 2."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 156",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5360,6 +5532,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5385,12 +5558,13 @@
    },
    {
     "key": "C",
-    "text": "APU Master Switch panel(25VU) T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 156"
+    "text": "APU Master Switch panel(25VU)"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 156",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5422,6 +5596,7 @@
   "correctAnswer": "B",
   "ref": "AMM 26-21-00-00 CONF 00 - ENGINE FIRE EXTINGUISHING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5453,6 +5628,7 @@
   "correctAnswer": "A",
   "ref": "AMM 26-15-00-00 CONF 00 - AVIONICS COMPARTMENT SMOKE DETECTION -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5484,6 +5660,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5509,12 +5686,13 @@
    },
    {
     "key": "C",
-    "text": "Pull all applicable C/B s and put warning notices as per AMM T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 156"
+    "text": "Pull all applicable C/B s and put warning notices as per AMM"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 26 - FIRE PROTECTION PAGE 156",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5540,12 +5718,13 @@
    },
    {
     "key": "C",
-    "text": "Elevators & THS for manual control activity. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 02"
+    "text": "Elevators & THS for manual control activity."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5571,12 +5750,13 @@
    },
    {
     "key": "C",
-    "text": "No.1 &2 in Left side, N0.3 in middle and No.4,5 in Right side. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 02"
+    "text": "No.1 &2 in Left side, N0.3 in middle and No.4,5 in Right side."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5602,12 +5782,13 @@
    },
    {
     "key": "C",
-    "text": "Spoilers 1.2.4.&5 T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 02"
+    "text": "Spoilers 1.2.4.&5"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5633,12 +5814,13 @@
    },
    {
     "key": "C",
-    "text": "To increase the Lift during take-off. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 02"
+    "text": "To increase the Lift during take-off."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5664,12 +5846,13 @@
    },
    {
     "key": "C",
-    "text": "Speed Brake function. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 04"
+    "text": "Speed Brake function."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5695,12 +5878,13 @@
    },
    {
     "key": "C",
-    "text": "Two Electric motors coupled to Two Hydraulic motors. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 04"
+    "text": "Two Electric motors coupled to Two Hydraulic motors."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5726,12 +5910,13 @@
    },
    {
     "key": "C",
-    "text": "They can only reset in Flight. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 152"
+    "text": "They can only reset in Flight."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 152",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5757,12 +5942,13 @@
    },
    {
     "key": "C",
-    "text": "ELAC and SEC. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 194"
+    "text": "ELAC and SEC."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 194",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5788,12 +5974,13 @@
    },
    {
     "key": "C",
-    "text": "Slats and flaps are fully extended. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 04"
+    "text": "Slats and flaps are fully extended."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5819,12 +6006,13 @@
    },
    {
     "key": "C",
-    "text": "1 SFCC,1 ELAC,1 FAC and 3 SEC. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 202"
+    "text": "1 SFCC,1 ELAC,1 FAC and 3 SEC."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 202",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5850,12 +6038,13 @@
    },
    {
     "key": "C",
-    "text": "Both are in Damping mode. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 10"
+    "text": "Both are in Damping mode."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 10",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5881,12 +6070,13 @@
    },
    {
     "key": "C",
-    "text": "Centering mode. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 10"
+    "text": "Centering mode."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 10",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5912,12 +6102,13 @@
    },
    {
     "key": "C",
-    "text": "Only Vertical manual control orders T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 16"
+    "text": "Only Vertical manual control orders"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5943,12 +6134,13 @@
    },
    {
     "key": "C",
-    "text": "SEC 1 takes over control after switching. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 40"
+    "text": "SEC 1 takes over control after switching."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 40",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5980,6 +6172,7 @@
   "correctAnswer": "B",
   "ref": "AMM 27-00-00-00 CONF 00 - FLIGHT CONTROLS - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6011,6 +6204,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 27-THS Actuator Operation-Jamming Mode-T1+T2 page 15/a5-B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6042,6 +6236,7 @@
   "correctAnswer": "A",
   "ref": "AMM 27-00-00-00 CONF 00 - FLIGHT CONTROLS - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6067,12 +6262,13 @@
    },
    {
     "key": "C",
-    "text": "Obtained by using the rudder pedals called induced roll, rudder have a mechanical control. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 54"
+    "text": "Obtained by using the rudder pedals called induced roll, rudder have a mechanical control."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 54",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6104,6 +6300,7 @@
   "correctAnswer": "A",
   "ref": "AMM 27-00-00-00 CONF 00 - FLIGHT CONTROLS - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6135,6 +6332,7 @@
   "correctAnswer": "B",
   "ref": "AMM 22-63-00-00 CONF 00 - YAW DAMPER COMPUTATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6166,6 +6364,7 @@
   "correctAnswer": "A",
   "ref": "AMM 27-24-00-00 CONF 00 - RUDDER HYDRAULIC ACTUATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6197,6 +6396,7 @@
   "correctAnswer": "A",
   "ref": "AMM 27-22-00-00 CONF 00 - RUDDER TRIM ACTUATION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6228,6 +6428,7 @@
   "correctAnswer": "A",
   "ref": "AMM 27-90-00-00 CONF 00 - ELECTRICAL FLIGHT CONTROL SYSTEM (EFCS) -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6259,6 +6460,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6290,6 +6492,7 @@
   "correctAnswer": "C",
   "ref": "AMM 27-00-00-00 CONF 00 - FLIGHT CONTROLS - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6321,6 +6524,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6352,6 +6556,7 @@
   "correctAnswer": "C",
   "ref": "AMM 27-51-00-00 CONF 00 - FLAPS ELECTRICAL CONTROL AND MONITORING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6377,12 +6582,13 @@
    },
    {
     "key": "C",
-    "text": "Pressure-Off Brake (POB) T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 144"
+    "text": "Pressure-Off Brake (POB)"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 144",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6414,6 +6620,7 @@
   "correctAnswer": "B",
   "ref": "AMM 27-81-00-00 CONF 00 - SLATS ELECTRICAL CONTROL AND MONITORING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6445,6 +6652,7 @@
   "correctAnswer": "C",
   "ref": "AMM 27-51-00-00 CONF 00 - FLAPS ELECTRICAL CONTROL AND MONITORING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6476,6 +6684,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6507,6 +6716,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6532,12 +6742,13 @@
    },
    {
     "key": "C",
-    "text": "No MEL restrictions T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 202"
+    "text": "No MEL restrictions"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 202",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6563,12 +6774,13 @@
    },
    {
     "key": "C",
-    "text": "FACs, FCDCs, and SFCCs are all GO-IF items. T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 202"
+    "text": "FACs, FCDCs, and SFCCs are all GO-IF items."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 27 - FLIGHT CONTROLS PAGE 202",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6600,6 +6812,7 @@
   "correctAnswer": "C",
   "ref": "AMM 27-81-00-00 CONF 00 - SLATS ELECTRICAL CONTROL AND MONITORING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6631,6 +6844,7 @@
   "correctAnswer": "A",
   "ref": "AMM 27-81-00-00 CONF 00 - SLATS ELECTRICAL CONTROL AND MONITORING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6662,6 +6876,7 @@
   "correctAnswer": "A",
   "ref": "AMM 28-11-00-00 CONF 00 - TANKS - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6693,6 +6908,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6718,12 +6934,13 @@
    },
    {
     "key": "C",
-    "text": "Electrically controlled and operated by one DC and one AC motor T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 22"
+    "text": "Electrically controlled and operated by one DC and one AC motor"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 22",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6749,12 +6966,13 @@
    },
    {
     "key": "C",
-    "text": "Single-Phase 115V AC motor supplied by bus bars. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 22"
+    "text": "Single-Phase 115V AC motor supplied by bus bars."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 22",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6786,6 +7004,7 @@
   "correctAnswer": "B",
   "ref": "AMM 28-21-00-00 CONF 00 - MAIN FUEL PUMP SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6817,6 +7036,7 @@
   "correctAnswer": "C",
   "ref": "AMM TASK 28-12-00-040-003-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6842,12 +7062,13 @@
    },
    {
     "key": "C",
-    "text": "Air Cooled Oil Cooler (ACOC) system. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 42"
+    "text": "Air Cooled Oil Cooler (ACOC) system."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 42",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6873,12 +7094,13 @@
    },
    {
     "key": "C",
-    "text": "Wing tank outer cell. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 116"
+    "text": "Wing tank outer cell."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 116",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6904,12 +7126,13 @@
    },
    {
     "key": "C",
-    "text": "FLSCU 2 and ECU 1. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 42"
+    "text": "FLSCU 2 and ECU 1."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 42",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6941,6 +7164,7 @@
   "correctAnswer": "A",
   "ref": "AMM 28-10-00-00 CONF 06 - DISTRIBUTION - DESCRIPTION AND OPERATION-Fuel",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6972,6 +7196,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7003,6 +7228,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7034,6 +7260,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7065,6 +7292,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7096,6 +7324,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7127,6 +7356,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7152,12 +7382,13 @@
    },
    {
     "key": "C",
-    "text": "Diffuse fuel into the tanks with minimum turbulence and electrostatic build-up. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 96"
+    "text": "Diffuse fuel into the tanks with minimum turbulence and electrostatic build-up."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 96",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7183,12 +7414,13 @@
    },
    {
     "key": "C",
-    "text": "Normal system operation and CFDS report will be generated for the failure. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 108"
+    "text": "Normal system operation and CFDS report will be generated for the failure."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 108",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7214,12 +7446,13 @@
    },
    {
     "key": "C",
-    "text": "Center tank. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 134"
+    "text": "Center tank."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 134",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7251,6 +7484,7 @@
   "correctAnswer": "C",
   "ref": "AMM 28-42-00-00 CONF 00 - QUANTITY INDICATING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7276,12 +7510,13 @@
    },
    {
     "key": "C",
-    "text": "Variable capacitance function, Temperature sensing and Velocimeter measurement functions. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 108"
+    "text": "Variable capacitance function, Temperature sensing and Velocimeter measurement functions."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 108",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7313,6 +7548,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-2d/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7338,12 +7574,13 @@
    },
    {
     "key": "C",
-    "text": "Center tank 5 probes and wing tanks 14 probes. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 138"
+    "text": "Center tank 5 probes and wing tanks 14 probes."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 138",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7375,6 +7612,7 @@
   "correctAnswer": "C",
   "ref": "AMM 28-25-00-00 CONF 00 - REFUEL/DEFUEL SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7400,12 +7638,13 @@
    },
    {
     "key": "C",
-    "text": "All the family members differ in fuel tank construction. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 02"
+    "text": "All the family members differ in fuel tank construction."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7437,6 +7676,7 @@
   "correctAnswer": "C",
   "ref": "28-28-00-00 CONF 00 - ADDITIONAL CENTER TANK TRANSFER SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7462,12 +7702,13 @@
    },
    {
     "key": "C",
-    "text": "ACT#2, ACT Fwd., then ACT #1 T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 174"
+    "text": "ACT#2, ACT Fwd., then ACT #1"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 174",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7493,12 +7734,13 @@
    },
    {
     "key": "C",
-    "text": "FLSCU#1 and FLSCU #2 and 2-channel FQIC. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 108"
+    "text": "FLSCU#1 and FLSCU #2 and 2-channel FQIC."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 108",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7524,12 +7766,13 @@
    },
    {
     "key": "C",
-    "text": "No fire extinguisher required during fuel operations. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 218"
+    "text": "No fire extinguisher required during fuel operations."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 218",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7561,6 +7804,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 28-Fuel System Component Location-Refuel/Defuel Coupling & Refuel Valve-Page",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7592,6 +7836,7 @@
   "correctAnswer": "C",
   "ref": "AMM 28-25-00-00 CONF 00 - REFUEL/DEFUEL SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7617,12 +7862,13 @@
    },
    {
     "key": "C",
-    "text": "ECAM -SD FUEL page and Fuel on Board (FOB) duplicated on the ECAM-EWD. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 108"
+    "text": "ECAM -SD FUEL page and Fuel on Board (FOB) duplicated on the ECAM-EWD."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 108",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7648,12 +7894,13 @@
    },
    {
     "key": "C",
-    "text": "The mode selector can be either Auto or Manual. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 58"
+    "text": "The mode selector can be either Auto or Manual."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 58",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7685,6 +7932,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 28-15-00-00 CONF00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7716,6 +7964,7 @@
   "correctAnswer": "C",
   "ref": "Ref AMM 28-15-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7747,6 +7996,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 28-24-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7778,6 +8028,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 28-24-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7809,6 +8060,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 28-24-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7834,12 +8086,13 @@
    },
    {
     "key": "C",
-    "text": "Right or Left side as per the flight phases. T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 82"
+    "text": "Right or Left side as per the flight phases."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 28 - FUEL (Metric Units) PAGE 82",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7871,6 +8124,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7902,6 +8156,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7933,6 +8188,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7964,6 +8220,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7995,6 +8252,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8026,6 +8284,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8057,6 +8316,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-00-00-00 CONF 00 - HYDRAULIC POWER - DESCRIPTION AND OPERATION -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8088,6 +8348,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-20-00-00 CONF 00 - AUXILIARY HYDRAULIC POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8119,6 +8380,7 @@
   "correctAnswer": "A",
   "ref": "AMM 29-10-00-00 CONF 00 - MAIN HYDRAULIC POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8144,12 +8406,13 @@
    },
    {
     "key": "C",
-    "text": "The Electrical pump (E-Pump) as normal source and RAT as an auxiliary source. T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 02"
+    "text": "The Electrical pump (E-Pump) as normal source and RAT as an auxiliary source."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8175,12 +8438,13 @@
    },
    {
     "key": "C",
-    "text": "Manual only in cruise flight. T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 02"
+    "text": "Manual only in cruise flight."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8212,6 +8476,7 @@
   "correctAnswer": "B",
   "ref": "AMM 29-16-00-00 CONF 00 - HYDRAULIC RESERVOIR FILLING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8243,6 +8508,7 @@
   "correctAnswer": "B",
   "ref": "AMM 29-16-00-00 CONF 00 - HYDRAULIC RESERVOIR FILLING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8274,6 +8540,7 @@
   "correctAnswer": "C",
   "ref": "AMM TASK 29-14-00-614-001-A-Depressurization of the Hydraulic Reservoirs",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8305,6 +8572,7 @@
   "correctAnswer": "A",
   "ref": "AMM 29-11-00-00 CONF 00 - GREEN MAIN HYDRAULIC POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8336,6 +8604,7 @@
   "correctAnswer": "A",
   "ref": "AMM 32-44-00-00 CONF 02 - ALTERNATE BRAKING WITHOUT ANTI SKID -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8361,12 +8630,13 @@
    },
    {
     "key": "C",
-    "text": "The RAT safety tool must be installed. T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 98"
+    "text": "The RAT safety tool must be installed."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 98",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8398,6 +8668,7 @@
   "correctAnswer": "B",
   "ref": "AMM 29-14-00-00 CONF 00 - HYDRAULIC RESERVOIR PRESSURIZING SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8429,6 +8700,7 @@
   "correctAnswer": "A",
   "ref": "AMM 29-11-00-00 CONF 00 - GREEN MAIN HYDRAULIC POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8460,6 +8732,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-12-00-00 CONF 00 - BLUE MAIN HYDRAULIC POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8485,12 +8758,13 @@
    },
    {
     "key": "C",
-    "text": "The current transformers and phase unbalance detectors used together to monitor the operation of the E-pump. T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 34"
+    "text": "The current transformers and phase unbalance detectors used together to monitor the operation of the E-pump."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 34",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8522,6 +8796,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-00-00-00 CONF 00 - HYDRAULIC POWER - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8553,6 +8828,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-19-00-00 CONF 00 - GROUND INTERNAL LEAK TEST SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8578,12 +8854,13 @@
    },
    {
     "key": "C",
-    "text": "Make sure that all available hydraulic pressure is sent to PTU if pressure in the system reduced T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 36"
+    "text": "Make sure that all available hydraulic pressure is sent to PTU if pressure in the system reduced"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 36",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8609,12 +8886,13 @@
    },
    {
     "key": "C",
-    "text": "Prevent PTU operation. T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 42"
+    "text": "Prevent PTU operation."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 29 - HYDRAULIC POWER PAGE 42",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8646,6 +8924,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-23-00-00 CONF 00 - POWER TRANSFER - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8677,6 +8956,7 @@
   "correctAnswer": "B",
   "ref": "AMM 29-14-00-00 CONF 00 - HYDRAULIC RESERVOIR PRESSURIZING SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8708,6 +8988,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-17-00-00 CONF 00 - SEAL DRAIN SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8739,6 +9020,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8770,6 +9052,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-14-00-00 CONF 00 - HYDRAULIC RESERVOIR PRESSURIZING SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8801,6 +9084,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8832,6 +9116,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8863,6 +9148,7 @@
   "correctAnswer": "A",
   "ref": "AMM 29-17-00-00 CONF 00 - SEAL DRAIN SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8894,6 +9180,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-22-00-05 CONF 00 - BLUE AUXILIARY HYDRAULIC POWER -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8925,6 +9212,7 @@
   "correctAnswer": "C",
   "ref": "AMM 29-22-00-05 CONF 00 - BLUE AUXILIARY HYDRAULIC POWER -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8956,6 +9244,7 @@
   "correctAnswer": "B",
   "ref": "AMM TASK 29-17-00-680-001-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8981,12 +9270,13 @@
    },
    {
     "key": "C",
-    "text": "Two LH wing, RH wing P/BSW in overhead ELECT panel. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02"
+    "text": "Two LH wing, RH wing P/BSW in overhead ELECT panel."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9012,12 +9302,13 @@
    },
    {
     "key": "C",
-    "text": "APU bleed. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02"
+    "text": "APU bleed."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9043,12 +9334,13 @@
    },
    {
     "key": "C",
-    "text": "Flight or Ground with the engine running. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02"
+    "text": "Flight or Ground with the engine running."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9074,12 +9366,13 @@
    },
    {
     "key": "C",
-    "text": "Manually before the engine starts. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02"
+    "text": "Manually before the engine starts."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9105,12 +9398,13 @@
    },
    {
     "key": "C",
-    "text": "At least one engine is running. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 30"
+    "text": "At least one engine is running."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 30",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9136,12 +9430,13 @@
    },
    {
     "key": "C",
-    "text": "Main wheel well area. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 04"
+    "text": "Main wheel well area."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9167,12 +9462,13 @@
    },
    {
     "key": "C",
-    "text": "Electrically controlled and pneumatically operated. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02"
+    "text": "Electrically controlled and pneumatically operated."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9198,12 +9494,13 @@
    },
    {
     "key": "C",
-    "text": "Open partially. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 10"
+    "text": "Open partially."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 10",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9229,12 +9526,13 @@
    },
    {
     "key": "C",
-    "text": "Static, Pitot, TAT, and AOA probes. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 66"
+    "text": "Static, Pitot, TAT, and AOA probes."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 66",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9260,12 +9558,13 @@
    },
    {
     "key": "C",
-    "text": "The CAPT, F/O and STBY systems are independent. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18"
+    "text": "The CAPT, F/O and STBY systems are independent."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9291,12 +9590,13 @@
    },
    {
     "key": "C",
-    "text": "FMGC 1 and 2. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18"
+    "text": "FMGC 1 and 2."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9322,12 +9622,13 @@
    },
    {
     "key": "C",
-    "text": "At least one engine is running. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18"
+    "text": "At least one engine is running."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9353,12 +9654,13 @@
    },
    {
     "key": "C",
-    "text": "ECAM via related ADIRU and FWC, also fault messages to CFDIU T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18"
+    "text": "ECAM via related ADIRU and FWC, also fault messages to CFDIU"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9384,12 +9686,13 @@
    },
    {
     "key": "C",
-    "text": "Unwanted heating on ALL the probes and Static ports always follows AMM instruction. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 30"
+    "text": "Unwanted heating on ALL the probes and Static ports always follows AMM instruction."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 30",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9415,12 +9718,13 @@
    },
    {
     "key": "C",
-    "text": "LGCIU 1 and LGCIU 2 C/Bs and System is ON (Flight mode) T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18"
+    "text": "LGCIU 1 and LGCIU 2 C/Bs and System is ON (Flight mode)"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9452,6 +9756,7 @@
   "correctAnswer": "C",
   "ref": "AMM 30-42-00-00 CONF 00 - WINDSHIELD ANTI-ICING AND DEFOGGING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9477,12 +9782,13 @@
    },
    {
     "key": "C",
-    "text": "ECAM via SDAC and fault message to CFDIU. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 30"
+    "text": "ECAM via SDAC and fault message to CFDIU."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 30",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9508,12 +9814,13 @@
    },
    {
     "key": "C",
-    "text": "No electrical power supplied. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 30"
+    "text": "No electrical power supplied."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 30",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9539,12 +9846,13 @@
    },
    {
     "key": "C",
-    "text": "Used with APU running. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 40"
+    "text": "Used with APU running."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 40",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9570,12 +9878,13 @@
    },
    {
     "key": "C",
-    "text": "CIDS, FAP, CU and CFDIU for storage of fault data. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 46"
+    "text": "CIDS, FAP, CU and CFDIU for storage of fault data."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 46",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9601,12 +9910,13 @@
    },
    {
     "key": "C",
-    "text": "Pressure regulate valve T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 14"
+    "text": "Pressure regulate valve"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9638,6 +9948,7 @@
   "correctAnswer": "A",
   "ref": "AMM 30-21-00-00 CONF 00 - ENGINE AIR INTAKE ICE PROTECTION - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9663,12 +9974,13 @@
    },
    {
     "key": "C",
-    "text": "Discharged to overboard. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 14"
+    "text": "Discharged to overboard."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9694,12 +10006,13 @@
    },
    {
     "key": "C",
-    "text": "At 57°C. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 46"
+    "text": "At 57°C."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 46",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9725,12 +10038,13 @@
    },
    {
     "key": "C",
-    "text": "Water/Waste ground service panels. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 46"
+    "text": "Water/Waste ground service panels."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 46",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9756,12 +10070,13 @@
    },
    {
     "key": "C",
-    "text": "In flight and TAT less than 8°C T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58"
+    "text": "In flight and TAT less than 8°C"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9787,12 +10102,13 @@
    },
    {
     "key": "C",
-    "text": "On the MCDU as class 3 message. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58"
+    "text": "On the MCDU as class 3 message."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9818,12 +10134,13 @@
    },
    {
     "key": "C",
-    "text": "There is ice on the front windshield. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58"
+    "text": "There is ice on the front windshield."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9849,12 +10166,13 @@
    },
    {
     "key": "C",
-    "text": "Wing anti ice is necessary only. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58"
+    "text": "Wing anti ice is necessary only."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9880,12 +10198,13 @@
    },
    {
     "key": "C",
-    "text": "Both detectors are faulty T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58"
+    "text": "Both detectors are faulty"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 58",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9911,12 +10230,13 @@
    },
    {
     "key": "C",
-    "text": "Operate the wipers with a rain repellent system. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 44"
+    "text": "Operate the wipers with a rain repellent system."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 44",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9942,12 +10262,13 @@
    },
    {
     "key": "C",
-    "text": "Central retainer of the windshield. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 56"
+    "text": "Central retainer of the windshield."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 56",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9973,12 +10294,13 @@
    },
    {
     "key": "C",
-    "text": "Titanium parts. T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 56"
+    "text": "Titanium parts."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 56",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10004,12 +10326,13 @@
    },
    {
     "key": "C",
-    "text": "5V AC T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 56"
+    "text": "5V AC"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 30 - ICE & RAIN PROTECTION PAGE 56",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10041,6 +10364,7 @@
   "correctAnswer": "A",
   "ref": "AMM 31-00-00-00 CONF 00 - INDICATING/RECORDING SYSTEMS - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10072,6 +10396,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-00-00-00 CONF 00 - INDICATING/RECORDING SYSTEMS - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10103,6 +10428,7 @@
   "correctAnswer": "C",
   "ref": "AMM 31-50-00-00 CONF 00 - CENTRAL WARNING SYSTEMS - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10134,6 +10460,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-66-00-00 CONF 00 - ECAM ENGINE/WARNING DISPLAY - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10165,6 +10492,7 @@
   "correctAnswer": "A",
   "ref": "AMM 31-67-00-00 CONF 00 - ECAM SYSTEM/STATUS DISPLAY - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10196,6 +10524,7 @@
   "correctAnswer": "A",
   "ref": "AMM 31-63-00-00 CONF 01 - DISPLAY MANAGEMENT COMPUTER (DMC) / LIQUID",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10227,6 +10556,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-21-00-00 CONF 00 - ELECTRICAL CLOCK - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10258,6 +10588,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-32-00-00 CONF 00 - CENTRALIZED FAULT DISPLAY INTERFACE UNIT",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10289,6 +10620,7 @@
   "correctAnswer": "C",
   "ref": "AMM 31-32-00-00 CONF 00 - CENTRALIZED FAULT DISPLAY INTERFACE UNIT",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10320,6 +10652,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-35-00-00 CONF 00 - MULTIFUNCTION PRINTING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10351,6 +10684,7 @@
   "correctAnswer": "A",
   "ref": "AMM 31-35-00-00 CONF 00 - MULTIFUNCTION PRINTING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10382,6 +10716,7 @@
   "correctAnswer": "A",
   "ref": "AMM 31-67-00-00 CONF 00 - ECAM SYSTEM/STATUS DISPLAY - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10413,6 +10748,7 @@
   "correctAnswer": "A",
   "ref": "AMM 31-67-00-00 CONF 00 - ECAM SYSTEM/STATUS DISPLAY - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10444,6 +10780,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-50-00-00 CONF 00 - CENTRAL WARNING SYSTEMS - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10475,6 +10812,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-50-00-00 CONF 00 - CENTRAL WARNING SYSTEMS - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10506,6 +10844,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-61-00-00 CONF 00 - EIS - CONTROL - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10537,6 +10876,7 @@
   "correctAnswer": "C",
   "ref": "AMM 31-35-00-00 CONF 00 - MULTIFUNCTION PRINTING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10568,6 +10908,7 @@
   "correctAnswer": "B",
   "ref": "AMM 31-33-00-00 CONF 00 - DIGITAL FLIGHT DATA RECORDING SYSTEM (DFDRS) -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10599,6 +10940,7 @@
   "correctAnswer": "A",
   "ref": "AMM 31-36-00-00 CONF 02 - AIDS INTERCONNECTION (DMU, DAR) - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10630,6 +10972,7 @@
   "correctAnswer": "A",
   "ref": "AMM 31-35-00-00 CONF 00 - MULTIFUNCTION PRINTING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10661,6 +11004,7 @@
   "correctAnswer": "C",
   "ref": "AMM 32-45-00-00 CONF 02 - PARKING/ULTIMATE EMERGENCY BRAKING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10686,12 +11030,13 @@
    },
    {
     "key": "C",
-    "text": "Aircraft speed data from ADIRU T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 04"
+    "text": "Aircraft speed data from ADIRU"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10723,6 +11068,7 @@
   "correctAnswer": "C",
   "ref": "AMM 32-45-00-00 CONF 02 - PARKING/ULTIMATE EMERGENCY BRAKING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10748,12 +11094,13 @@
    },
    {
     "key": "C",
-    "text": "+/- 50 degrees T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 138"
+    "text": "+/- 50 degrees"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 138",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10779,12 +11126,13 @@
    },
    {
     "key": "C",
-    "text": "+/- 35 degrees using Hand wheels T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 06"
+    "text": "+/- 35 degrees using Hand wheels"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 06",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10816,6 +11164,7 @@
   "correctAnswer": "B",
   "ref": "Ref:32-Ldg System Line Maintenance-Servicing-Spare Seal Activating Valve Page 2b/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10847,6 +11196,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 32-00-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10878,6 +11228,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 32-00-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10909,6 +11260,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 32-43-00-00 CONF 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10940,6 +11292,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 32-43-00-00 CONF 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10971,6 +11324,7 @@
   "correctAnswer": "A",
   "ref": "Ref AMM 32-43-00-00 CONF 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11002,6 +11356,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 32-43-00-00 CONF 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11027,12 +11382,13 @@
    },
    {
     "key": "C",
-    "text": "Electronic sensor called Tire Pressure Indicating System (TPIS) on Nose wheel. T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 08"
+    "text": "Electronic sensor called Tire Pressure Indicating System (TPIS) on Nose wheel."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 08",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11058,12 +11414,13 @@
    },
    {
     "key": "C",
-    "text": "LDG Door position/Gear Position/Brake Temperature/Tire Pressure Indications. T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 70"
+    "text": "LDG Door position/Gear Position/Brake Temperature/Tire Pressure Indications."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 70",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11095,6 +11452,7 @@
   "correctAnswer": "C",
   "ref": "AMM 32-12-00-00 CONF 00 - MAIN GEAR DOORS - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11126,6 +11484,7 @@
   "correctAnswer": "A",
   "ref": "AMM 32-11-00-00 CONF 00 - MAIN GEAR - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11151,12 +11510,13 @@
    },
    {
     "key": "C",
-    "text": "L/G control lever T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 64"
+    "text": "L/G control lever"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 64",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11188,6 +11548,7 @@
   "correctAnswer": "A",
   "ref": "AMM 32-42-00-00 CONF 02 - NORMAL BRAKING - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11219,6 +11580,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11250,6 +11612,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11275,12 +11638,13 @@
    },
    {
     "key": "C",
-    "text": "System 1 has priority and System 2 is in standby. T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 96"
+    "text": "System 1 has priority and System 2 is in standby."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 96",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11312,6 +11676,7 @@
   "correctAnswer": "A",
   "ref": "AMM 32-40-00-00 CONF 02 - WHEELS AND BRAKES - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11343,6 +11708,7 @@
   "correctAnswer": "A",
   "ref": "AMM 32-43-00-00 CONF 02 - ALTERNATE BRAKING WITH ANTI SKID - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11368,12 +11734,13 @@
    },
    {
     "key": "C",
-    "text": "Let the ABCU brake the A/C during taxing operation T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 97"
+    "text": "Let the ABCU brake the A/C during taxing operation"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 97",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11405,6 +11772,7 @@
   "correctAnswer": "A",
   "ref": "AMM 32-45-00-00 CONF 02 - PARKING/ULTIMATE EMERGENCY BRAKING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11430,12 +11798,13 @@
    },
    {
     "key": "C",
-    "text": "The Yellow Hydraulic pressure is shut closed T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 104"
+    "text": "The Yellow Hydraulic pressure is shut closed"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 104",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11461,12 +11830,13 @@
    },
    {
     "key": "C",
-    "text": "The BTMU sends the voltages to BSCU. T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 108"
+    "text": "The BTMU sends the voltages to BSCU."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 108",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11498,6 +11868,7 @@
   "correctAnswer": "B",
   "ref": "AMM 32-48-00-00 CONF 00 - BRAKE COOLING - DESCRIPTION AND OPERATION-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11529,6 +11900,7 @@
   "correctAnswer": "A",
   "ref": "AMM 32-51-00-00 CONF 00 - STEERING - DESCRIPTION AND OPERATION-Component",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11560,6 +11932,7 @@
   "correctAnswer": "B",
   "ref": "AMM 32-51-00-00 CONF 00 - STEERING - DESCRIPTION AND OPERATION-Component",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11591,6 +11964,7 @@
   "correctAnswer": "B",
   "ref": "AMM 32-51-00-00 CONF 00 - STEERING - DESCRIPTION AND OPERATION-Component",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11622,6 +11996,7 @@
   "correctAnswer": "C",
   "ref": "AMM 32-51-00-00 CONF 00 - STEERING - DESCRIPTION AND OPERATION-Component",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11647,12 +12022,13 @@
    },
    {
     "key": "C",
-    "text": "This is to meet the safety requirements of CAT-I landings. T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 122"
+    "text": "This is to meet the safety requirements of CAT-I landings."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 122",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11678,12 +12054,13 @@
    },
    {
     "key": "C",
-    "text": "Four, two power supply selection modules and two main functional modules. T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 124"
+    "text": "Four, two power supply selection modules and two main functional modules."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 124",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11709,12 +12086,13 @@
    },
    {
     "key": "C",
-    "text": "DC Essential power supply and DC Battery bus (HOT BUS) T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 124"
+    "text": "DC Essential power supply and DC Battery bus (HOT BUS)"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 32 - LANDING GEAR PAGE 124",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11746,6 +12124,7 @@
   "correctAnswer": "B",
   "ref": "AMM TASK 33-51-00-710-812-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11771,12 +12150,13 @@
    },
    {
     "key": "C",
-    "text": "CAM/OBRM and PRAM. T1+T2 (CFM 56) (Lvl 2&3) 23 – COMMUNICATIONS PAGE 60"
+    "text": "CAM/OBRM and PRAM."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 23 – COMMUNICATIONS PAGE 60",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11808,6 +12188,7 @@
   "correctAnswer": "A",
   "ref": "AMM 23-73-00-00 CONF 00 - CABIN INTERCOMMUNICATION DATA SYSTEM (CIDS) -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11839,6 +12220,7 @@
   "correctAnswer": "C",
   "ref": "AMM TASK 33-48-11-000-003-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11870,6 +12252,7 @@
   "correctAnswer": "C",
   "ref": "33-35-00-00 CONF 00 - AVIONICS COMPARTMENT LIGHTING DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11901,6 +12284,7 @@
   "correctAnswer": "A",
   "ref": "AMM TASK 33-14-00-710-001-A Operational Check of the Light Test System",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11932,6 +12316,7 @@
   "correctAnswer": "B",
   "ref": "AMM 33-14-00-00 CONF 00 - ANNUNCIATOR LIGHT TEST AND DIMMING -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11957,12 +12342,13 @@
    },
    {
     "key": "C",
-    "text": "BRT 100%, DIM 1 50% and DIM 2 10% T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14"
+    "text": "BRT 100%, DIM 1 50% and DIM 2 10%"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11988,12 +12374,13 @@
    },
    {
     "key": "C",
-    "text": "100%,50%,25% T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14"
+    "text": "100%,50%,25%"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12025,6 +12412,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12050,12 +12438,13 @@
    },
    {
     "key": "C",
-    "text": "Replace Pax Service Unit. T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14"
+    "text": "Replace Pax Service Unit."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12081,12 +12470,13 @@
    },
    {
     "key": "C",
-    "text": "The entrance lighting comes on automatically to 100% BRT level. T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14"
+    "text": "The entrance lighting comes on automatically to 100% BRT level."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12112,12 +12502,13 @@
    },
    {
     "key": "C",
-    "text": "PISA, DEU A and CIDS DIR T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14"
+    "text": "PISA, DEU A and CIDS DIR"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12143,12 +12534,13 @@
    },
    {
     "key": "C",
-    "text": "Three or more LED's have Failed. T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14"
+    "text": "Three or more LED's have Failed."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12174,12 +12566,13 @@
    },
    {
     "key": "C",
-    "text": "Red and Green on the wing tips and Yellow on tail cone. T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 20"
+    "text": "Red and Green on the wing tips and Yellow on tail cone."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 33 – LIGHTS PAGE 20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12205,12 +12598,13 @@
    },
    {
     "key": "C",
-    "text": "Only Pitot and Static are the part of ADR T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 21"
+    "text": "Only Pitot and Static are the part of ADR"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 21",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12236,12 +12630,13 @@
    },
    {
     "key": "C",
-    "text": "By ADIRS individual MCDUs installed in center pedestal. T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 32"
+    "text": "By ADIRS individual MCDUs installed in center pedestal."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 32",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12273,6 +12668,7 @@
   "correctAnswer": "C",
   "ref": "34-11-00-00 CONF 05 - SENSORS, POWER SUPPLY AND SWITCHING - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12304,6 +12700,7 @@
   "correctAnswer": "C",
   "ref": "TASK 34-11-15-710-001-A Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12329,12 +12726,13 @@
    },
    {
     "key": "C",
-    "text": "Six static ports provide Static pressure to three ADMs (Air Data Modules) T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 22"
+    "text": "Six static ports provide Static pressure to three ADMs (Air Data Modules)"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 22",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12360,12 +12758,13 @@
    },
    {
     "key": "C",
-    "text": "BOTH THE VOR having Marker Function T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 212"
+    "text": "BOTH THE VOR having Marker Function"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 212",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12391,12 +12790,13 @@
    },
    {
     "key": "C",
-    "text": "Automatically tested on Ground during power up. T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 212"
+    "text": "Automatically tested on Ground during power up."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION PAGE 212",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12422,12 +12822,13 @@
    },
    {
     "key": "C",
-    "text": "only below 10000ft above AGL T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION"
+    "text": "only below 10000ft above AGL"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 34 – NAVIGATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12453,12 +12854,13 @@
    },
    {
     "key": "C",
-    "text": "Loss of cabin pressurization or smoke or dangerous gases in the cockpit. T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 2"
+    "text": "Loss of cabin pressurization or smoke or dangerous gases in the cockpit."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12490,6 +12892,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 35-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12521,6 +12924,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 35-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12552,6 +12956,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 35-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12583,6 +12988,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 35-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12608,12 +13014,13 @@
    },
    {
     "key": "C",
-    "text": "Two separate oxygen cylinder and quick-donning masks. T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 02"
+    "text": "Two separate oxygen cylinder and quick-donning masks."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12645,6 +13052,7 @@
   "correctAnswer": "A",
   "ref": "35-10-00-00 CONF 00 - CREW OXYGEN - DESCRIPTION AND OPERATION ( NEO A/C)",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12676,6 +13084,7 @@
   "correctAnswer": "B",
   "ref": "AMM 35-20-00-00 CONF 00 - PASSENGER OXYGEN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12701,12 +13110,13 @@
    },
    {
     "key": "C",
-    "text": "5 minutes or 12 minutes T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 02"
+    "text": "5 minutes or 12 minutes"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12738,6 +13148,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12763,12 +13174,13 @@
    },
    {
     "key": "C",
-    "text": "In ECAM-ND page. T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 106"
+    "text": "In ECAM-ND page."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 106",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12794,12 +13206,13 @@
    },
    {
     "key": "C",
-    "text": "The CREW SUPPLY P/B (21VU) on the oxygen panel controls the supply valve. T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 04"
+    "text": "The CREW SUPPLY P/B (21VU) on the oxygen panel controls the supply valve."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12825,12 +13238,13 @@
    },
    {
     "key": "C",
-    "text": "Oxygen is leaking T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 04 Safety Precautions"
+    "text": "Oxygen is leaking"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 04 Safety Precautions",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12862,6 +13276,7 @@
   "correctAnswer": "B",
   "ref": "AMM 35-10-00-00 CONF 00 - CREW OXYGEN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12893,6 +13308,7 @@
   "correctAnswer": "B",
   "ref": "AMM 35-10-00-00 CONF 00 - CREW OXYGEN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12924,6 +13340,7 @@
   "correctAnswer": "A",
   "ref": "AMM 35-10-00-00 CONF 00 - CREW OXYGEN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12955,6 +13372,7 @@
   "correctAnswer": "A",
   "ref": "AMM 35-20-00-00 CONF 00 - PASSENGER OXYGEN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12986,6 +13404,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13017,6 +13436,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13042,12 +13462,13 @@
    },
    {
     "key": "C",
-    "text": "Take a shower immediately. T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 27 Safety Precautions"
+    "text": "Take a shower immediately."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 27 Safety Precautions",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13073,12 +13494,13 @@
    },
    {
     "key": "C",
-    "text": "Refueling and oxygen servicing can be done. T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 40 Safety Precautions"
+    "text": "Refueling and oxygen servicing can be done."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 40 Safety Precautions",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13110,6 +13532,7 @@
   "correctAnswer": "B",
   "ref": "AMM TASK 35-00-00-860-001-A Special Precautions When Working on a Gaseous",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13141,6 +13564,7 @@
   "correctAnswer": "B",
   "ref": "AMM TASK 35-00-00-860-001-A Special Precautions When Working on a Gaseous",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13172,6 +13596,7 @@
   "correctAnswer": "B",
   "ref": "AMM TASK 35-00-00-860-001-A Special Precautions When Working on a Gaseous",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13197,12 +13622,13 @@
    },
    {
     "key": "C",
-    "text": "Dangerous materials. (Dangerous Goods -DG) T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 52 Safety Precautions"
+    "text": "Dangerous materials. (Dangerous Goods -DG)"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 52 Safety Precautions",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13234,6 +13660,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precautions T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 52",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13259,12 +13686,13 @@
    },
    {
     "key": "C",
-    "text": "The APU can power the circuits in case of electrical emergency T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 70"
+    "text": "The APU can power the circuits in case of electrical emergency"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 70",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13296,6 +13724,7 @@
   "correctAnswer": "A",
   "ref": "AMM 35-20-00-00 CONF 00 - PASSENGER OXYGEN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13321,12 +13750,13 @@
    },
    {
     "key": "C",
-    "text": "To indicate the pilots the chemical generators working T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 70"
+    "text": "To indicate the pilots the chemical generators working"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 70",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13352,12 +13782,13 @@
    },
    {
     "key": "C",
-    "text": "A failure is detected in the Chemical generator. T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 84"
+    "text": "A failure is detected in the Chemical generator."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 84",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13383,12 +13814,13 @@
    },
    {
     "key": "C",
-    "text": "Electrical system OVHD panel T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 84"
+    "text": "Electrical system OVHD panel"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 35 – OXYGEN PAGE 84",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13420,6 +13852,7 @@
   "correctAnswer": "A",
   "ref": "AMM 35-21-00-00 CONF 00 - OXYGEN STORAGE - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13451,6 +13884,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13482,6 +13916,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13513,6 +13948,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13544,6 +13980,7 @@
   "correctAnswer": "C",
   "ref": "AMM 35-32-00-00 CONF 00 - CABIN ATTENDANTS PORTABLE DEVICES -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13575,6 +14012,7 @@
   "correctAnswer": "A",
   "ref": "AMM 35-10-00-00 CONF 00 - CREW OXYGEN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13606,6 +14044,7 @@
   "correctAnswer": "A",
   "ref": "AMM 35-30-00-00 CONF 00 - PORTABLE OXYGEN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13637,6 +14076,7 @@
   "correctAnswer": "A",
   "ref": "AMM TASK 35-00-00-860-001-A Special Precautions When Working on a Gaseous",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13662,12 +14102,13 @@
    },
    {
     "key": "C",
-    "text": "Engine High Pressure Valve (HPV), Bleed Valve (PRV) and Over Pressure Valve (OPV) T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 02"
+    "text": "Engine High Pressure Valve (HPV), Bleed Valve (PRV) and Over Pressure Valve (OPV)"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13699,6 +14140,7 @@
   "correctAnswer": "B",
   "ref": "AMM 36-11-00-00 CONF 00 - ENGINE-BLEED-AIR SUPPLY SYSTEM - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13730,6 +14172,7 @@
   "correctAnswer": "C",
   "ref": "AMM 36-12-00-00 CONF 00 - APU BLEED AIR SUPPLY AND CROSSBLEED SYSTEMS -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13755,12 +14198,13 @@
    },
    {
     "key": "C",
-    "text": "It is available to indicate aircraft in flight or ground. T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 52"
+    "text": "It is available to indicate aircraft in flight or ground."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 52",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13792,6 +14236,7 @@
   "correctAnswer": "B",
   "ref": "AMM 36-13-00-00 CONF 00 - GROUND COMPRESSED AIR SUPPLY SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13817,12 +14262,13 @@
    },
    {
     "key": "C",
-    "text": "A spring loaded and air pressure-controlled valve. T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 14"
+    "text": "A spring loaded and air pressure-controlled valve."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13848,12 +14294,13 @@
    },
    {
     "key": "C",
-    "text": "Wings,Packs and Mid -fuselage APU ducts T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 36"
+    "text": "Wings,Packs and Mid -fuselage APU ducts"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 36",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13879,12 +14326,13 @@
    },
    {
     "key": "C",
-    "text": "Bleed Monitoring Computers (BMC) 1 and 2. T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 38"
+    "text": "Bleed Monitoring Computers (BMC) 1 and 2."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 38",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13916,6 +14364,7 @@
   "correctAnswer": "A",
   "ref": "AMM 36-11-00-00 CONF 00 - ENGINE-BLEED-AIR SUPPLY SYSTEM - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13947,6 +14396,7 @@
   "correctAnswer": "A",
   "ref": "AMM 36-11-00-00 CONF 00 - ENGINE-BLEED-AIR SUPPLY SYSTEM - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -13978,6 +14428,7 @@
   "correctAnswer": "A",
   "ref": "AMM 36-11-00-00 CONF 00 - ENGINE-BLEED-AIR SUPPLY SYSTEM - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14009,6 +14460,7 @@
   "correctAnswer": "B",
   "ref": "TASK 36-13-00-615-801-A01 Decontamination of the Bleed-Air Ducting System",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14034,12 +14486,13 @@
    },
    {
     "key": "C",
-    "text": "Two independent electrical motors. T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 18"
+    "text": "Two independent electrical motors."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14065,12 +14518,13 @@
    },
    {
     "key": "C",
-    "text": "BMC 2 ensures its wing leak detection. T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 34"
+    "text": "BMC 2 ensures its wing leak detection."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 34",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14102,6 +14556,7 @@
   "correctAnswer": "A",
   "ref": "AMM 36-11-00-00 CONF 00 - ENGINE-BLEED-AIR SUPPLY SYSTEM - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14127,12 +14582,13 @@
    },
    {
     "key": "C",
-    "text": "BMC 1 is faulty T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 46"
+    "text": "BMC 1 is faulty"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 46",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14164,6 +14620,7 @@
   "correctAnswer": "B",
   "ref": "AMM 36-11-00-00 CONF 00 - ENGINE-BLEED-AIR SUPPLY SYSTEM - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14195,6 +14652,7 @@
   "correctAnswer": "C",
   "ref": "AMM 36-13-00-00 CONF 00 - GROUND COMPRESSED AIR SUPPLY SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14226,6 +14684,7 @@
   "correctAnswer": "B",
   "ref": "AMM 36-22-00-00 CONF 00 - LEAK DETECTION - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14251,12 +14710,13 @@
    },
    {
     "key": "C",
-    "text": "BMC 2 fault. T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 42"
+    "text": "BMC 2 fault."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 42",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14288,6 +14748,7 @@
   "correctAnswer": "C",
   "ref": "AMM 36-12-00-00 CONF 00 - APU BLEED AIR SUPPLY AND CROSSBLEED SYSTEMS -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14313,12 +14774,13 @@
    },
    {
     "key": "C",
-    "text": "Prevent reverse air flow through IP valve. T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 14"
+    "text": "Prevent reverse air flow through IP valve."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14350,6 +14812,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precaution T1+T2 (CFM 56) (Lvl 2&3) 36 – PNEUMATIC PAGE 52",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14381,6 +14844,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14412,6 +14876,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14443,6 +14908,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14474,6 +14940,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14505,6 +14972,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14536,6 +15004,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14561,12 +15030,13 @@
    },
    {
     "key": "C",
-    "text": "Engine bleed air is used in flight. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 12"
+    "text": "Engine bleed air is used in flight."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14598,6 +15068,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14623,12 +15094,13 @@
    },
    {
     "key": "C",
-    "text": "All the lines routed through side walls. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 22"
+    "text": "All the lines routed through side walls."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 22",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14654,12 +15126,13 @@
    },
    {
     "key": "C",
-    "text": "Bleed air is used to heat the lines. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 22"
+    "text": "Bleed air is used to heat the lines."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 22",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14691,6 +15164,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14716,12 +15190,13 @@
    },
    {
     "key": "C",
-    "text": "Must use the FAP only for filling operation. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 22"
+    "text": "Must use the FAP only for filling operation."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 22",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14747,12 +15222,13 @@
    },
    {
     "key": "C",
-    "text": "All the service panel lights blink. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 48"
+    "text": "All the service panel lights blink."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 48",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14778,12 +15254,13 @@
    },
    {
     "key": "C",
-    "text": "The system is electrically powered, and FAP water indication page is automatically called. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 48"
+    "text": "The system is electrically powered, and FAP water indication page is automatically called."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 48",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14815,6 +15292,7 @@
   "correctAnswer": "C",
   "ref": "AMM 38-13-00-00 CONF 00 - QUANTITY INDICATING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14840,12 +15318,13 @@
    },
    {
     "key": "C",
-    "text": "Aircraft must be parked inside the hangar. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 98"
+    "text": "Aircraft must be parked inside the hangar."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 98",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14877,6 +15356,7 @@
   "correctAnswer": "B",
   "ref": "AMM TASK 12-31-38-660-001-A Cold Weather Maintenance - Water/Waste",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14908,6 +15388,7 @@
   "correctAnswer": "C",
   "ref": "AMM 38-31-00-00 CONF 00 - TOILET SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14939,6 +15420,7 @@
   "correctAnswer": "C",
   "ref": "TASK 12-31-38-660-001-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14964,12 +15446,13 @@
    },
    {
     "key": "C",
-    "text": "The toilet door is locked. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 108"
+    "text": "The toilet door is locked."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 108",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -14995,12 +15478,13 @@
    },
    {
     "key": "C",
-    "text": "Is controlled by the Vacuum System Controller. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 14"
+    "text": "Is controlled by the Vacuum System Controller."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15026,12 +15510,13 @@
    },
    {
     "key": "C",
-    "text": "Cold/Hot water, heater installed under the wash basin in each unit can supply hot water In Flight or On GND. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 02"
+    "text": "Cold/Hot water, heater installed under the wash basin in each unit can supply hot water In Flight or On GND."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15063,6 +15548,7 @@
   "correctAnswer": "A",
   "ref": "AMM 38-40-00-00 CONF 00 - AIR SUPPLY - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15088,12 +15574,13 @@
    },
    {
     "key": "C",
-    "text": "FAP T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 14"
+    "text": "FAP"
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15119,12 +15606,13 @@
    },
    {
     "key": "C",
-    "text": "Drain mast always heated in ground or in flight. T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 72"
+    "text": "Drain mast always heated in ground or in flight."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 38 - WATER & WASTE PAGE 72",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15156,6 +15644,7 @@
   "correctAnswer": "C",
   "ref": "AMM 46-00-00-00 CONF 00 - INFORMATION SYSTEMS - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15187,6 +15676,7 @@
   "correctAnswer": "B",
   "ref": "AMM ATA 46",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15212,12 +15702,13 @@
    },
    {
     "key": "C",
-    "text": "Scan masks validation is activated. T1+T2 (CFM 56) (Lvl 2&3) 46 - INFORMATION SYSTEMS PAGE 18"
+    "text": "Scan masks validation is activated."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 46 - INFORMATION SYSTEMS PAGE 18",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15243,12 +15734,13 @@
    },
    {
     "key": "C",
-    "text": "ATSU is standby on ground. T1+T2 (CFM 56) (Lvl 2&3) 46 - INFORMATION SYSTEMS PAGE 06"
+    "text": "ATSU is standby on ground."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 46 - INFORMATION SYSTEMS PAGE 06",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15274,12 +15766,13 @@
    },
    {
     "key": "C",
-    "text": "TEST/STATISTICS and AUDIT functions. T1+T2 (CFM 56) (Lvl 2&3) 46 - INFORMATION SYSTEMS PAGE 12"
+    "text": "TEST/STATISTICS and AUDIT functions."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 46 - INFORMATION SYSTEMS PAGE 12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15305,12 +15798,13 @@
    },
    {
     "key": "C",
-    "text": "Both CSAS and IGGS. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 02"
+    "text": "Both CSAS and IGGS."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15342,6 +15836,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 47-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15373,6 +15868,7 @@
   "correctAnswer": "B",
   "ref": "Ref AMM 47-00-00 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15398,12 +15894,13 @@
    },
    {
     "key": "C",
-    "text": "FWS and Centralized Fault Display System (CFDS) T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 03"
+    "text": "FWS and Centralized Fault Display System (CFDS)"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 03",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15429,12 +15926,13 @@
    },
    {
     "key": "C",
-    "text": "Separates the Oxygen from the conditioned air stream and regulates the Nitrogen Enriched Air (NEA) flow to the center fuel tank T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 10"
+    "text": "Separates the Oxygen from the conditioned air stream and regulates the Nitrogen Enriched Air (NEA) flow to the center fuel tank"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 10",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15460,12 +15958,13 @@
    },
    {
     "key": "C",
-    "text": "From the OEA and is discharged overboard to atmosphere. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 10"
+    "text": "From the OEA and is discharged overboard to atmosphere."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 10",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15497,6 +15996,7 @@
   "correctAnswer": "B",
   "ref": "AMM 47-00-00-00 CONF 00 - INERT GAS SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15522,12 +16022,13 @@
    },
    {
     "key": "C",
-    "text": "Automatically in Flight but on Ground preforms self-monitoring when energized T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 02"
+    "text": "Automatically in Flight but on Ground preforms self-monitoring when energized"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15553,12 +16054,13 @@
    },
    {
     "key": "C",
-    "text": "AFT Cargo compartment. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 08"
+    "text": "AFT Cargo compartment."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 08",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15584,12 +16086,13 @@
    },
    {
     "key": "C",
-    "text": "Follow the AMM safety procedures, if not may cause serious injury or Death. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 12"
+    "text": "Follow the AMM safety procedures, if not may cause serious injury or Death."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15615,12 +16118,13 @@
    },
    {
     "key": "C",
-    "text": "FTIS can stay inoperative for 10 days. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 08"
+    "text": "FTIS can stay inoperative for 10 days."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 08",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15646,12 +16150,13 @@
    },
    {
     "key": "C",
-    "text": "Low pressure, Over Pressure or Over temperature. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 04"
+    "text": "Low pressure, Over Pressure or Over temperature."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15677,12 +16182,13 @@
    },
    {
     "key": "C",
-    "text": "Increase the outside air temperature. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 04"
+    "text": "Increase the outside air temperature."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15714,6 +16220,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15739,12 +16246,13 @@
    },
    {
     "key": "C",
-    "text": "Send the information to BMC. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 04"
+    "text": "Send the information to BMC."
    }
   ],
   "correctAnswer": "B",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15770,12 +16278,13 @@
    },
    {
     "key": "C",
-    "text": "Right hand side of the aft cargo belly fairing. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 06"
+    "text": "Right hand side of the aft cargo belly fairing."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 06",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15801,12 +16310,13 @@
    },
    {
     "key": "C",
-    "text": "Minimum bleed pressure during level flight. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 08"
+    "text": "Minimum bleed pressure during level flight."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 08",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15838,6 +16348,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15869,6 +16380,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15900,6 +16412,7 @@
   "correctAnswer": "C",
   "ref": "AMM 47-00-00-00 CONF 00 - INERT GAS SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15931,6 +16444,7 @@
   "correctAnswer": "A",
   "ref": "AMM 47-00-00-00 CONF 00 - INERT GAS SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15962,6 +16476,7 @@
   "correctAnswer": "B",
   "ref": "AMM 47-00-00-00 CONF 00 - INERT GAS SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -15993,6 +16508,7 @@
   "correctAnswer": "A",
   "ref": "AMM 47-00-00-00 CONF 00 - INERT GAS SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16018,12 +16534,13 @@
    },
    {
     "key": "C",
-    "text": "OPEN/CLOSE and NEA flow as LOW/MID/HIGH. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 10"
+    "text": "OPEN/CLOSE and NEA flow as LOW/MID/HIGH."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 10",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16055,6 +16572,7 @@
   "correctAnswer": "B",
   "ref": "AMM 47-00-00-00 CONF 00 - INERT GAS SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16080,12 +16598,13 @@
    },
    {
     "key": "C",
-    "text": "STD ALT, TAS, TAT, and Altitude Rate signals. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 24"
+    "text": "STD ALT, TAS, TAT, and Altitude Rate signals."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 24",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16111,12 +16630,13 @@
    },
    {
     "key": "C",
-    "text": "FTIS in STBY mode. T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 24"
+    "text": "FTIS in STBY mode."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 47 - INERT GAS SYSTEM PAGE 24",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16148,6 +16668,7 @@
   "correctAnswer": "A",
   "ref": "AMM 49-00-00-00 CONF 16 - AIRBORNE AUXILIARY POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16179,6 +16700,7 @@
   "correctAnswer": "C",
   "ref": "AMM 49-00-00-00 CONF 16 - AIRBORNE AUXILIARY POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16210,6 +16732,7 @@
   "correctAnswer": "B",
   "ref": "AMM 49-00-00-00 CONF 16 - AIRBORNE AUXILIARY POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16235,12 +16758,13 @@
    },
    {
     "key": "C",
-    "text": "During descent phase. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 02"
+    "text": "During descent phase."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 02",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16266,12 +16790,13 @@
    },
    {
     "key": "C",
-    "text": "Either Honeywell or APIC type can be installed. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 04"
+    "text": "Either Honeywell or APIC type can be installed."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16303,6 +16828,7 @@
   "correctAnswer": "C",
   "ref": "AMM 49-00-00-00 CONF 16 - AIRBORNE AUXILIARY POWER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16334,6 +16860,7 @@
   "correctAnswer": "C",
   "ref": "TASK 49-00-00-910-003-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16365,6 +16892,7 @@
   "correctAnswer": "B",
   "ref": "AMM 49-10-00-00 CONF 16 - POWER PLANT - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16396,6 +16924,7 @@
   "correctAnswer": "B",
   "ref": "AMM 49-17-00-00 CONF 16 - POWER PLANT DRAIN SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16421,12 +16950,13 @@
    },
    {
     "key": "C",
-    "text": "ECAM-APU SD page for LOW OIL LEVEL advisory and from MCDU APU SERVICE DATA page. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 44"
+    "text": "ECAM-APU SD page for LOW OIL LEVEL advisory and from MCDU APU SERVICE DATA page."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 44",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16452,12 +16982,13 @@
    },
    {
     "key": "C",
-    "text": "Inlet OPEN or CLOSED with AMM/MEL procedures. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 204"
+    "text": "Inlet OPEN or CLOSED with AMM/MEL procedures."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 204",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16483,12 +17014,13 @@
    },
    {
     "key": "C",
-    "text": "No safety procedure required because the APU doors are open during maintenance. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 210"
+    "text": "No safety procedure required because the APU doors are open during maintenance."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 210",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16514,12 +17046,13 @@
    },
    {
     "key": "C",
-    "text": "There is no priority order T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 178"
+    "text": "There is no priority order"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 178",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16545,12 +17078,13 @@
    },
    {
     "key": "C",
-    "text": "De-oiling solenoid valve. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 44"
+    "text": "De-oiling solenoid valve."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 44",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16582,6 +17116,7 @@
   "correctAnswer": "C",
   "ref": "AMM 36-12-00-00 CONF 00 - APU BLEED AIR SUPPLY AND CROSSBLEED SYSTEMS -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16607,12 +17142,13 @@
    },
    {
     "key": "C",
-    "text": "By the ECB T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 97"
+    "text": "By the ECB"
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 97",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16644,6 +17180,7 @@
   "correctAnswer": "B",
   "ref": "AMM 49-61-00-00 CONF 16 - CONTROL AND MONITORING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16675,6 +17212,7 @@
   "correctAnswer": "C",
   "ref": "AMM 49-91-00-00 CONF 16 - STORAGE AND DISTRIBUTION - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16700,12 +17238,13 @@
    },
    {
     "key": "C",
-    "text": "As soon as ignition begin T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 160"
+    "text": "As soon as ignition begin"
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 160",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16737,6 +17276,7 @@
   "correctAnswer": "B",
   "ref": "AMM 49-61-00-00 CONF 16 - CONTROL AND MONITORING - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16768,6 +17308,7 @@
   "correctAnswer": "C",
   "ref": "AMM 49-32-00-00 CONF 16 - APU FUEL CONTROL - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16793,12 +17334,13 @@
    },
    {
     "key": "C",
-    "text": "APU fuel pump stops and Fuel Control Unit closes. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 208"
+    "text": "APU fuel pump stops and Fuel Control Unit closes."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 208",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16824,12 +17366,13 @@
    },
    {
     "key": "C",
-    "text": "Normally RAT will start the APU once it is online. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 20"
+    "text": "Normally RAT will start the APU once it is online."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16855,12 +17398,13 @@
    },
    {
     "key": "C",
-    "text": "When APU master switch is set to ON. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 70"
+    "text": "When APU master switch is set to ON."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 70",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16892,6 +17436,7 @@
   "correctAnswer": "C",
   "ref": "AMM 49-70-00-00 CONF 16 - INDICATING - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16917,12 +17462,13 @@
    },
    {
     "key": "C",
-    "text": "Oil quantity and Oil temperature. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 131"
+    "text": "Oil quantity and Oil temperature."
    }
   ],
   "correctAnswer": "A",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 131",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16948,12 +17494,13 @@
    },
    {
     "key": "C",
-    "text": "High oil temperature, low oil pressure, oil pressure differential and oil clog condition. T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 136"
+    "text": "High oil temperature, low oil pressure, oil pressure differential and oil clog condition."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 49 – APU PAGE 136",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -16985,6 +17532,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17016,6 +17564,7 @@
   "correctAnswer": "A",
   "ref": "AMM 53-20-00-00 CONF 00 - FORWARD FUSELAGE - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17047,6 +17596,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17078,6 +17628,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17109,6 +17660,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17140,6 +17692,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17171,6 +17724,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17202,6 +17756,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17233,6 +17788,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17264,6 +17820,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17295,6 +17852,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17326,6 +17884,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17357,6 +17916,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17388,6 +17948,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17419,6 +17980,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17450,6 +18012,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17481,6 +18044,7 @@
   "correctAnswer": "C",
   "ref": "REF Nacelle manufacturer documentation (NRSM)",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17512,6 +18076,7 @@
   "correctAnswer": "C",
   "ref": "REF STRUCTURAL REPAIR MANUAL",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17543,6 +18108,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17574,6 +18140,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17605,6 +18172,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17636,6 +18204,7 @@
   "correctAnswer": "A",
   "ref": "AMM 56-11-12PB 401 AND AMM 56/11/11PB401",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17667,6 +18236,7 @@
   "correctAnswer": "A",
   "ref": "AMM 56-11-00-00 CONF 00 - FIXED WINDOWS - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17698,6 +18268,7 @@
   "correctAnswer": "A",
   "ref": "AMM 56-21-13-04 CONF 00",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17729,6 +18300,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17760,6 +18332,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17791,6 +18364,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17822,6 +18396,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17853,6 +18428,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17884,6 +18460,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17915,6 +18492,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17946,6 +18524,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -17977,6 +18556,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18008,6 +18588,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18039,6 +18620,7 @@
   "correctAnswer": "B",
   "ref": "AMM 55-30-00-00 CONF 00 - VERTICAL STABILIZER - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18070,6 +18652,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18101,6 +18684,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18132,6 +18716,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18163,6 +18748,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18194,6 +18780,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18225,6 +18812,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18256,6 +18844,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18287,6 +18876,7 @@
   "correctAnswer": "C",
   "ref": "AMM 52-51-00-00 CONF 00 - PASSENGER COMPARTMENT FIXED INTERIOR DOORS",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18318,6 +18908,7 @@
   "correctAnswer": "B",
   "ref": "AMM TASK 52-10-00-010-001-A Opening of the Passenger/Crew Door",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18349,6 +18940,7 @@
   "correctAnswer": "A",
   "ref": "AMM 52-73-00-00 CONF 00 - EMERGENCY ESCAPE SLIDE RELEASE AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18380,6 +18972,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18411,6 +19004,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18442,6 +19036,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18467,12 +19062,13 @@
    },
    {
     "key": "C",
-    "text": "Opened from outside or inside. T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 04"
+    "text": "Opened from outside or inside."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 04",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18504,6 +19100,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18535,6 +19132,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18566,6 +19164,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18597,6 +19196,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18628,6 +19228,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18659,6 +19260,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18690,6 +19292,7 @@
   "correctAnswer": "C",
   "ref": "AMM 52-36-00-00 CONF 00 - CARGO COMPARTMENT DOOR HYDRAULIC SYSTEM -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18721,6 +19324,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18752,6 +19356,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18783,6 +19388,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18814,6 +19420,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18845,6 +19452,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18876,6 +19484,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18901,12 +19510,13 @@
    },
    {
     "key": "C",
-    "text": "The cabin residual pressure is more than 0.04 psi (2.5 millibars). T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 138"
+    "text": "The cabin residual pressure is more than 0.04 psi (2.5 millibars)."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 138",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18932,12 +19542,13 @@
    },
    {
     "key": "C",
-    "text": "The automatic slide deployment mechanism must be deactivated. T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 15"
+    "text": "The automatic slide deployment mechanism must be deactivated."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -18963,12 +19574,13 @@
    },
    {
     "key": "C",
-    "text": "Locking hook, Locking Shaft and escape slide proximity S/W's. T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 130"
+    "text": "Locking hook, Locking Shaft and escape slide proximity S/W's."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 130",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -19000,6 +19612,7 @@
   "correctAnswer": "A",
   "ref": "TASK 52-32-00-710-001-A Operational Test of the AFT Cargo-Compartment Door",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -19025,12 +19638,13 @@
    },
    {
     "key": "C",
-    "text": "Three handles/the frame and latching shaft proximity S/W’s. T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 148"
+    "text": "Three handles/the frame and latching shaft proximity S/W’s."
    }
   ],
   "correctAnswer": "C",
-  "ref": null,
+  "ref": "T1+T2 (CFM 56) (Lvl 2&3) 52 – DOORS PAGE 148",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -19062,6 +19676,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -19093,6 +19708,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -19124,6 +19740,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -19155,6 +19772,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -19186,6 +19804,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -19217,6 +19836,7 @@
   "correctAnswer": "A",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  }
 ]

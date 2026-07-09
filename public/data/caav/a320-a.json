@@ -28,6 +28,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-A/C General-Page 2a/27.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -59,6 +60,7 @@
   "correctAnswer": "B",
   "ref": "Ref:00-SA Family Presentation-A/C General-Page 2b/27.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -90,6 +92,7 @@
   "correctAnswer": "C",
   "ref": "Ref:00-SA Family Presentation-A/C General-Page 2b/27.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -121,6 +124,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-A/C General-Sharklet purpose-Page 2c/27.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -152,6 +156,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-A/C General-Family Range-Page 4/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -183,6 +188,7 @@
   "correctAnswer": "C",
   "ref": "Ref:00-SA Family Presentation-A/C General-The Cabin-Page 6a/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -214,6 +220,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-Structural Breakdown & Zoning-Fuselage-Page 9a/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -245,6 +252,7 @@
   "correctAnswer": "B",
   "ref": "Ref:00-SA Family Presentation-Structural Breakdown & Zoning-Vertical Stabilizer-Page 10/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -276,6 +284,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precaution-Ref:00-SA Family Presentation-Towing-AMM-09-Page 25d/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -307,6 +316,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-Cockpit Philosophy-Page 19a/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -338,6 +348,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-Cockpit Philosophy- PushButton-Page 20/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -369,6 +380,7 @@
   "correctAnswer": "C",
   "ref": "Ref:00-SA Family Presentation-Cockpit Presentation-Main Inst Panel-Page 16/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -400,6 +412,7 @@
   "correctAnswer": "B",
   "ref": "Ref:00-SA Family Presentation-Cockpit Presentation-Center Pedestal-Page 17/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -431,6 +444,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-Cockpit Presentation-GSE & Tools-Page 21b/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -462,6 +476,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precaution: Ref:00-SA Family Presentation-Jacking-Page 24a/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -493,6 +508,7 @@
   "correctAnswer": "C",
   "ref": "Safety Precaution: Ref:00-SA Family Presentation-Towing-AMM 09-Page 25f/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -524,6 +540,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-Cockpit Presentation-Placards& Markings-Page 27/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -555,6 +572,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-SA Family Presentation-Placards& Markings-IPC 11-21-89-30-Page 27/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -586,6 +604,7 @@
   "correctAnswer": "A",
   "ref": "Ref:12-Ground Handling-Servicing Points-Page 2/11.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -617,6 +636,7 @@
   "correctAnswer": "A",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -648,6 +668,7 @@
   "correctAnswer": "B",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -679,6 +700,7 @@
   "correctAnswer": "A",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -710,6 +732,7 @@
   "correctAnswer": "B",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -741,6 +764,7 @@
   "correctAnswer": "A",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -772,6 +796,7 @@
   "correctAnswer": "A",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -803,6 +828,7 @@
   "correctAnswer": "C",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -834,6 +860,7 @@
   "correctAnswer": "A",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -865,6 +892,7 @@
   "correctAnswer": "B",
   "ref": "Ref: TASK 09-10-00-584-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -896,6 +924,7 @@
   "correctAnswer": "A",
   "ref": "Ref: TASK 12-11-28-650-003-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -927,6 +956,7 @@
   "correctAnswer": "B",
   "ref": "Ref: TASK 12-11-28-650-002-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -958,6 +988,7 @@
   "correctAnswer": "A",
   "ref": "Ref: TASK 12-11-28-650-003-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -989,6 +1020,7 @@
   "correctAnswer": "A",
   "ref": "Ref: TASK 12-11-28-650-003-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1020,6 +1052,7 @@
   "correctAnswer": "C",
   "ref": "Ref:12-Ground Handling-Servicing Points-Page 2/11.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1051,6 +1084,7 @@
   "correctAnswer": "A",
   "ref": "Ref:12-Ground Handling-Servicing Points-Page 2/11.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1082,6 +1116,7 @@
   "correctAnswer": "A",
   "ref": "Ref:12-Ground Handling-Servicing Points-Page 2/11.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1113,6 +1148,7 @@
   "correctAnswer": "C",
   "ref": "Ref:12-Ground Handling-A/C Servicing Arrangements-Page 3/11.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1144,6 +1180,7 @@
   "correctAnswer": "B",
   "ref": "Ref:12-Ground Handling-Turning Radii-Page 4/11.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1175,6 +1212,7 @@
   "correctAnswer": "A",
   "ref": "Ref:12-Ground Handling-Parking& Mooring-Page 5c/11.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1206,6 +1244,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precaution: Ref:12-Ground Handling-Parking& Mooring-Page 7a/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1237,6 +1276,7 @@
   "correctAnswer": "A",
   "ref": "Ref:28-Refuel/Defuel CTL PNL-End Light-Page 2j/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1268,6 +1308,7 @@
   "correctAnswer": "C",
   "ref": "Ref:12-Ground Handling-Parking& Mooring-Page 6/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1299,6 +1340,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precaution: Ref:12-Ground Handling-Parking& Mooring-Storage-Page 6/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1330,6 +1372,7 @@
   "correctAnswer": "C",
   "ref": "Safety Precaution: Ref:12-Ground Handling-Parking& Mooring-Mooring-Page 7b/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1361,6 +1404,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precaution: Ref:12-Ground Handling-Earthing & Bonding-Page 8a/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1392,6 +1436,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precaution: Ref:12-Ground Handling-Earthing & Bonding-Page 8a/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1423,6 +1468,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precaution: Ref:12-Ground Handling-Earthing & Bonding-Page 8b/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1454,6 +1500,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precaution: Ref:12-Ground Handling-Earthing & Bonding-Page 10/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1485,6 +1532,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precaution: Ref:12-Ground Handling-Earthing & Bonding-Page 10/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1516,6 +1564,7 @@
   "correctAnswer": "B",
   "ref": "Ref:00-Airbus Documentation Introduction-FIN-Page-2/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1547,6 +1596,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-Airbus Documentation Introduction-FIN-Page-5/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1578,6 +1628,7 @@
   "correctAnswer": "A",
   "ref": "Ref:00-Airbus Documentation Introduction-FIN-Page-6/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1609,6 +1660,7 @@
   "correctAnswer": "B",
   "ref": "Ref:05-Time Limits & Maintenance Checks-Page 2a/3.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1640,6 +1692,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 00-SA Family Presentation-A/C General-Page 2a/27.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1671,6 +1724,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Airconditioning System Presentation-Pack Interoduction-Page-4a/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1702,6 +1756,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Airconditioning System Presentation-Pack Interoduction-Page-4d/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1733,6 +1788,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Airconditioning System Presentation-Pack Interoduction-Page-5a/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1764,6 +1820,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Airconditioning System Presentation-Zone Temp Regulation System Introduction-Page-",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1795,6 +1852,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Airconditioning System Component LOC-Pressurization CTL-Page-4e/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1826,6 +1884,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Pressurization System Presentation-Safety Precaution-Page 6a/6-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1857,6 +1916,7 @@
   "correctAnswer": "A",
   "ref": "Ref:21-Flow Control & Pack Components D/O-Ozone Converter-Page2a/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1888,6 +1948,7 @@
   "correctAnswer": "A",
   "ref": "Ref:21-Flow Control & Pack Components D/O-Primary Heat Exchanger & Compressor-Page 6/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1919,6 +1980,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Flow Control & Pack Components D/O-Maintenance-Page 14/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1950,6 +2012,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Ventilation System Presentation-Lavatory & Gally Ventilation-Page 4/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -1981,6 +2044,7 @@
   "correctAnswer": "A",
   "ref": "Ref: Pressurization System CTL Interfacces-LGCIU-T1+T2-page 3b/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2012,6 +2076,7 @@
   "correctAnswer": "A",
   "ref": "Ref: Pressurization System Control Interfaces-Cabin Pressure ALT.Envelope-T1+T2-Page2a/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2043,6 +2108,7 @@
   "correctAnswer": "B",
   "ref": "Ref:21-Airconditioning SYS component Location-SYS overview-Pressurization CTL-Pag3 4f/15 Slides",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2074,6 +2140,7 @@
   "correctAnswer": "A",
   "ref": "Ref:21-Ref:21-Flow Control & Pack Components D/O-Basic AIRCON system Introduction-Page",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2105,6 +2172,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Air Conditioning SYS presentation-Pack Introduction-Page 4a/11 slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2136,6 +2204,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 21-Avionics Equipment Ventilation CTL & Indication (3)-ACT presentation",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2167,6 +2236,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2198,6 +2268,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-Airconditioning SYS presentation-CTL & Indication-ECAM pages-Page 7/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2229,6 +2300,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 21-Pressurization SYS Presentation-SYS Introduction-Page 2g/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2260,6 +2332,7 @@
   "correctAnswer": "A",
   "ref": "Ref:21-Airconditioning SYS presentation-CTL & Indication-ECAM pages-Page 4a/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2291,6 +2364,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 22-Automatic Flight System Presentation-General-Page 2a/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2322,6 +2396,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 22-Automatic Flight System Presentation-General-Page 2a/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2353,6 +2428,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 22-Automatic Flight System Presentation-FMGC-Page 2c/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2384,6 +2460,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 22-Automatic Flight System Presentation-General-FAC-Page 2d/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2415,6 +2492,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 22-Automatic Flight System Presentation-General-Page 2a/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2446,6 +2524,7 @@
   "correctAnswer": "B",
   "ref": "Ref: FAC General-rudder Travel Limitation-Page 2d/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2477,6 +2556,7 @@
   "correctAnswer": "B",
   "ref": "Ref: Auto Flight System C & I-ACT (2/3)-Page 2/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2508,6 +2588,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 22-Automatic Flight System -Maintenance System D/O-BITE-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2539,6 +2620,7 @@
   "correctAnswer": "A",
   "ref": "Ref:23-Communication System Presentation-General-Page 2/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2570,6 +2652,7 @@
   "correctAnswer": "C",
   "ref": "Ref:23-Communication System Presentation-Radio Communication System(a)-Page 4a/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2601,6 +2684,7 @@
   "correctAnswer": "C",
   "ref": "Ref:23-Communication System Presentation-on board communications-Page 7/27",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2632,6 +2716,7 @@
   "correctAnswer": "B",
   "ref": "Ref:23-Communication System Component Location-Antennas-Page 5/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2663,6 +2748,7 @@
   "correctAnswer": "B",
   "ref": "Ref:23-Communication System Component Location-Page 6/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2694,6 +2780,7 @@
   "correctAnswer": "B",
   "ref": "Ref:23-Communication System Component Location-CVDR-Page 8/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2725,6 +2812,7 @@
   "correctAnswer": "C",
   "ref": "Ref:23-Communication System C & I (3)-ACT Demo",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2756,6 +2844,7 @@
   "correctAnswer": "C",
   "ref": "Ref: Static Discharging Presentation-Installation-Page 4/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2787,6 +2876,7 @@
   "correctAnswer": "B",
   "ref": "Ref:20-Electrostatic Discharge-Page 3/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2818,6 +2908,7 @@
   "correctAnswer": "B",
   "ref": "Ref:23-Communication System Line Maintenance-Page 6c/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2849,6 +2940,7 @@
   "correctAnswer": "A",
   "ref": "Ref:23-Communication System C & I(3)-ACT Demo",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2880,6 +2972,7 @@
   "correctAnswer": "C",
   "ref": "Safety Precaution",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2911,6 +3004,7 @@
   "correctAnswer": "A",
   "ref": "Ref:24-Electrical Power System Presentation-General-Page 2a/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2942,6 +3036,7 @@
   "correctAnswer": "A",
   "ref": "Ref:24-Electrical Power System Presentation-General-Page 2c/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -2973,6 +3068,7 @@
   "correctAnswer": "C",
   "ref": "Ref:24-Electrical Power System Description AC transfer -Page 23/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3004,6 +3100,7 @@
   "correctAnswer": "A",
   "ref": "Ref:24-Electrical Power System Presentation-C & I-Page 8c /16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3035,6 +3132,7 @@
   "correctAnswer": "C",
   "ref": "Ref:24-Electrical Power System Presentation-C & I-Main Panel-Page 7b /16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3066,6 +3164,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precaution: Ref:24-Electrical Power System Presentation-C&I-Emergency Panel-Page",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3097,6 +3196,7 @@
   "correctAnswer": "A",
   "ref": "Ref:24-Elec Power System Diagram-AC Distribution-AC ESS Bus-Page 2g/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3128,6 +3228,7 @@
   "correctAnswer": "C",
   "ref": "Ref:24-Elec System and Circuit Identification Diagram-Main Bus Bar Identification-Page 2a/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3159,6 +3260,7 @@
   "correctAnswer": "C",
   "ref": "Ref:24-Elec Power System & Circuit Identification Diagram-ARINC BUS Identification-Page 3/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3190,6 +3292,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 24-Electrical Power C & I-Demo on ACT",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3221,6 +3324,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 24-Electrical Power C & I-Demo on ACT",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3252,6 +3356,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 24- AC Auxiliary Generation-APU Gen CTL-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3283,6 +3388,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 24-External Power D/O-EPC-Normal Parameters-Page 3a /3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3314,6 +3420,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 24-External Power D/O-EPC-Environmental-Page 3c /3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3345,6 +3452,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 24-External Power System Line Maintenance-Page 2e / 5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3376,6 +3484,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 24-External Power System Line Maintenance-Page 5a / 5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3407,6 +3516,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 24-AC Auxiliary Generation General D/O -Page 2a / 2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3438,6 +3548,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 24- Electrical Power C & I-ACT demo",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3469,6 +3580,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 24-DC Main Generation D/O-Page 2a/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3500,6 +3612,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 24-DC Main Generation D/O-Page 2a/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3531,6 +3644,7 @@
   "correctAnswer": "B",
   "ref": "35-32-00-00 CONF 00 - CABIN ATTENDANTS PORTABLE DEVICES - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3562,6 +3676,7 @@
   "correctAnswer": "C",
   "ref": "25-68-00-00 CONF 00 - RAPID DECOMPRESSION SAFETY SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3593,6 +3708,7 @@
   "correctAnswer": "A",
   "ref": "17-11-00-0 CONF 00 - COCKPIT SEATS - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3624,6 +3740,7 @@
   "correctAnswer": "B",
   "ref": "25-23-00-00 CONF 00 - LININGS AND FURNISHINGS - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3655,6 +3772,7 @@
   "correctAnswer": "A",
   "ref": "25-25-00-00 CONF 00 - PASSENGER SERVICE INFORMATION UNITS (PSIU) - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3686,6 +3804,7 @@
   "correctAnswer": "C",
   "ref": "25-62-00-00 CONF 00 - ESCAPE FACILITIES - CABIN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3717,6 +3836,7 @@
   "correctAnswer": "A",
   "ref": "25-62-00-00 CONF 00 - ESCAPE FACILITIES - CABIN - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3748,6 +3868,7 @@
   "correctAnswer": "C",
   "ref": "25-54-00-00 CONF 00 - LININGS AND FURNISHINGS/FORWARD CARGO COMPARTMENT -",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3779,6 +3900,7 @@
   "correctAnswer": "A",
   "ref": "Ref:25-Eqpt/Furnis-Component Location-Cabin Layout-Page 3a/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3810,6 +3932,7 @@
   "correctAnswer": "B",
   "ref": "Ref:25-Eqpt/Furnis-Component Location-Cabin Layout-Page 3a/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3841,6 +3964,7 @@
   "correctAnswer": "B",
   "ref": "Ref:25-Eqpt/Furnis-Component Location-Cabin Layout-Page 3b/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3872,6 +3996,7 @@
   "correctAnswer": "C",
   "ref": "Ref:25-Eqpt/Furnis-Component Location-Cabin Layout-Page 3c/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3903,6 +4028,7 @@
   "correctAnswer": "B",
   "ref": "Ref:25-Eqpt/Furnis-Component Location-System Overview-Escape slide-Page 5/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3934,6 +4060,7 @@
   "correctAnswer": "B",
   "ref": "Ref:25-Eqpt/Furnis-Component Location-System Overview-Escape Slide-Page 7a/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3965,6 +4092,7 @@
   "correctAnswer": "A",
   "ref": "Ref:25-Eqpt/Furnis-Component Location-System overview -Escape Slide-Page 7b/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -3996,6 +4124,7 @@
   "correctAnswer": "A",
   "ref": "Ref:25-Cockpit Seats D/O-Pilot Seats-Horizontal Travel-Page 2c/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4027,6 +4156,7 @@
   "correctAnswer": "C",
   "ref": "Ref:25-Typical Gally Installation-Upper Attachment-Page 5/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4058,6 +4188,7 @@
   "correctAnswer": "C",
   "ref": "Ref:25-Typical Gally Installation-Upper Attachment-Page 4/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4089,6 +4220,7 @@
   "correctAnswer": "C",
   "ref": "Ref:25-Typical Lavatory Installation D/o-Interfaces-Page 4/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4120,6 +4252,7 @@
   "correctAnswer": "C",
   "ref": "Ref:25-Pax & Attendant Seats D/o- Attachment-Page 5/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4151,6 +4284,7 @@
   "correctAnswer": "A",
   "ref": "Ref:25-Heated Floor Panel System D/O-General-T1+T2-B2 scope-Page 2/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4182,6 +4316,7 @@
   "correctAnswer": "A",
   "ref": "Ref:25-Heated Floor Panel System D/O-General-T1+T2-B2 scope-Page 2/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4213,6 +4348,7 @@
   "correctAnswer": "A",
   "ref": "Ref:25-Heated Floor Panel System D/O-General-T1+T2-B2 scope-Page 2/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4244,6 +4380,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 25-Pax Door Escape slide Deployment Discription-Components-T1+T2-B2 scope-Page 7/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4275,6 +4412,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 25-Pax Door Escape slide/Raft Installation-Page 2/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4306,6 +4444,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 25-Pax Door Escape slide Reservoirs Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4337,6 +4476,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 25-Pax Door Escape slide Reservoirs Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4368,6 +4508,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 25-Pax Door Escape slide Reservoirs Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4399,6 +4540,7 @@
   "correctAnswer": "A",
   "ref": "Ref:26-Engine Fire Protection-Detection & Extinguishing-Page 3a/16 & 6a/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4430,6 +4572,7 @@
   "correctAnswer": "B",
   "ref": "Ref:26-Fire Protection System Component Location-Page 2b/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4461,6 +4604,7 @@
   "correctAnswer": "A",
   "ref": "Ref:26-Fire Protection System Component Location-Page 2b/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4492,6 +4636,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-Page 2f/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4523,6 +4668,7 @@
   "correctAnswer": "B",
   "ref": "Ref:28-Fire Protection System Component Location-SYS over View-Page 2e/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4554,6 +4700,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-Page 2f/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4585,6 +4732,7 @@
   "correctAnswer": "A",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-Avionics Smoke Detection",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4616,6 +4764,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-Avionics Smoke Detection",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4647,6 +4796,7 @@
   "correctAnswer": "B",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-Cargo Smoke Detection Page",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4678,6 +4828,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-Avionics Smoke Detection",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4709,6 +4860,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-Avionics Smoke Detection",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4740,6 +4892,7 @@
   "correctAnswer": "A",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-ENG/APU -Page 2b/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4771,6 +4924,7 @@
   "correctAnswer": "A",
   "ref": "Ref:28-Fire Protection System Component Location-SYS overview-ENG/APU -Page 2b/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4802,6 +4956,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Fire Protection System Component Location-APU Fire DET -Page 11a/14 Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4833,6 +4988,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Fire Protection System Component Location-Lavatory SMK DET -Page 14b/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4864,6 +5020,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 26-Cargo Fire Protection for ETOPS-Page 2/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4895,6 +5052,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 26-Cargo Fire Protection for ETOPS-Page 2/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4926,6 +5084,7 @@
   "correctAnswer": "C",
   "ref": "Ref:26-Fire Protection System Line Maintenance-Page 2a/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4957,6 +5116,7 @@
   "correctAnswer": "A",
   "ref": "Ref:26-Fire Protection System Line Maintenance-Tips-Page 6a/7 Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -4988,6 +5148,7 @@
   "correctAnswer": "A",
   "ref": "Ref:27-FLT CTL Presentation-FLT CTL Surfaces-Pitch-Page 2c/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5019,6 +5180,7 @@
   "correctAnswer": "B",
   "ref": "Ref:27-FLT CTL Presentation-Flt Ctl Surfaces-ROLL-Page 2d/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5050,6 +5212,7 @@
   "correctAnswer": "A",
   "ref": "Ref:27-FLT CTL Presentation-FLT CTL Architecture-Page 4b/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5081,6 +5244,7 @@
   "correctAnswer": "A",
   "ref": "Ref:27-FLT CTL Presentation-Flt Ctl Surfaces-Active Servo CTL-Page 5d/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5112,6 +5276,7 @@
   "correctAnswer": "A",
   "ref": "Ref:27- Ref 27-SideStick D/o-General-T1+T2-Page 2a/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5143,6 +5308,7 @@
   "correctAnswer": "A",
   "ref": "Safety item: Ref 27-SideStick D/o-General-T1+T2-Page 2c/3-B2scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5174,6 +5340,7 @@
   "correctAnswer": "B",
   "ref": "Ref:27-Roll CTL Abnormal Operation-Servo Ctl Failures-Page 7/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5205,6 +5372,7 @@
   "correctAnswer": "A",
   "ref": "Ref:27-Roll CTL Abnormal Operation-Servo Ctl Failures-Spoiler-Page 9/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5236,6 +5404,7 @@
   "correctAnswer": "A",
   "ref": "Ref: Flt Ctl System -Line Maintenance-MEL/Deactivation-Spoilers-Page 3f/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5267,6 +5436,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 27-Yaw Control D/O-General-Page 2a/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5298,6 +5468,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 27-Yaw Control D/O-General-Page 2a/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5329,6 +5500,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 27-Yaw Control D/O-General-Rudder-Page 2e/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5360,6 +5532,7 @@
   "correctAnswer": "B",
   "ref": "Ref:00-General-Speed Brake Function-Page 2b/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5391,6 +5564,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 27-Pitch Control Normal-Trim Wheels-Page 2g/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5422,6 +5596,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 27-THS Actuator Operation-Jamming Mode-T1+T2-page 15/a5-B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5453,6 +5628,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 27-Slats/Flaps CTL-D/O-POB-Page 6/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5484,6 +5660,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 27-Slats/Flaps CTL-D/O-Solenoid Valve-Page 3a/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5515,6 +5692,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 27-Slats/Flaps Abnormal Operation-General-Page 2/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5546,6 +5724,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 27-Slats/Flaps Abnormal Operation-General-Page 2/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5577,6 +5756,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 27-Flap Mechanical Drive-D/O-PCU-Gear Boxes-Page2c/2-T1+T2 Ref:27-Flaps Attachment Failure Detection Description-Page 2/2-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5608,6 +5788,7 @@
   "correctAnswer": "A",
   "ref": "Ref:27-Flt CTL Line maintenance (2)-MEL-ELAC-Page 7a/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5639,6 +5820,7 @@
   "correctAnswer": "A",
   "ref": "Ref:27-Flt CTL Line maintenance (2)-MEL-FAC/FCDC/SFCC-Page 7c,d,e/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5670,6 +5852,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 27-Slats/Flaps-Abnormal Locking Operation-General-Page 2/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5701,6 +5884,7 @@
   "correctAnswer": "C",
   "ref": "Ref:27-Slats/Flap-Abnormal Half speed Operation-Page 2/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5732,6 +5916,7 @@
   "correctAnswer": "A",
   "ref": "Ref:27-Flt CTL Line maintenance (2)-Daily Check-Page 2/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5763,6 +5948,7 @@
   "correctAnswer": "C",
   "ref": "28-25-00-00 CONF 00 - REFUEL/DEFUEL SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5794,6 +5980,7 @@
   "correctAnswer": "C",
   "ref": "28-25-00-00 CONF 00 - REFUEL/DEFUEL SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5825,6 +6012,7 @@
   "correctAnswer": "A",
   "ref": "28-25-00-00 CONF 00 - REFUEL/DEFUEL SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5856,6 +6044,7 @@
   "correctAnswer": "C",
   "ref": "28-25-00-00 CONF 00 - REFUEL/DEFUEL SYSTEM - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5887,6 +6076,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-2b/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5918,6 +6108,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-2c/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5949,6 +6140,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-2b/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -5980,6 +6172,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-2d/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6011,6 +6204,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-2d/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6042,6 +6236,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-2e/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6073,6 +6268,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-2f/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6104,6 +6300,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 28-Fuel System Presentation-System Introduction-3/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6135,6 +6332,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 28-Fuel System Component Location-Page 5c/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6166,6 +6364,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Water Drain Valve Operation-General-Page 2b/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6197,6 +6396,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 28-APU Feed System-D/O-APU pump-Page 2b/5-B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6228,6 +6428,7 @@
   "correctAnswer": "B",
   "ref": "Ref:28-APU Feed System-D/O-APU LP Shutoff Valve-Page 2e/5-B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6259,6 +6460,7 @@
   "correctAnswer": "A",
   "ref": "Ref:28-APU Feed System-D/O-APU Shutoff Valve-Open-Page 2f/5-B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6290,6 +6492,7 @@
   "correctAnswer": "B",
   "ref": "Ref:28-ACT System Presentation-FEED Concept-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6321,6 +6524,7 @@
   "correctAnswer": "A",
   "ref": "Ref:28-Fuel System Component Location-Refuel/Defuel Coupling& Refuel Valve-Page 6b/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6352,6 +6556,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 28-Refuel/Defuel CTL Panel Presentation-Actual-Page 2h/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6383,6 +6588,7 @@
   "correctAnswer": "A",
   "ref": "Ref:28-Fuel System Presentation-SYS Introduction-A321LR-T1+T2-Page 4c/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6414,6 +6620,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 28-Fuel System Presentation-Safety Precautions-Page 13c/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6445,6 +6652,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 28-Fuel System Presentation-Maintenance/Test Facilities-Page 11a/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6476,6 +6684,7 @@
   "correctAnswer": "C",
   "ref": "Ref:28-Fuel System Presentation-CTL & Indication-CTL PNL-Page 6d/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6507,6 +6716,7 @@
   "correctAnswer": "C",
   "ref": "29-23-00-00 CONF 00 - POWER TRANSFER - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6538,6 +6748,7 @@
   "correctAnswer": "B",
   "ref": "29-12-00-00 CONF 00 - BLUE MAIN HYDRAULIC POWER - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6569,6 +6780,7 @@
   "correctAnswer": "B",
   "ref": "29-19-00-00 CONF 00 - GROUND INTERNAL LEAK TEST SYSTEM - DESCRIPTION AND",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6600,6 +6812,7 @@
   "correctAnswer": "A",
   "ref": "29-14-00-00 CONF 00 - HYDRAULIC RESERVOIR PRESSURIZING SYSTEM - DESCRIPTION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6631,6 +6844,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 29-Hydraulic Power System Presentation-Sys Introduction (a)-Page 2a/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6662,6 +6876,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 29-Hydraulic Power System Presentation-Sys Introduction (a)-Page 2c,f/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6693,6 +6908,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 29-Hydraulic Power System Presentation-Sys Introduction (a)-Page 2c/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6724,6 +6940,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 29-Hydraulic Power System Presentation-Sys Introduction (a)-Page 2b/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6755,6 +6972,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 29-Hydraulic Power System Comp, Loc-System Overview-RAT-Page 2c/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6786,6 +7004,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 29-Hydraulic Power System Comp, Loc-System Overview-PTU/RAT-Page 3/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6817,6 +7036,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 29-Hydraulic Power System Com, Loc-Engine pump-page 4a/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6848,6 +7068,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 29-Hydraulic Power System Comp.Loc-Servicing Panels-page 5/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6879,6 +7100,7 @@
   "correctAnswer": "C",
   "ref": "Safety item: Ref 29-Hydraulic Reservoir Filling Presentation-Page 2/2 Table Ref 29- Hydraulic Power System-Line maint-Daily Checks-page 9/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6910,6 +7132,7 @@
   "correctAnswer": "A",
   "ref": "Ref 29-Hydraulic Reservoir Filling Presentation-QTY Indicator-Page 2f/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6941,6 +7164,7 @@
   "correctAnswer": "B",
   "ref": "Ref 29-Hydraulic Reservoir Filling Presentation-Check Valve-Page 2g/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -6972,6 +7196,7 @@
   "correctAnswer": "C",
   "ref": "Safety item: Ref:29-Reservoir Pressurization/Pressurization-Page 2/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7003,6 +7228,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 29-Hydraulic Power System Line Maintenance-Servicing-Accumulators-Page 7/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7034,6 +7260,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 29-Hydraulic Power System Line Maintenance-Servicing-Ext Leak Test-Page 8/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7065,6 +7292,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 29-Hydraulic Reservoir Pressurizing System D/O-General-Page 2a/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7096,6 +7324,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 29-Green SYS D/O-HP manifold-Page 3a/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7127,6 +7356,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 29-Green SYS D/O-HP manifold-Page 3d/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7158,6 +7388,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 29-Green SYS D/O-PTU manifold-Page 4a/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7189,6 +7420,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 29-Hydrauic Power System Component Location-RRVOR-page 4b/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7220,6 +7452,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 29-Hyd Pwr Sys Line Maintenance-Maint., tips-RAT-Page 11b/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7251,6 +7484,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 30-Wing Ice Protection-Controls-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7282,6 +7516,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 30-Ice & Rain Protection SYS Presentation-Nacelle/Engine Air Intake Ice Protection-Page",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7313,6 +7548,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 30-Ice & Rain Protection SYS Presentation-Probe Ice Protection-Page 7a/20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7344,6 +7580,7 @@
   "correctAnswer": "A",
   "ref": "Ref:30-Ice & Rain Protection SYS Component Location-Wing Protection-Page 3/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7375,6 +7612,7 @@
   "correctAnswer": "B",
   "ref": "Ref:30-Ice & Rain Protection SYS Component Location-Eng Air Intake Ice Protection-Page 3/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7406,6 +7644,7 @@
   "correctAnswer": "B",
   "ref": "Ref:30-Ice & Rain Protection SYS Component Location-Eng Air Intake Ice Protection-Page 5/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7437,6 +7676,7 @@
   "correctAnswer": "A",
   "ref": "Ref:30-Wing Ice Protection SYS Presentation-Valves-Page 2a/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7468,6 +7708,7 @@
   "correctAnswer": "B",
   "ref": "Ref:30-Wing Ice Protection SYS Presentation-Controls-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7499,6 +7740,7 @@
   "correctAnswer": "C",
   "ref": "Ref:30-Probe Ice Protection SYS Presentation-Function-Page 2a/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7530,6 +7772,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7561,6 +7804,7 @@
   "correctAnswer": "A",
   "ref": "Ref:30-Dual Advisory Ice Detection System D/O-Function-Page 2a/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7592,6 +7836,7 @@
   "correctAnswer": "A",
   "ref": "Ref:30-Ref:30-Dual Advisory Ice Detection System D/O-Detection-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7623,6 +7868,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 30-Ice & Rain Protection SYS Line Maintenance-Maintenance Tips-Page 7b/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7654,6 +7900,7 @@
   "correctAnswer": "C",
   "ref": "Ref:30-Ice & Rain Protection SYS presentation_CTL & Indication-Drain Mast Monitoring-Page",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7685,6 +7932,7 @@
   "correctAnswer": "A",
   "ref": "Ref:31-Indicating/Recording System-Electronic Instrument System-Page 2/16.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7716,6 +7964,7 @@
   "correctAnswer": "B",
   "ref": "Ref:31-Indicating/Recording System-Electronic Instrument System-Page 2/16.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7747,6 +7996,7 @@
   "correctAnswer": "C",
   "ref": "Ref:31-Indicating/Recording System-Electronic Instrument System-ECAM(d)-Page 3d/16.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7778,6 +8028,7 @@
   "correctAnswer": "B",
   "ref": "Ref:31-Indicating/Recording System-Electronic Instrument System-ECAM-C&I-Page 4a/16.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7809,6 +8060,7 @@
   "correctAnswer": "A",
   "ref": "Ref:31-Indicating/Recording System-Electronic Instrument System-ECAM-C&I-Page 4b/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7840,6 +8092,7 @@
   "correctAnswer": "A",
   "ref": "Ref:31-Indicating/Recording System-Electronic Instrument System-EFIS-Page 5a/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7871,6 +8124,7 @@
   "correctAnswer": "B",
   "ref": "Ref:31-Indicating/Recording System-Clock-Page 7a/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7902,6 +8156,7 @@
   "correctAnswer": "B",
   "ref": "Ref:31-Indicating/Recording System-CFDS-Page 8/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7933,6 +8188,7 @@
   "correctAnswer": "C",
   "ref": "Ref:31-Indicating/Recording System-CFDS-Page 9b/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7964,6 +8220,7 @@
   "correctAnswer": "B",
   "ref": "Ref:31-Indicating/Recording System-AIDS-Page 13/16",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -7995,6 +8252,7 @@
   "correctAnswer": "A",
   "ref": "Ref:31-Engine /Warning Display Presentation-ADV & STS-Arrow-Page 5/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8026,6 +8284,7 @@
   "correctAnswer": "A",
   "ref": "Ref:31-EIS ECAM Normal & Manual Mode-ECAM Modes-Page 7/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8057,6 +8316,7 @@
   "correctAnswer": "A",
   "ref": "Ref:31-EIS ECAM Normal & Manual Mode-ECAM Modes-Page 7/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8088,6 +8348,7 @@
   "correctAnswer": "B",
   "ref": "Ref: ECAM Advisory & Failure Related Modes-Alert Classification-Page 2a/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8119,6 +8380,7 @@
   "correctAnswer": "B",
   "ref": "Ref:31-EIS Architecture-EFIS-ECAM .Inputs-Page 2/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8150,6 +8412,7 @@
   "correctAnswer": "B",
   "ref": "Ref:31-EIS Abnormal Operation-Upper ECAM DU failure-Page 7/17",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8181,6 +8444,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 31-Printer D/O-Capability-2/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8212,6 +8476,7 @@
   "correctAnswer": "B",
   "ref": "Ref:31-Recording Sys comp.Loc-Page 7/7",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8243,6 +8508,7 @@
   "correctAnswer": "A",
   "ref": "Ref:31-Individual Print Report Description-General-Page 2/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8274,6 +8540,7 @@
   "correctAnswer": "A",
   "ref": "Ref:31-Recording Sys C & I-AIDS P/B purpose.",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8305,6 +8572,7 @@
   "correctAnswer": "A",
   "ref": "Ref:32-LDG System Component Location-Sys Overview-Page 2/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8336,6 +8604,7 @@
   "correctAnswer": "C",
   "ref": "Ref:32-LDG System Component Location-Sys Overview-ALT Braking-Page 3b/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8367,6 +8636,7 @@
   "correctAnswer": "A",
   "ref": "Ref:32-LDG System Component Location-Sys Overview-Anti Skid Function-Page 3d/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8398,6 +8668,7 @@
   "correctAnswer": "A",
   "ref": "Ref:32-LDG System Component Location-Sys Overview-NWS-Page 4/6 & Ref: 32-LDG -Line Maintenances Tips-NWS-page 6b/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8429,6 +8700,7 @@
   "correctAnswer": "C",
   "ref": "Ref:32-LDG System Component Location-Sys Overview-FAN-Page 5b/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8460,6 +8732,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 32-LDG -Line Maintenance Tips-page 7b/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8491,6 +8764,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 32-LDG -Line Maintenance Tip-page 7b/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8522,6 +8796,7 @@
   "correctAnswer": "B",
   "ref": "Ref:32-Ldg System Line Maintenance-Servicing-Spare Seal Activating Valve-Page 2b/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8553,6 +8828,7 @@
   "correctAnswer": "A",
   "ref": "Ref:32-NLG-Description-Lockstay Assembly-Page 2f/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8584,6 +8860,7 @@
   "correctAnswer": "C",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8615,6 +8892,7 @@
   "correctAnswer": "A",
   "ref": "Ref:32-NLG-Description-Sliding Tube-Page 2f/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8646,6 +8924,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 32-LDG System Line Maintenance TIPS-Page 7/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8677,6 +8956,7 @@
   "correctAnswer": "A",
   "ref": "Ref:32-LDG system Description-Accumulator-Page 2m/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8708,6 +8988,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 32-Autobrake System D/O-Disarming-T1+T2-page 2f/2-For B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8739,6 +9020,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 32-Anti-Skid Function-Principle-T1+T2-page 2c/2-For B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8770,6 +9052,7 @@
   "correctAnswer": "A",
   "ref": "Ref:32-Brake Cooling System D/O-Purpose-T1+T2-page 2a/2-For B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8801,6 +9084,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 32-NSW System D/O-Adjustable Diaphragm-page 2f/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8832,6 +9116,7 @@
   "correctAnswer": "C",
   "ref": "Ref:32-LDG-MLG door Gnd Operation-Door Opening-Page 2b/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8863,6 +9148,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 32-BSCU-Architecture-T1+T2-page 3e/3/-For B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8894,6 +9180,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 32-ABCU-Architecture-T1+T2-page 2a/2-For B2 scope",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8925,6 +9212,7 @@
   "correctAnswer": "B",
   "ref": "Ref:33-Cabin Lights System Description-General (a)-Page 2a/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8956,6 +9244,7 @@
   "correctAnswer": "C",
   "ref": "Ref:33-Lights System Presentation-Cabin Lts Through CIDS-Page 5a/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -8987,6 +9276,7 @@
   "correctAnswer": "A",
   "ref": "Ref:33-Lights System Presentation-Cabin Lts Through CIDS-Page 5b/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9018,6 +9308,7 @@
   "correctAnswer": "C",
   "ref": "Safety Precaution: Ref:33-Light System-Safety Precaution(g)-Page 15g/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9049,6 +9340,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 33-Light System C & I (2)-ACT Demo",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9080,6 +9372,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 33-Light System C & I(2)-ACT Demo",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9111,6 +9404,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 33-Light System C & I(2)-ACT Demo",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9142,6 +9436,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 33-Cabin Lights System Description-Cabin General lights-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9173,6 +9468,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 33-Cabin Lights System Description-Cabin General lights-Page 2c/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9204,6 +9500,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 33-Cabin Lights System Description-Pax Reading lights-Page 2d/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9235,6 +9532,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 33-Cabin Lights System Description-Cabin General lights-Page 2e/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9266,6 +9564,7 @@
   "correctAnswer": "A",
   "ref": "REF: 34-ADIRS & STBY Instruments-Air data Inputs-Page 4/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9297,6 +9596,7 @@
   "correctAnswer": "B",
   "ref": "Ref:34-ADIRS & STBY Instruments-ADIRS CTL & Indication-Page 8/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9328,6 +9628,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 34-ADIRS & STBY Instruments-PFD & ND indicating-Page 9a/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9359,6 +9660,7 @@
   "correctAnswer": "C",
   "ref": "Safety Precaution: 34-ADIRS & STBY Instruments-Page 13b/13",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9390,6 +9692,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 34-Air Data Probs Presentation-STD Config-Static Ports-Page 2b/4",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9421,6 +9724,7 @@
   "correctAnswer": "A",
   "ref": "Ref:34-VOR/MKR System-Components-Page4/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9452,6 +9756,7 @@
   "correctAnswer": "A",
   "ref": "Ref:34-Navigation Systems CTL & Indication-ACT-Demo",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9483,6 +9788,7 @@
   "correctAnswer": "B",
   "ref": "Ref: RA system Presentation-Indicating-Page4/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9514,6 +9820,7 @@
   "correctAnswer": "C",
   "ref": "Safety Precaution: Ref: WXR & PWS system-Precautions-Page 2/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9545,6 +9852,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 35-Oxygen System Component Location-System Overview-Page 2/12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9576,6 +9884,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 35-Oxygen System Component Location-System Overview-Page 2/12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9607,6 +9916,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 35-Oxygen System Component Location-System Overview-Page 2/12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9638,6 +9948,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 35-Oxygen System Component Location-System Overview-Page 2/12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9669,6 +9980,7 @@
   "correctAnswer": "B",
   "ref": null,
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9700,6 +10012,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 35-Oxygen System Component Location-System Overview-Flt Crew Oxy-CEO-Page 3c/12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9731,6 +10044,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 35-Oxygen System Component Location-System Overview-Flt Crew Oxy-CEO-Page 3d/12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9762,6 +10076,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 35-Oxygen System Component Location-System Overview-Flt Crew Oxy-NEO-Page 3c/12",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9793,6 +10108,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 35-Oxygen System Component Location-Pax Oxy System Operation-Page 3d/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9824,6 +10140,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 35-Oxygen Safety in Aircraft Maintenance Environment-Safety Precautions-Page 12/20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9855,6 +10172,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precautions: During Oxygen Servicing-Page 14/20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9886,6 +10204,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precautions: Oxygen Components R/I-Page 17/20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9917,6 +10236,7 @@
   "correctAnswer": "B",
   "ref": "Safety Precautions: Leak Detection-Page 18/20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9948,6 +10268,7 @@
   "correctAnswer": "C",
   "ref": "Safety Precautions: Oxygen Transportation-Page 20/20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -9979,6 +10300,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precautions: Oxygen Transportation-Page 20/20",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10010,6 +10332,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 35-Pax Oxygen System D/O-Manual-Page 3c/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10041,6 +10364,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 35-Pax Oxygen System D/O-Chemical Oxy Generation-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10072,6 +10396,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 35-Crew Portable Oxygen System D/O-Description-Page 3/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10103,6 +10428,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 35-Pax Oxygen System D/O-Triggering-Page 2/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10134,6 +10460,7 @@
   "correctAnswer": "C",
   "ref": "Ref:35-Oxygen Presentation-Safety Precautions-Page 9c/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10165,6 +10492,7 @@
   "correctAnswer": "C",
   "ref": "Ref:36-Pneumatic System Presentation-SYS Introduction-Engine Bleed-Page 3d/8 Slides",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10196,6 +10524,7 @@
   "correctAnswer": "B",
   "ref": "Ref:36-Pneumatic System Line Maintenance-SYS Overview-Engine Bleed-Page 2e/6 Slides",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10227,6 +10556,7 @@
   "correctAnswer": "C",
   "ref": "Ref:36-Pneumatic System Line Maintenance-SYS Overview-APUEngine Bleed-Page 2g/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10258,6 +10588,7 @@
   "correctAnswer": "B",
   "ref": "Ref:36-Pneumatic System Line Maintenance-SYS Overview-APU Engine Bleed-Page 2h/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10289,6 +10620,7 @@
   "correctAnswer": "B",
   "ref": "Ref:36-Engine Bleed CTL-SYS Description-PRV/CTL solenoid-Page 2f/2-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10320,6 +10652,7 @@
   "correctAnswer": "A",
   "ref": "Ref:36-Engine Bleed CTL-SYS Description-FAVV/CTL Thermostat-Page 2l/2-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10351,6 +10684,7 @@
   "correctAnswer": "C",
   "ref": "Ref:36-Pneumatic Leak DET SYS D/O-Fault Logic-Page 4/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10382,6 +10716,7 @@
   "correctAnswer": "A",
   "ref": "Ref:36-Pneumatic System Presentation-System Introduction-Engine Bleed-Page 3b/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10413,6 +10748,7 @@
   "correctAnswer": "A",
   "ref": "Ref:36-Pneumatic System Presentation-System Introduction-Leak Detection-Page 4/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10444,6 +10780,7 @@
   "correctAnswer": "B",
   "ref": "Ref:36-Pnuematic System Presentation-System Overview-Page 2a/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10475,6 +10812,7 @@
   "correctAnswer": "A",
   "ref": "Ref:36-Pneumatic Leak Detection-System D/O-Fault Logic-Page 4/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10506,6 +10844,7 @@
   "correctAnswer": "A",
   "ref": "Ref:36-Penumatic System Presentation -ACT demo",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10537,6 +10876,7 @@
   "correctAnswer": "B",
   "ref": "Ref:36-Bleed System Description-General-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10568,6 +10908,7 @@
   "correctAnswer": "A",
   "ref": "Ref:36-ACT-Control & Indication",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10599,6 +10940,7 @@
   "correctAnswer": "A",
   "ref": "Ref: APU/HP/X-bleed System D/O-Page 2/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10630,6 +10972,7 @@
   "correctAnswer": "C",
   "ref": "Ref: APU/HP/X-bleed System D/O-Page 2/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10661,6 +11004,7 @@
   "correctAnswer": "B",
   "ref": "Ref:36-Pneumatic System Line Maintenance-Maintenance Tips-Page 6c/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10692,6 +11036,7 @@
   "correctAnswer": "C",
   "ref": "Ref:38-Water & Waste Presentation-System Introduction-Page 2a/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10723,6 +11068,7 @@
   "correctAnswer": "A",
   "ref": "Ref:38-Water & Waste Presentation-potable water System-Page 2c/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10754,6 +11100,7 @@
   "correctAnswer": "C",
   "ref": "Ref:38-Water & Waste Presentation-potable water System-Page 2b/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10785,6 +11132,7 @@
   "correctAnswer": "A",
   "ref": "Ref:38-Water/Waste System Line Maintenance-Gold Weather-Page 3/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10816,6 +11164,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 38-Toilet Servicing -Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10847,6 +11196,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 38-Toilet Servicing -Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10878,6 +11228,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 38-Toilet Servicing -Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10909,6 +11260,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 38-Toilet Servicing -Video& Maintenance tips",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10940,6 +11292,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 38-Toilet Servicing -Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -10971,6 +11324,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 38-Toilet Servicing -Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11002,6 +11356,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 38-Toilet Servicing -Video",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11033,6 +11388,7 @@
   "correctAnswer": "A",
   "ref": "Ref:38-Water/Waste System Line Maintenance-Gold Weather-Page 3/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11050,11 +11406,11 @@
   "options": [
    {
     "key": "A",
-    "text": ""
+    "text": "AMM 38-00."
    },
    {
     "key": "B",
-    "text": ""
+    "text": "AMM 12-31-38."
    },
    {
     "key": "C",
@@ -11062,8 +11418,9 @@
    }
   ],
   "correctAnswer": "B",
-  "ref": "AMM 38-00. AMM 12-31-38. Ref:38-Water/Waste System Line Maintenance-Gold Weather-Page 3/3",
+  "ref": "Ref:38-Water/Waste System Line Maintenance-Gold Weather-Page 3/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11095,6 +11452,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 38-Toilet System Principle-Vacuum Control-Page 2c/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11126,6 +11484,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 38-Toilet System Principle-Vacuum Control-Page 2c/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11157,6 +11516,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 38-Water/WasteSys-Line Maintenance-MEL-Page2/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11188,6 +11548,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 38-Water & Waste Presentation-VacumToilet System-Flushing-Page 5c/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11219,6 +11580,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 46-Information System Presentation-ATIMS-Page 3/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11250,6 +11612,7 @@
   "correctAnswer": "B",
   "ref": "Ref: Course Flow Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11281,6 +11644,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 46-ATSU Router Initialization and Test Through MCDU-General(a)-Page 2a/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11312,6 +11676,7 @@
   "correctAnswer": "B",
   "ref": "Ref: 46-ATIMS Warnings-ATSU STBY (a)-Page 3a/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11343,6 +11708,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 46-ATIMS MCDU Menus Description-Maintenance Status-Page 4b/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11374,6 +11740,7 @@
   "correctAnswer": "C",
   "ref": "Ref:47-Fuel Tank Inerting System Description-Overview-page 2a/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11405,6 +11772,7 @@
   "correctAnswer": "C",
   "ref": "Ref:47-Fuel Tank Inerting System Description-Overview-page 2c/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11436,6 +11804,7 @@
   "correctAnswer": "C",
   "ref": "Ref:47-Fuel Tank Inerting System Description-Overview-page 2c/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11467,6 +11836,7 @@
   "correctAnswer": "C",
   "ref": "Ref:47-Fuel Tank Inerting System Description-Operation-page 3/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11498,6 +11868,7 @@
   "correctAnswer": "C",
   "ref": "Ref:47-Fuel Tank Inerting System Description-Safety Precaution-page 7/8",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11529,6 +11900,7 @@
   "correctAnswer": "C",
   "ref": "Ref:47-Fuel Tank Inerting System Description-Operational Impact-page 8/8 slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11560,6 +11932,7 @@
   "correctAnswer": "A",
   "ref": "Ref:21-CSAS D/O-SYS Description-CSAS operation-Page 4/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11591,6 +11964,7 @@
   "correctAnswer": "A",
   "ref": "Ref:47-IGGS D/O-Component Description-ASM-Page 6/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11626,6 +12000,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 47-IGGS D/O-ICU Interfaces-Page 9a/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11657,6 +12032,7 @@
   "correctAnswer": "C",
   "ref": "Ref:21-CSAS D/O-SYS Description-Page 3a/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11688,6 +12064,7 @@
   "correctAnswer": "C",
   "ref": "Ref:47-FTIS SYS Description-Overview-Page 2/8 Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11719,6 +12096,7 @@
   "correctAnswer": "A",
   "ref": "Ref:47-FTIS SYS Description-Component Location-Page 4/8 Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11750,6 +12128,7 @@
   "correctAnswer": "C",
   "ref": "Ref:47- IGGS System D/o-Component Description-Dual Flow Shut Off Valve-Page 7/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11781,6 +12160,7 @@
   "correctAnswer": "A",
   "ref": "Ref:47- IGGS System D/o-Component Description-Dual Flapper Check Valve-Page 8/9",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11812,6 +12192,7 @@
   "correctAnswer": "B",
   "ref": "TASK 49-00-00-860-008-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11843,6 +12224,7 @@
   "correctAnswer": "A",
   "ref": "TASK 49-00-00-870-003-A",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11874,6 +12256,7 @@
   "correctAnswer": "C",
   "ref": "49-61-00-00 CONF 16 - CONTROL AND MONITORING - DESCRIPTION AND OPERATION",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11905,6 +12288,7 @@
   "correctAnswer": "A",
   "ref": "Ref:49-APU-System Component Location-System Overview-Page2a/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11936,6 +12320,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU-System Component Location-System Overview-Page2a/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11967,6 +12352,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU-System Component Location-Page3a/5-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -11998,6 +12384,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU-System Management-D/O-Page 2/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12029,6 +12416,7 @@
   "correctAnswer": "B",
   "ref": "Ref:49-APU Installation Presentation-Mounts-Page 2b/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12060,6 +12448,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU-Presentation-C &I-ECAM APU page-System -Page 9/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12091,6 +12480,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU-Line Maintenance-MEL/Deactivation-Page 3a/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12122,6 +12512,7 @@
   "correctAnswer": "A",
   "ref": "Safety Precaution: Ref:49-APU Compartment Access Doors Opening & Closing-Procedure-Page 3/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12153,6 +12544,7 @@
   "correctAnswer": "A",
   "ref": "Ref:49-General-Page 2b/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12184,6 +12576,7 @@
   "correctAnswer": "B",
   "ref": "Ref:49-APU-Ignition & Starting-D/O- Page 2a/",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12215,6 +12608,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU-Ignition & Starting-D/O- Page 2a/2",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12246,6 +12640,7 @@
   "correctAnswer": "C",
   "ref": "Ref: APU-Air System-D/O-Oil Cooling-Page 2e/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12277,6 +12672,7 @@
   "correctAnswer": "A",
   "ref": "Ref:49-APU-Air System-D/O-Bleed supply- Page 2b/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12308,6 +12704,7 @@
   "correctAnswer": "A",
   "ref": "Ref:49-APU-System Component Location-Page3a/5-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12339,6 +12736,7 @@
   "correctAnswer": "B",
   "ref": "Ref:49-APU-System Management-Watch & Start Preparation State-Page 4/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12370,6 +12768,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU-Fuel System-D/O-Page 2/8-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12401,6 +12800,7 @@
   "correctAnswer": "A",
   "ref": "Ref:49-APU-System Line Maintenance-Page5b/5-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12432,6 +12832,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU-System Component Location-Page3a/5-Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12463,6 +12864,7 @@
   "correctAnswer": "C",
   "ref": "Ref:49-APU presentation-Maintenance/Test-Page 10/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12494,6 +12896,7 @@
   "correctAnswer": "B",
   "ref": "Ref:49-APU presentation-Maintenance/Test-Page 10/11",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12525,6 +12928,7 @@
   "correctAnswer": "C",
   "ref": "Ref:52-Doors Presentation-Axx. A321LR-Page 5a/21",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12556,6 +12960,7 @@
   "correctAnswer": "B",
   "ref": "Ref:52-Doors Presentation-Safety Precautions-Page 21e/21",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12587,6 +12992,7 @@
   "correctAnswer": "A",
   "ref": "Ref: 52-Doors Presentation-C & I-Pax Doors-Page 15g/21",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12618,6 +13024,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 52-Doors Presentation-A3xx, A321-Emergency Exit-Page 2d/21",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12649,6 +13056,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 52-Doors Presentation-A3xx, A321-Emergency Exit-Page 2d/21",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12680,6 +13088,7 @@
   "correctAnswer": "B",
   "ref": "Ref:52-FWD & AFT Cargo Door Structure Description-T1+T2-Page 2c/3",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12711,6 +13120,7 @@
   "correctAnswer": "A",
   "ref": "Ref:52-FWD & AFT Cargo Door Structure Description-Seal-T1+T2-Page3/3 Slide",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12742,6 +13152,7 @@
   "correctAnswer": "B",
   "ref": "Ref:52-Cago Doors Hydraulic System D/O-Normal Opening-T1+T2-page 3/14",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12773,6 +13184,7 @@
   "correctAnswer": "C",
   "ref": "Ref: MMEL-ATA 52",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12804,6 +13216,7 @@
   "correctAnswer": "C",
   "ref": "Ref:52-Doors Line Maintenance-Emergency Exit Door Deactivation-Page 6/6",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12835,6 +13248,7 @@
   "correctAnswer": "B",
   "ref": "Ref:52-Pax Door Damper/Emergency Cylinder-Servicing-Page 5/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12866,6 +13280,7 @@
   "correctAnswer": "B",
   "ref": "Ref:52-Cockpit Door Operation-Video-Page 4/5",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12897,6 +13312,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 51-Structurak Breakdown & Zoning-Principles-Page 2/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12928,6 +13344,7 @@
   "correctAnswer": "C",
   "ref": "Ref:51-Structurak Breakdown & Zoning-ATA Chapters-Page 4a/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12959,6 +13376,7 @@
   "correctAnswer": "C",
   "ref": "Ref:51-Structurak Breakdown & Zoning-Zone Numbers-Page 14/15",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  },
  {
@@ -12990,6 +13408,7 @@
   "correctAnswer": "C",
   "ref": "Ref: 52-Doors D/O-Bulk Cargo Door-Page 7/10",
   "answerSource": "yellow_highlight",
+  "answerNote": null,
   "parseStatus": "ok"
  }
 ]

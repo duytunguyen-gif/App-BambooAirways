@@ -14,6 +14,7 @@ export default function StudyQuestionCard({
   onToggleMark: () => void;
 }) {
   const hasAnswer = q.parseStatus === "ok" && q.correctAnswer != null;
+  const researched = q.answerSource === "researched";
 
   return (
     <div className="rounded-xl border border-line-soft bg-ink-800 p-3.5">
@@ -72,8 +73,21 @@ export default function StudyQuestionCard({
       {/* key / status line */}
       {showKey &&
         (hasAnswer ? (
-          <div className="mt-2.5 text-sm font-semibold text-bamboo-green">
-            Đáp án đúng: {q.correctAnswer}
+          <div className="mt-2.5">
+            <div className="text-sm font-semibold text-bamboo-green">
+              Đáp án đúng: {q.correctAnswer}
+              {researched && (
+                <span className="ml-2 rounded bg-amber-500/20 px-1.5 py-0.5 text-[11px] font-semibold text-amber-300">
+                  Đáp án tham khảo
+                </span>
+              )}
+            </div>
+            {researched && (
+              <div className="mt-1 text-xs italic text-amber-300/80">
+                Không có trong tài liệu gốc — tra cứu ngoài.
+                {q.answerNote ? ` ${q.answerNote}` : ""}
+              </div>
+            )}
           </div>
         ) : (
           <div className="mt-2.5 text-sm font-semibold text-warn-orange">

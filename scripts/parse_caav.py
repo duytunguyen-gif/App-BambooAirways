@@ -18,6 +18,43 @@ from caav_parse_lib import parse_file, FILE_META, FILE_SLUG  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC_DIR = os.path.join(ROOT, "caav")
 OUT_DIR = os.path.join(ROOT, "public", "data", "caav")
+MANUAL_FILE = os.path.join(os.path.dirname(__file__), "caav_manual_answers.json")
+
+
+def load_manual():
+    """Curated answers for questions with no yellow highlight in the source PDF
+    (researched externally, user-authorised). Keyed by slug -> list of entries."""
+    if not os.path.exists(MANUAL_FILE):
+        return {}
+    with open(MANUAL_FILE, encoding="utf-8") as f:
+        data = json.load(f)
+    by_slug = {}
+    for a in data.get("answers", []):
+        by_slug.setdefault(a["slug"], []).append(a)
+    return by_slug
+
+
+def apply_manual(questions, entries):
+    """Fill in researched answers for still-unresolved questions. Only touches
+    questions that are NOT already 'ok' (never overrides a source-highlight answer).
+    Returns how many were applied."""
+    applied = 0
+    for e in entries:
+        for q in questions:
+            if (q["questionNumberOriginal"] == e["qnum"]
+                    and e["match"].lower() in q["question"].lower()
+                    and q["parseStatus"] != "ok"):
+                keys = {o["key"] for o in q["options"]}
+                if e["answer"] not in keys:
+                    print(f"  !! manual answer {e['answer']} not an option for "
+                          f"{e['slug']} q{e['qnum']} — skipped")
+                    continue
+                q["correctAnswer"] = e["answer"]
+                q["answerSource"] = "researched"
+                q["answerNote"] = e.get("note")
+                q["parseStatus"] = "ok"
+                applied += 1
+    return applied
 
 # Real CAAV renewal exam structure.
 EXAM_CONFIG = {
@@ -47,6 +84,8 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     banks = []
     grand_total = 0
+    manual = load_manual()
+    manual_total = 0
 
     for fname, meta in FILE_META.items():
         path = os.path.join(SRC_DIR, fname)
@@ -55,6 +94,7 @@ def main():
             continue
         questions = parse_file(path, fname)
         slug = FILE_SLUG[fname]
+        manual_total += apply_manual(questions, manual.get(slug, []))
 
         # write the per-bank question file
         with open(os.path.join(OUT_DIR, f"{slug}.json"), "w", encoding="utf-8") as f:
@@ -103,6 +143,7 @@ def main():
 
     print(f"\nWrote {len(banks)} banks + index.json to {OUT_DIR}")
     print(f"Total questions: {grand_total}")
+    print(f"Researched answers applied (no source highlight): {manual_total}")
 
 
 if __name__ == "__main__":

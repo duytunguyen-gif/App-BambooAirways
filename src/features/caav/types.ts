@@ -7,6 +7,7 @@ export type ParseStatus =
   | "ok"
   | "missing_answer"
   | "multi_answer"
+  | "conflict" // yellow highlight and the "Correct Answer is …" line disagree
   | "missing_options"
   | "missing_question"
   | "parse_error";
@@ -38,7 +39,8 @@ export interface Question {
   options: QuestionOption[];
   correctAnswer: string | null; // null when parseStatus !== "ok"
   ref: string | null;
-  answerSource: string; // "yellow_highlight" | "unknown"
+  answerSource: string; // "yellow_highlight" | "yellow+line" | "correct_line" | "researched" | "unknown"
+  answerNote?: string | null; // explanation shown for "researched" answers
   parseStatus: ParseStatus;
 }
 

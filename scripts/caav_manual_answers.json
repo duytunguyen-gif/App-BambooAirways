@@ -1,0 +1,15 @@
+{
+ "_comment": "Đáp án BỔ SUNG bằng tra cứu ngoài cho các câu KHÔNG có ô vàng trong tài liệu gốc. Được phép bởi user (thợ máy BAV) 2026-07-09. Mỗi mục: slug + qnum + match (chuỗi trong đề để chống nhầm) + answer + note. answerSource sẽ là 'researched' và hiển thị badge 'Đáp án tham khảo' trong app. CHỈ áp cho câu đang không 'ok'.",
+ "answers": [
+  {"slug": "a320-b2", "qnum": 158, "match": "The FCU allows", "answer": "C",
+   "note": "FCU (Flight Control Unit) là giao diện điều khiển NGẮN HẠN của tổ bay; điều khiển dài hạn (flight plan) là qua MCDU/FMGC."},
+  {"slug": "a320-b2", "qnum": 159, "match": "The Flight Director is engaged", "answer": "A",
+   "note": "Flight Director bật bằng cách ấn nút FD trên FCU."},
+  {"slug": "a320-b2", "qnum": 160, "match": "The AFS computers are", "answer": "A",
+   "note": "Auto Flight System gồm FMGC và FAC."},
+  {"slug": "a320-b2", "qnum": 161, "match": "The FMGC functions are", "answer": "C",
+   "note": "FMGC = Flight Management + Flight Guidance (bảo vệ giới hạn bay là của FAC/ELAC)."},
+  {"slug": "law", "qnum": 39, "match": "enforcement effect of the 2006 civil aviation law", "answer": "B",
+   "note": "Luật HKDD Việt Nam 2006 (66/2006/QH11) có hiệu lực 01/01/2007."}
+ ]
+}
