@@ -1249,11 +1249,11 @@
     "text": "96 hours."
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-gen-q036-0036",
@@ -4233,11 +4233,11 @@
     "text": "The aircraft can be certified fit for flight and continue operation for 24 hours."
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "conflict",
-  "answerNote": null,
-  "parseStatus": "conflict"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q119-0119",
@@ -12453,11 +12453,11 @@
     "text": "sign completion of maintenance after implementation maintenance work planned on aircraft"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "conflict",
-  "answerNote": null,
-  "parseStatus": "conflict"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q348-0348",
@@ -14465,11 +14465,11 @@
     "text": "are signed after each flight."
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "D",
   "ref": null,
-  "answerSource": "conflict",
-  "answerNote": null,
-  "parseStatus": "conflict"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q404-0404",
@@ -14797,9 +14797,17 @@
   "sectionType": "LAW",
   "ataCode": "ATA 100",
   "ataTitle": "Explanation. See spec",
-  "questionNumberOriginal": 5,
-  "question": "",
+  "questionNumberOriginal": 412,
+  "question": "The organisation shall appoint an accountable manager who has corporate authority for ensuring that:",
   "options": [
+   {
+    "key": "A",
+    "text": "All maintenance required by the customer can be financed and carried out to the standard required by local authority requirements."
+   },
+   {
+    "key": "B",
+    "text": "All maintenance required by the customer can be financed and carried out to the standard required by VAR Part 5."
+   },
    {
     "key": "C",
     "text": "All maintenance required by the customer can be financed and carried out to the standard that is specified in MOE Maintenance Organization Exposition (MOE)."
@@ -14809,11 +14817,11 @@
     "text": "All maintenance required by the customer can be carried out to the standard required by VAR Part 5."
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án khôi phục từ PDF gốc (câu 412); đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q413-0414",
@@ -15957,11 +15965,11 @@
     "text": "sign completion of maintenance after implementation maintenance work planned on aircraft"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "conflict",
-  "answerNote": null,
-  "parseStatus": "conflict"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q445-0446",
@@ -16883,29 +16891,13 @@
    {
     "key": "D",
     "text": "2 years after the completion of the course."
-   },
-   {
-    "key": "A",
-    "text": "not sign anything, there are no certification rights offered by the license alone."
-   },
-   {
-    "key": "B",
-    "text": "sign the CRS."
-   },
-   {
-    "key": "C",
-    "text": "sign the CRS for aircraft above 5700 kg only."
-   },
-   {
-    "key": "D",
-    "text": "sign the CRS for aircraft below 5700 kg only."
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "D",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q472-0472",
@@ -17687,29 +17679,13 @@
    {
     "key": "D",
     "text": "VAR Part 9"
-   },
-   {
-    "key": "A",
-    "text": "VAR Part 7"
-   },
-   {
-    "key": "B",
-    "text": "VAR Part 5"
-   },
-   {
-    "key": "C",
-    "text": "VAR Part 12"
-   },
-   {
-    "key": "D",
-    "text": "VAR Part 9"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q495-0494",
@@ -18097,11 +18073,11 @@
     "text": "Maintenance work planned on aircraft"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "conflict",
-  "answerNote": null,
-  "parseStatus": "conflict"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q506-0505",
@@ -18637,11 +18613,11 @@
     "text": "a list of maintenance tasks to be carried out on a particular aircraft/ aircraft component, required to be done in order to prevent endangering the safety incidents."
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "conflict",
-  "answerNote": null,
-  "parseStatus": "conflict"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "law-ata100-q521-0520",

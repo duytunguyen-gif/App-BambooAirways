@@ -1,6 +1,6 @@
 {
  "generatedFrom": "caav/*.pdf",
- "totalQuestions": 3509,
+ "totalQuestions": 3508,
  "examConfig": {
   "A": {
    "lawQuestions": 15,
@@ -180,7 +180,12 @@
     {
      "code": "ATA 47",
      "title": "FUEL TANK INERTING SYSTEM (FTIS)",
-     "count": 14
+     "count": 10
+    },
+    {
+     "code": "ATA 47",
+     "title": "377. The FTIS consists of",
+     "count": 4
     },
     {
      "code": "ATA 49",
@@ -222,7 +227,7 @@
     {
      "code": "ATA 51",
      "title": "TRANING MANUAL -00 STRUCTURE DIFFERENCES A318",
-     "count": 30
+     "count": 27
     },
     {
      "code": "ATA 01",
@@ -232,12 +237,57 @@
     {
      "code": "ATA 21",
      "title": "AIRCONDITIONING",
-     "count": 43
+     "count": 4
+    },
+    {
+     "code": "ATA 21",
+     "title": "TRAINING MANUAL -60 COCKPIT AND TEMPERATURE CONTROL",
+     "count": 8
+    },
+    {
+     "code": "ATA 21",
+     "title": "TRANING MANUAL -60 COCKPIT AND CABIN TEMPERATURE CONTROL",
+     "count": 7
+    },
+    {
+     "code": "ATA 21",
+     "title": "TRANING MANUAL -00 INDICATION",
+     "count": 11
+    },
+    {
+     "code": "ATA 21",
+     "title": "TRANING MANUAL -31 PRESSURIZATION – INTERFACES EIU",
+     "count": 2
+    },
+    {
+     "code": "ATA 21",
+     "title": "TRANING MANUAL -31 PRESSURIZATION- CABIN PRESSURE ALTITUDE",
+     "count": 1
+    },
+    {
+     "code": "ATA 21",
+     "title": "TRANING MANUAL -31 PRESSURIZATION- SAFETY VALVES",
+     "count": 3
+    },
+    {
+     "code": "ATA 21",
+     "title": "TRANING MANUAL -51 AIR COOLING SYSTEM- ACM",
+     "count": 1
+    },
+    {
+     "code": "ATA 21",
+     "title": "TRANING MANUAL -26 AVIONICS EQUIPMENT VENTILATION",
+     "count": 6
     },
     {
      "code": "ATA 22",
      "title": "AUTO FLIGHT",
-     "count": 11
+     "count": 1
+    },
+    {
+     "code": "ATA 22",
+     "title": "TRANING MANUAL - AUTO FLIGHT SYSTEM PRESENTATION",
+     "count": 10
     },
     {
      "code": "ATA 23",
@@ -247,32 +297,92 @@
     {
      "code": "ATA 24",
      "title": "ELECTRICAL SYSTEMS",
-     "count": 37
+     "count": 29
+    },
+    {
+     "code": "ATA 24",
+     "title": "TRANING MANUAL -24 RAT AND CSM/G LOGIC",
+     "count": 3
+    },
+    {
+     "code": "ATA 24",
+     "title": "TRANING MANUAL -50 REFUELING ON BATTERY",
+     "count": 5
     },
     {
      "code": "ATA 25",
      "title": "EQUIPMENT & FURNISHINGS",
-     "count": 13
+     "count": 2
     },
     {
      "code": "ATA 52",
      "title": "TRANING MANUAL -21 EMERGENCY EXIT DOOR- OFFWING ESCAPE SLIDES",
-     "count": 52
+     "count": 10
+    },
+    {
+     "code": "ATA 25",
+     "title": "TRANING MANUAL -23 A321 DOOR 2/3 AREA HEATING SYSTEM",
+     "count": 11
     },
     {
      "code": "ATA 26",
      "title": "FIRE PROTECTION",
-     "count": 19
+     "count": 14
+    },
+    {
+     "code": "ATA 26",
+     "title": "TRAINING MANUAL -12 FIRE DETECTORS",
+     "count": 4
+    },
+    {
+     "code": "ATA 26",
+     "title": "TRANING MANUAL -16/17 FLOW METERING SYSTEM FOR ETOPS",
+     "count": 1
     },
     {
      "code": "ATA 27",
      "title": "FLIGHT CONTROLS",
-     "count": 36
+     "count": 24
+    },
+    {
+     "code": "ATA 27",
+     "title": "TRANING MANUAL -60 GROUND SPOILER FUNCTION",
+     "count": 2
+    },
+    {
+     "code": "ATA 27",
+     "title": "TRANING MANUAL -40 TRIMMABLE HORRIZONTAL STABILIZER",
+     "count": 10
     },
     {
      "code": "ATA 28",
      "title": "FUEL",
-     "count": 45
+     "count": 2
+    },
+    {
+     "code": "ATA 28",
+     "title": "TRANING MANUAL -10 TANK VENTING SYSTEM",
+     "count": 9
+    },
+    {
+     "code": "ATA 28",
+     "title": "TRANING MANUAL -16 FUEL RECIRCULATION A320",
+     "count": 1
+    },
+    {
+     "code": "ATA 28",
+     "title": "TRANING MANUAL -40 INDICATING A320",
+     "count": 1
+    },
+    {
+     "code": "ATA 28",
+     "title": "TRANING MANUAL -16 FUEL RECIRCULATION -COOLING",
+     "count": 1
+    },
+    {
+     "code": "ATA 28",
+     "title": "TRANING MANUAL -40 INDICATING-LOW LEVEL",
+     "count": 31
     },
     {
      "code": "ATA 29",
@@ -297,7 +407,12 @@
     {
      "code": "ATA 33",
      "title": "LIGHTS",
-     "count": 15
+     "count": 10
+    },
+    {
+     "code": "ATA 33",
+     "title": "TRANING MANUAL -20 OPERATION TEST OF READINGLIGHT",
+     "count": 5
     },
     {
      "code": "ATA 34",
@@ -307,7 +422,27 @@
     {
      "code": "ATA 35",
      "title": "OXYGEN SYSTEM",
-     "count": 39
+     "count": 10
+    },
+    {
+     "code": "ATA 35",
+     "title": "TRANING MANUAL -10 CREW OXYGEN SYSTEM PRESENTATION",
+     "count": 8
+    },
+    {
+     "code": "ATA 35",
+     "title": "TRANING MANUAL -20 PASSENGER OXYGEN- RESET",
+     "count": 1
+    },
+    {
+     "code": "ATA 35",
+     "title": "TRANING MANUAL -25 PASSENGER OXYGEN- CONTROL $ INDICATION",
+     "count": 14
+    },
+    {
+     "code": "ATA 35",
+     "title": "TRANING MANUAL -30 -PBE",
+     "count": 6
     },
     {
      "code": "ATA 36",
@@ -317,7 +452,37 @@
     {
      "code": "ATA 38",
      "title": "WATER & WASTE",
-     "count": 25
+     "count": 1
+    },
+    {
+     "code": "ATA 38",
+     "title": "TRANING MANUAL -00 GENERAL",
+     "count": 1
+    },
+    {
+     "code": "ATA 38",
+     "title": "TRANING MANUAL -11 POTABLE WATER SYSTEM - WATER TANK LOCATION",
+     "count": 1
+    },
+    {
+     "code": "ATA 38",
+     "title": "TRANING MANUAL -10 POTABLE WATER SYSTEM - DISTRIBUTION",
+     "count": 18
+    },
+    {
+     "code": "ATA 38",
+     "title": "TRANING MANUAL -10 POTABLE WATER SYSTEM - LAVATORIES",
+     "count": 1
+    },
+    {
+     "code": "ATA 38",
+     "title": "TRANING MANUAL -10 POTABLE WATER SYSTEM - STORAGE",
+     "count": 1
+    },
+    {
+     "code": "ATA 38",
+     "title": "TRANING MANUAL -30 WASTE WATER SYSTEM – GENERAL",
+     "count": 2
     },
     {
      "code": "ATA 46",
@@ -327,7 +492,17 @@
     {
      "code": "ATA 47",
      "title": "FUEL TANK INERTING SYSTEM (FTIS)",
-     "count": 27
+     "count": 14
+    },
+    {
+     "code": "ATA 47",
+     "title": "TRANING MANUAL -00 CONDITIONED SERVICE AIR SYSTEM",
+     "count": 4
+    },
+    {
+     "code": "ATA 47",
+     "title": "TRANING MANUAL -00 COMPONENT DESCRIPTION",
+     "count": 9
     },
     {
      "code": "ATA 49",
@@ -335,19 +510,64 @@
      "count": 28
     },
     {
+     "code": "ATA 51",
+     "title": "57 STRUCTURE",
+     "count": 2
+    },
+    {
      "code": "ATA 57",
      "title": "TRANING MANUAL -10 CENTER WING BOX",
-     "count": 10
+     "count": 1
+    },
+    {
+     "code": "ATA 57",
+     "title": "TRANING MANUAL -30 SHARKLETS GENERAL",
+     "count": 1
     },
     {
      "code": "ATA 06",
      "title": "TRANING MANUAL -20 STRUCTURAL BREAKDOWN AND ZONING",
+     "count": 2
+    },
+    {
+     "code": "ATA 06",
+     "title": "TRANING MANUAL -20 ZONES NUMBERS",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -11 DOOR STRUCTURE",
      "count": 3
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -00 GENNERAL",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -22 EMERGENCY EXIT DOORS",
+     "count": 2
     },
     {
      "code": "ATA 53",
      "title": "TRANING MANUAL -10 NOSE FUSELAGE SECTION 11/12",
-     "count": 4
+     "count": 1
+    },
+    {
+     "code": "ATA 53",
+     "title": "TRANING MANUAL -10 FORWARD FUSELAGE SECTION 13/14",
+     "count": 1
+    },
+    {
+     "code": "ATA 53",
+     "title": "TRANING MANUAL -50 TAILCONE SECTION 19",
+     "count": 1
+    },
+    {
+     "code": "ATA 53",
+     "title": "TRANING MANUAL -50 SECTION AFT OF FRAME 77",
+     "count": 1
     },
     {
      "code": "ATA 54",
@@ -355,14 +575,129 @@
      "count": 3
     },
     {
+     "code": "ATA 51",
+     "title": "TRANING MANUAL -57 SRM GENERAL USAGE PROCEDURE",
+     "count": 1
+    },
+    {
      "code": "ATA 55",
      "title": "TRANING MANUAL -10 STABILIZER GENERAL",
      "count": 5
     },
     {
+     "code": "ATA 57",
+     "title": "TRANING MANUAL -00 WINGS GENERAL",
+     "count": 2
+    },
+    {
+     "code": "ATA 57",
+     "title": "TRANING MANUAL -10 CENTER WING- WING ROOT JOINT",
+     "count": 1
+    },
+    {
+     "code": "ATA 57",
+     "title": "TRANING MANUAL -00 WINGS CPMPONENTS",
+     "count": 1
+    },
+    {
+     "code": "ATA 57",
+     "title": "TRANING MANUAL -27 ACCESS HOLES",
+     "count": 2
+    },
+    {
      "code": "ATA 56",
      "title": "TRANING MANUAL -10 SLIDING WINDOW STRUCTURE",
+     "count": 1
+    },
+    {
+     "code": "ATA 57",
+     "title": "TRANING MANUAL -30 SHARKLETS STRUCTURE",
+     "count": 1
+    },
+    {
+     "code": "ATA 57",
+     "title": "TRANING MANUAL -10 CENTER WING-ACCESS COVER",
+     "count": 1
+    },
+    {
+     "code": "ATA 56",
+     "title": "TRANING MANUAL -21 CABIN WINDOWS",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "DOORS",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -11 PASSENGER/CREW DOORS GENERAL",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL",
+     "count": 5
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -00 AVIONIC DOORS",
+     "count": 4
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -11 EMERGENCY ESCAPE SLIDE",
      "count": 2
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -21 EMERGENCY EXIT-SLIDE RELEASE MECHANISM",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -21 EMERGENCY EXIT DOOR- inflation reservoirs",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -22 EMERGENCY EXIT DOOR 321-Inflation reservoirs",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -11 PASSENGER/CREW DOOR ESCAPE SLIDES",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -22 ENERGENCY EXIT DOOR",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -30 CARGO COMPARTMENT DOOR-DESCRIPTION AND",
+     "count": 2
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -30 NORMAL HYDRAULIC OPENING PROCEDURE",
+     "count": 2
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -51 COCKPIT DOOR-LOCK SYSTEM",
+     "count": 12
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -51 CONTROL UNIT 24MQ",
+     "count": 1
+    },
+    {
+     "code": "ATA 52",
+     "title": "TRANING MANUAL -51 COCKPIT DOOR-LOCK SYSTEM-DOOR STRUCTURE",
+     "count": 1
     }
    ]
   },
@@ -376,8 +711,8 @@
    "sectionType": "TypeEngine",
    "stated": 620,
    "total": 618,
-   "okCount": 617,
-   "missingAnswerCount": 1,
+   "okCount": 618,
+   "missingAnswerCount": 0,
    "multiAnswerCount": 0,
    "otherIssueCount": 0,
    "ataGroups": [
@@ -404,7 +739,17 @@
     {
      "code": "ATA 34",
      "title": "Navigation ADIRS &Standby Instruments",
-     "count": 38
+     "count": 19
+    },
+    {
+     "code": "ATA 34",
+     "title": "Dependent Position Determining Systems & Landing AIDS",
+     "count": 4
+    },
+    {
+     "code": "ATA 34",
+     "title": "Independent Position Determining Systems",
+     "count": 15
     },
     {
      "code": "ATA 22",
@@ -494,7 +839,12 @@
     {
      "code": "ATA 47",
      "title": "FUEL TANK INERTING SYSTEM (FTIS)",
-     "count": 17
+     "count": 14
+    },
+    {
+     "code": "ATA 47",
+     "title": "586. The FTIS consists of",
+     "count": 3
     },
     {
      "code": "ATA 30",
@@ -578,11 +928,11 @@
    "engineType": "LEAP-1A",
    "sectionType": "TypeEngine",
    "stated": 50,
-   "total": 51,
-   "okCount": 49,
-   "missingAnswerCount": 1,
+   "total": 50,
+   "okCount": 50,
+   "missingAnswerCount": 0,
    "multiAnswerCount": 0,
-   "otherIssueCount": 1,
+   "otherIssueCount": 0,
    "ataGroups": [
     {
      "code": "ATA 71",
@@ -617,7 +967,7 @@
     {
      "code": "ATA 77",
      "title": "ENGINE INDICATING",
-     "count": 6
+     "count": 5
     },
     {
      "code": "ATA 78",
@@ -824,8 +1174,8 @@
    "sectionType": "TypeEngine",
    "stated": 100,
    "total": 100,
-   "okCount": 99,
-   "missingAnswerCount": 1,
+   "okCount": 100,
+   "missingAnswerCount": 0,
    "multiAnswerCount": 0,
    "otherIssueCount": 0,
    "ataGroups": [
@@ -846,10 +1196,10 @@
    "sectionType": "LAW",
    "stated": null,
    "total": 600,
-   "okCount": 590,
-   "missingAnswerCount": 1,
-   "multiAnswerCount": 2,
-   "otherIssueCount": 7,
+   "okCount": 600,
+   "missingAnswerCount": 0,
+   "multiAnswerCount": 0,
+   "otherIssueCount": 0,
    "ataGroups": [
     {
      "code": null,
@@ -859,7 +1209,32 @@
     {
      "code": "ATA 100",
      "title": "Correct Answer is. the Maintenance Manual. Explanation. Chapter 11",
-     "count": 557
+     "count": 6
+    },
+    {
+     "code": "ATA 100",
+     "title": "Explanation. Chapter 11",
+     "count": 224
+    },
+    {
+     "code": "ATA 100",
+     "title": "Explanation. Chapters 9 & 10",
+     "count": 1
+    },
+    {
+     "code": "ATA 100",
+     "title": "Explanation. See specification",
+     "count": 4
+    },
+    {
+     "code": "ATA 100",
+     "title": "Explanation. Ch.5",
+     "count": 5
+    },
+    {
+     "code": "ATA 100",
+     "title": "Explanation. See spec",
+     "count": 317
     }
    ]
   },
@@ -873,10 +1248,10 @@
    "sectionType": "English",
    "stated": null,
    "total": 495,
-   "okCount": 454,
-   "missingAnswerCount": 8,
-   "multiAnswerCount": 11,
-   "otherIssueCount": 22,
+   "okCount": 493,
+   "missingAnswerCount": 1,
+   "multiAnswerCount": 1,
+   "otherIssueCount": 0,
    "ataGroups": [
     {
      "code": null,

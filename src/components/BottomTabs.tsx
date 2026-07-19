@@ -1,10 +1,11 @@
-export type TabKey = "fuelCalc" | "mel" | "caav" | "reset";
+export type TabKey = "fuelCalc" | "mel" | "defects" | "ecam" | "more";
 
 const TABS: { key: TabKey; label: string }[] = [
   { key: "fuelCalc", label: "Fuel Calc" },
   { key: "mel", label: "MEL" },
-  { key: "caav", label: "CAAV" },
-  { key: "reset", label: "ECAM+" },
+  { key: "defects", label: "Defects" },
+  { key: "ecam", label: "ECAM+" },
+  { key: "more", label: "More" },
 ];
 
 interface BottomTabsProps {
@@ -12,7 +13,9 @@ interface BottomTabsProps {
   onChange: (key: TabKey) => void;
 }
 
-/** Fixed bottom navigation (top-level tabs), safe-area aware. */
+/** Fixed bottom navigation (top-level tabs), safe-area aware.
+ *  Five tabs: kept on one row on small screens via text-xs + tight padding
+ *  while preserving a ≥56px touch target and the bottom safe-area inset. */
 export default function BottomTabs({ active, onChange }: BottomTabsProps) {
   return (
     <nav
@@ -29,7 +32,7 @@ export default function BottomTabs({ active, onChange }: BottomTabsProps) {
               type="button"
               aria-current={isActive ? "page" : undefined}
               onClick={() => onChange(tab.key)}
-              className={`flex min-h-[56px] flex-1 items-center justify-center px-1 text-center text-sm font-semibold leading-tight transition-colors ${
+              className={`flex min-h-[56px] flex-1 items-center justify-center px-0.5 text-center text-xs font-semibold leading-tight transition-colors ${
                 isActive
                   ? "bg-bamboo-greenDark/60 text-white"
                   : "text-gray-500 hover:text-gray-300"

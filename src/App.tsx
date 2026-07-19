@@ -4,7 +4,8 @@ import SettingsSheet from "./components/SettingsSheet";
 import CafeModal from "./components/CafeModal";
 import FuelCalc from "./tabs/FuelCalc";
 import Mel from "./tabs/Mel";
-import CaavTab from "./features/caav/CaavTab";
+import DefectsTab from "./features/defects/DefectsTab";
+import MoreTab from "./features/more/MoreTab";
 import { CAAV_STORAGE_KEYS } from "./features/caav/storage";
 import ResetTab from "./features/reset/ResetTab";
 import { RESET_STORAGE_KEYS } from "./features/reset/storage";
@@ -80,8 +81,9 @@ export default function App() {
           {tab === "mel" && (
             <Mel excludeDayOfDiscovery={settings.excludeDayOfDiscovery} />
           )}
-          {tab === "caav" && <CaavTab />}
-          {tab === "reset" && <ResetTab />}
+          {tab === "defects" && <DefectsTab />}
+          {tab === "ecam" && <ResetTab />}
+          {tab === "more" && <MoreTab />}
         </div>
 
         <footer className="mt-8 border-t border-line-soft pt-4 text-center text-[11px] leading-relaxed text-gray-500">

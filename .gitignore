@@ -4,6 +4,13 @@
 # (which MUST ship) are not caught.
 /caav/
 
+# A/C Defects sample AMOS PDFs (internal maintenance data — kept local only,
+# never committed. Regenerate parser fixtures with scripts/extract_defect_fixture.mjs.)
+/sample/
+
+# Local scratch/reference text dumps
+/CAAV_cau_thieu_dap_an.txt
+
 # Python bytecode cache
 __pycache__/
 

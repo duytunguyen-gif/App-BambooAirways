@@ -889,11 +889,11 @@
     "text": "At the outlet from the HP fuel pump."
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "v2500-b2-gen-q029-0029",

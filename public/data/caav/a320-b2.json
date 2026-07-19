@@ -3385,11 +3385,11 @@
     "text": "FMGC'S"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": "34-12-00-00 CONF 04 - AIR DATA, INERTIAL REFERENCE SYSTEM (ADIRU & CDU OR MSU) -",
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "a320-b2-ata34-q107-0107",

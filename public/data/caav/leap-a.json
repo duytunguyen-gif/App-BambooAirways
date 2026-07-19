@@ -1139,37 +1139,17 @@
    {
     "key": "B",
     "text": "The eight probes are immerged in the engine exhaust gas stream in front of the LPT nozzle stage"
-   }
-  ],
-  "correctAnswer": null,
-  "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
- },
- {
-  "id": "leap-a-ata77-q001-0037",
-  "crs": "A",
-  "cat": "CAT A",
-  "aircraftType": "A320",
-  "engineType": "LEAP-1A",
-  "sourceFile": "7. LEAP-1A Engine  CAT A (50 Questions) R01.pdf",
-  "sectionType": "TypeEngine",
-  "ataCode": "ATA 77",
-  "ataTitle": "ENGINE INDICATING",
-  "questionNumberOriginal": 1,
-  "question": "",
-  "options": [
+   },
    {
     "key": "C",
     "text": "The EGT sensors are flange mounted and bolted into the outer engine casing at plane 48. The eight probes are immerged in the engine exhaust gas stream in front of the LPT nozzle stage 1."
    }
   ],
-  "correctAnswer": null,
-  "ref": "REF: AMM 77-20-00-00 CONF 03 - TEMPERATURE - DESCRIPTION AND OPERATION",
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "correctAnswer": "C",
+  "ref": null,
+  "answerSource": "researched",
+  "answerNote": "Đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "leap-a-ata77-q037-0038",

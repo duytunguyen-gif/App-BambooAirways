@@ -7050,18 +7050,26 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 221,
-  "question": "The ground power unit_______electrical power on the ground. A . provides B . provided",
+  "question": "The ground power unit _______ electrical power on the ground.",
   "options": [
+   {
+    "key": "A",
+    "text": "provides"
+   },
+   {
+    "key": "B",
+    "text": "provided"
+   },
    {
     "key": "C",
     "text": "providing"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_options"
+  "answerSource": "researched",
+  "answerNote": "Phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q222-0222",
@@ -13434,7 +13442,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 861,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (861)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13449,11 +13457,11 @@
     "text": "have reported"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q862-0422",
@@ -13466,7 +13474,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 862,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (862)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13481,11 +13489,11 @@
     "text": "in"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q863-0423",
@@ -13498,7 +13506,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 863,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (863)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13513,11 +13521,11 @@
     "text": "occurred from"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q864-0424",
@@ -13530,7 +13538,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 864,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (864)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13545,11 +13553,11 @@
     "text": "out"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q865-0425",
@@ -13562,7 +13570,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 865,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (865)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13577,11 +13585,11 @@
     "text": "to be issued"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q866-0426",
@@ -13594,7 +13602,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 866,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (866)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13609,11 +13617,11 @@
     "text": "changes"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q867-0427",
@@ -13626,7 +13634,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 867,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (867)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13641,11 +13649,11 @@
     "text": "concurrently run"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q868-0428",
@@ -13658,7 +13666,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 868,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (868)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13673,11 +13681,11 @@
     "text": "on"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q869-0429",
@@ -13690,7 +13698,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 869,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (869)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13705,11 +13713,11 @@
     "text": "indicating"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q870-0430",
@@ -13722,7 +13730,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 870,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (870)]\n\n1. CRACK A320 TFU 78.11.12.01\nFour operators ___(861) one case each ___(862) cracked centerbody assemblies, both cracks ___(863) station 291.6 adjacent to the weld. The cracks propagated circumferentially ___(864) 260 degrees. Rohr all operators letter AOL-CFM56-003 Rev B. ___(865) march 1991. This revision ___(866) the inspection interval from 'A' check to 150 flight hours, rohr all operators letter CFM56-003 issued November 19th 1990 ___(867) with this revision. Included in A.O.L CFM56-003 are the flight ___(868) limits and repairs. Rohr are continuing to vibration test centerbodies. Initial results ___(869) vibration induced failure. We ___(870) operators of the results of these further tests, and if any service action is required.",
   "options": [
    {
     "key": "A",
@@ -13737,11 +13745,11 @@
     "text": "need informed"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q742-0431",
@@ -13818,15 +13826,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 746,
-  "question": "A. loading shed",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (746)]\n\n2. AC Electrical System\nThe AC electrical system is the main source for airplane electrical power. The ELMS ___(741) load management and protection ___(742) power is available ___(743) critical and essential equipment. If the electrical loads exceed the power available (airplane or external), ELMS ___(744) sheds AC loads by priority until the loads ___(745) within the capacity of the airplane or ground power generators. The ___(746) galleys first, ___(747) utility busses.",
   "options": [
    {
-    "key": "B",
-    "text": "automatic"
-   },
-   {
-    "key": "B",
-    "text": "is"
+    "key": "A",
+    "text": "loading shed"
    },
    {
     "key": "B",
@@ -13834,22 +13838,14 @@
    },
    {
     "key": "C",
-    "text": "automatics"
-   },
-   {
-    "key": "C",
-    "text": "is being"
-   },
-   {
-    "key": "C",
     "text": "load shedding"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q747-0434",
@@ -13954,8 +13950,12 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 681,
-  "question": "A. Do not",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (681)]\n\n3. Warning\n___(681) remove the filler cap ___(682) the oil tank immediately after engine operation. ___(683) the oil pressure decrease for a minimum of 5 minutes after the engine shutdown. If you open the filler cap ___(684) there is pressure in the tank the oil can burn you dangerously. Cause: The Vendor has ___(685) that: - The fan wheel hub cracks are ___(686) fatigue originating at a sudden change of cross section. Solutions: The Vendor has ___(687) the following improvements: - Increase of fan hub material thickness, change of manufacturing process and gradual changes in cross section ___(688) fatigue life. - ___(689) of fan hub material.",
   "options": [
+   {
+    "key": "A",
+    "text": "Do not"
+   },
    {
     "key": "B",
     "text": "Does not"
@@ -13965,11 +13965,11 @@
     "text": "Not"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q682-0438",
@@ -14010,8 +14010,12 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 683,
-  "question": "A. Let",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (683)]\n\n3. Warning\n___(681) remove the filler cap ___(682) the oil tank immediately after engine operation. ___(683) the oil pressure decrease for a minimum of 5 minutes after the engine shutdown. If you open the filler cap ___(684) there is pressure in the tank the oil can burn you dangerously. Cause: The Vendor has ___(685) that: - The fan wheel hub cracks are ___(686) fatigue originating at a sudden change of cross section. Solutions: The Vendor has ___(687) the following improvements: - Increase of fan hub material thickness, change of manufacturing process and gradual changes in cross section ___(688) fatigue life. - ___(689) of fan hub material.",
   "options": [
+   {
+    "key": "A",
+    "text": "Let"
+   },
    {
     "key": "B",
     "text": "Make"
@@ -14021,11 +14025,11 @@
     "text": "allow"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q684-0440",
@@ -14038,8 +14042,12 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 684,
-  "question": "A.when",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (684)]\n\n3. Warning\n___(681) remove the filler cap ___(682) the oil tank immediately after engine operation. ___(683) the oil pressure decrease for a minimum of 5 minutes after the engine shutdown. If you open the filler cap ___(684) there is pressure in the tank the oil can burn you dangerously. Cause: The Vendor has ___(685) that: - The fan wheel hub cracks are ___(686) fatigue originating at a sudden change of cross section. Solutions: The Vendor has ___(687) the following improvements: - Increase of fan hub material thickness, change of manufacturing process and gradual changes in cross section ___(688) fatigue life. - ___(689) of fan hub material.",
   "options": [
+   {
+    "key": "A",
+    "text": "when"
+   },
    {
     "key": "B",
     "text": "where"
@@ -14049,11 +14057,11 @@
     "text": "as"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q685-0441",
@@ -14094,8 +14102,12 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 686,
-  "question": "A.reason",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (686)]\n\n3. Warning\n___(681) remove the filler cap ___(682) the oil tank immediately after engine operation. ___(683) the oil pressure decrease for a minimum of 5 minutes after the engine shutdown. If you open the filler cap ___(684) there is pressure in the tank the oil can burn you dangerously. Cause: The Vendor has ___(685) that: - The fan wheel hub cracks are ___(686) fatigue originating at a sudden change of cross section. Solutions: The Vendor has ___(687) the following improvements: - Increase of fan hub material thickness, change of manufacturing process and gradual changes in cross section ___(688) fatigue life. - ___(689) of fan hub material.",
   "options": [
+   {
+    "key": "A",
+    "text": "reason"
+   },
    {
     "key": "B",
     "text": "due to"
@@ -14105,11 +14117,11 @@
     "text": "therefore"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q687-0443",
@@ -14178,8 +14190,12 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 689,
-  "question": "A. Change",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (689)]\n\n3. Warning\n___(681) remove the filler cap ___(682) the oil tank immediately after engine operation. ___(683) the oil pressure decrease for a minimum of 5 minutes after the engine shutdown. If you open the filler cap ___(684) there is pressure in the tank the oil can burn you dangerously. Cause: The Vendor has ___(685) that: - The fan wheel hub cracks are ___(686) fatigue originating at a sudden change of cross section. Solutions: The Vendor has ___(687) the following improvements: - Increase of fan hub material thickness, change of manufacturing process and gradual changes in cross section ___(688) fatigue life. - ___(689) of fan hub material.",
   "options": [
+   {
+    "key": "A",
+    "text": "Change"
+   },
    {
     "key": "B",
     "text": "to change"
@@ -14189,11 +14205,11 @@
     "text": "changing"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q690-0446",
@@ -14342,11 +14358,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 628,
-  "question": "A. while",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (628)]\n\n4. BEARING CORROSION\nTraces of chlorine ___(621) on the raceway of the bearings ___(622) to the assumption that during maintenance work the handling ___(623) cleaning fluid and subsequent expelling of grease ___(624) the corrosion followed by the bearing jam. In all three cases the failure did not ___(625) in any anomaly of the THSA function, neither ___(626) electrical nor ___(627) mechanical mode, until the cracked/ruptured flange of the interconnecting shaft was detected ___(628) maintenance.",
   "options": [
    {
-    "key": "B",
-    "text": "i"
+    "key": "A",
+    "text": "while"
    },
    {
     "key": "B",
@@ -14354,18 +14370,14 @@
    },
    {
     "key": "C",
-    "text": "of"
-   },
-   {
-    "key": "C",
     "text": "during"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q630-0451",
@@ -14486,11 +14498,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 566,
-  "question": "A. may be removed",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (566)]\n\n5. VALVE BODY CORROSION\nWing anti-icing valves returned from service ___(561) a secondary corrosion problem. The condition takes the form ___(562) white corrosion products on, and blistering of the chromed bore of the valve body assembly. This Service Bulletin ___(564) that any wing anti-icing valve ___(565) exhibits any sign of malfunction ___(566) from the aircraft and ___(567) for signs of corrosion as detailed in Section 2. A ___(568) wing anti-icing valve shall be subjected to the same inspection prior to installation on an aircraft.",
   "options": [
    {
-    "key": "B",
-    "text": "that"
+    "key": "A",
+    "text": "may be removed"
    },
    {
     "key": "B",
@@ -14498,18 +14510,14 @@
    },
    {
     "key": "C",
-    "text": "which"
-   },
-   {
-    "key": "C",
     "text": "can be removed"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q568-0455",
@@ -14522,11 +14530,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 568,
-  "question": "A. replacing",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (568)]\n\n5. VALVE BODY CORROSION\nWing anti-icing valves returned from service ___(561) a secondary corrosion problem. The condition takes the form ___(562) white corrosion products on, and blistering of the chromed bore of the valve body assembly. This Service Bulletin ___(564) that any wing anti-icing valve ___(565) exhibits any sign of malfunction ___(566) from the aircraft and ___(567) for signs of corrosion as detailed in Section 2. A ___(568) wing anti-icing valve shall be subjected to the same inspection prior to installation on an aircraft.",
   "options": [
    {
-    "key": "B",
-    "text": "examined"
+    "key": "A",
+    "text": "replacing"
    },
    {
     "key": "B",
@@ -14534,18 +14542,14 @@
    },
    {
     "key": "C",
-    "text": "examination"
-   },
-   {
-    "key": "C",
     "text": "replacement"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q570-0456",
@@ -14622,8 +14626,12 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 502,
-  "question": "A. A320",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (502)]\n\n6. EVENT\nThe purpose of this telex ___(501) to inform all ___(502) operators that a number of A320 IDG Magnetic pick-up (MPU) speed sensors ___(503) with the noise cancellation coil wired in reverse. In this configuration the function ___(504) the coil is no longer realized and in fact noise ___(505) on the MPU signal. A non-complying MPU noise cancellation coil ___(506) to affect normal system operation ___(507) engine start. If the calculated speed is ___(510) 4320 RPM the generator line contactor (GLC) will close.",
   "options": [
+   {
+    "key": "A",
+    "text": "A320"
+   },
    {
     "key": "B",
     "text": "A330"
@@ -14633,11 +14641,11 @@
     "text": "ATR 72"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q503-0459",
@@ -14650,18 +14658,26 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 503,
-  "question": "A. are manufactured",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (503)]\n\n6. EVENT\nThe purpose of this telex ___(501) to inform all ___(502) operators that a number of A320 IDG Magnetic pick-up (MPU) speed sensors ___(503) with the noise cancellation coil wired in reverse. In this configuration the function ___(504) the coil is no longer realized and in fact noise ___(505) on the MPU signal. A non-complying MPU noise cancellation coil ___(506) to affect normal system operation ___(507) engine start. If the calculated speed is ___(510) 4320 RPM the generator line contactor (GLC) will close.",
   "options": [
    {
+    "key": "A",
+    "text": "are manufactured"
+   },
+   {
     "key": "B",
-    "text": "was manufactured C. were manufactured"
+    "text": "was manufactured"
+   },
+   {
+    "key": "C",
+    "text": "were manufactured"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_options"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q504-0460",
@@ -14730,8 +14746,12 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 506,
-  "question": "A. is only known",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (506)]\n\n6. EVENT\nThe purpose of this telex ___(501) to inform all ___(502) operators that a number of A320 IDG Magnetic pick-up (MPU) speed sensors ___(503) with the noise cancellation coil wired in reverse. In this configuration the function ___(504) the coil is no longer realized and in fact noise ___(505) on the MPU signal. A non-complying MPU noise cancellation coil ___(506) to affect normal system operation ___(507) engine start. If the calculated speed is ___(510) 4320 RPM the generator line contactor (GLC) will close.",
   "options": [
+   {
+    "key": "A",
+    "text": "is only known"
+   },
    {
     "key": "B",
     "text": "is known only"
@@ -14741,11 +14761,11 @@
     "text": "is knowing"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "missing_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q508-0463",
@@ -14794,11 +14814,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 510,
-  "question": "A. more than great",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (510)]\n\n6. EVENT\nThe purpose of this telex ___(501) to inform all ___(502) operators that a number of A320 IDG Magnetic pick-up (MPU) speed sensors ___(503) with the noise cancellation coil wired in reverse. In this configuration the function ___(504) the coil is no longer realized and in fact noise ___(505) on the MPU signal. A non-complying MPU noise cancellation coil ___(506) to affect normal system operation ___(507) engine start. If the calculated speed is ___(510) 4320 RPM the generator line contactor (GLC) will close.",
   "options": [
    {
-    "key": "B",
-    "text": "will close"
+    "key": "A",
+    "text": "more than great"
    },
    {
     "key": "B",
@@ -14806,18 +14826,14 @@
    },
    {
     "key": "C",
-    "text": "would close"
-   },
-   {
-    "key": "C",
     "text": "greater than"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q441-0465",
@@ -14830,7 +14846,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 441,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (441)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -14845,11 +14861,11 @@
     "text": "extinguishing"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q442-0466",
@@ -14862,7 +14878,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 442,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (442)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -14877,11 +14893,11 @@
     "text": "senses"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q443-0467",
@@ -14894,7 +14910,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 443,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (443)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -14909,11 +14925,11 @@
     "text": "of"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q444-0468",
@@ -14926,7 +14942,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 444,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (444)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -14941,11 +14957,11 @@
     "text": "locating"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q445-0469",
@@ -14958,7 +14974,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 445,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (445)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -14973,11 +14989,11 @@
     "text": "discharging"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q446-0470",
@@ -14990,7 +15006,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 446,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (446)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -15005,11 +15021,11 @@
     "text": "has"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q447-0471",
@@ -15022,7 +15038,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 447,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (447)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -15037,11 +15053,11 @@
     "text": "with"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q448-0472",
@@ -15054,7 +15070,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 448,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (448)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -15069,11 +15085,11 @@
     "text": "occurred"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q449-0473",
@@ -15086,7 +15102,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 449,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (449)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -15101,11 +15117,11 @@
     "text": "for"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "B",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q450-0474",
@@ -15118,7 +15134,7 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 450,
-  "question": "",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (450)]\n\n7. FIRE SYSTEM\nThe fire ___(441) system is designed to operate when fire sensing elements located on the engine and on the pylon ___(442) overheat or fire. The system is activated manually and ___(443) means of two fire handles ___(444) on the flight compartment overheat panel. After ___(445) of the fire extinguisher bottles, the system ___(446) two main effects: - To extinguish, ___(447) its early stages, any fire ___(448) in the fan and compressor areas. - To prevent engine fire ___(449) spreading by isolating the engine from the rest of the aircraft. This is achieved by closing the various ___(450), bleed and conditioning lines from the engine to the wings.",
   "options": [
    {
     "key": "A",
@@ -15133,11 +15149,11 @@
     "text": "supply"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "yellow_highlight",
-  "answerNote": null,
-  "parseStatus": "missing_question"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q382-0475",
@@ -15214,11 +15230,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 385,
-  "question": "A. centre",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (385)]\n\n8. FUEL PUMP\nThe centrifugal pumps ___(381) in the bottom part of each tank provide for transfer of fuel toward the engines under all conditions of flight, altitude and temperature. The pump and motor form an explosion-proof unit, installed in a canister at the tank ___(385) and submerged in fuel. Part of each outboard tank pump output is directed to a sequence valve which limits pump delivery pressure ___(389) 1.2 bars (17.5 psi) ___(390) fuel from the inboard tanks is delivered on a priority basis at 2.6 bars (38 psi).",
   "options": [
    {
-    "key": "B",
-    "text": "is driving"
+    "key": "A",
+    "text": "centre"
    },
    {
     "key": "B",
@@ -15226,18 +15242,14 @@
    },
    {
     "key": "C",
-    "text": "is driven"
-   },
-   {
-    "key": "C",
     "text": "bottom"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q390-0478",
@@ -15250,23 +15262,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 390,
-  "question": "A. so far",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (390)]\n\n8. FUEL PUMP\nThe centrifugal pumps ___(381) in the bottom part of each tank provide for transfer of fuel toward the engines under all conditions of flight, altitude and temperature. The pump and motor form an explosion-proof unit, installed in a canister at the tank ___(385) and submerged in fuel. Part of each outboard tank pump output is directed to a sequence valve which limits pump delivery pressure ___(389) 1.2 bars (17.5 psi) ___(390) fuel from the inboard tanks is delivered on a priority basis at 2.6 bars (38 psi).",
   "options": [
    {
-    "key": "B",
-    "text": "through"
-   },
-   {
-    "key": "B",
-    "text": "each"
-   },
-   {
-    "key": "B",
-    "text": "are directed"
-   },
-   {
-    "key": "B",
-    "text": "in"
+    "key": "A",
+    "text": "so far"
    },
    {
     "key": "B",
@@ -15274,30 +15274,14 @@
    },
    {
     "key": "C",
-    "text": "throughout"
-   },
-   {
-    "key": "C",
-    "text": "every"
-   },
-   {
-    "key": "C",
-    "text": "has directed"
-   },
-   {
-    "key": "C",
-    "text": "on"
-   },
-   {
-    "key": "C",
     "text": "so that"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q202-0479",
@@ -15346,15 +15330,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 205,
-  "question": "A. for",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (205)]\n\n9. OXYGEN\nYou can find the passenger oxygen masks stowed in passenger service units ___(201) the passenger seats. When the passenger oxygen system ___(202) the oxygen masks drop down ___(203) the overhead stowage boxes to be ___(204) for the passengers. Here you can see the release logic ___(205) the passenger oxygen system. The system is normally activated ___(206) by a pressure switch in pressurized area. The passenger oxygen system is activated ___(210) on most aircraft, but the actual supply of oxygen can be different.",
   "options": [
    {
-    "key": "B",
-    "text": "from"
-   },
-   {
-    "key": "B",
-    "text": "available"
+    "key": "A",
+    "text": "for"
    },
    {
     "key": "B",
@@ -15362,22 +15342,14 @@
    },
    {
     "key": "C",
-    "text": "into"
-   },
-   {
-    "key": "C",
-    "text": "availably"
-   },
-   {
-    "key": "C",
     "text": "with"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q210-0481",
@@ -15390,23 +15362,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 210,
-  "question": "A. the same way",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (210)]\n\n9. OXYGEN\nYou can find the passenger oxygen masks stowed in passenger service units ___(201) the passenger seats. When the passenger oxygen system ___(202) the oxygen masks drop down ___(203) the overhead stowage boxes to be ___(204) for the passengers. Here you can see the release logic ___(205) the passenger oxygen system. The system is normally activated ___(206) by a pressure switch in pressurized area. The passenger oxygen system is activated ___(210) on most aircraft, but the actual supply of oxygen can be different.",
   "options": [
    {
-    "key": "B",
-    "text": "auto"
-   },
-   {
-    "key": "B",
-    "text": "reasonable"
-   },
-   {
-    "key": "B",
-    "text": "will activate"
-   },
-   {
-    "key": "B",
-    "text": "reset"
+    "key": "A",
+    "text": "the same way"
    },
    {
     "key": "B",
@@ -15414,30 +15374,14 @@
    },
    {
     "key": "C",
-    "text": "automatically"
-   },
-   {
-    "key": "C",
-    "text": "reason"
-   },
-   {
-    "key": "C",
-    "text": "activated"
-   },
-   {
-    "key": "C",
-    "text": "been reset"
-   },
-   {
-    "key": "C",
     "text": "in the same way"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "C",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q142-0482",
@@ -15522,27 +15466,11 @@
   "ataCode": null,
   "ataTitle": null,
   "questionNumberOriginal": 150,
-  "question": "A. and",
+  "question": "[Part 6 – Đọc đoạn văn, chọn phương án đúng cho chỗ trống (150)]\n\n10. WASTE BIN FIRE EXTINGUISHER\nThis Service Bulletin introduces ___(141) new fire extinguisher ___(142) each lavatory waste container area. Accomplishment of this Service Bulletin consists of: - ___(147) the bulk heading (with the fire extinguisher attached) and waste chute from the waste container area of ___(148) lavatory. - Installing the new fire extinguishers ___(149) the waste chutes. - Installing the waste chutes ___(150) the bulk headings.",
   "options": [
    {
-    "key": "B",
-    "text": "then"
-   },
-   {
-    "key": "B",
-    "text": "by"
-   },
-   {
-    "key": "B",
-    "text": "Removing"
-   },
-   {
-    "key": "B",
-    "text": "every"
-   },
-   {
-    "key": "B",
-    "text": "on"
+    "key": "A",
+    "text": "and"
    },
    {
     "key": "B",
@@ -15550,34 +15478,14 @@
    },
    {
     "key": "C",
-    "text": "with"
-   },
-   {
-    "key": "C",
-    "text": "under"
-   },
-   {
-    "key": "C",
-    "text": "Removes"
-   },
-   {
-    "key": "C",
-    "text": "each"
-   },
-   {
-    "key": "C",
-    "text": "over"
-   },
-   {
-    "key": "C",
-    "text": "into Part 7: Read the text and then answer the questions"
+    "text": "into"
    }
   ],
-  "correctAnswer": null,
+  "correctAnswer": "A",
   "ref": null,
-  "answerSource": "unknown",
-  "answerNote": null,
-  "parseStatus": "multi_answer"
+  "answerSource": "researched",
+  "answerNote": "Đề bài & phương án được khôi phục từ PDF gốc; đáp án do người dùng cung cấp (2026-07-17).",
+  "parseStatus": "ok"
  },
  {
   "id": "english-gen-q001-0485",
