@@ -17,9 +17,12 @@ import { buildDraftPlan } from "../../src/features/defects/services/persist/draf
 export const config = { maxDuration: 60 };
 
 export async function POST(req: Request): Promise<Response> {
-  const admin = getAdmin();
+  // getAdmin() throws if the server env is unconfigured; keep it INSIDE the try
+  // so that surfaces as a clean JSON 500, not a hard FUNCTION_INVOCATION_FAILED.
+  let admin: ReturnType<typeof getAdmin> | null = null;
   let reportId = "";
   try {
+    admin = getAdmin();
     const profile = await requireStaff(req);
     const body = await readJson(req);
     reportId = typeof body.reportId === "string" ? body.reportId : "";
@@ -105,7 +108,7 @@ export async function POST(req: Request): Promise<Response> {
     });
   } catch (e) {
     // Best-effort: mark the report failed so the UI can show it (never throws).
-    if (reportId) {
+    if (reportId && admin) {
       try {
         await admin
           .from("defect_reports")

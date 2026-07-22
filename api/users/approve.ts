@@ -10,8 +10,10 @@ import { requireStaff } from "../_lib/auth";
 import { getAdmin } from "../_lib/supabaseAdmin";
 
 export async function POST(req: Request): Promise<Response> {
-  const admin = getAdmin();
   try {
+    // getAdmin() throws when server env is unconfigured — keep it inside the try
+    // so it surfaces as clean JSON, not a FUNCTION_INVOCATION_FAILED crash.
+    const admin = getAdmin();
     const profile = await requireStaff(req);
     const body = await readJson(req);
     const userId = typeof body.userId === "string" ? body.userId : "";

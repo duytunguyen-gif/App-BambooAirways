@@ -5,6 +5,7 @@
  *  lands. Gated to uploaders/admins by the caller. */
 import { useState } from "react";
 import { useAuth } from "../../services/auth/AuthContext";
+import { uploadAndProcess, ApiError, type ProcessResult } from "../../services/api/defectsApi";
 
 type Panel = "upload" | "history" | "users" | "audit";
 
@@ -66,9 +67,49 @@ export default function ManageScreen({ onBack }: Props) {
   );
 }
 
+const STAGE_LABEL: Record<string, string> = {
+  requesting: "Đang tạo phiên tải lên…",
+  uploading: "Đang tải PDF lên…",
+  processing: "Đang phân tích & lưu bản nháp…",
+};
+
 function UploadPanel() {
+  const auth = useAuth();
   const [category, setCategory] = useState<"B" | "C">("B");
   const [file, setFile] = useState<File | null>(null);
+  const [stage, setStage] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
+  const [result, setResult] = useState<ProcessResult | null>(null);
+
+  const busy = stage !== null;
+  const token = auth.session?.access_token ?? "";
+
+  async function handleProcess() {
+    if (!file || busy) return;
+    setError(null);
+    setResult(null);
+    if (!auth.configured) {
+      setError("Supabase chưa được cấu hình. Xem docs/DEFECTS_SETUP.md.");
+      return;
+    }
+    if (!token) {
+      setError("Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại.");
+      return;
+    }
+    if (file.type && file.type !== "application/pdf") {
+      setError("Chỉ chấp nhận tệp PDF.");
+      return;
+    }
+    try {
+      const res = await uploadAndProcess(file, category, token, setStage);
+      setResult(res);
+      setFile(null);
+    } catch (e) {
+      setError(e instanceof ApiError ? e.message : "Xử lý thất bại. Vui lòng thử lại.");
+    } finally {
+      setStage(null);
+    }
+  }
 
   return (
     <section className="space-y-3">
@@ -79,8 +120,9 @@ function UploadPanel() {
             <button
               key={c}
               type="button"
+              disabled={busy}
               onClick={() => setCategory(c)}
-              className={`min-h-[40px] rounded-xl border text-sm font-semibold transition-colors ${
+              className={`min-h-[40px] rounded-xl border text-sm font-semibold transition-colors disabled:opacity-50 ${
                 category === c
                   ? "border-teal-accent bg-teal-accent/10 text-white"
                   : "border-line-soft bg-ink-800 text-gray-400 hover:text-white"
@@ -94,34 +136,57 @@ function UploadPanel() {
 
       <div>
         <span className="mb-1.5 block text-[12px] font-medium text-gray-400">File PDF (AMOS export)</span>
-        <label className="flex min-h-[44px] cursor-pointer items-center justify-center gap-2 rounded-xl border border-dashed border-line bg-ink-700 px-3 text-sm text-gray-300 hover:border-teal-accent">
+        <label className={`flex min-h-[44px] items-center justify-center gap-2 rounded-xl border border-dashed border-line bg-ink-700 px-3 text-sm text-gray-300 ${busy ? "cursor-not-allowed opacity-60" : "cursor-pointer hover:border-teal-accent"}`}>
           <input
             type="file"
             accept="application/pdf"
+            disabled={busy}
             className="hidden"
-            onChange={(e) => setFile(e.target.files?.[0] ?? null)}
+            onChange={(e) => {
+              setFile(e.target.files?.[0] ?? null);
+              setResult(null);
+              setError(null);
+            }}
           />
           <UploadIcon />
           {file ? file.name : "Chọn file PDF…"}
         </label>
         {file && (
           <p className="mt-1 text-[11px] text-gray-500">
-            {(file.size / 1024 / 1024).toFixed(2)} MB — sẽ được kiểm tra MIME + magic bytes phía server.
+            {(file.size / 1024 / 1024).toFixed(2)} MB — PDF được tải thẳng lên kho lưu trữ riêng, phân tích phía máy chủ.
           </p>
         )}
       </div>
 
-      <div className="rounded-xl border border-amber-500/40 bg-amber-500/10 px-3 py-2.5 text-[13px] text-amber-200">
-        Bước xử lý (parse → xem lại/sửa tay → publish) chạy qua <code className="text-amber-100">/api/defects/process</code> —
-        sẽ hoạt động khi backend Phase 6 được ráp. Không dùng AI; dữ liệu không gửi ra ngoài.
-      </div>
+      {stage && (
+        <div className="flex items-center gap-2 rounded-xl border border-teal-accent/40 bg-teal-accent/10 px-3 py-2.5 text-[13px] text-teal-accent">
+          <Spinner />
+          {STAGE_LABEL[stage] ?? "Đang xử lý…"}
+        </div>
+      )}
+
+      {error && (
+        <div className="rounded-xl border border-red-500/40 bg-red-500/10 px-3 py-2.5 text-[13px] text-red-300">
+          {error}
+        </div>
+      )}
+
+      {result && (
+        <div className="rounded-xl border border-emerald-500/40 bg-emerald-500/10 px-3 py-2.5 text-[13px] text-emerald-200">
+          <p className="font-semibold">Đã xử lý xong — {result.totalRecords} dòng defect.</p>
+          <p className="mt-0.5 text-emerald-300/90">
+            Trạng thái: <span className="font-mono">{result.status}</span>. Vào tab History để xem lại &amp; publish.
+          </p>
+        </div>
+      )}
 
       <button
         type="button"
-        disabled
-        className="min-h-[44px] w-full cursor-not-allowed rounded-xl bg-ink-700 px-4 font-semibold text-gray-500"
+        disabled={!file || busy}
+        onClick={handleProcess}
+        className="min-h-[44px] w-full rounded-xl bg-teal-accent px-4 font-semibold text-ink-900 transition-colors hover:bg-teal-accent/90 disabled:cursor-not-allowed disabled:bg-ink-700 disabled:text-gray-500"
       >
-        Xử lý report (chưa khả dụng)
+        {busy ? "Đang xử lý…" : "Xử lý report"}
       </button>
     </section>
   );
@@ -152,6 +217,15 @@ function UploadIcon() {
       <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
       <polyline points="17 8 12 3 7 8" />
       <line x1="12" y1="3" x2="12" y2="15" />
+    </svg>
+  );
+}
+
+function Spinner() {
+  return (
+    <svg className="h-4 w-4 shrink-0 animate-spin" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" />
+      <path className="opacity-90" fill="currentColor" d="M4 12a8 8 0 0 1 8-8V0C5.373 0 0 5.373 0 12h4z" />
     </svg>
   );
 }

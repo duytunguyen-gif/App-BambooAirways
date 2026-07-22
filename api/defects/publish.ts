@@ -54,8 +54,8 @@ async function loadRecordsForDiff(
 }
 
 export async function POST(req: Request): Promise<Response> {
-  const admin = getAdmin();
   try {
+    const admin = getAdmin();
     const profile = await requireStaff(req);
     const body = await readJson(req);
     const reportId = typeof body.reportId === "string" ? body.reportId : "";

@@ -22,9 +22,11 @@ function authorizeCron(req: Request): void {
 }
 
 async function runCleanup(req: Request): Promise<Response> {
-  const admin = getAdmin();
   try {
     authorizeCron(req);
+    // getAdmin() throws when server env is unconfigured — keep it inside the try
+    // so it surfaces as clean JSON, not a FUNCTION_INVOCATION_FAILED crash.
+    const admin = getAdmin();
 
     const cutoff = new Date(Date.now() - RETENTION_DAYS * 24 * 60 * 60 * 1000).toISOString();
     const { data: expired, error } = await admin
