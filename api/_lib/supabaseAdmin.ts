@@ -3,7 +3,7 @@
  *  approvals). Server-only: reads SUPABASE_URL + SUPABASE_SERVICE_ROLE_KEY from
  *  env; these must NEVER carry a VITE_ prefix. Do not import from client code. */
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
-import { HttpError } from "./http";
+import { HttpError } from "./http.js";
 
 let admin: SupabaseClient | null = null;
 

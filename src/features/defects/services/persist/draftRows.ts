@@ -9,9 +9,9 @@
  *  (issued date/station, doc ref, source pages, numeric remaining) are
  *  backfilled from the matching parser card by WO number when possible. Every
  *  record is a DRAFT for human review before publish. */
-import type { ParsedDefect, ParsedReport } from "../../parser/types";
-import type { AiDefect } from "../ai/types";
-import type { ProcessedReport } from "../process/processReport";
+import type { ParsedDefect, ParsedReport } from "../../parser/types.js";
+import type { AiDefect } from "../ai/types.js";
+import type { ProcessedReport } from "../process/processReport.js";
 
 export interface DefectLimitRow {
   limit_type: string;

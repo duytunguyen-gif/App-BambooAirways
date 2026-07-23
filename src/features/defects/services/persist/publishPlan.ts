@@ -8,8 +8,8 @@
  *  Identity matching is `diffReports`' `category|registration|WO` (fallback
  *  normalized id), so the same defect across two reports links its previous and
  *  new record ids into one history event. */
-import type { Defect } from "../../model";
-import { diffReports, defectIdentity, type HistoryEventType } from "../../logic/history";
+import type { Defect } from "../../model.js";
+import { diffReports, defectIdentity, type HistoryEventType } from "../../logic/history.js";
 
 export interface RecordForDiff {
   /** DB `defect_records.id`. */

@@ -2,7 +2,7 @@
  *  module that depends on pdfjs; it runs server-side (Vercel function / Node
  *  script), never in the browser bundle. Keep it thin — all interpretation
  *  lives in parseDefects.ts so it can be tested from fixtures. */
-import type { RawTextItem } from "./types";
+import type { RawTextItem } from "./types.js";
 
 export interface ExtractResult {
   items: RawTextItem[];

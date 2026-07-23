@@ -9,10 +9,10 @@
  *  parser output is ALWAYS kept at full fidelity; the AI result is attached as a
  *  *suggestion* per aircraft — the uploader reviews and chooses before publish.
  *  Nothing here talks to Supabase or the network directly; the provider does. */
-import { parseDefects, buildAircraftSections } from "../../parser/parseDefects";
-import type { ParsedDefect, ParsedReport, RawTextItem } from "../../parser/types";
-import { parsedToAiDefect } from "../ai/draftAdapter";
-import type { AiDefect, AiProvider } from "../ai/types";
+import { parseDefects, buildAircraftSections } from "../../parser/parseDefects.js";
+import type { ParsedDefect, ParsedReport, RawTextItem } from "../../parser/types.js";
+import { parsedToAiDefect } from "../ai/draftAdapter.js";
+import type { AiDefect, AiProvider } from "../ai/types.js";
 
 export interface ProcessedAircraft {
   registration: string;

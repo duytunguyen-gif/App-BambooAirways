@@ -5,9 +5,9 @@
  *  record). Only a fixed whitelist of human-editable fields may be changed; the
  *  record is flagged `manually_edited` with the editor + timestamp, and the
  *  before/after values are written to the audit log with the given reason. */
-import { HttpError, errorResponse, json, readJson } from "../_lib/http";
-import { requireStaff } from "../_lib/auth";
-import { getAdmin } from "../_lib/supabaseAdmin";
+import { HttpError, errorResponse, json, readJson } from "../_lib/http.js";
+import { requireStaff } from "../_lib/auth.js";
+import { getAdmin } from "../_lib/supabaseAdmin.js";
 
 // Fields a reviewer/corrector is allowed to change by hand. Deterministic
 // provenance fields (source pages, raw payload, WO, defect_key) are NOT editable.

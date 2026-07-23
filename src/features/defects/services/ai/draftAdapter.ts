@@ -1,8 +1,8 @@
 /** Adapt deterministic ParsedDefect cards into the leaner AiDefect shape used as
  *  the AI hint / the `none`-provider passthrough. Kept separate so the AI layer
  *  never imports the full parser model beyond its types. */
-import type { ParsedDefect } from "../../parser/types";
-import type { AiDefect } from "./types";
+import type { ParsedDefect } from "../../parser/types.js";
+import type { AiDefect } from "./types.js";
 
 export function parsedToAiDefect(d: ParsedDefect): AiDefect {
   return {

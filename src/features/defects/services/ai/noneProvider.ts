@@ -1,7 +1,7 @@
 /** The default no-op provider: keeps the pipeline parser-only. Returns a clear
  *  "not configured" result so the uploader edits the deterministic draft by
  *  hand. Selected whenever AI_PROVIDER is unset/"none" or no key is present. */
-import type { AiExtractInput, AiExtractResult, AiProvider } from "./types";
+import type { AiExtractInput, AiExtractResult, AiProvider } from "./types.js";
 
 export function createNoneProvider(): AiProvider {
   return {

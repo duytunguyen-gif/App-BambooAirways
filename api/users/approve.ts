@@ -5,9 +5,9 @@
  *  approval RPCs are SECURITY DEFINER keyed on auth.uid(), which the service role
  *  does not have — so we re-check the caller's role here (requireStaff/Admin) and
  *  perform the profiles update + audit directly via the service role. */
-import { HttpError, errorResponse, json, readJson } from "../_lib/http";
-import { requireStaff } from "../_lib/auth";
-import { getAdmin } from "../_lib/supabaseAdmin";
+import { HttpError, errorResponse, json, readJson } from "../_lib/http.js";
+import { requireStaff } from "../_lib/auth.js";
+import { getAdmin } from "../_lib/supabaseAdmin.js";
 
 export async function POST(req: Request): Promise<Response> {
   try {

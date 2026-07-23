@@ -2,7 +2,7 @@
  *  frontend consumes from Supabase (or the offline cache) and is intentionally
  *  close to the parser output so a freshly-parsed draft can be previewed with
  *  the same components. */
-import type { DefectCategory, LimitType } from "./parser/types";
+import type { DefectCategory, LimitType } from "./parser/types.js";
 
 export type { DefectCategory, LimitType };
 

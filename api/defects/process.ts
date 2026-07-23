@@ -6,12 +6,12 @@
  *  sets the report status to review_required / ready_to_publish. Idempotent:
  *  re-processing clears the previous draft rows first. Publishing is a separate
  *  step (/api/defects/publish) after human review. */
-import { HttpError, errorResponse, json, readJson } from "../_lib/http";
-import { requireStaff } from "../_lib/auth";
-import { getAdmin } from "../_lib/supabaseAdmin";
-import { processReportFromBytes } from "../../src/features/defects/services/process/processReportFromBytes";
-import { getAiProvider } from "../../src/features/defects/services/ai";
-import { buildDraftPlan } from "../../src/features/defects/services/persist/draftRows";
+import { HttpError, errorResponse, json, readJson } from "../_lib/http.js";
+import { requireStaff } from "../_lib/auth.js";
+import { getAdmin } from "../_lib/supabaseAdmin.js";
+import { processReportFromBytes } from "../../src/features/defects/services/process/processReportFromBytes.js";
+import { getAiProvider } from "../../src/features/defects/services/ai/index.js";
+import { buildDraftPlan } from "../../src/features/defects/services/persist/draftRows.js";
 
 // AI + PDF parsing can take a while for a big report.
 export const config = { maxDuration: 60 };

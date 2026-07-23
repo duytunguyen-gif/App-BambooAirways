@@ -5,8 +5,8 @@
  *  source was purged. The parsed records stay; only the heavy source file goes.
  *  Guarded by a shared secret (CRON_SECRET) rather than a user session, because
  *  the cron caller has no Supabase JWT. */
-import { HttpError, errorResponse, json } from "../_lib/http";
-import { getAdmin } from "../_lib/supabaseAdmin";
+import { HttpError, errorResponse, json } from "../_lib/http.js";
+import { getAdmin } from "../_lib/supabaseAdmin.js";
 
 export const config = { maxDuration: 60 };
 

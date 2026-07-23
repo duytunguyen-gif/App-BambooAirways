@@ -2,7 +2,7 @@
  *  `category + registration + WO`, falling back to `category + registration +
  *  normalized defect ID` when WO is absent. A defect missing from the new
  *  report is REMOVED_FROM_LATEST_REPORT — never silently "closed". */
-import type { Defect } from "../model";
+import type { Defect } from "../model.js";
 
 export type HistoryEventType =
   | "NEW"

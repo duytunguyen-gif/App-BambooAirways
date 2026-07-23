@@ -3,8 +3,8 @@
  *  writer — it lets the publish step diff two stored reports with the same
  *  `diffReports` logic the viewer uses, and lets the viewer render straight from
  *  the DB. Column names are snake_case (Postgres); the view model is camelCase. */
-import type { Defect, DefectLimit } from "../../model";
-import type { LimitType } from "../../parser/types";
+import type { Defect, DefectLimit } from "../../model.js";
+import type { LimitType } from "../../parser/types.js";
 
 /** Shape of a `defect_records` row as selected from Supabase. */
 export interface DefectRecordDbRow {

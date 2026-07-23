@@ -4,8 +4,8 @@
  *  Bearer <token>`. We verify it with the admin client (auth.getUser), then read
  *  the caller's profile (role + approval_status) to gate the action. All writes
  *  then run via the service role, since RLS blocks direct authenticated writes. */
-import { getAdmin } from "./supabaseAdmin";
-import { HttpError } from "./http";
+import { getAdmin } from "./supabaseAdmin.js";
+import { HttpError } from "./http.js";
 
 export type DefectRole = "viewer" | "uploader" | "admin";
 

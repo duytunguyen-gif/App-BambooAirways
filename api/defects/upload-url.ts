@@ -6,9 +6,9 @@
  *  role) keeps all writes off the authenticated client, consistent with the rest
  *  of the module. After a successful upload the client calls /api/defects/process
  *  with the returned reportId. */
-import { HttpError, errorResponse, json, readJson } from "../_lib/http";
-import { requireStaff } from "../_lib/auth";
-import { getAdmin } from "../_lib/supabaseAdmin";
+import { HttpError, errorResponse, json, readJson } from "../_lib/http.js";
+import { requireStaff } from "../_lib/auth.js";
+import { getAdmin } from "../_lib/supabaseAdmin.js";
 
 export async function POST(req: Request): Promise<Response> {
   try {

@@ -4,10 +4,10 @@
  *  IMPORTANT: this must only run server-side (Vercel function / Node script).
  *  The Gemini key must NOT carry a VITE_ prefix, so it never reaches the client
  *  bundle. Do not import this module from browser code. */
-import { createGeminiProvider } from "./geminiProvider";
-import { createOpenAiProvider } from "./openaiProvider";
-import { createNoneProvider } from "./noneProvider";
-import type { AiProvider } from "./types";
+import { createGeminiProvider } from "./geminiProvider.js";
+import { createOpenAiProvider } from "./openaiProvider.js";
+import { createNoneProvider } from "./noneProvider.js";
+import type { AiProvider } from "./types.js";
 
 export type AiEnv = {
   AI_PROVIDER?: string;
@@ -27,13 +27,13 @@ export function getAiProvider(env: AiEnv = process.env as AiEnv): AiProvider {
   return createNoneProvider();
 }
 
-export * from "./types";
-export { createGeminiProvider } from "./geminiProvider";
-export { createOpenAiProvider } from "./openaiProvider";
-export { createNoneProvider } from "./noneProvider";
+export * from "./types.js";
+export { createGeminiProvider } from "./geminiProvider.js";
+export { createOpenAiProvider } from "./openaiProvider.js";
+export { createNoneProvider } from "./noneProvider.js";
 export {
   buildUserPrompt,
   parseAiResponse,
   SYSTEM_INSTRUCTION,
   RESPONSE_SCHEMA,
-} from "./prompt";
+} from "./prompt.js";

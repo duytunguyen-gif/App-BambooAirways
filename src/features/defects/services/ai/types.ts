@@ -10,7 +10,7 @@
  *  Privacy contract (see memory: defects-ai-decision): only the PAID / no-train
  *  endpoint is allowed; the key is server-side only and never bundled into the
  *  client. `AI_PROVIDER=none` keeps the whole feature parser-only. */
-import type { DefectCategory } from "../../parser/types";
+import type { DefectCategory } from "../../parser/types.js";
 
 /** A single limit as understood by the AI (kept close to ParsedLimit, but the
  *  AI only needs the human-facing shape — numeric normalisation stays in the

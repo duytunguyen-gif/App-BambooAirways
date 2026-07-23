@@ -8,8 +8,8 @@
  *
  *  Default model: gpt-4o-mini (cheap + reliable JSON; the full 4o/4.1 models are
  *  unnecessary for this extraction task). */
-import { buildUserPrompt, parseAiResponse, SYSTEM_INSTRUCTION } from "./prompt";
-import type { AiExtractInput, AiExtractResult, AiProvider, FetchLike } from "./types";
+import { buildUserPrompt, parseAiResponse, SYSTEM_INSTRUCTION } from "./prompt.js";
+import type { AiExtractInput, AiExtractResult, AiProvider, FetchLike } from "./types.js";
 
 const DEFAULT_MODEL = "gpt-4o-mini";
 const ENDPOINT = "https://api.openai.com/v1/chat/completions";

@@ -4,9 +4,9 @@
  *  approved (mirrors the admin_set_user_role RPC). Done directly via the service
  *  role after an in-handler admin check, since the SECURITY DEFINER RPC needs a
  *  caller auth.uid() the service role lacks. */
-import { HttpError, errorResponse, json, readJson } from "../_lib/http";
-import { requireAdmin } from "../_lib/auth";
-import { getAdmin } from "../_lib/supabaseAdmin";
+import { HttpError, errorResponse, json, readJson } from "../_lib/http.js";
+import { requireAdmin } from "../_lib/auth.js";
+import { getAdmin } from "../_lib/supabaseAdmin.js";
 
 const ROLES = new Set(["viewer", "uploader", "admin"]);
 

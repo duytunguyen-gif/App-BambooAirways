@@ -24,12 +24,12 @@ import type {
   ParserWarning,
   RawTextItem,
   LimitType,
-} from "./types";
+} from "./types.js";
 import {
   combineReportTimestamp,
   parseAmosDate,
   parseDeclaredDeadline,
-} from "../utils/dates";
+} from "../utils/dates.js";
 
 export const PARSER_VERSION = "1.0.0";
 

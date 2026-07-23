@@ -7,8 +7,8 @@
  *  read from server-side env only (never a VITE_ var) and never logged.
  *
  *  Default model: gemini-2.5-flash (fast + cheap; Pro is unnecessary here). */
-import { buildUserPrompt, parseAiResponse, RESPONSE_SCHEMA, SYSTEM_INSTRUCTION } from "./prompt";
-import type { AiExtractInput, AiExtractResult, AiProvider, FetchLike } from "./types";
+import { buildUserPrompt, parseAiResponse, RESPONSE_SCHEMA, SYSTEM_INSTRUCTION } from "./prompt.js";
+import type { AiExtractInput, AiExtractResult, AiProvider, FetchLike } from "./types.js";
 
 const DEFAULT_MODEL = "gemini-2.5-flash";
 const ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models";

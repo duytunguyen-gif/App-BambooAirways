@@ -11,18 +11,18 @@
  *  JS client, so the order is chosen to keep the `one current per category`
  *  unique index satisfied at every step: supersede the old current BEFORE marking
  *  this one current. */
-import { HttpError, errorResponse, json, readJson } from "../_lib/http";
-import { requireStaff } from "../_lib/auth";
-import { getAdmin } from "../_lib/supabaseAdmin";
+import { HttpError, errorResponse, json, readJson } from "../_lib/http.js";
+import { requireStaff } from "../_lib/auth.js";
+import { getAdmin } from "../_lib/supabaseAdmin.js";
 import {
   buildPublishPlan,
   type RecordForDiff,
-} from "../../src/features/defects/services/persist/publishPlan";
+} from "../../src/features/defects/services/persist/publishPlan.js";
 import {
   recordToDefect,
   type DefectRecordDbRow,
   type DefectLimitDbRow,
-} from "../../src/features/defects/services/persist/recordToDefect";
+} from "../../src/features/defects/services/persist/recordToDefect.js";
 
 const PUBLISHABLE = new Set(["review_required", "ready_to_publish"]);
 

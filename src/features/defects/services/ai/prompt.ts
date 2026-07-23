@@ -1,7 +1,7 @@
 /** Pure prompt construction + response validation for the AI cleanup pass.
  *  No network here so it is fully unit-testable. */
 import { z } from "zod";
-import type { AiDefect, AiExtractInput } from "./types";
+import type { AiDefect, AiExtractInput } from "./types.js";
 
 /** JSON schema handed to Gemini's `responseSchema` for structured output.
  *  Kept in sync with the zod validator below. */
