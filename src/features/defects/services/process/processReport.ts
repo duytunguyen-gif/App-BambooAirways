@@ -48,49 +48,54 @@ export async function processReport(opts: ProcessOptions): Promise<ProcessedRepo
   const sections = buildAircraftSections(items);
   const sectionByReg = new Map(sections.map((s) => [s.registration, s]));
 
-  const aircraft: ProcessedAircraft[] = [];
-  let aiUsed = false;
-  let totalTokens = 0;
+  // Per-aircraft AI cleanup runs in PARALLEL: on a serverless function with a
+  // hard duration cap (Vercel Hobby ≤ 60s), summing sequential OpenAI round-trips
+  // over every aircraft blows the budget and 504s. Promise.all collapses the AI
+  // cost to ~the slowest single call. The provider never throws (failures come
+  // back as ok:false), so one bad/ rate-limited aircraft just falls back to the
+  // parser draft without failing the whole report. Array order is preserved.
+  const aircraft: ProcessedAircraft[] = await Promise.all(
+    report.aircraft.map(async (ac): Promise<ProcessedAircraft> => {
+      const parserDefects = ac.defects;
+      let aiDefects: AiDefect[] | null = null;
+      let aiOk = false;
+      let aiMessage = "AI không chạy cho tàu này.";
+      let usedTokens = 0;
 
-  for (const ac of report.aircraft) {
-    const parserDefects = ac.defects;
-    let aiDefects: AiDefect[] | null = null;
-    let aiOk = false;
-    let aiMessage = "AI không chạy cho tàu này.";
-    let usedTokens = 0;
-
-    // Only call AI when it's available and there is text to clean.
-    const section = sectionByReg.get(ac.registration);
-    if (provider.available && parserDefects.length > 0 && section) {
-      const res = await provider.extract({
-        registration: ac.registration,
-        category: report.category,
-        expectedOpenCount: ac.expectedOpenCount,
-        rawText: section.rawText,
-        draft: parserDefects.map(parsedToAiDefect),
-      });
-      aiOk = res.ok;
-      aiMessage = res.message;
-      usedTokens = res.usedTokens ?? 0;
-      totalTokens += usedTokens;
-      if (res.ok && res.defects.length > 0) {
-        aiDefects = res.defects;
-        aiUsed = true;
+      // Only call AI when it's available and there is text to clean.
+      const section = sectionByReg.get(ac.registration);
+      if (provider.available && parserDefects.length > 0 && section) {
+        const res = await provider.extract({
+          registration: ac.registration,
+          category: report.category,
+          expectedOpenCount: ac.expectedOpenCount,
+          rawText: section.rawText,
+          draft: parserDefects.map(parsedToAiDefect),
+        });
+        aiOk = res.ok;
+        aiMessage = res.message;
+        usedTokens = res.usedTokens ?? 0;
+        if (res.ok && res.defects.length > 0) {
+          aiDefects = res.defects;
+        }
+      } else if (!provider.available) {
+        aiMessage = "AI chưa được bật — chỉnh bản nháp của parser thủ công.";
       }
-    } else if (!provider.available) {
-      aiMessage = "AI chưa được bật — chỉnh bản nháp của parser thủ công.";
-    }
 
-    aircraft.push({
-      registration: ac.registration,
-      expectedOpenCount: ac.expectedOpenCount,
-      parserDefects,
-      aiDefects,
-      aiOk,
-      aiMessage,
-      usedTokens,
-    });
-  }
+      return {
+        registration: ac.registration,
+        expectedOpenCount: ac.expectedOpenCount,
+        parserDefects,
+        aiDefects,
+        aiOk,
+        aiMessage,
+        usedTokens,
+      };
+    })
+  );
+
+  const aiUsed = aircraft.some((a) => a.aiDefects != null && a.aiDefects.length > 0);
+  const totalTokens = aircraft.reduce((sum, a) => sum + a.usedTokens, 0);
 
   return {
     report,
