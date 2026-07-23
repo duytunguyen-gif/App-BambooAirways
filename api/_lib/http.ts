@@ -20,14 +20,10 @@ export function json(data: unknown, status = 200): Response {
  *  500 so provider/DB internals are not echoed. */
 export function errorResponse(e: unknown): Response {
   if (e instanceof HttpError) return json({ error: e.message }, e.status);
-  // Always log the real error so it lands in Vercel's runtime logs.
+  // Log the real error so it lands in Vercel's runtime logs, but never leak
+  // provider/DB internals to the caller — unknown errors get a generic message.
   console.error("Unhandled API error:", e);
-  // TEMP diagnostic: surface the real error to the (admin-only) caller so a prod
-  // 500 can be diagnosed without dashboard access. Revert to the generic message
-  // once the root cause is fixed.
-  const detail =
-    e instanceof Error ? `${e.name}: ${e.message}` : typeof e === "string" ? e : JSON.stringify(e);
-  return json({ error: `Lỗi máy chủ [DEBUG]: ${detail}` }, 500);
+  return json({ error: "Lỗi máy chủ. Vui lòng thử lại." }, 500);
 }
 
 export async function readJson(req: Request): Promise<Record<string, unknown>> {
