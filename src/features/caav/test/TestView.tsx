@@ -176,7 +176,7 @@ function ScopeSelect({
               >
                 <div className="flex items-center justify-between">
                   <span className="font-bold text-white">Toàn bộ CRS {crs}</span>
-                  <span className="text-sm font-bold text-bamboo-green">
+                  <span className="text-sm font-bold text-accent-green">
                     {totalValid} câu
                   </span>
                 </div>
@@ -196,7 +196,7 @@ function ScopeSelect({
                     <span className="font-semibold text-white">
                       {bankTitle(b)}
                     </span>
-                    <span className="text-sm font-bold text-bamboo-green">
+                    <span className="text-sm font-bold text-accent-green">
                       {b.okCount} câu
                     </span>
                   </div>
@@ -360,8 +360,8 @@ function TestSession({
 
       {/* stats bar */}
       <div className="mb-3 grid grid-cols-3 gap-2 text-center">
-        <Stat label="Đúng" value={stats.correct} tone="text-bamboo-green" />
-        <Stat label="Sai" value={stats.wrong} tone="text-warn-red" />
+        <Stat label="Đúng" value={stats.correct} tone="text-accent-green" />
+        <Stat label="Sai" value={stats.wrong} tone="text-accent-red" />
         <Stat label="% đúng" value={`${pct}%`} tone="text-white" />
       </div>
 
@@ -418,7 +418,7 @@ function TestSession({
                 onClick={() => setFilter(k)}
                 className={`rounded-full border px-3 py-1 text-xs font-semibold ${
                   filter === k
-                    ? "border-teal-accent bg-teal-accent/15 text-teal-accent"
+                    ? "border-teal-accent bg-teal-accent/15 text-accent-teal"
                     : "border-line-soft bg-ink-800 text-gray-400"
                 }`}
               >
@@ -435,7 +435,7 @@ function TestSession({
                 const st = statusOf(id);
                 const bg =
                   st === "correct"
-                    ? "bg-bamboo-green/25 text-bamboo-green"
+                    ? "bg-bamboo-green/25 text-accent-green"
                     : st === "wrong"
                       ? "bg-warn-red/25 text-red-300"
                       : "bg-ink-700 text-gray-400";
@@ -465,7 +465,7 @@ function TestSession({
           type="button"
           onClick={retryWrong}
           disabled={stats.wrong === 0}
-          className="rounded-xl border border-warn-orange/60 bg-warn-orange/10 py-2.5 text-sm font-semibold text-warn-orange disabled:opacity-40"
+          className="rounded-xl border border-warn-orange/60 bg-warn-orange/10 py-2.5 text-sm font-semibold text-accent-orange disabled:opacity-40"
         >
           Test lại câu sai ({stats.wrong})
         </button>

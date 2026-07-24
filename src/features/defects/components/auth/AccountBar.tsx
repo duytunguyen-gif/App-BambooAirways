@@ -26,7 +26,7 @@ export default function AccountBar({ onSignIn, onManage }: Props) {
         <button
           type="button"
           onClick={onSignIn}
-          className="min-h-[36px] shrink-0 rounded-lg bg-bamboo-green px-3 text-[13px] font-semibold text-ink-900 hover:opacity-90"
+          className="min-h-[36px] shrink-0 rounded-lg bg-bamboo-green px-3 text-[13px] font-semibold text-[#0b0b0c] hover:opacity-90"
         >
           Đăng nhập
         </button>

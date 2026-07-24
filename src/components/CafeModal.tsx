@@ -70,7 +70,7 @@ export default function CafeModal({ open, onClose }: CafeModalProps) {
         </div>
 
         {/* QR */}
-        <div className="mx-auto flex aspect-square w-full max-w-[240px] items-center justify-center overflow-hidden rounded-xl bg-white p-2">
+        <div className="mx-auto flex aspect-square w-full max-w-[240px] items-center justify-center overflow-hidden rounded-xl bg-[#ffffff] p-2">
           {imgOk ? (
             <img
               src={QR_SRC}

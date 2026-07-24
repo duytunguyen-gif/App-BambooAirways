@@ -9,8 +9,8 @@ interface ActionButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 
 const VARIANTS: Record<Variant, string> = {
   delta:
-    "bg-bamboo-greenDark text-white border border-bamboo-green/40 hover:bg-bamboo-greenAccent",
-  reset: "bg-warn-orange text-white hover:brightness-110",
+    "bg-bamboo-greenDark text-[#ffffff] border border-bamboo-green/40 hover:bg-bamboo-greenAccent",
+  reset: "bg-warn-orange text-[#ffffff] hover:brightness-110",
   neutral: "bg-ink-700 text-gray-300 border border-line hover:bg-ink-600",
   toggle: "", // resolved via `active`
 };
@@ -26,7 +26,7 @@ export default function ActionButton({
   const toggleStyle =
     variant === "toggle"
       ? active
-        ? "bg-bamboo-greenAccent text-white"
+        ? "bg-bamboo-greenAccent text-[#ffffff]"
         : "bg-ink-700 text-gray-400 border border-line"
       : "";
 

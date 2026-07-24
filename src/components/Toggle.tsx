@@ -24,7 +24,7 @@ export default function Toggle({ checked, onChange, label, hint }: ToggleProps) 
         }`}
       >
         <span
-          className={`absolute top-0.5 h-6 w-6 rounded-full bg-white shadow transition-transform ${
+          className={`absolute top-0.5 h-6 w-6 rounded-full bg-[#ffffff] shadow transition-transform ${
             checked ? "translate-x-[22px]" : "translate-x-0.5"
           }`}
         />

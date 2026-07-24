@@ -47,7 +47,7 @@ export default function HistoryView({ onBack }: { onBack: () => void }) {
                   </div>
                   <div
                     className={`text-xs font-bold ${
-                      h.passed ? "text-bamboo-green" : "text-warn-red"
+                      h.passed ? "text-accent-green" : "text-accent-red"
                     }`}
                   >
                     {h.passed ? "PASS" : "TRƯỢT"}

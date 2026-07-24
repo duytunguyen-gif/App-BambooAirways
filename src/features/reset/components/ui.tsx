@@ -117,7 +117,7 @@ export function CopyButton({
       className={`inline-flex items-center gap-1.5 rounded-lg border border-line-soft bg-ink-700 px-2.5 py-1.5 text-xs font-semibold text-gray-200 hover:bg-ink-600 ${className}`}
     >
       {copied ? (
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" className="text-bamboo-green"><path d="M20 6L9 17l-5-5" /></svg>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" className="text-accent-green"><path d="M20 6L9 17l-5-5" /></svg>
       ) : (
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" /><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" /></svg>
       )}
@@ -139,7 +139,7 @@ export function SectionCard({
   return (
     <section className="rounded-2xl border border-line-soft bg-ink-800/80 p-4">
       <div className="mb-2 flex items-center justify-between gap-2">
-        <h3 className="text-sm font-bold uppercase tracking-wide text-bamboo-green">
+        <h3 className="text-sm font-bold uppercase tracking-wide text-accent-green">
           {title}
         </h3>
         {right}

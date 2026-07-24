@@ -59,13 +59,13 @@ function BankCard({ meta, onOpen }: { meta: BankMeta; onOpen: () => void }) {
     >
       <div className="flex items-center justify-between gap-2">
         <span className="font-semibold text-white">{bankTitle(meta)}</span>
-        <span className="shrink-0 text-sm font-bold text-bamboo-green">
+        <span className="shrink-0 text-sm font-bold text-accent-green">
           {meta.total} câu
         </span>
       </div>
       <div className="mt-1 text-xs text-gray-400">{bankSubtitle(meta)}</div>
       {meta.okCount < meta.total && (
-        <div className="mt-1 text-xs text-warn-orange">
+        <div className="mt-1 text-xs text-accent-orange">
           {meta.total - meta.okCount} câu chưa xác định đáp án
         </div>
       )}
@@ -189,7 +189,7 @@ function BankStudy({ meta, onBack }: { meta: BankMeta; onBack: () => void }) {
               onClick={() => setFilter(key)}
               className={`rounded-full border px-3 py-1 text-xs font-semibold transition-colors ${
                 filter === key
-                  ? "border-teal-accent bg-teal-accent/15 text-teal-accent"
+                  ? "border-teal-accent bg-teal-accent/15 text-accent-teal"
                   : "border-line-soft bg-ink-800 text-gray-400 hover:text-gray-200"
               }`}
             >
@@ -199,7 +199,7 @@ function BankStudy({ meta, onBack }: { meta: BankMeta; onBack: () => void }) {
           <button
             type="button"
             onClick={() => setShowKey((v) => !v)}
-            className="ml-auto rounded-full border border-bamboo-green/60 bg-bamboo-green/10 px-3 py-1 text-xs font-semibold text-bamboo-green"
+            className="ml-auto rounded-full border border-bamboo-green/60 bg-bamboo-green/10 px-3 py-1 text-xs font-semibold text-accent-green"
           >
             {showKey ? "Ẩn toàn bộ Key" : "Hiện toàn bộ Key"}
           </button>

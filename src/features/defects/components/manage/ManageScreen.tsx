@@ -48,7 +48,7 @@ export default function ManageScreen({ onBack }: Props) {
             onClick={() => setPanel(p.key)}
             className={`min-h-[36px] shrink-0 rounded-lg px-3 text-[13px] font-semibold transition-colors ${
               panel === p.key
-                ? "bg-teal-accent/15 text-teal-accent ring-1 ring-inset ring-teal-accent/40"
+                ? "bg-teal-accent/15 text-accent-teal ring-1 ring-inset ring-teal-accent/40"
                 : "bg-ink-800 text-gray-400 hover:text-white"
             }`}
           >
@@ -159,7 +159,7 @@ function UploadPanel() {
       </div>
 
       {stage && (
-        <div className="flex items-center gap-2 rounded-xl border border-teal-accent/40 bg-teal-accent/10 px-3 py-2.5 text-[13px] text-teal-accent">
+        <div className="flex items-center gap-2 rounded-xl border border-teal-accent/40 bg-teal-accent/10 px-3 py-2.5 text-[13px] text-accent-teal">
           <Spinner />
           {STAGE_LABEL[stage] ?? "Đang xử lý…"}
         </div>
@@ -184,7 +184,7 @@ function UploadPanel() {
         type="button"
         disabled={!file || busy}
         onClick={handleProcess}
-        className="min-h-[44px] w-full rounded-xl bg-teal-accent px-4 font-semibold text-ink-900 transition-colors hover:bg-teal-accent/90 disabled:cursor-not-allowed disabled:bg-ink-700 disabled:text-gray-500"
+        className="min-h-[44px] w-full rounded-xl bg-teal-accent px-4 font-semibold text-[#0b0b0c] transition-colors hover:bg-teal-accent/90 disabled:cursor-not-allowed disabled:bg-ink-700 disabled:text-gray-500"
       >
         {busy ? "Đang xử lý…" : "Xử lý report"}
       </button>

@@ -75,9 +75,9 @@ export default function TestQuestionCard({
       {answered && (
         <div className="mt-3 text-sm">
           {isRight ? (
-            <span className="font-semibold text-bamboo-green">✓ Chính xác!</span>
+            <span className="font-semibold text-accent-green">✓ Chính xác!</span>
           ) : (
-            <span className="font-semibold text-warn-red">
+            <span className="font-semibold text-accent-red">
               ✗ Sai — đáp án đúng: {correct}
             </span>
           )}
@@ -90,14 +90,14 @@ export default function TestQuestionCard({
 
 function CheckIcon() {
   return (
-    <svg className="mt-0.5 shrink-0 text-bamboo-green" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+    <svg className="mt-0.5 shrink-0 text-accent-green" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
       <path d="M20 6L9 17l-5-5" />
     </svg>
   );
 }
 function CrossIcon() {
   return (
-    <svg className="mt-0.5 shrink-0 text-warn-red" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+    <svg className="mt-0.5 shrink-0 text-accent-red" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
       <path d="M18 6L6 18M6 6l12 12" />
     </svg>
   );

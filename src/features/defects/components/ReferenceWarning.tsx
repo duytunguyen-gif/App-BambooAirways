@@ -4,10 +4,10 @@ export default function ReferenceWarning() {
   return (
     <div
       role="note"
-      className="flex items-start gap-2 rounded-xl border-l-4 border-warn-orange bg-ink-800/80 px-3 py-2.5 text-[13px] leading-relaxed text-gray-200"
+      className="callout-warn flex items-start gap-2 rounded-xl border-l-4 border-warn-orange bg-ink-800/80 px-3 py-2.5 text-[13px] leading-relaxed text-gray-200"
     >
       <svg
-        className="mt-0.5 shrink-0 text-warn-orange"
+        className="mt-0.5 shrink-0 text-accent-orange"
         width="16"
         height="16"
         viewBox="0 0 24 24"

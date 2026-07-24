@@ -77,7 +77,7 @@ export function CrsPills({
             onClick={() => onChange(c)}
             className={`min-h-[52px] rounded-xl border text-base font-bold transition-colors ${
               active
-                ? "border-bamboo-green bg-bamboo-greenDark/60 text-white"
+                ? "border-bamboo-green bg-sel text-white"
                 : "border-line bg-ink-800 text-gray-300 hover:border-line hover:text-white"
             }`}
           >

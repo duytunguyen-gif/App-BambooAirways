@@ -2,8 +2,95 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* ------------------------------------------------------------------ *
+ * Theme tokens. Colours are space-separated RGB channels so Tailwind's
+ * `/<alpha>` utilities work (see tailwind.config.js). Dark is the default;
+ * [data-theme="light"] overrides. The inline script in index.html sets
+ * data-theme before first paint, so there is no flash of the wrong theme.
+ * ------------------------------------------------------------------ */
+:root,
+:root[data-theme="dark"] {
   color-scheme: dark;
+
+  --c-white: 255 255 255;
+  --c-gray-100: 243 244 246;
+  --c-gray-200: 229 231 235;
+  --c-gray-300: 209 213 219;
+  --c-gray-400: 156 163 175;
+  --c-gray-500: 107 114 128;
+  --c-gray-600: 75 85 99;
+
+  --c-ink-900: 11 11 12;
+  --c-ink-800: 20 20 22;
+  --c-ink-700: 28 28 31;
+  --c-ink-600: 38 38 43;
+  --c-line: 58 58 64;
+  --c-line-soft: 42 42 46;
+
+  /* Accent FOREGROUND tokens (text/icons). Dark mode keeps the vivid brand
+     hues; the light overrides below darken them so accent text clears WCAG AA
+     on the light surfaces. Brand FILLS (bg-bamboo-green etc.) are unaffected —
+     they stay vivid in both themes. */
+  --c-accent-green: 92 184 56; /* #5cb838 */
+  --c-accent-teal: 20 184 166; /* #14b8a6 */
+  --c-accent-blue: 31 143 214; /* #1f8fd6 */
+  --c-accent-red: 220 38 38; /* #dc2626 */
+  --c-accent-orange: 180 83 9; /* #b45309 */
+
+  /* Selected/active pill surface (segmented controls, active bottom tab). */
+  --c-sel: 23 58 23; /* #173a17 deep green */
+
+  /* Delta primary button green (unchanged from the original dark palette). */
+  --c-green-dark: 20 61 20; /* #143d14 */
+
+  --body-bg: #0b0b0c;
+  --body-fg: #f3f4f6;
+  --app-scrim: rgba(8, 8, 9, 0.5);
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  /* ---- Professional aviation LIGHT theme -------------------------------
+     A cool blue-grey page with clean white surfaces separated by borders +
+     a whisper of shadow (not by big grey fills). Text runs dark→muted for a
+     clear reading hierarchy that survives outdoor glare.
+     Text scale (`text-white` is primary body text; grays step down):        */
+  --c-white: 23 32 42; /* #17202A text-primary */
+  --c-gray-100: 23 32 42; /* #17202A text-primary */
+  --c-gray-200: 43 53 66; /* #2B3542 primary-soft (headings/body) */
+  --c-gray-300: 74 86 102; /* #4A5666 secondary-strong */
+  --c-gray-400: 86 98 115; /* #566273 secondary (labels) */
+  --c-gray-500: 125 137 152; /* #7D8998 muted (helper/metadata) */
+  --c-gray-600: 152 163 177; /* #98A3B1 faint (byline/dividers text) */
+
+  /* Surface hierarchy: L0 page · L1 secondary · L2 card/input.               */
+  --c-ink-900: 244 247 250; /* #F4F7FA app / header / notch bg (L0) */
+  --c-ink-800: 255 255 255; /* #FFFFFF card (L2) */
+  --c-ink-700: 255 255 255; /* #FFFFFF input (L2) */
+  --c-ink-600: 238 243 247; /* #EEF3F7 secondary surface / hover (L1) */
+  --c-line: 199 209 220; /* #C7D1DC border-strong (inputs / emphasis) */
+  --c-line-soft: 220 227 234; /* #DCE3EA border-default (cards / separators / nav) */
+
+  /* Darkened accent foregrounds — readable on the light surfaces
+     (each ≥ 4.3:1 on the page, ≥ 4.0:1 on its own tint). Aligned to the
+     success / warning / danger system colours. */
+  --c-accent-green: 35 122 59; /* #237A3B success */
+  --c-accent-teal: 12 113 103; /* #0C7167 brand teal, darkened for text */
+  --c-accent-blue: 21 103 159; /* #15679F */
+  --c-accent-red: 180 35 24; /* #B42318 danger */
+  --c-accent-orange: 154 71 8; /* #9A4708 warning */
+
+  /* Light selection pill: pale green wash (dark accent text stays readable). */
+  --c-sel: 220 240 216; /* #DCF0D8 */
+
+  /* Delta primary button green — a touch more vivid than the near-black dark. */
+  --c-green-dark: 23 92 42; /* #175C2A */
+
+  --body-bg: #f4f7fa;
+  --body-fg: #17202a;
+  /* Near-opaque wash so the aircraft watermark is only faintly *felt* (~3%). */
+  --app-scrim: rgba(244, 247, 250, 0.965);
 }
 
 html,
@@ -14,8 +101,8 @@ body,
 
 body {
   margin: 0;
-  background-color: #0b0b0c;
-  color: #f3f4f6;
+  background-color: var(--body-bg);
+  color: var(--body-fg);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   /* Avoid pull-to-refresh / rubber-banding fighting the fixed tab bar */
@@ -35,14 +122,27 @@ body {
   z-index: 0;
 }
 
-/* Dark scrim over the background so inputs and text stay readable. */
+/* Scrim over the background so inputs and text stay readable. Dark in dark mode,
+   a light wash in light mode (keeps the brand image faintly visible). */
 .app-bg::after {
   content: "";
   position: fixed;
   inset: 0;
-  background: rgba(8, 8, 9, 0.5);
+  background: var(--app-scrim);
   pointer-events: none;
   z-index: 0;
+}
+
+/* Smooth (but subtle) colour crossfade when the theme flips. Scoped to the app
+   subtree and limited to paint-only properties, so it never causes layout jank.
+   Reduced-motion users get it disabled by the query at the bottom of this file. */
+.app-bg,
+.app-bg *,
+.app-bg *::before,
+.app-bg *::after {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-duration: 180ms;
+  transition-timing-function: ease;
 }
 
 /* Remove number spinners (we use inputMode=decimal text inputs) */
@@ -74,6 +174,56 @@ input[type="number"]::-webkit-inner-spin-button {
     var(--keyboard-offset, 280px) + env(safe-area-inset-bottom) + 24px
   );
   scroll-padding-bottom: var(--keyboard-offset, 280px);
+}
+
+/* ==================================================================== *
+ * LIGHT-MODE DEPTH & SEMANTIC PANELS
+ * All rules below are scoped to [data-theme="light"] so DARK MODE is left
+ * pixel-identical — it never sees any of this.
+ * ==================================================================== */
+
+/* Card depth: a whisper of shadow lifts white cards off the page. Kept very
+ * light (technical / restrained, not floating). Cards get their outline from
+ * the (now clearly visible) border tokens; this only adds separation.        */
+:root[data-theme="light"] .app-bg [class*="bg-ink-800"] {
+  box-shadow:
+    0 1px 2px rgba(16, 24, 40, 0.04),
+    0 1px 3px rgba(16, 24, 40, 0.06);
+}
+/* Overlay scrims are not cards — never give the modal backdrop a shadow. */
+:root[data-theme="light"] .app-bg [class*="bg-black/"] {
+  box-shadow: none;
+}
+
+/* TODAY · UTC panel — INFORMATION, not an error. In dark it stays the maroon
+ * utility styling untouched; in light it becomes a calm cyan info panel with a
+ * teal spine. (Marker classes added in Mel.tsx; utilities render dark as-is.) */
+:root[data-theme="light"] .info-time-panel {
+  background-color: #e8f3f7;
+  border-color: #c9e4ea;
+  box-shadow: inset 3px 0 0 #0c7167;
+}
+:root[data-theme="light"] .info-time-panel .it-eyebrow {
+  color: #557079;
+}
+:root[data-theme="light"] .info-time-panel .it-value {
+  color: #123640;
+}
+
+/* Warning callout (Defects reference notice) — proper amber callout in light;
+ * dark keeps its neutral card + orange spine. */
+:root[data-theme="light"] .callout-warn {
+  background-color: #fff8ed;
+  border-color: #e7b667;
+  color: #7a501b;
+}
+
+/* Read-only / computed inputs: a distinct pale-grey fill (not just lowered
+ * opacity) so they read as "output" while staying crisp outdoors. The border
+ * (neutral, or teal on Total cells) and the value text are left untouched. */
+:root[data-theme="light"] input.num-ro {
+  background-color: #eef2f6;
+  opacity: 1;
 }
 
 @media (prefers-reduced-motion: reduce) {

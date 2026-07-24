@@ -65,12 +65,12 @@ export default function SettingsSheet({
           </h3>
           <div className="space-y-3 rounded-xl border border-line-soft bg-ink-700 p-4 text-sm text-gray-300">
             <p>
-              <span className="font-semibold text-bamboo-green">Android (Chrome):</span>{" "}
+              <span className="font-semibold text-accent-green">Android (Chrome):</span>{" "}
               tap the <span className="font-semibold">⋮</span> menu →{" "}
               <span className="font-semibold">Add to Home screen</span>.
             </p>
             <p>
-              <span className="font-semibold text-bamboo-green">iOS (Safari):</span>{" "}
+              <span className="font-semibold text-accent-green">iOS (Safari):</span>{" "}
               tap <span className="font-semibold">Share</span> →{" "}
               <span className="font-semibold">Add to Home Screen</span>.
             </p>

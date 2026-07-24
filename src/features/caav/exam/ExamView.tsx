@@ -150,7 +150,7 @@ function ExamStructure({ cat, cfg }: { cat: Crs; cfg: CaavIndex["examConfig"][Cr
         </li>
         <li className="flex justify-between border-t border-line-soft pt-1">
           <span>Tổng</span>
-          <span className="font-bold text-bamboo-green">{cfg.totalQuestions} câu</span>
+          <span className="font-bold text-accent-green">{cfg.totalQuestions} câu</span>
         </li>
         <li className="flex justify-between">
           <span>Điểm đạt</span>
@@ -267,7 +267,7 @@ function TakingView({
                   setNavOpen(false);
                 }}
                 className={`h-8 rounded-md text-xs font-semibold ${
-                  done ? "bg-bamboo-blue/25 text-bamboo-blue" : "bg-ink-700 text-gray-400"
+                  done ? "bg-bamboo-blue/25 text-accent-blue" : "bg-ink-700 text-gray-400"
                 } ${ring}`}
               >
                 {i + 1}
@@ -280,7 +280,7 @@ function TakingView({
       {warnOpen && unanswered.length > 0 && (
         <div className="mt-4 rounded-xl border border-warn-orange/60 bg-warn-orange/10 p-3.5">
           <div className="flex items-start justify-between gap-2">
-            <p className="text-sm font-semibold text-warn-orange">
+            <p className="text-sm font-semibold text-accent-orange">
               Bạn phải trả lời hết mới được nộp bài. Còn {unanswered.length} câu
               chưa trả lời:
             </p>
@@ -288,7 +288,7 @@ function TakingView({
               type="button"
               onClick={() => setWarnOpen(false)}
               aria-label="Đóng"
-              className="shrink-0 text-warn-orange hover:text-white"
+              className="shrink-0 text-accent-orange hover:text-white"
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M18 6L6 18M6 6l12 12" />
@@ -304,7 +304,7 @@ function TakingView({
                   setCur(n - 1);
                   setWarnOpen(false);
                 }}
-                className="h-8 min-w-8 rounded-md bg-warn-orange/20 px-2 text-xs font-bold text-warn-orange hover:bg-warn-orange/30"
+                className="h-8 min-w-8 rounded-md bg-warn-orange/20 px-2 text-xs font-bold text-accent-orange hover:bg-warn-orange/30"
               >
                 {n}
               </button>
@@ -365,7 +365,7 @@ function ResultView({
       >
         <div
           className={`text-3xl font-extrabold ${
-            result.passed ? "text-bamboo-green" : "text-warn-red"
+            result.passed ? "text-accent-green" : "text-accent-red"
           }`}
         >
           {result.passed ? "PASS" : "TRƯỢT"}
@@ -442,14 +442,14 @@ function ResultView({
               <div className="mt-2 space-y-1 text-sm">
                 <div>
                   <span className="text-gray-400">Bạn chọn: </span>
-                  <span className={d.isRight ? "text-bamboo-green" : "text-warn-red"}>
+                  <span className={d.isRight ? "text-accent-green" : "text-accent-red"}>
                     {d.chosen ?? "— (bỏ trống)"}
                   </span>
                 </div>
                 {!d.isRight && (
                   <div>
                     <span className="text-gray-400">Đáp án đúng: </span>
-                    <span className="font-semibold text-bamboo-green">
+                    <span className="font-semibold text-accent-green">
                       {d.correct}
                     </span>
                   </div>

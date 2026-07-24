@@ -96,7 +96,7 @@ export default function AllBreakers({
                     <button
                       type="button"
                       onClick={() => onOpenItem(r.faultId)}
-                      className="text-left text-xs font-medium text-bamboo-green underline decoration-dotted underline-offset-2"
+                      className="text-left text-xs font-medium text-accent-green underline decoration-dotted underline-offset-2"
                     >
                       {r.faultTitle}
                     </button>

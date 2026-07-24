@@ -21,6 +21,25 @@
       content="Bộ công cụ cho thợ máy tàu bay: Fuel, MEL, ôn thi CAAV và tra cứu reset ECAM A320."
     />
     <title>BAV AMT Toolkit</title>
+    <!-- Apply the saved/preferred theme BEFORE first paint to avoid a flash of
+         the wrong theme. Falls back to the OS preference, then to dark. -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("bamboo.theme");
+          if (t !== "light" && t !== "dark") {
+            t =
+              window.matchMedia &&
+              window.matchMedia("(prefers-color-scheme: light)").matches
+                ? "light"
+                : "dark";
+          }
+          document.documentElement.setAttribute("data-theme", t);
+        } catch (e) {
+          document.documentElement.setAttribute("data-theme", "dark");
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

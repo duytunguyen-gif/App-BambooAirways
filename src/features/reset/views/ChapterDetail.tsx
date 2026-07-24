@@ -63,7 +63,7 @@ export default function ChapterDetail({
               onClick={() => setSort(s.key)}
               className={`shrink-0 rounded-full border px-3 py-1.5 text-xs font-semibold ${
                 sort === s.key
-                  ? "border-bamboo-green bg-bamboo-green/15 text-bamboo-green"
+                  ? "border-bamboo-green bg-bamboo-green/15 text-accent-green"
                   : "border-line-soft bg-ink-800 text-gray-400 hover:text-white"
               }`}
             >

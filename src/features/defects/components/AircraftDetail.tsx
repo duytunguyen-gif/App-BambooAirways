@@ -130,7 +130,7 @@ function CatButton({
       {label}
       <span
         className={`rounded px-1.5 py-0.5 text-[11px] tabular-nums ${
-          active ? "bg-teal-accent/20 text-teal-accent" : "bg-ink-700 text-gray-500"
+          active ? "bg-teal-accent/20 text-accent-teal" : "bg-ink-700 text-gray-500"
         }`}
       >
         {count}

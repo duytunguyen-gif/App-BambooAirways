@@ -12,7 +12,7 @@ function CbImage({ src }: { src: string }) {
     <img
       src={url}
       alt="Circuit breakers (from source chart)"
-      className="w-full max-w-sm rounded-xl border-2 border-bamboo-green/70 bg-white"
+      className="w-full max-w-sm rounded-xl border-2 border-bamboo-green/70 bg-[#ffffff]"
     />
   );
 }

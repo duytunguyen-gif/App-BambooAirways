@@ -112,7 +112,7 @@ export default function AuthScreen({ onBack, onSignedIn }: Props) {
           <p className="rounded-lg bg-warn-red/10 px-3 py-2 text-[13px] text-red-200">{error}</p>
         )}
         {notice && (
-          <p className="rounded-lg bg-bamboo-green/10 px-3 py-2 text-[13px] text-bamboo-green">
+          <p className="rounded-lg bg-bamboo-green/10 px-3 py-2 text-[13px] text-accent-green">
             {notice}
           </p>
         )}
@@ -120,7 +120,7 @@ export default function AuthScreen({ onBack, onSignedIn }: Props) {
         <button
           type="submit"
           disabled={busy}
-          className="flex min-h-[44px] w-full items-center justify-center rounded-xl bg-bamboo-green px-4 font-semibold text-ink-900 transition-opacity hover:opacity-90 disabled:opacity-50"
+          className="flex min-h-[44px] w-full items-center justify-center rounded-xl bg-bamboo-green px-4 font-semibold text-[#0b0b0c] transition-opacity hover:opacity-90 disabled:opacity-50"
         >
           {busy ? "Đang xử lý…" : title}
         </button>
@@ -186,7 +186,7 @@ function Field({
 
 function Switch({ onClick, children }: { onClick: () => void; children: React.ReactNode }) {
   return (
-    <button type="button" onClick={onClick} className="font-semibold text-teal-accent hover:underline">
+    <button type="button" onClick={onClick} className="font-semibold text-accent-teal hover:underline">
       {children}
     </button>
   );

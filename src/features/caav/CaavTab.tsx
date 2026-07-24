@@ -54,7 +54,7 @@ function Dashboard({
         </p>
         <div className="mt-2 flex items-start gap-2 rounded-xl border border-line-soft bg-ink-800/70 px-3 py-2 text-[11px] leading-relaxed text-gray-400">
           <svg
-            className="mt-0.5 shrink-0 text-teal-accent"
+            className="mt-0.5 shrink-0 text-accent-teal"
             width="14"
             height="14"
             viewBox="0 0 24 24"

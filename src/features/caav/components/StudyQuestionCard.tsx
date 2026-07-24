@@ -56,12 +56,12 @@ export default function StudyQuestionCard({
                   : "border-transparent bg-ink-700/60 text-gray-200"
               }`}
             >
-              <span className={`font-bold ${isCorrect ? "text-bamboo-green" : "text-gray-400"}`}>
+              <span className={`font-bold ${isCorrect ? "text-accent-green" : "text-gray-400"}`}>
                 {o.key}.
               </span>
               <span className="min-w-0 flex-1">{o.text}</span>
               {isCorrect && (
-                <svg className="mt-0.5 shrink-0 text-bamboo-green" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                <svg className="mt-0.5 shrink-0 text-accent-green" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M20 6L9 17l-5-5" />
                 </svg>
               )}
@@ -74,7 +74,7 @@ export default function StudyQuestionCard({
       {showKey &&
         (hasAnswer ? (
           <div className="mt-2.5">
-            <div className="text-sm font-semibold text-bamboo-green">
+            <div className="text-sm font-semibold text-accent-green">
               Đáp án đúng: {q.correctAnswer}
               {researched && (
                 <span className="ml-2 rounded bg-amber-500/20 px-1.5 py-0.5 text-[11px] font-semibold text-amber-300">
@@ -90,7 +90,7 @@ export default function StudyQuestionCard({
             )}
           </div>
         ) : (
-          <div className="mt-2.5 text-sm font-semibold text-warn-orange">
+          <div className="mt-2.5 text-sm font-semibold text-accent-orange">
             Chưa xác định đáp án (cần kiểm tra tài liệu gốc)
           </div>
         ))}

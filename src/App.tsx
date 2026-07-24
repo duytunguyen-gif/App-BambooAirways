@@ -11,6 +11,7 @@ import ResetTab from "./features/reset/ResetTab";
 import { RESET_STORAGE_KEYS } from "./features/reset/storage";
 import { useKeyboardInsets } from "./lib/useKeyboardInsets";
 import { load, remove, save } from "./lib/storage";
+import ThemeToggle from "./theme/ThemeToggle";
 
 interface Settings {
   excludeDayOfDiscovery: boolean;
@@ -63,14 +64,17 @@ export default function App() {
               BAV AMT Toolkit
             </h1>
           </div>
-          <button
-            type="button"
-            onClick={() => setSettingsOpen(true)}
-            aria-label="Settings"
-            className="flex h-11 w-11 items-center justify-center rounded-lg text-gray-300 hover:bg-ink-700 hover:text-white"
-          >
-            <GearIcon />
-          </button>
+          <div className="flex items-center gap-0.5">
+            <ThemeToggle />
+            <button
+              type="button"
+              onClick={() => setSettingsOpen(true)}
+              aria-label="Settings"
+              className="flex h-11 w-11 items-center justify-center rounded-lg text-gray-300 hover:bg-ink-700 hover:text-white"
+            >
+              <GearIcon />
+            </button>
+          </div>
         </div>
       </header>
 
@@ -92,7 +96,7 @@ export default function App() {
           <button
             type="button"
             onClick={() => setCafeOpen(true)}
-            className="font-bold text-bamboo-green underline decoration-dotted underline-offset-2 hover:text-bamboo-green/80"
+            className="font-bold text-accent-green underline decoration-dotted underline-offset-2 hover:text-accent-green/80"
           >
             ở đây
           </button>

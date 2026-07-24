@@ -114,7 +114,7 @@ export default function FuelCalc() {
         <div className="text-xl">REMAIN</div>
         <div>
           <div className="text-xl">UPLIFT</div>
-          <div className="text-[10px] font-medium uppercase text-bamboo-green">
+          <div className="text-[10px] font-medium uppercase text-accent-green">
             auto
           </div>
         </div>
@@ -196,7 +196,7 @@ export default function FuelCalc() {
         (result.exceedsThreshold ? (
           <div
             role="alert"
-            className="flex items-center gap-2 rounded-xl border border-warn-red/60 bg-warn-red/15 px-4 py-3 text-sm font-semibold text-warn-red"
+            className="flex items-center gap-2 rounded-xl border border-warn-red/60 bg-warn-red/15 px-4 py-3 text-sm font-semibold text-accent-red"
           >
             <WarningIcon />
             Discrepancy {fmt(result.discrepancy)} ≥ {fmt(parseNum(s.threshold))}%
@@ -205,7 +205,7 @@ export default function FuelCalc() {
         ) : (
           <div
             role="status"
-            className="flex items-center gap-2 rounded-xl border border-bamboo-green/60 bg-bamboo-green/15 px-4 py-3 text-sm font-semibold text-bamboo-green"
+            className="flex items-center gap-2 rounded-xl border border-bamboo-green/60 bg-bamboo-green/15 px-4 py-3 text-sm font-semibold text-accent-green"
           >
             <CheckIcon />
             Discrepancy {fmt(result.discrepancy)} within {fmt(parseNum(s.threshold))}%

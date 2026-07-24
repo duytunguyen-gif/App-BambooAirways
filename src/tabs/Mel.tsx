@@ -59,11 +59,11 @@ export default function Mel({ excludeDayOfDiscovery }: MelProps) {
     <div className="space-y-4">
       {/* Today UTC header (realtime) */}
       <div className="flex items-stretch gap-3">
-        <div className="flex-1 rounded-2xl border border-warn-red/50 bg-warn-maroon px-4 py-3 text-center">
-          <div className="text-sm font-semibold uppercase tracking-wide text-gray-200">
+        <div className="info-time-panel flex-1 rounded-2xl border border-warn-red/50 bg-warn-maroon px-4 py-3 text-center">
+          <div className="it-eyebrow text-sm font-semibold uppercase tracking-wide text-gray-200">
             Today (UTC)
           </div>
-          <div className="tabnums mt-1 text-2xl font-bold text-white">
+          <div className="it-value tabnums mt-1 text-2xl font-bold text-white">
             {clock.time} · {clock.date}
           </div>
         </div>
@@ -99,7 +99,7 @@ export default function Mel({ excludeDayOfDiscovery }: MelProps) {
             aria-label="Defect or apply date"
             value={s.defect}
             onChange={(e) => setS((p) => ({ ...p, defect: e.target.value }))}
-            className="tabnums h-12 w-full rounded-xl border border-line bg-ink-700 px-3 text-center text-lg font-semibold text-white outline-none focus:border-bamboo-green focus:ring-2 focus:ring-bamboo-green/30 [color-scheme:dark]"
+            className="tabnums h-12 w-full rounded-xl border border-line bg-ink-700 px-3 text-center text-lg font-semibold text-white outline-none focus:border-bamboo-green focus:ring-2 focus:ring-bamboo-green/30"
           />
         </div>
       </div>
@@ -158,9 +158,9 @@ function RuleRow({
         {status && (
           <div className="mt-0.5 text-xs">
             {status.overdue ? (
-              <span className="font-semibold text-warn-red">OVERDUE</span>
+              <span className="font-semibold text-accent-red">OVERDUE</span>
             ) : status.within24h ? (
-              <span className="font-semibold text-warn-orange">
+              <span className="font-semibold text-accent-orange">
                 Due within 24h
               </span>
             ) : (

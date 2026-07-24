@@ -34,7 +34,7 @@ export default function BottomTabs({ active, onChange }: BottomTabsProps) {
               onClick={() => onChange(tab.key)}
               className={`flex min-h-[56px] flex-1 items-center justify-center px-0.5 text-center text-xs font-semibold leading-tight transition-colors ${
                 isActive
-                  ? "bg-bamboo-greenDark/60 text-white"
+                  ? "bg-sel text-white"
                   : "text-gray-500 hover:text-gray-300"
               }`}
             >

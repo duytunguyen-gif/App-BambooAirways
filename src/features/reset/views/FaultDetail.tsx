@@ -65,7 +65,7 @@ export default function FaultDetail({
           <ol className="space-y-2">
             {item.stepsToClearWarning.map((s, i) => (
               <li key={i} className="flex gap-2.5 text-sm leading-relaxed text-gray-200">
-                <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-bamboo-green/20 text-[11px] font-bold text-bamboo-green">
+                <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-bamboo-green/20 text-[11px] font-bold text-accent-green">
                   {i + 1}
                 </span>
                 <span>{s}</span>
@@ -79,7 +79,7 @@ export default function FaultDetail({
       {item.resetDuration && (
         <SectionCard title="Reset duration">
           <div className="flex items-center gap-2 text-lg font-bold text-white">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-teal-accent"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-accent-teal"><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
             {item.resetDuration}
           </div>
         </SectionCard>
@@ -91,7 +91,7 @@ export default function FaultDetail({
           <div className="space-y-2">
             {item.results.pass && (
               <div className="rounded-lg border border-bamboo-green/40 bg-bamboo-green/10 px-3 py-2 text-sm">
-                <span className="font-bold text-bamboo-green">Pass: </span>
+                <span className="font-bold text-accent-green">Pass: </span>
                 <span className="text-gray-200">{item.results.pass}</span>
               </div>
             )}
@@ -150,7 +150,7 @@ function Checklist({ items }: { items: string[] }) {
     <ul className="space-y-1.5">
       {items.map((s, i) => (
         <li key={i} className="flex gap-2 text-sm leading-relaxed text-gray-200">
-          <svg className="mt-1 shrink-0 text-bamboo-green" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M20 6L9 17l-5-5" /></svg>
+          <svg className="mt-1 shrink-0 text-accent-green" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M20 6L9 17l-5-5" /></svg>
           <span>{s}</span>
         </li>
       ))}
